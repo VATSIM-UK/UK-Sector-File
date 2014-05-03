@@ -1,0 +1,65 @@
+#define runway 13491405
+#define taxiway 5272144
+#define building 10534048
+#define edge 6589540
+#define hold 820613
+#define fire 2894694
+#define gate 3953980
+#define apron 4613190
+#define water 9204580
+#define grass 6919785
+#define Filled 6316128
+#define coast 7897720
+#define centrelinecolour 15790135
+#define obstacle 5263610
+#define atz 13163735
+#define parachute 12175585
+#define vrp 8563285
+#define grey 10534048
+#define river 4915200
+#define motorway 2631720
+#define buffercolour 7884373
+#define taxiway3 820613
+#define OCASregion 0
+#define OCASregion2 4269318
+#define rangering 4227200
+
+;SMR Colours
+;General Colours
+#define smrTaxiway 0
+#define smrBuilding 0
+#define smrHPTS 9204580
+#define smrCompassbase 16777215
+#define smrApron 5197647
+#define smrGrass 24576
+#define smrBlastpad 16777088
+#define smrRarea 125
+#define smrGreen 18944
+#define smrBlue 3932160
+#define smrGrey 5329233
+#define smrWhite 13494510
+#define smrRed 255
+#define smrLLOutline 6579300
+#define smrLLBuilding 5987163
+#define smrLLHold 9895936
+#define smrBBBuilding 20640
+#define smrBBecho 65535
+#define smrBBsurround 5658198
+#define smrSSwhite 13421772
+#define smrGWorange 2474495
+#define smrGWcream 12701121
+#define smrGWlightBlue 13487540
+#define smrNXtarmac 3815994
+#define smrCCtaxi 2631720
+#define smrCCgrass 3689771
+#define smrCCbuilding 1584743
+#define smrCCyellow 1074802
+#define smrGPgrass 3689771
+#define smrGPtaxiway 2631720
+#define smrGPterminal 1584743
+#define smrGPline 7829248
+#define
+;Stand & Hold Labels
+#define standHold 16777215
+;Background Colors
+#define blueBackground 3932160
