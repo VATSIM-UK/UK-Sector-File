@@ -1,4 +1,3 @@
 Name
-ICAO
 N W
 122.800
