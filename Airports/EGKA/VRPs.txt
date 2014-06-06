@@ -1,0 +1,4 @@
+*Brighton Marina:N050.48.38.988:W000.06.02.988
+*Littlehampton:N050.48.46.007:W000.32.47.004
+*Lewes Intersection:N050.51.51.984:E000.01.27.011
+*Washington Intersection:N050.54.33.983:W000.24.28.007
