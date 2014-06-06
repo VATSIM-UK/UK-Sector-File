@@ -1,0 +1,6 @@
+;fixme all these
+COPX:EGGP:*:POL:*:*:GPTWR:Scottish PC West:4000:*:SID
+COPX:EGGP:*:WAL:*:*:GPTWR:Scottish PC West:4000:*:SID
+COPX:EGGP:*:DESIG:*:*:GPTWR:Scottish PC West:4000:*:SID
+COPX:EGGP:*:REXAM:*:*:GPTWR:Scottish PC West:4000:*:SID
+COPX:EGGP:*:NANTI:*:*:GPTWR:Scottish PC West:4000:*:SID

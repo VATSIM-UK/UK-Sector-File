@@ -1,0 +1,7 @@
+FIR_COPX:*:*:MIMVA:*:*:London S10:EHAA:*:*:MIMVA
+FIR_COPX:*:*:KOLAG:*:*:London S10:EHAA:*:*:KOLAG
+FIR_COPX:*:*:RAVLO:*:*:London S10:EHAA:*:*:RAVLO
+FIR_COPX:*:*:MOLIX:*:*:London S10:EHAA:*:*:MOLIX
+
+FIR_COPX:*:*:LAMSO:*:*:London S10:EHAA:*:*:LAMSO
+FIR_COPX:*:*:NAVPI:*:*:London S10:EHAA:*:*:NAVPI

@@ -1,0 +1,9 @@
+COPX:*:*:SANDY:EGLC:*:London AC Dover:London TC SE:*:8000:SANDY
+COPX:*:*:SANDY:EGKB:*:London AC Dover:London TC SE:*:8000:SANDY
+COPX:*:*:SANDY:EGMC:*:London AC Dover:London TC SE:*:8000:SANDY
+COPX:*:*:SANDY:EGTO:*:London AC Dover:London TC SE:*:8000:SANDY
+
+COPX:*:*:TIGER:EGLL:*:London AC Dover:London TC SE:*:15000:TIGER
+COPX:*:*:TIGER:EGWU:*:London AC Dover:London TC SE:*:15000:TIGER
+
+COPX:*:*:BEXIL:EGKK:*:London AC Dover:London TC SE:*:15000:BEXIL

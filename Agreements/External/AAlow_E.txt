@@ -1,0 +1,2 @@
+FIR_COPX:EHAM:*:GORLO:*:*:EHAA low:London AC Clacton:24000:*:GORLO
+FIR_COPX:EHAM:*:REFSO:*:*:EHAA low:London AC Clacton:24000:*:REFSO

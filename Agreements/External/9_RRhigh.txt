@@ -1,0 +1,4 @@
+FIR_COPX:*:*:LIZAD:*:*:London S9:LFRR:*:*:LIZAD
+FIR_COPX:*:*:DOLUR:*:*:London S9:LFRR:*:*:DOLUR
+FIR_COPX:*:*:TALIG:*:*:London S9:LFRR:*:*:TALIG
+FIR_COPX:*:*:PEMAK:*:*:London S9:LFRR:*:*:PEMAK

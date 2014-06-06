@@ -1,0 +1,15 @@
+COPX:*:*:MAY:EGSS:*:London AC Dover:London AC Worthing:*:20000:MAY
+COPX:*:*:MAY:EGSC:*:London AC Dover:London AC Worthing:*:20000:MAY
+COPX:*:*:MAY:EGGW:*:London AC Dover:London AC Worthing:*:20000:MAY
+
+COPX:*:*:BIG:EGVN:*:London AC Dover:London AC Worthing:*:20000:BIG20
+COPX:*:*:BIG:EGDL:*:London AC Dover:London AC Worthing:*:20000:BIG20
+COPX:*:*:BIG:EGTK:*:London AC Dover:London AC Worthing:*:20000:BIG20
+
+COPX:EGMC:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY
+COPX:EGLC:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY
+COPX:EGTO:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY
+COPX:EGKB:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY
+COPX:EGMH:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY
+COPX:EGSS:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY
+COPX:EGSC:*:HASTY:*:*:London AC Dover:London AC Worthing:20000:*:HASTY

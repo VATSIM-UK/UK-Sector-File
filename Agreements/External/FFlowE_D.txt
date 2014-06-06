@@ -1,0 +1,10 @@
+FIR_COPX:*:*:RINTI:*:*:LFFF low:London AC Dover:*:*:RINTI
+FIR_COPX:*:*:L15FIR:*:*:LFFF low:London AC Dover:*:*:L15FIR
+FIR_COPX:*:*:BNE:*:*:LFFF low:London AC Dover:*:*:BNE
+FIR_COPX:*:*:ABB:*:*:LFFF low:London AC Dover:*:*:ABB
+
+FIR_COPX:*:*:KESAX:EGKA:*:LFFF low:London AC Dover:*:20000:KESAX
+
+;ABSUD withdrawn and ABUDA no longer onairway AIRAC 12/2011
+FIR_COPX:*:*:ABUDA:EGKA:*:LFFF low:London AC Dover:*:20000:ABUDA
+FIR_COPX:*:*:ABSUD:EGKA:*:LFFF low:London AC Dover:*:20000:ABSUD

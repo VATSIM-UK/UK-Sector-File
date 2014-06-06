@@ -1,0 +1,6 @@
+;fixme BPK?
+COPX:EGVN:*:DAGGA:*:*:London AC Dover:London AC Clacton:29000:*:DAGGA
+COPX:EGDL:*:DAGGA:*:*:London AC Dover:London AC Clacton:29000:*:DAGGA
+COPX:EGGD:*:DAGGA:*:*:London AC Dover:London AC Clacton:29000:*:DAGGA
+COPX:EGTG:*:DAGGA:*:*:London AC Dover:London AC Clacton:29000:*:DAGGA
+COPX:EGFF:*:DAGGA:*:*:London AC Dover:London AC Clacton:29000:*:DAGGA

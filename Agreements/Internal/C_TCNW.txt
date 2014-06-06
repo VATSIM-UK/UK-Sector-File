@@ -1,0 +1,18 @@
+COPX:*:*:BAMBO:EGHI:*:London AC Daventry:London TC NW:*:15000:BAMBO
+COPX:*:*:BAMBO:EGHH:*:London AC Daventry:London TC NW:*:15000:BAMBO
+
+COPX:*:*:NEDEX:EGLF:*:London AC Daventry:London TC NW:*:15000:NEDEX
+COPX:*:*:NEDEX:EGLK:*:London AC Daventry:London TC NW:*:15000:NEDEX
+COPX:*:*:NEDEX:EGTF:*:London AC Daventry:London TC NW:*:15000:NEDEX
+COPX:*:*:NEDEX:EGHL:*:London AC Daventry:London TC NW:*:15000:NEDEX
+
+COPX:*:*:SOPIT:EGLL:*:London AC Daventry:London TC NW:*:15000:SOPIT
+
+COPX:*:*:SOPIT:EGWU:*:London AC Daventry:London TC NW:*:15000:SOPIT5
+
+COPX:*:*:CLIPY:EGLC:*:London AC Daventry:London TC NW:*:15000:CLIPY
+COPX:*:*:CLIPY:EGKB:*:London AC Daventry:London TC NW:*:15000:CLIPY
+COPX:*:*:CLIPY:EGMC:*:London AC Daventry:London TC NW:*:15000:CLIPY
+COPX:*:*:CLIPY:EGSS:*:London AC Daventry:London TC NW:*:15000:CLIPY
+COPX:*:*:CLIPY:EGSC:*:London AC Daventry:London TC NW:*:15000:CLIPY
+COPX:*:*:CLIPY:EGGW:*:London AC Daventry:London TC NW:*:15000:CLIPY

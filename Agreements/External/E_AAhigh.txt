@@ -1,0 +1,2 @@
+FIR_COPX:*:*:SOMVA:*:*:London AC Clacton:EHAA:*:*:SOMVA
+FIR_COPX:*:*:REDFA:*:*:London AC Clacton:EHAA:*:*:REDFA

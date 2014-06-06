@@ -1,0 +1,9 @@
+;for stack swap BIG1E
+COPX:*:*:TANET:*:*:London AC Clacton:London TC SE:*:*:TANET
+
+;fixme
+COPX:*:*:TRIPO:EGLC:*:London AC Clacton:London TC SE:*:7000:TRIPO
+COPX:*:*:TRIPO:EGKB:*:London AC Clacton:London TC SE:*:7000:TRIPO
+COPX:*:*:TRIPO:EGTO:*:London AC Clacton:London TC SE:*:7000:TRIPO
+
+COPX:*:*:TRIPO:EGMC:*:London AC Clacton:London TC SE:*:7000:TRIPO10

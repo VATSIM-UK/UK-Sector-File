@@ -1,0 +1,2 @@
+COPX:EGBB:*:TNT:*:*:BBAPP:Scottish PC East:8000:*:TNT
+COPX:EGBB:*:WHI:*:*:BBAPP:Scottish PC East:8000:*:WHI
