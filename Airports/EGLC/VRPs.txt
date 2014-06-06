@@ -1,0 +1,5 @@
+*Banbury Reservoir:N051.36.16.000:W000.02.06.000
+*Beckton Roundabout:N051.31.31.000:E000.04.24.000
+*M11 Junction 4:N051.35.38.000:E000.02.13.000
+*Thames Barrier:N051.29.50.000:E000.02.13.000
+*Three Mills Gasometers:N051.31.31.000:W000.00.11.000

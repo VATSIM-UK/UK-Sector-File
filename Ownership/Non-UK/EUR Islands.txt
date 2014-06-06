@@ -1,0 +1,107 @@
+SECTOR:EUR Islands London AC North LKS2 (DB-285):24500:28500
+OWNER:EI
+BORDER:London AC North LKS2 (DB-285)
+
+SECTOR:EUR Islands Shannon BANBA CTA (195-660):24500:66000
+OWNER:EI
+BORDER:London AC West BANBA CTA
+
+SECTOR:EUR Islands London AC West BADSI-LIPGO (245-660):24500:66000
+OWNER:EI
+BORDER:London AC West L18 BADSI-LIPGO
+
+SECTOR:EUR Islands London AC West:24500:66000
+OWNER:EI
+BORDER:London AC West
+
+SECTOR:EUR Islands London AC West BCN1 (115-660):24500:66000
+OWNER:EI
+BORDER:London AC West BCN1 (115-660)
+
+SECTOR:EUR Islands London AC Daventry 1 (285-660):28500:66000
+OWNER:EI
+BORDER:London AC Daventry 1 (285-660)
+
+SECTOR:EUR Islands London AC Daventry 2 (195-660):24500:66000
+OWNER:EI
+BORDER:London AC Daventry 2 (195-660)
+
+SECTOR:EUR Islands London AC Daventry:0:66000
+OWNER:EI
+BORDER:London AC Daventry 3 (DB-660)
+
+SECTOR:EUR Islands London AC Daventry 4 (155-660):24500:66000
+OWNER:EI
+BORDER:London AC Daventry 4 (155-660)
+
+SECTOR:EUR Islands London AC Daventry 5 (195-660):24500:66000
+OWNER:EI
+BORDER:London AC Daventry 5 (DB-95)
+
+SECTOR:EUR Islands London AC Daventry 6 (195-660):24500:66000
+OWNER:EI
+BORDER:London AC Daventry 6 (DB-135)
+
+SECTOR:EUR Islands London AC Clacton:0:66000
+OWNER:EI
+BORDER:London AC Clacton 1 (DB-660)
+
+SECTOR:EUR Islands London AC Clacton 2 (155-660):24500:66000
+OWNER:EI
+BORDER:London AC Clacton 2 (155-660)
+
+SECTOR:EUR Islands London AC Clacton 3 (175-660):24500:66000
+OWNER:EI
+BORDER:London AC Clacton 3 (175-660)
+
+SECTOR:EUR Islands London AC Clacton REFSO Area A (215-660):24500:66000
+OWNER:EI
+BORDER:London AC Clacton REFSO Area A (215-660)
+
+SECTOR:EUR Islands London AC Clacton REFSO Area B (55-660):24500:66000
+OWNER:EI
+BORDER:London AC Clacton REFSO Area B (55-660)
+
+SECTOR:EUR Islands London AC Clacton SASKI Areas B and C (55-660):24500:66000
+OWNER:EI
+BORDER:London AC Clacton SASKI Areas B and C (55-660)
+
+SECTOR:EUR Islands London AC Dover:24500:66000
+OWNER:EI
+BORDER:London AC Dover 1 (DB-660)
+
+SECTOR:EUR Islands London AC Dover 4 (115-660):24500:66000
+OWNER:EI
+BORDER:London AC Dover 4 (115-660)
+
+SECTOR:EUR Islands London AC Dover 2 (175-660):24500:66000
+OWNER:EI
+BORDER:London AC Dover 2 (175-660)
+
+SECTOR:EUR Islands London AC Dover 3 (215-660):24500:66000
+OWNER:EI
+BORDER:London AC Dover 3 (215-660)
+
+SECTOR:EUR Islands London AC Worthing:24500:66000
+OWNER:EI
+BORDER:London AC Worthing 1 (DB-660)
+
+SECTOR:EUR Islands London AC Worthing 3 (115-265):24500:26500
+OWNER:EI
+BORDER:London AC Worthing 3 (115-265)
+
+SECTOR:EUR Islands London AC Worthing 10 (155-660):24500:66000
+OWNER:EI
+BORDER:London AC Worthing 10 (155-660)
+
+SECTOR:EUR Islands London AC Worthing 11 (175-660):24500:66000
+OWNER:EI
+BORDER:London AC Worthing 11 (175-660)
+
+SECTOR:EUR Islands London AC Worthing 12 (115-660):24500:66000
+OWNER:EI
+BORDER:London AC Worthing 12 (115-660)
+
+SECTOR:EUR Islands London AC North:24500:66000
+OWNER:EI
+BORDER:London AC North

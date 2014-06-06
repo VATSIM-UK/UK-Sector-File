@@ -1,0 +1,2 @@
+EGSC_APP:Cambridge Approach:123.600:SCA:C:EGSC:APP:-:-:::N052.12.18.000:E000.10.30.000::
+EGSC_ATIS:Cambridge ATIS:134.600:SCI:C:EGSC:ATIS:-:-::::::

@@ -1,0 +1,7 @@
+CIRCLE_SECTORLINE:NCAPP:EGNC:8
+DISPLAY:Scottish PC West:Scottish PC West:NCAPP
+DISPLAY:Scottish PC East:Scottish PC East:NCAPP
+
+CIRCLE_SECTORLINE:NCTWR:EGNC:2
+DISPLAY:Scottish PC West:Scottish PC West:NCTWR
+DISPLAY:Scottish PC East:Scottish PC East:NCTWR
