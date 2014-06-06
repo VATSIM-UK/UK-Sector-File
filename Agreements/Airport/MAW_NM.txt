@@ -1,0 +1,2 @@
+;fixme
+COPX:*:*:DENBY:EGNM:*:Scottish PC West:NMAPP:*:12000:DENBY

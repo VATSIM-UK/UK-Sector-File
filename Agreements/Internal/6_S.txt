@@ -1,0 +1,20 @@
+COPX:*:*:BILNI:EGLL:*:London S6:London AC Worthing:*:27000:BILNI15
+COPX:*:*:BILNI:EGWU:*:London S6:London AC Worthing:*:27000:BILNI15
+COPX:*:*:BILNI:EGKK:*:London S6:London AC Worthing:*:27000:BILNI15
+
+COPX:*:*:BEWLI:EGWU:*:London S6:London AC Worthing:*:27000:BEWLI27
+COPX:*:*:BEWLI:EGLL:*:London S6:London AC Worthing:*:27000:BEWLI27
+COPX:*:*:BEWLI:EGKK:*:London S6:London AC Worthing:*:27000:BEWLI27
+
+COPX:*:*:GIBSO:EGSS:*:London S6:London AC Worthing:*:27000:GIBSO
+COPX:*:*:GIBSO:EGSC:*:London S6:London AC Worthing:*:27000:GIBSO
+COPX:*:*:GIBSO:EGGW:*:London S6:London AC Worthing:*:27000:GIBSO
+COPX:*:*:GIBSO:EGLC:*:London S6:London AC Worthing:*:27000:GIBSO
+COPX:*:*:GIBSO:EGMC:*:London S6:London AC Worthing:*:27000:GIBSO
+COPX:*:*:GIBSO:EGTO:*:London S6:London AC Worthing:*:27000:GIBSO
+COPX:*:*:GIBSO:EGKB:*:London S6:London AC Worthing:*:27000:GIBSO
+
+COPX:*:*:GIBSO:EGLF:*:London S6:London AC Worthing:*:27000:GIBSO10
+COPX:*:*:GIBSO:EGLK:*:London S6:London AC Worthing:*:27000:GIBSO10
+COPX:*:*:GIBSO:EGTF:*:London S6:London AC Worthing:*:27000:GIBSO10
+COPX:*:*:GIBSO:EGHL:*:London S6:London AC Worthing:*:27000:GIBSO10

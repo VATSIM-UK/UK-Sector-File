@@ -1,0 +1,5 @@
+COPX:*:*:LAM:EGBB:*:London AC Clacton:London AC Dover:*:27000:LAM35
+COPX:*:*:LAM:EGBE:*:London AC Clacton:London AC Dover:*:27000:LAM35
+COPX:*:*:LAM:EGNX:*:London AC Clacton:London AC Dover:*:27000:LAM35
+COPX:*:*:LAM:EGGD:*:London AC Clacton:London AC Dover:*:28000:LAM35
+COPX:*:*:LAM:EGTG:*:London AC Clacton:London AC Dover:*:28000:LAM35

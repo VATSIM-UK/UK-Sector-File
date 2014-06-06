@@ -1,0 +1,4 @@
+COPX:*:*:HEMEL:EGBB:*:London AC Dover:London AC Daventry:*:22000:HEMELgate
+COPX:*:*:HEMEL:EGBE:*:London AC Dover:London AC Daventry:*:22000:HEMELgate
+COPX:*:*:HEMEL:EGNX:*:London AC Dover:London AC Daventry:*:22000:HEMELgate
+COPX:*:*:HEMEL:EGNE:*:London AC Dover:London AC Daventry:*:22000:HEMELgate

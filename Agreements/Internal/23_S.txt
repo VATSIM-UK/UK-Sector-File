@@ -1,0 +1,22 @@
+COPX:*:*:BEDEK:EGSS:*:London S23:London AC Worthing:*:18000:BEDEK
+COPX:*:*:BEDEK:EGSC:*:London S23:London AC Worthing:*:18000:BEDEK
+COPX:*:*:BEDEK:EGGW:*:London S23:London AC Worthing:*:18000:BEDEK
+
+COPX:*:*:KENET:EGMH:*:London S23:London AC Worthing:*:18000:KENET
+COPX:EGVN:*:KENET:*:*:London S23:London AC Worthing:18000:*:KENET
+COPX:EGDL:*:KENET:*:*:London S23:London AC Worthing:18000:*:KENET
+COPX:EGGD:*:KENET:*:*:London S23:London AC Worthing:18000:*:KENET
+COPX:EGTG:*:KENET:*:*:London S23:London AC Worthing:18000:*:KENET
+
+COPX:EGVN:*:BASET:*:*:London S23:London AC Worthing:18000:*:BASET
+COPX:EGDL:*:BASET:*:*:London S23:London AC Worthing:18000:*:BASET
+COPX:EGGD:*:BASET:*:*:London S23:London AC Worthing:18000:*:BASET
+COPX:EGTG:*:BASET:*:*:London S23:London AC Worthing:18000:*:BASET
+
+COPX:EGFF:*:CPT:*:*:London S23:London AC Worthing:23000:*:CPT
+COPX:EGFH:*:CPT:*:*:London S23:London AC Worthing:23000:*:CPT
+COPX:EGDX:*:CPT:*:*:London S23:London AC Worthing:23000:*:CPT
+
+COPX:EGFF:*:BASET:*:*:London S23:London AC Worthing:23000:*:BASET
+COPX:EGFH:*:BASET:*:*:London S23:London AC Worthing:23000:*:BASET
+COPX:EGDX:*:BASET:*:*:London S23:London AC Worthing:23000:*:BASET

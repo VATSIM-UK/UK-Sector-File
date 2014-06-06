@@ -1,0 +1,1 @@
+FIR_COPX:*:*:DIBAL:EHAM:*:London S10:EHAA low:*:25000:DIBAL

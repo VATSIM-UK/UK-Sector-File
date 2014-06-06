@@ -1,0 +1,3 @@
+COPX:EGBB:*:SIVDA:*:*:London AC Daventry:London AC Clacton:21000:*:SIVDA
+COPX:EGBE:*:SIVDA:*:*:London AC Daventry:London AC Clacton:21000:*:SIVDA
+COPX:EGNX:*:SIVDA:*:*:London AC Daventry:London AC Clacton:21000:*:SIVDA

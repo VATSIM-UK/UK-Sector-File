@@ -1,0 +1,2 @@
+COPX:EGLL:*:LEDBO:*:*:London AC Clacton:London S10:29000:*:LEDBO
+COPX:EGWU:*:LEDBO:*:*:London AC Clacton:London S10:29000:*:LEDBO

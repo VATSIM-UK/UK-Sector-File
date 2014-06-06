@@ -1,0 +1,28 @@
+COPX:*:*:OKTEM:EGCC:*:London S5:Scottish PC West:*:20000:OKTEM
+COPX:*:*:OKTEM:EGCD:*:London S5:Scottish PC West:*:20000:OKTEM
+COPX:*:*:OKTEM:EGNH:*:London S5:Scottish PC West:*:20000:OKTEM
+COPX:*:*:OKTEM:EGNO:*:London S5:Scottish PC West:*:20000:OKTEM
+COPX:*:*:OKTEM:EGNM:*:London S5:Scottish PC West:*:20000:OKTEM
+COPX:*:*:OKTEM:EGCN:*:London S5:Scottish PC West:*:20000:OKTEM
+
+COPX:*:*:OKTEM:EGNR:*:London S5:Scottish PC West:*:20000:OKTEM10
+COPX:*:*:OKTEM:EGGP:*:London S5:Scottish PC West:*:20000:OKTEM10
+
+;NOKIN is unsuitable as it also lies on UN38 from BERUL
+COPX:*:*:NITON:EGNT:*:London S5:Scottish PC West:*:28000:NOKIN25
+COPX:*:*:NITON:EGNV:*:London S5:Scottish PC West:*:28000:NOKIN25
+COPX:*:*:NITON:EGNJ:*:London S5:Scottish PC West:*:28000:NOKIN25
+
+COPX:*:*:BERUL:EGNT:*:London S5:Scottish PC West:*:28000:BERUL
+COPX:*:*:BERUL:EGNV:*:London S5:Scottish PC West:*:28000:BERUL
+COPX:*:*:BERUL:EGNJ:*:London S5:Scottish PC West:*:28000:BERUL
+
+;Should be EGDX also?
+;choice of points is not ideal
+COPX:EGFF:*:NOKIN:*:*:London S5:Scottish PC West:24000:*:NOKIN20
+COPX:EGGD:*:NOKIN:*:*:London S5:Scottish PC West:24000:*:NOKIN20
+COPX:EGTG:*:NOKIN:*:*:London S5:Scottish PC West:24000:*:NOKIN20
+
+COPX:EGFF:*:REXAM:*:*:London S5:Scottish PC West:24000:*:REXAM20
+COPX:EGGD:*:REXAM:*:*:London S5:Scottish PC West:24000:*:REXAM20
+COPX:EGTG:*:REXAM:*:*:London S5:Scottish PC West:24000:*:REXAM20

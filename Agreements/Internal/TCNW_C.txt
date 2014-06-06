@@ -1,0 +1,19 @@
+COPX:EGHI:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
+COPX:EGHH:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
+COPX:EGLF:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
+COPX:EGLK:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
+COPX:EGTF:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
+COPX:EGHL:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
+
+COPX:EGLL:*:WOBUN:*:*:London TC NW:London AC Daventry:14000:*:WOBUN
+
+COPX:EGWU:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
+COPX:EGLC:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
+COPX:EGMC:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
+COPX:EGKB:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
+COPX:EGTO:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
+
+COPX:EGSS:*:BUZAD:*:*:London TC NW:London AC Daventry:12000:*:BUZAD
+COPX:EGSC:*:BUZAD:*:*:London TC NW:London AC Daventry:12000:*:BUZAD
+
+COPX:EGGW:*:OLNEY:*:*:London TC NW:London AC Daventry:12000:*:OLNEY

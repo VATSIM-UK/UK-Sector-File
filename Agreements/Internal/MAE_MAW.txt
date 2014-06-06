@@ -1,0 +1,15 @@
+COPX:*:*:NANTI:EGGP:*:Scottish PC East:Scottish PC West:*:10000:NANTI
+COPX:*:*:NANTI:EGNR:*:Scottish PC East:Scottish PC West:*:10000:NANTI
+
+COPX:EGBB:*:WHI:*:*:Scottish PC East:Scottish PC West:19000:*:WHI10
+COPX:EGNX:*:WHI:*:*:Scottish PC East:Scottish PC West:19000:*:WHI10
+
+COPX:EGBB:*:TNT:*:*:Scottish PC East:Scottish PC West:19000:*:POL25
+COPX:EGNX:*:TNT:*:*:Scottish PC East:Scottish PC West:19000:*:POL25
+
+COPX:EGCC:*:POL:*:*:Scottish PC East:Scottish PC West:19000:*:POL
+COPX:EGGP:*:POL:*:*:Scottish PC East:Scottish PC West:19000:*:POL
+COPX:EGNR:*:POL:*:*:Scottish PC East:Scottish PC West:19000:*:POL
+
+COPX:EGNT:*:GASKO:*:*:Scottish PC East:Scottish PC West:21000:*:GASKO
+COPX:EGNV:*:GASKO:*:*:Scottish PC East:Scottish PC West:19000:*:GASKO

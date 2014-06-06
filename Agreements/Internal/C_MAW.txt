@@ -1,0 +1,2 @@
+COPX:*:*:MAMUL:EGNT:*:London AC Daventry:Scottish PC West:*:28000:MAMUL25
+COPX:*:*:MAMUL:EGNV:*:London AC Daventry:Scottish PC West:*:28000:MAMUL25

@@ -1,0 +1,23 @@
+COPX:EGBB:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGBE:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGNX:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGDL:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGVN:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGGD:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGTG:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:BIG
+COPX:EGFF:*:BIG:*:*:London AC Worthing:London AC Dover:29000:*:BIG
+COPX:EGFH:*:BIG:*:*:London AC Worthing:London AC Dover:29000:*:BIG
+COPX:EGDX:*:BIG:*:*:London AC Worthing:London AC Dover:29000:*:BIG
+
+COPX:EGHH:*:SFD:*:*:London AC Worthing:London AC Dover:19000:*:SFD
+COPX:EGHI:*:SFD:*:*:London AC Worthing:London AC Dover:19000:*:SFD
+COPX:EGLF:*:SFD:*:*:London AC Worthing:London AC Dover:19000:*:SFD
+COPX:EGLK:*:SFD:*:*:London AC Worthing:London AC Dover:19000:*:SFD
+COPX:EGTF:*:SFD:*:*:London AC Worthing:London AC Dover:19000:*:SFD
+COPX:EGHL:*:SFD:*:*:London AC Worthing:London AC Dover:19000:*:SFD
+
+COPX:*:*:WAFFU:EGMC:*:London AC Worthing:London AC Dover:*:10000:WAFFU
+COPX:*:*:WAFFU:EGLC:*:London AC Worthing:London AC Dover:*:10000:WAFFU
+COPX:*:*:WAFFU:EGTO:*:London AC Worthing:London AC Dover:*:10000:WAFFU
+COPX:*:*:WAFFU:EGKB:*:London AC Worthing:London AC Dover:*:10000:WAFFU
+COPX:*:*:WAFFU:EGMH:*:London AC Worthing:London AC Dover:*:10000:WAFFU
