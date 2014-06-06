@@ -27,10 +27,12 @@
 ;SMR Colours
 ;General Colours
 #define smrTaxiway 0
+#define smrTaxiwayLine 8313850
 #define smrBuilding 0
 #define smrHPTS 9204580
 #define smrCompassbase 16777215
 #define smrApron 5197647
+#define smrDarkApron 3026478
 #define smrGrass 24576
 #define smrBlastpad 16777088
 #define smrRarea 125
@@ -49,6 +51,7 @@
 #define smrGWorange 2474495
 #define smrGWcream 12701121
 #define smrGWlightBlue 13487540
+#define smrHHcompass 16777215
 #define smrNXtarmac 3815994
 #define smrCCtaxi 2631720
 #define smrCCgrass 3689771
@@ -58,8 +61,15 @@
 #define smrGPtaxiway 2631720
 #define smrGPterminal 1584743
 #define smrGPline 7829248
+#define smrSCGrass 29440
+#define smrGDapron 11908533
+#define smrGDgrass 7058795
+#define smrGDbuilding 9142113
+#define smrGDtaxiway 9474192
+#define smrGDbackground 328965
 #define
 ;Stand & Hold Labels
 #define standHold 16777215
 ;Background Colors
 #define blueBackground 3932160
+#define blackBackground 0
