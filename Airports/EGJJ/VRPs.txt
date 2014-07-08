@@ -1,0 +1,14 @@
+*Cap de la Hague:N049.43.00.000 W001.56.00.000.000
+*Carteret Lighthouse:N049.22.24.000 W001.48.24.000
+*Casquets Lighthouse:N049.43.24.000 W002.22.42.000
+*Corbiere Lighthouse:N049.10.47.000 W002.15.00.000
+*Fremont TV Mast:N049.15.06.000 W002.07.53.000
+*Heauville:N049.34.59.000 W001.48.07.000
+*Minquies:N048.58.00.000 W002.08.00.000
+*Noirmont Point Lighthouse:N049.09.55.000 W002.10.05.000
+*North East Point:N049.30.25.000 W002.30.31.000
+*Northwest Corner:N049.15.30.000 W002.14.50.000
+*Point de Rozel:N049.28.59.000 W001.50.59.000
+*Roches Douvres Lighthouse:N049.06.19.000 W002.48.53.000
+*St Germain:N049.14.00.000 W001.38.00.000
+*South East Corner:N049.10.00.000 W002.02.00.000
