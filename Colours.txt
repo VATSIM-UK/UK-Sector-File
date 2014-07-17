@@ -72,6 +72,18 @@
 #define smrKABuilding 5987163
 #define smrMCBuilding 5987163
 #define smrMCYellow 52428
+#define smrTERed 202
+#define smrTEBuilding 4023169
+#define smrTEDisused 6250335
+#define smrTEFlybe 9671575
+#define smrTEStand 59107
+#define smrTEHoldbar 65535
+#define smrTEGrassBdy 2377274
+#define smrTEGrassTaxi 2707265
+#define smrTEAVTUR 6712064
+#define smrTEAVGAS 6488184
+#define smrTETaxiway 7106162
+#define smrTERunway 4934475
 #define
 ;Stand & Hold Labels
 #define standHold 16777215
