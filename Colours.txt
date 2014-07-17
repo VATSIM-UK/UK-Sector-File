@@ -36,6 +36,7 @@
 #define smrGrass 24576
 #define smrBlastpad 16777088
 #define smrRarea 125
+#define smrRoad 6908265
 #define smrGreen 18944
 #define smrBlue 3932160
 #define smrGrey 5329233
@@ -44,6 +45,7 @@
 #define smrLLOutline 6579300
 #define smrLLBuilding 5987163
 #define smrLLHold 9895936
+#define smrKKRed 150
 #define smrBBBuilding 20640
 #define smrBBecho 65535
 #define smrBBsurround 5658198
@@ -67,9 +69,12 @@
 #define smrGDbuilding 9142113
 #define smrGDtaxiway 9474192
 #define smrGDbackground 328965
+#define smrKABuilding 5987163
+#define smrMCBuilding 5987163
+#define smrMCYellow 52428
 #define
 ;Stand & Hold Labels
 #define standHold 16777215
-;Background Colors
+;Background Colours
 #define blueBackground 3932160
 #define blackBackground 0
