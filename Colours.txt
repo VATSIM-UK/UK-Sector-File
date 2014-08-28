@@ -40,6 +40,7 @@
 #define smrGreen 18944
 #define smrBlue 3932160
 #define smrGrey 5329233
+#define smrGreyBuilding 5987163
 #define smrWhite 13494510
 #define smrRed 255
 #define smrLLOutline 6579300
@@ -55,9 +56,12 @@
 #define smrGWlightBlue 13487540
 #define smrHHcompass 16777215
 #define smrNXtarmac 3815994
+#define smrCCdisused 139
+#define smrCCHPTS 9434879
 #define smrCCtaxi 2631720
 #define smrCCgrass 3689771
 #define smrCCbuilding 1584743
+#define smrCCoffwhite 12171705
 #define smrCCyellow 1074802
 #define smrGPgrass 3689771
 #define smrGPtaxiway 2631720
@@ -70,7 +74,6 @@
 #define smrGDtaxiway 9474192
 #define smrGDbackground 328965
 #define smrKABuilding 5987163
-#define smrMCBuilding 5987163
 #define smrMCYellow 52428
 #define smrTERed 202
 #define smrTEBuilding 4023169
@@ -90,3 +93,7 @@
 ;Background Colours
 #define blueBackground 3932160
 #define blackBackground 0
+
+;Shared
+#define arrester 6914198
+#define road 6908265
