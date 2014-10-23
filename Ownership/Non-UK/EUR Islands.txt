@@ -86,10 +86,6 @@ SECTOR:EUR Islands London AC Worthing:24500:66000
 OWNER:EI
 BORDER:London AC Worthing 1 (DB-660)
 
-SECTOR:EUR Islands London AC Worthing 3 (115-265):24500:26500
-OWNER:EI
-BORDER:London AC Worthing 3 (115-265)
-
 SECTOR:EUR Islands London AC Worthing 10 (155-660):24500:66000
 OWNER:EI
 BORDER:London AC Worthing 10 (155-660)
