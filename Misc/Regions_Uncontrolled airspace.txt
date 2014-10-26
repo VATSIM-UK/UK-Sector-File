@@ -60,6 +60,13 @@ OCASregion                 N051.15.05.311 W002.53.40.748
                            N051.16.15.294 W001.20.58.421
                            N051.01.22.727 W001.27.11.382
                            N050.44.58.436 W002.58.54.889
+						   
+;GIBSO L620 BRIPO
+REGIONNAME Uncontrolled airspace
+OCASregion                 N050.44.59.118 W002.58.54.176
+						   N050.49.54.426 W002.31.19.742
+						   N050.39.49.067 W002.30.54.554
+						   N050.34.21.455 W003.00.45.752
 
 ;North Wales
 REGIONNAME Uncontrolled airspace
