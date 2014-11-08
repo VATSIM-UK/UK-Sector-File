@@ -1,0 +1,7 @@
+;Holding Points
+"A1" N052.21.58.300 W001.29.20.400 standHold
+"C1" N052.22.01.600 W001.28.53.100 standHold
+"C2" N052.22.10.500 W001.28.55.600 standHold
+"E" N052.22.11.300 W001.28.38.000 standHold
+"K" N052.22.20.000 W001.28.39.900 standHold
+"J" N052.22.23.400 W001.28.34.300 standHold

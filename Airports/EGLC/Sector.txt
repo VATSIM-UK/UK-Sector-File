@@ -10,17 +10,17 @@ DISPLAY:London TC NE:Only LCTWR 1:Only LCTWR 2
 DISPLAY:London TC SW:Only LCTWR 1:Only LCTWR 2
 DISPLAY:London TC SE:Only LCTWR 1:Only LCTWR 2
 
-CIRCLE_SECTORLINE:Only Thames:EGLC:6
-DISPLAY:London TC NW:London TC NW:Only Thames
-DISPLAY:London TC NE:London TC NE:Only Thames
-DISPLAY:London TC SW:London TC SW:Only Thames
-DISPLAY:London TC SE:London TC SE:Only Thames
-
 CIRCLE_SECTORLINE:Only LCAPP:EGLC:4
 DISPLAY:London TC NW:London TC NW:Only LCAPP
 DISPLAY:London TC NE:London TC NE:Only LCAPP
 DISPLAY:London TC SW:London TC SW:Only LCAPP
 DISPLAY:London TC SE:London TC SE:Only LCAPP
+
+CIRCLE_SECTORLINE:Only Thames:EGLC:6
+DISPLAY:London TC NW:London TC NW:Only Thames
+DISPLAY:London TC NE:London TC NE:Only Thames
+DISPLAY:London TC SW:London TC SW:Only Thames
+DISPLAY:London TC SE:London TC SE:Only Thames
 
 CIRCLE_SECTORLINE:LCTWR:EGLC:2.5
 DISPLAY:Only LCAPP:Only LCAPP:LCTWR

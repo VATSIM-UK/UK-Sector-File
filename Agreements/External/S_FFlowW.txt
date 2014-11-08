@@ -1,13 +1,21 @@
-FIR_COPX:*:*:XIDIL:LFOB:*:London AC Worthing:LFFF low:*:19000:XIDIL
-FIR_COPX:*:*:XIDIL:LFOP:*:London AC Worthing:LFFF low:*:19000:XIDIL
-FIR_COPX:*:*:XIDIL:LFPG:*:London AC Worthing:LFFF low:*:26000:XIDIL
-FIR_COPX:*:*:XIDIL:LFPB:*:London AC Worthing:LFFF low:*:26000:XIDIL
-FIR_COPX:*:*:XIDIL:LFPC:*:London AC Worthing:LFFF low:*:26000:XIDIL
-FIR_COPX:*:*:XIDIL:LFPT:*:London AC Worthing:LFFF low:*:26000:XIDIL
-FIR_COPX:*:*:XIDIL:*:*:London AC Worthing:LFFF low:*:*:XIDIL
+FIR_COPX:*:*:XIDIL:LFOB:*:London AC Worthing:LFFF low west:*:19000:XIDIL
+FIR_COPX:*:*:XIDIL:LFOP:*:London AC Worthing:LFFF low west:*:19000:XIDIL
+FIR_COPX:*:*:XIDIL:LFPG:*:London AC Worthing:LFFF low west:*:26000:XIDIL
+FIR_COPX:*:*:XIDIL:LFPB:*:London AC Worthing:LFFF low west:*:26000:XIDIL
+FIR_COPX:*:*:XIDIL:LFPC:*:London AC Worthing:LFFF low west:*:26000:XIDIL
+FIR_COPX:*:*:XIDIL:LFPT:*:London AC Worthing:LFFF low west:*:26000:XIDIL
+FIR_COPX:*:*:XIDIL:*:*:London AC Worthing:LFFF low west:*:*:XIDIL
 
-FIR_COPX:*:*:SITET:LFRG:*:London AC Worthing:LFFF low:*:13000:SITET
-FIR_COPX:*:*:SITET:LFRK:*:London AC Worthing:LFFF low:*:13000:SITET
-FIR_COPX:*:*:SITET:LFOH:*:London AC Worthing:LFFF low:*:13000:SITET
-FIR_COPX:*:*:SITET:LFOE:*:London AC Worthing:LFFF low:*:13000:SITET
-FIR_COPX:*:*:SITET:LFOP:*:London AC Worthing:LFFF low:*:13000:SITET
+FIR_COPX:*:*:SITET:LFPO:*:London AC Worthing:LFFF low west:*:25000:SITET
+FIR_COPX:*:*:SITET:LFPV:*:London AC Worthing:LFFF low west:*:25000:SITET
+FIR_COPX:*:*:SITET:LFPN:*:London AC Worthing:LFFF low west:*:25000:SITET
+FIR_COPX:*:*:SITET:LFPM:*:London AC Worthing:LFFF low west:*:25000:SITET
+FIR_COPX:*:*:SITET:LFJR:*:London AC Worthing:LFFF low west:*:25000:SITET
+FIR_COPX:*:*:SITET:LFRM:*:London AC Worthing:LFFF low west:*:25000:SITET
+FIR_COPX:*:*:SITET:LFO*:*:London AC Worthing:LFFF low west:*:25000:SITET
+
+FIR_COPX:*:*:SITET:LFRG:*:London AC Worthing:LFFF low west:*:13000:SITET
+FIR_COPX:*:*:SITET:LFRK:*:London AC Worthing:LFFF low west:*:13000:SITET
+FIR_COPX:*:*:SITET:LFOH:*:London AC Worthing:LFFF low west:*:13000:SITET
+FIR_COPX:*:*:SITET:LFOE:*:London AC Worthing:LFFF low west:*:13000:SITET
+FIR_COPX:*:*:SITET:LFOP:*:London AC Worthing:LFFF low west:*:13000:SITET
