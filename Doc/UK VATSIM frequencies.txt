@@ -1,0 +1,17 @@
+As a general rule, the frequencies in use for VATSIM ATC positions match those published for the real world.
+
+However, sometimes the frequency published for VATSIM needs to be different. This is usually due one of the following:
+- A frequency conflict with another VATSIM ATC position
+- Avoiding 136.xx frequencies, because of difficulties selecting in certain simulators/pilot clients
+- VOR frequencies used for ATIS (which are impossible to use with current pilot clients)
+- 8.33kHz-spaced frequencies, which can't be selected in FS/pilot client
+
+The following is a list of published UK VATSIM frequencies that differ from their real-world counterpart:
+
+Stansted Director 136.2, 126.95 on VATSIM (former SS DIR freq)
+Guernsey ATIS 109.4, 118.9 on VATSIM (Guernsey radar freq)
+City ATIS 136.35, 118.4 on VATSIM (City TWR secondary freq)
+Southend ATIS 136.05, 127.17 on VATSIM, but this must be wrong because it's the Stansted ATIS freq, so for now using 136.05.
+
+Withdrawn at some point in the past, now using real freq:
+Bristol Radar 136.07, 124.35 on VATSIM
