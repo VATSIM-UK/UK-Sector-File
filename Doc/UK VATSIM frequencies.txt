@@ -15,3 +15,5 @@ Southend ATIS 136.05, 127.17 on VATSIM, but this must be wrong because it's the 
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.07, 124.35 on VATSIM
+
+Battersea Tower 134.275, 122.900 on VATSIM. (New frequency 134.275 introduced in AIRAC 2014/12. Continuing to use old frequency due to conflict with Shannon Information EISN_I_CTR 134.275.)
