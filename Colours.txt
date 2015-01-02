@@ -68,6 +68,7 @@
 #define smrGDgrass 7058795
 #define smrGDbuilding 9142113
 #define smrGDtaxiway 9474192
+#define smrJAgrass 8366677
 #define smrMCyellow 52428
 #define smrTERed 202
 #define smrTEBuilding 4023169
