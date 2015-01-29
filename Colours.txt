@@ -89,6 +89,7 @@
 #define blueBackground 3932160
 #define blackBackground 0
 #define smrGDbackground 328965
+#define EssexCASBackground 4915200
 
 ;Shared
 #define arrester 6914198
