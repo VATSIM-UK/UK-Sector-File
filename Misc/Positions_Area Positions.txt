@@ -82,10 +82,10 @@ EIDW_S_APP:Dublin Control:120.050:DS:D:EIDW:APP:EIDW:CTR::
 EIDW_H_CTR:Dublin Control:119.550:DH:D:EIDW:APP:EIDW:CTR::
 EIDW_APP:Dublin Approach:121.100:DWA:D:EIDW:APP:EIDW:APP::
 
-BEL_APP:Scottish Control:123.770:STA:B6:BEL:APP:ScTC:Antrm::
-BEL_APP:Scottish Control:123.770:STA:B6:EGPX:CTR:ScTC:Antrm::
-BEL_APP:Scottish Control:123.770:STA:B6:SCO:CTR:ScTC:Antrm::
-BEL_APP:Scottish Control:123.770:STA:B6:BEL:CTR:ScTC:Antrm::
+BEL_APP:Scottish Control:123.770:STA:B6:BEL:APP:ScTC:Antrim::
+BEL_APP:Scottish Control:123.770:STA:B6:EGPX:CTR:ScTC:Antrim::
+BEL_APP:Scottish Control:123.770:STA:B6:SCO:CTR:ScTC:Antrim::
+BEL_APP:Scottish Control:123.770:STA:B6:BEL:CTR:ScTC:Antrim::
 EGPX_CTR:Scottish Control:135.520:S:S:EGPX:CTR:ScAC:::
 EGPX_CTR:Scottish Control:135.520:S1:S:SCO:CTR:ScAC:::
 EGPX_W_CTR:Scottish Control:132.720:SW:W:EGPX:CTR:ScAC:W::
