@@ -47,8 +47,12 @@
 #define smrLLOutline 6579300
 #define smrLLHold 9895936
 #define smrKKRed 150
-#define smrBBBuilding 20640
-#define smrBBsurround 5658198
+#define smrBBgrey 12299677
+#define smrBBbuilding 4823767
+#define smrBBgrass 3051799
+#define smrBBdisused 5393408
+#define smrBBstand 9012347
+#define smrBBlabel 13814651
 #define smrSSwhite 13421772
 #define smrGWorange 2474495
 #define smrGWcream 12701121
