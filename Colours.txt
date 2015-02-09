@@ -75,6 +75,10 @@
 #define smrJAgrass 8366677
 #define smrMCyellow 52428
 #define smrTERed 202
+#define smrMDapron 8816261
+#define smrMDwhite 16711422
+#define smrMDrunway 8816262
+#define smrMDhangar 9408399
 #define smrTEBuilding 4023169
 #define smrTEDisused 6250335
 #define smrTEFlybe 9671575
