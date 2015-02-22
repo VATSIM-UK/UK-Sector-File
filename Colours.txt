@@ -11,6 +11,7 @@
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
+#define LTMACAS 4915200
 #define motorway 2631720
 #define obstacle 5263610
 #define OCASregion 0
@@ -96,7 +97,6 @@
 ;Background Colours
 #define blackBackground 0
 #define blueBackground 3932160
-#define EssexCASBackground 4915200
 #define smrGDbackground 328965
 
 ;Shared
