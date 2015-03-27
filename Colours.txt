@@ -78,6 +78,7 @@
 #define smrNXtarmac 3815994
 #define smrSCGrass 29440
 #define smrSSwhite 13421772
+#define smrTCGrass 43520
 #define smrTEAVGAS 6488184
 #define smrTEAVTUR 6712064
 #define smrTEBuilding 4023169
