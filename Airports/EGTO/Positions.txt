@@ -1,0 +1,1 @@
+EGTO_I_TWR:Rochester Information:122.250:TOI:I:EGTO_I_TWR:-:-:::N051.21.07.000:E000.30.12.000::
