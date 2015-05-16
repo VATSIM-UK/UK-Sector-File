@@ -1,3 +1,5 @@
+;Renamed 06/2015 Manchester SID Fix
+LIVSU N053.15.14.000 W002.49.29.000
 ;Withdrawn 05/2014 Stansted SID Fix
 GAMDO N051.34.29.000 E000.23.30.000
 ;Withdrawn 12/2010
