@@ -1,2 +1,0 @@
-#define atz 13163735
-#define gate 3953980
