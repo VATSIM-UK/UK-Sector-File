@@ -1,0 +1,3 @@
+COPX:*:*:LOREL:EGSS:*:London AC Clacton:SSAPP:*:9000:LOREL
+COPX:*:*:LOREL:EGGW:*:London AC Clacton:SSAPP:*:9000:LOREL
+COPX:*:*:LOREL:EGSC:*:London AC Clacton:SSAPP:*:9000:LOREL
