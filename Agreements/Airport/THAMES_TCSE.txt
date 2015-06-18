@@ -1,0 +1,2 @@
+;DVR, LYD and SAM
+COPX:EGLC:*:DET:*:*:THAMES:London TC SE:5000:*:DET
