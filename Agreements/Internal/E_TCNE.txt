@@ -2,9 +2,4 @@ COPX:*:*:SABER:EGLL:*:London AC Clacton:London TC NE:*:15000:SABER
 
 COPX:*:*:SABER:EGWU:*:London AC Clacton:London TC NE:*:15000:SABER5
 
-;fixme
-COPX:*:*:LAPRA:EGSS:*:London AC Clacton:London TC NE:*:12000:LAPRA
-COPX:*:*:LAPRA:EGSC:*:London AC Clacton:London TC NE:*:12000:LAPRA
-COPX:*:*:LAPRA:EGGW:*:London AC Clacton:London TC NE:*:12000:LAPRA
-
 COPX:*:*:TANET:EGKK:*:London AC Clacton:London TC SE:*:13000:TANET

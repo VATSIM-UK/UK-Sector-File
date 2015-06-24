@@ -1,5 +1,5 @@
 #define apron 4613190
-#define atz 13163735
+#define col_atz 13163735
 #define buffercolour 7884373
 #define building 10534048
 #define centrelinecolour 15790135
@@ -7,7 +7,7 @@
 #define edge 6589540
 #define Filled 6316128
 #define fire 2894694
-#define gate 3953980
+#define col_gate 3953980
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
