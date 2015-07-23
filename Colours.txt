@@ -34,6 +34,7 @@
 #define smrCompassbase 16777215
 #define smrDarkApron 3026478
 #define smrGrass 24576
+#define smrGrass2 43520
 #define smrGreen 18944
 #define smrGrey 5329233
 #define smrGreyBuilding 5987163
@@ -78,7 +79,6 @@
 #define smrNXtarmac 3815994
 #define smrSCGrass 29440
 #define smrSSwhite 13421772
-#define smrTCGrass 43520
 #define smrTEAVGAS 6488184
 #define smrTEAVTUR 6712064
 #define smrTEBuilding 4023169
