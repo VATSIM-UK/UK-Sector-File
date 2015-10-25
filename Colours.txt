@@ -28,6 +28,7 @@
 ;SMR Colours
 ;General Colours
 #define smrApron 5197647
+#define smrACapron 10526880
 #define smrBBbuilding 4823767
 #define smrBBdisused 5393408
 #define smrBBgrass 3051799
