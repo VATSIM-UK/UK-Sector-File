@@ -1,34 +1,29 @@
 #define apron 4613190
-#define col_atz 13163735
+#define arrester 6914198
 #define buffercolour 7884373
 #define building 10534048
 #define centrelinecolour 15790135
-#define coast 7897720
+#define col_gate 3953980
 #define edge 6589540
 #define Filled 6316128
 #define fire 2894694
-#define col_gate 3953980
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
 #define LTMACAS 4915200
 #define motorway 2631720
-#define obstacle 5263610
 #define OCASregion 0
-#define OCASregion2 4269318
-#define parachute 12175585
 #define rangering 4227200
 #define river 4915200
+#define road 6908265
 #define runway 13491405
 #define taxiway 5272144
 #define taxiway3 820613
-#define vrp 8563285
 #define water 9204580
 
 ;SMR Colours
-;General Colours
-#define smrApron 5197647
 #define smrACapron 10526880
+#define smrApron 5197647
 #define smrBBbuilding 4823767
 #define smrBBdisused 5393408
 #define smrBBgrass 3051799
@@ -64,6 +59,7 @@
 #define smrHHcompass 16777215
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
+#define smrJJtaxiway 9474192
 #define smrKKRed 150
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
@@ -102,7 +98,3 @@
 #define blackBackground 0
 #define blueBackground 3932160
 #define smrGDbackground 328965
-
-;Shared
-#define arrester 6914198
-#define road 6908265
