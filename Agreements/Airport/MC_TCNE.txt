@@ -1,0 +1,2 @@
+;BPK
+COPX:EGMC:*:LAM:*:*:MCAPP_W:London TC NE:4000:*:BPK

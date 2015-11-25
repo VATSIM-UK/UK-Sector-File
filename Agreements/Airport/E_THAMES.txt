@@ -1,0 +1,5 @@
+COPX:*:*:TRIPO:EGLC:*:London AC Clacton:Thames:*:7000:TRIPO
+COPX:*:*:TRIPO:EGKB:*:London AC Clacton:Thames:*:7000:TRIPO
+COPX:*:*:TRIPO:EGTO:*:London AC Clacton:Thames:*:7000:TRIPO
+
+COPX:*:*:TRIPO:EGMC:*:London AC Clacton:Thames:*:7000:TRIPO10
