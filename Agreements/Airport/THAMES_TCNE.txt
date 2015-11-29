@@ -2,4 +2,4 @@
 COPX:EGLC:*:BPK:*:*:Thames:London TC NE:3000:*:BPK
 ;CLN
 COPX:EGLC:*:CLN27:*:*:Thames:London TC NE:4000:*:CLN
-COPX:EGMC:*:CLN27:*:*:Thames:London TC NE:6000:*:CLN
+COPX:EGMC:*:CLN:*:*:Thames:London TC NE:6000:*:CLN

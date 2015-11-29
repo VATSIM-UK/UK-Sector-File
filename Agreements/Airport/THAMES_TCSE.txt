@@ -1,3 +1,4 @@
 ;DVR, LYD and SAM
 COPX:EGLC:*:DET:*:*:Thames:London TC SE:6000:*:DET
+;Southend Departures
 COPX:EGMC:*:DET:*:*:Thames:London TC SE:6000:*:DET
