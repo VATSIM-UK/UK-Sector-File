@@ -1,6 +1,6 @@
 ; EuroScope sector file for VATSIM UK
-; Any corrections or amendments in this file should be directed to
-; euroscope@vatsim-uk.co.uk
+; Any corrections or amendments in this file should be directed to the EuroScope department of the helpdesk
+; helpdesk.vatsim-uk.co.uk or euroscope@vatsim-uk.co.uk
 ;
 ; Copyright VATSIM UK 2010-{YEAR}. All rights reserved.
 ; London FIR (EGTT) {VERSION} build date {BUILD}

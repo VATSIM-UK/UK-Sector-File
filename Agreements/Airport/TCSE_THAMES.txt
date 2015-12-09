@@ -1,2 +1,4 @@
-COPX:*:*:SPEAR:EGLC:*:London TC SE:THAMES:*:5000:SPEAR
-COPX:*:*:DET:EGLC:*:London TC SE:THAMES:*:4000:DET
+COPX:*:*:DET:EGLC:*:London TC SE:Thames:*:4000:DET
+COPX:*:*:DET:EGKB:*:London TC SE:Thames:*:4000:DET
+COPX:*:*:DET:EGTO:*:London TC SE:Thames:*:4000:DET
+COPX:*:*:DET:EGMC:*:London TC SE:Thames:*:4000:DET
