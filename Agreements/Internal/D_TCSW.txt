@@ -5,17 +5,10 @@ COPX:*:*:BANVA:EGHL:*:London AC Dover:London TC SW:*:18000:BANVA
 COPX:*:*:BANVA:EGHH:*:London AC Dover:London TC SW:*:18000:BANVA
 COPX:*:*:BANVA:EGHI:*:London AC Dover:London TC SW:*:18000:BANVA
 
-;GURLU withdrawn AIRAC 12/2011
-COPX:*:*:GURLU:EGLF:*:London AC Dover:London TC SW:*:18000:GURLU
-COPX:*:*:GURLU:EGLK:*:London AC Dover:London TC SW:*:18000:GURLU
-COPX:*:*:GURLU:EGTF:*:London AC Dover:London TC SW:*:18000:GURLU
-COPX:*:*:GURLU:EGHL:*:London AC Dover:London TC SW:*:18000:GURLU
-COPX:*:*:GURLU:EGHH:*:London AC Dover:London TC SW:*:18000:GURLU
-COPX:*:*:GURLU:EGHI:*:London AC Dover:London TC SW:*:18000:GURLU
-
 COPX:*:*:WAFFU:EGLF:*:London AC Dover:London TC SW:*:18000:WAFFU15
 COPX:*:*:WAFFU:EGLK:*:London AC Dover:London TC SW:*:18000:WAFFU15
 COPX:*:*:WAFFU:EGTF:*:London AC Dover:London TC SW:*:18000:WAFFU15
 COPX:*:*:WAFFU:EGHL:*:London AC Dover:London TC SW:*:18000:WAFFU15
-COPX:*:*:WAFFU:EGHH:*:London AC Dover:London TC SW:*:18000:WAFFU15
-COPX:*:*:WAFFU:EGHI:*:London AC Dover:London TC SW:*:18000:WAFFU15
+
+COPX:*:*:ELDAX:EGHH:*:London AC Dover:London TC SW:*:18000:ELDAX5
+COPX:*:*:ELDAX:EGHI:*:London AC Dover:London TC SW:*:18000:ELDAX5
