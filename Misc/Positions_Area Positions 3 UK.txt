@@ -1,0 +1,91 @@
+;Available London FIR (London/Scottish ACC/TCC) frequencies, mostly not presently in use for anything
+;North
+London Control S7:London Control:135.570:LNW:L:LON:CTR:-:-::
+London Control S7:London Control:135.570:LNW:L:LON-NW:CTR:-:-::
+London Control S7:London Control:135.570:LNW:L:LON-NU:CTR:-:-::
+London Control S7:London Control:135.570:LNW:L:LON-N7:CTR:-:-::
+London Control S10:London Control:128.120:LNE:L:LON:CTR:-:-::
+London Control S10:London Control:128.120:LNE:L:LON-NE:CTR:-:-::
+London Control S10:London Control:128.120:LNE:L:LON-NU:CTR:-:-::
+London Control S10:London Control:128.120:LNE:L:LON-10:CTR:-:-::
+London Control S10:London Control:128.120:LNE:L:LON-11:CTR:-:-::
+London Control:London Control:126.770:LWN:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N051.18.21.496:W004.09.51.334
+;West
+London Control S5:London Control:133.600:L35:L:LON:CTR:-:-:::
+London Control S5:London Control:133.600:L35:L:LON-WU:CTR:-:-:::
+London Control S5:London Control:133.600:L35:L:LON-WN:CTR:-:-:::
+London Control S5:London Control:133.600:L35:L:LON-W5:CTR:-:-:::
+London Control S5:London Control:133.600:L35:L:LON-35:CTR:-:-:::
+London Control S8:London Control:129.370:L5:L:LON:CTR:-:-:::
+London Control S8:London Control:129.370:L5:L:LON-WN:CTR:-:-:::
+London Control S8:London Control:129.370:L5:L:LON-WW:CTR:-:-:::
+London Control S8:London Control:129.370:L5:L:LON-W5:CTR:-:-:::
+London Control S8:London Control:129.370:L5:L:LON-W8:CTR:-:-::
+London Control S23:London Control:134.750:L23:L:LON:CTR:-:-::
+London Control S23:London Control:134.750:L23:L:LON-WL:CTR:-:-::
+London Control S23:London Control:134.750:L23:L:LON-WE:CTR:-:-::
+London Control S23:London Control:134.750:L23:L:LON-23:CTR:-:-::
+London Control S9:London Control:132.950:L6:L:LON:CTR:-:-::
+London Control S9:London Control:132.950:L6:L:LON-WS:CTR:-:-::
+London Control S9:London Control:132.950:L6:L:LON-W6:CTR:-:-::
+;Central
+London Control S27:London Control:129.200:L27:L:LON:CTR:-:-::
+London Control S32:London Control:131.120:LNC:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N052.07.30.663:W000.03.23.581
+London Control S34:London Control:127.870:LWC:L:LON:CTR:-:-:::N051.18.21.496:W004.09.51.334:N052.07.30.663:W000.03.23.581
+London Control S14:London Control:118.470:L14:L:LON:CTR:-:-::
+;South
+London Control  S2:London Control:127.420:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
+London Control S18:London Control:135.320:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
+London Control S19:London Control:135.050:LWS:L:LON:CTR:-:-:::N051.18.21.496:W004.09.51.334:N051.12.49.331:E000.03.49.130
+London Control S22:London Control:127.820:LWS:L:LON:CTR:-:-:::N051.18.21.496:W004.09.51.334:N051.12.49.331:E000.03.49.130
+London Control S16:London Control:136.600:L16:L:LON:CTR:-:-:::
+London Control S17:London Control:128.420:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
+;TC Midlands
+London Control:London Control:130.920:TCW:L:LTC:CTR:-:-::
+London Control:London Control:128.470:TCW:L:LTC:CTR:-:-::
+London Control:London Control:133.070:TCO:L:LTC:CTR:-:-::
+London Control:London Control:121.020:TCO:L:LTC:CTR:-:-::
+;TC North
+London Control:London Control:129.270:TCL:L:LTC:CTR:-:-::
+London Control:London Control:123.900:TCL:L:LTC:CTR:-:-::
+;TC East
+London Control:London Control:124.920:TCE:L:LTC:CTR:-:-::
+London Control:London Control:129.600:TCE:L:LTC:CTR:-:-::
+London Control:London Control:135.420:TCE:L:LTC:CTR:-:-::
+;TC South
+London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051.03.50.110:E000.54.58.144
+;TC Capital
+London Control:London Control:135.800:TCC:L:LTC:CTR:-:-::
+London Control:London Control:127.950:TCV:L:LTC:CTR:-:-::
+;Prestwick W2 LAG (MAN)
+North:Scottish Control:128.670:MN:M:MAN:CTR:-:-::
+Isle of Man:Scottish Control:133.050:MI:M:MAN:CTR:-:-::
+SE Trent:Scottish Control:119.520:MT:M:MAN:CTR:-:-::
+SE Stafa:Scottish Control:134.420:MS:M:MAN:CTR:-:-::
+;Scottish
+Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632
+Scottish Control Montrose:Scottish Control:129.920:SEM:E:SCO:CTR:-:-:3601:3632
+Scottish Control Moray:Scottish Control:129.220:SMO:E:SCO:CTR:-:-:3601:3632
+Scottish Control Rathlin E:Scottish Control:125.670:SRE:W:SCO:CTR:-:-:3601:3632
+Scottish Control Talla S:Scottish Control:126.300:STT:T:STC:CTR:-:-:3601:3632
+Scottish Control Tay:Scottish Control:124.500:SET:E:SCO:CTR:-:-:3601:3632
+Scottish Control Tyne:Scottish Control:134.770:STY:E:SCO:CTR:-:-:3601:3632
+Scottish Control WC:Scottish Control:127.270:SWC:W:SCO:CTR:-:-:3601:3632
+;London Info
+EGTT_INFO:London Information:125.470:LI:C:EGTT:CTR:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:125.470:LI:C:EGTT:FSS:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:125.470:LI:C:EGTT:APP:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:125.470:LI:C:LON:CTR:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:125.470:LI:C:LON:FSS:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:125.470:LI:C:LON:APP:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:124.600:LI:C:EGTT:CTR:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:124.600:LI:C:EGTT:FSS:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:124.600:LI:C:EGTT:APP:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:124.600:LI:C:LON:CTR:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:124.600:LI:C:LON:FSS:-:-:::N051.28.39.000:W000.27.41.000::
+EGTT_INFO:London Information:124.600:LI:C:LON:APP:-:-:::N051.28.39.000:W000.27.41.000::
+;Military
+EGVV_CTR:Swanwick Military:135.150:VV:M:LON:CTR:SWAN:MIL:6401:6457
+EGVV_L_CTR:Swanwick Military:127.450:VVL:M:LON:CTR:SWAN-L:MIL:6401:6457
+EGWD_CTR:London Military:135.270:WD:M:LON:CTR:LON:MIL:6101:6157
+EGQQ_CTR:Scottish Military:134.300:QQ:M:SCO:CTR:SCO:MIL:4610:4667
