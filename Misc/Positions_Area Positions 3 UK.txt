@@ -64,12 +64,12 @@ SE Trent:Scottish Control:119.520:MT:M:MAN:CTR:-:-::
 SE Stafa:Scottish Control:134.420:MS:M:MAN:CTR:-:-::
 ;Scottish
 Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632
-Scottish Control Montrose:Scottish Control:129.920:SEM:E:SCO:CTR:-:-:3601:3632
-Scottish Control Moray:Scottish Control:129.220:SMO:E:SCO:CTR:-:-:3601:3632
+Scottish Control Montrose:Scottish Control:129.920:SEW:E:SCO:CTR:-:-:3601:3632
+Scottish Control Moray:Scottish Control:129.220:SEM:E:SCO:CTR:-:-:3601:3632
 Scottish Control Rathlin E:Scottish Control:125.670:SRE:W:SCO:CTR:-:-:3601:3632
 Scottish Control Talla S:Scottish Control:126.300:STT:T:STC:CTR:-:-:3601:3632
-Scottish Control Tay:Scottish Control:124.500:SET:E:SCO:CTR:-:-:3601:3632
-Scottish Control Tyne:Scottish Control:134.770:STY:E:SCO:CTR:-:-:3601:3632
+Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632
+Scottish Control Tyne:Scottish Control:134.770:SET:E:SCO:CTR:-:-:3601:3632
 Scottish Control WC:Scottish Control:127.270:SWC:W:SCO:CTR:-:-:3601:3632
 ;London Info
 EGTT_INFO:London Information:125.470:LI:C:EGTT:CTR:-:-:::N051.28.39.000:W000.27.41.000::

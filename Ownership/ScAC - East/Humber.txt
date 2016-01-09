@@ -1,0 +1,5 @@
+SECTOR:Humber (DB-660):0:66000
+OWNER:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SE:S
+ALTOWNER:Observing SCO_E_CTR:O:SM:SE:S
+BORDER:Hum_Mon:SELN3:SELN4:Humber_EHAM:Hum_EHAA DB-195 Border:Hum_EKDK DB-195 Border:Tyne_Hum DK Del:Tyne_Hum
