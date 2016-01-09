@@ -1,0 +1,1 @@
+COPX:*:*:TRN:EGPF:*:Galloway:PFAPP:*:8000:TRN15

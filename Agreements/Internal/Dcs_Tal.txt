@@ -1,0 +1,3 @@
+COPX:*:*:ABEVI:EGPH:*:Deancross:Talla:*:26000:ABEVI
+COPX:*:*:ABEVI:EGPF:*:Deancross:Talla:*:26000:ABEVI
+COPX:*:*:ABEVI:EGPK:*:Deancross:Talla:*:26000:ABEVI

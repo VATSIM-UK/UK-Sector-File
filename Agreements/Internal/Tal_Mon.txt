@@ -1,0 +1,4 @@
+COPX:EGPH:*:OTBUN:*:*:Talla:Montrose:21000:*:OTBUN
+
+COPX:EGPF:*:HAVEN:*:*:Talla:Montrose:25000:*:HAVEN
+COPX:EGPK:*:HAVEN:*:*:Talla:Montrose:25000:*:HAVEN

@@ -1,0 +1,3 @@
+COPX:*:*:OTBUN:EGPH:*:Montrose:Talla:*:22000:OTBUN
+COPX:*:*:OTBUN:EGPF:*:Montrose:Talla:*:22000:OTBUN
+COPX:*:*:OTBUN:EGPK:*:Montrose:Talla:*:22000:OTBUN

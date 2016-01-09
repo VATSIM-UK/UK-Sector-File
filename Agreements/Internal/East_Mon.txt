@@ -1,0 +1,10 @@
+COPX:EGCC:*:ARSAT:*:*:East:Montrose:25000:*:ARSAT10
+COPX:EGGP:*:ARSAT:*:*:East:Montrose:25000:*:ARSAT10
+COPX:EGNR:*:ARSAT:*:*:East:Montrose:25000:*:ARSAT10
+COPX:EGNH:*:ARSAT:*:*:East:Montrose:25000:*:ARSAT10
+COPX:EGNO:*:ARSAT:*:*:East:Montrose:25000:*:ARSAT10
+COPX:EGCN:*:ARSAT:*:*:East:Montrose:25000:*:ARSAT10
+
+COPX:EGNX:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
+COPX:EGBB:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
+COPX:EGBE:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT

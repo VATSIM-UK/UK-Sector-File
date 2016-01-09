@@ -1,0 +1,1 @@
+COPX:*:*:SHAPP:EGNC:*:North:Talla:*:14000:SHAPP

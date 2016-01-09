@@ -1,0 +1,9 @@
+COPX:*:*:TILNI:EGCC:*:Montrose:East:*:23000:TILNI
+COPX:*:*:TILNI:EGGP:*:Montrose:East:*:23000:TILNI
+COPX:*:*:TILNI:EGNR:*:Montrose:East:*:23000:TILNI
+
+COPX:*:*:UMBEL:EGSH:*:Montrose:East:*:27000:UMBEL
+
+COPX:*:*:BINTI:EGNX:*:Montrose:East:*:27000:BINTI
+COPX:*:*:BINTI:EGBB:*:Montrose:East:*:27000:BINTI
+COPX:*:*:BINTI:EGBE:*:Montrose:East:*:27000:BINTI

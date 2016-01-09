@@ -1,0 +1,6 @@
+COPX:*:*:KELLY:EGCC:*:Antrim:Isle of Man:*:23000:KELLY
+COPX:*:*:KELLY:EGGP:*:Antrim:Isle of Man:*:23000:KELLY
+COPX:*:*:KELLY:EGNH:*:Antrim:Isle of Man:*:23000:KELLY
+COPX:*:*:KELLY:EGNO:*:Antrim:Isle of Man:*:23000:KELLY
+COPX:*:*:KELLY:EGNM:*:Antrim:Isle of Man:*:23000:KELLY
+COPX:*:*:KELLY:EGCN:*:Antrim:Isle of Man:*:23000:KELLY
