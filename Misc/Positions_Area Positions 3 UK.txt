@@ -49,7 +49,7 @@ London Control:London Control:121.020:TCO:L:LTC:CTR:-:-::
 London Control:London Control:129.270:TCL:L:LTC:CTR:-:-::
 London Control:London Control:123.900:TCL:L:LTC:CTR:-:-::
 ;TC East
-London Control:London Control:124.920:TCE:L:LTC:CTR:-:-::
+London Control:London Control:124.920:T:L:LTC:CTR:-:-::
 London Control:London Control:129.600:TCE:L:LTC:CTR:-:-::
 London Control:London Control:135.420:TCE:L:LTC:CTR:-:-::
 ;TC South
