@@ -1,6 +1,9 @@
 COPX:*:*:BEDEK:EGSS:*:London S23:London AC Worthing:*:18000:BEDEK
 COPX:*:*:BEDEK:EGSC:*:London S23:London AC Worthing:*:18000:BEDEK
 COPX:*:*:BEDEK:EGGW:*:London S23:London AC Worthing:*:18000:BEDEK
+COPX:*:*:BEDEK:EGLC:*:London S23:London AC Worthing:*:18000:BEDEK
+COPX:*:*:BEDEK:EGKB:*:London S23:London AC Worthing:*:18000:BEDEK
+COPX:*:*:BEDEK:EGTO:*:London S23:London AC Worthing:*:18000:BEDEK
 
 COPX:*:*:KENET:EGMH:*:London S23:London AC Worthing:*:18000:KENET
 COPX:EGVN:*:KENET:*:*:London S23:London AC Worthing:18000:*:KENET

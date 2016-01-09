@@ -10,8 +10,6 @@ COPX:*:*:SOPIT:EGLL:*:London AC Daventry:London TC NW:*:15000:SOPIT
 
 COPX:*:*:SOPIT:EGWU:*:London AC Daventry:London TC NW:*:15000:SOPIT5
 
-COPX:*:*:CLIPY:EGLC:*:London AC Daventry:London TC NW:*:15000:CLIPY
-COPX:*:*:CLIPY:EGKB:*:London AC Daventry:London TC NW:*:15000:CLIPY
 COPX:*:*:CLIPY:EGMC:*:London AC Daventry:London TC NW:*:15000:CLIPY
 COPX:*:*:CLIPY:EGSS:*:London AC Daventry:London TC NW:*:15000:CLIPY
 COPX:*:*:CLIPY:EGSC:*:London AC Daventry:London TC NW:*:15000:CLIPY
