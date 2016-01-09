@@ -1,4 +1,4 @@
-COPX:*:*:ETVAX:EGLL:*:London AC Dover:London TC SE:*:18000:ETVAX
-COPX:*:*:ETVAX:EGWU:*:London AC Dover:London TC SE:*:18000:ETVAX
+COPX:*:*:ETVAX:EGLL:*:London AC Dover:London TC BIG:*:18000:ETVAX
+COPX:*:*:ETVAX:EGWU:*:London AC Dover:London TC BIG:*:18000:ETVAX
 
-COPX:*:*:AMDUT:EGKK:*:London AC Dover:London TC SE:*:16000:AMDUT
+COPX:*:*:AMDUT:EGKK:*:London AC Dover:London TC TIMBA:*:16000:AMDUT
