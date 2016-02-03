@@ -1,0 +1,2 @@
+COPX:*:*:*:EGAA:*:Antrim:AAAPP:*:10000:BEL
+COPX:*:*:*:EGAC:*:Antrim:AAAPP:*:10000:MAGEE

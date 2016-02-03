@@ -1,0 +1,2 @@
+COPX:EGPK:*:LAKEY:*:*:Deancross:London S3:31000:*:LAKEY
+COPX:EGPK:*:SUBUK:*:*:Deancross:London S3:31000:*:SUBUK

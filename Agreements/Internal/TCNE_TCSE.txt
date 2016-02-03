@@ -1,4 +1,4 @@
-COPX:EGSS:*:DET:*:*:London TC NE:London TC SE:7000:*:DET
-COPX:EGSC:*:DET:*:*:London TC NE:London TC SE:7000:*:DET
-COPX:EGGW:*:DET:*:*:London TC NE:London TC SE:7000:*:DET
-COPX:EGWU:*:DET:*:*:London TC NE:London TC SE:7000:*:DET
+COPX:EGSS:*:DET:*:*:London TC NE:London TC BIG:7000:*:DET
+COPX:EGSC:*:DET:*:*:London TC NE:London TC BIG:7000:*:DET
+COPX:EGGW:*:DET:*:*:London TC NE:London TC BIG:7000:*:DET
+COPX:EGWU:*:DET:*:*:London TC NE:London TC BIG:7000:*:DET

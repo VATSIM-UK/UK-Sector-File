@@ -1,0 +1,3 @@
+COPX:*:*:KELLY:EGNX:*:Rathlin:Isle of Man:*:27000:KELLY
+COPX:*:*:KELLY:EGBB:*:Rathlin:Isle of Man:*:27000:KELLY
+COPX:*:*:KELLY:EGBE:*:Rathlin:Isle of Man:*:27000:KELLY

@@ -1,18 +1,18 @@
-COPX:EGLL:*:DVR:*:*:London TC SE:London AC Dover:17000:*:DVR
-COPX:EGKK:*:DVR:*:*:London TC SE:London AC Dover:17000:*:DVR
-COPX:EGSS:*:DVR:*:*:London TC SE:London AC Dover:17000:*:DVR
-COPX:EGSC:*:DVR:*:*:London TC SE:London AC Dover:17000:*:DVR
-COPX:EGGW:*:DVR:*:*:London TC SE:London AC Dover:17000:*:DVR
-COPX:EGWU:*:DVR:*:*:London TC SE:London AC Dover:17000:*:DVR
+COPX:EGLL:*:DVR:*:*:London TC BIG:London AC Dover:17000:*:DVR
+COPX:EGKK:*:DVR:*:*:London TC BIG:London AC Dover:17000:*:DVR
+COPX:EGSS:*:DVR:*:*:London TC BIG:London AC Dover:17000:*:DVR
+COPX:EGSC:*:DVR:*:*:London TC BIG:London AC Dover:17000:*:DVR
+COPX:EGGW:*:DVR:*:*:London TC BIG:London AC Dover:17000:*:DVR
+COPX:EGWU:*:DVR:*:*:London TC BIG:London AC Dover:17000:*:DVR
 
-COPX:EGLC:*:DVR:*:*:London TC SE:London AC Dover:15000:*:DVR
-COPX:EGKB:*:DVR:*:*:London TC SE:London AC Dover:15000:*:DVR
-COPX:EGTO:*:DVR:*:*:London TC SE:London AC Dover:15000:*:DVR
-COPX:EGMC:*:DVR:*:*:London TC SE:London AC Dover:15000:*:DVR
+COPX:EGLC:*:DVR:*:*:London TC TIMBA:London AC Dover:15000:*:DVR
+COPX:EGKB:*:DVR:*:*:London TC TIMBA:London AC Dover:15000:*:DVR
+COPX:EGTO:*:DVR:*:*:London TC TIMBA:London AC Dover:15000:*:DVR
+COPX:EGMC:*:DVR:*:*:London TC TIMBA:London AC Dover:15000:*:DVR
 
-COPX:EGSS:*:LYD:*:*:London TC SE:London AC Dover:17000:*:LYD
-COPX:EGSC:*:LYD:*:*:London TC SE:London AC Dover:17000:*:LYD
-COPX:EGLC:*:LYD:*:*:London TC SE:London AC Dover:17000:*:LYD
-COPX:EGKB:*:LYD:*:*:London TC SE:London AC Dover:17000:*:LYD
-COPX:EGTO:*:LYD:*:*:London TC SE:London AC Dover:17000:*:LYD
-COPX:EGMC:*:LYD:*:*:London TC SE:London AC Dover:17000:*:LYD
+COPX:EGSS:*:LYD:*:*:London TC TIMBA:London AC Dover:17000:*:LYD
+COPX:EGSC:*:LYD:*:*:London TC TIMBA:London AC Dover:17000:*:LYD
+COPX:EGLC:*:LYD:*:*:London TC TIMBA:London AC Dover:17000:*:LYD
+COPX:EGKB:*:LYD:*:*:London TC TIMBA:London AC Dover:17000:*:LYD
+COPX:EGTO:*:LYD:*:*:London TC TIMBA:London AC Dover:17000:*:LYD
+COPX:EGMC:*:LYD:*:*:London TC TIMBA:London AC Dover:17000:*:LYD

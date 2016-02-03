@@ -1,0 +1,3 @@
+COPX:*:*:TLA:EGPH:*:Galloway:Talla:*:13000:TLA25
+
+COPX:EGPF:*:TLA:*:*:Galloway:Talla:17000:*:TLA10
