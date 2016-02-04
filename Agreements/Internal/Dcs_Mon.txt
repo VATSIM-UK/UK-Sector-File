@@ -1,0 +1,3 @@
+COPX:*:*:FOYLE:EGPE:*:Deancross:Montrose:*:26000:FOYLE
+
+COPX:*:*:GRICE:EGPD:*:Deancross:Montrose:*:26000:GRICE

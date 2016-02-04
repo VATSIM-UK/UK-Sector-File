@@ -1,4 +1,4 @@
-COPX:*:*:DET:EGLC:*:London TC SE:Thames:*:4000:DET
-COPX:*:*:DET:EGKB:*:London TC SE:Thames:*:4000:DET
-COPX:*:*:DET:EGTO:*:London TC SE:Thames:*:4000:DET
-COPX:*:*:DET:EGMC:*:London TC SE:Thames:*:4000:DET
+COPX:*:*:GODLU:EGLC:*:London TC TIMBA:Thames:*:10000:GODLU
+COPX:*:*:GODLU:EGKB:*:London TC TIMBA:Thames:*:10000:GODLU
+
+COPX:*:*:ATSAP:EGMC:*:London TC TIMBA:Thames:*:7000:ATSAP

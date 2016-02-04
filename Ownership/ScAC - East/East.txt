@@ -1,0 +1,4 @@
+SECTOR:Scottish AC East:0:0
+OWNER:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SE:S
+ALTOWNER:Observing SCO_E_CTR:O:SM:SE:S

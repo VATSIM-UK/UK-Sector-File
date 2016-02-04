@@ -1,0 +1,6 @@
+*Castletown AD:N058.35.07.000:W003.21.01.000
+*Duncansby Head Lighthouse:N058.38.36.000:W003.01.30.000
+*Keiss Village:N058.32.00.000:W003.07.24.000
+*Loch Watten:N058.29.00.000:W003.32.06.000
+*Lybster Village:N058.18.00.000:W003.17.06.000
+*Thrumster Masts:N058.23.35.000:W003.07.26.000

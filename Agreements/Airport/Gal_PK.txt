@@ -1,0 +1,1 @@
+COPX:*:*:*:EGPK:*:Galloway:PKAPP:*:8000:TRN10

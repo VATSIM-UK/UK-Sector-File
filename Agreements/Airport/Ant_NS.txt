@@ -1,0 +1,3 @@
+COPX:*:*:SLYDA:EGNS:*:Antrim:NSAPP:*:7000:SLYDA
+
+COPX:*:*:IOM:EGNS:*:Antrim:NSAPP:*:7000:IOM

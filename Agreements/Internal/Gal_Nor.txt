@@ -1,0 +1,5 @@
+COPX:*:*:LAKEY:EGCC:*:Galloway:North:*:20000:LAKEY10
+COPX:*:*:LAKEY:EGGP:*:Galloway:North:*:20000:LAKEY10
+COPX:*:*:LAKEY:EGNR:*:Galloway:North:*:20000:LAKEY10
+COPX:*:*:LAKEY:EGNM:*:Galloway:North:*:20000:LAKEY10
+COPX:*:*:LAKEY:EGCN:*:Galloway:North:*:20000:LAKEY10

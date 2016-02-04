@@ -1,0 +1,4 @@
+EGPL_APP:Benbecula Approach:119.200:PLA:S:EGPL:APP:-:-:::N057.28.39.000:W007.21.59.000::
+EGPL_TWR:Benbecula Tower:119.200:PLT:S:EGPL:TWR:-:-:::N057.28.39.000:W007.21.59.000::
+EGPL_I_TWR:Benbecula Information:125.900:PLR:S:EGPL:TWR:-:-:::N057.28.39.000:W007.21.59.000::
+EGPL_ATIS:Benbecula Information:133.950:PLI:S:EGPL:ATIS:-:-::::::

@@ -1,0 +1,5 @@
+SECTOR:Central:0:66000
+OWNER:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SW:SWD:S
+ALTOWNER:Observing SCO_WD_CTR:SW:O:SM:SWD:S
+BORDER:Wes-Cen_EGGX:Cen_EISN:Cen_RatW:Cen_DCS-S:Cen_DCS-N:Cen_Mon:Cen_Heb

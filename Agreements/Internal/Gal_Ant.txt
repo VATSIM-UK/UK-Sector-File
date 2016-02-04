@@ -1,0 +1,3 @@
+COPX:EGPK:*:GIRVA:*:*:Galloway:Antrim:10000:*:GIRVA
+
+COPX:EGPF:*:TRN:*:*:Galloway:Antrim:16000:*:TRN

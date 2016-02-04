@@ -3,4 +3,4 @@
 ; helpdesk.vatsim-uk.co.uk or euroscope@vatsim-uk.co.uk
 ;
 ; Copyright VATSIM UK 2010-{YEAR}. All rights reserved.
-; London FIR (EGTT) {VERSION} build date {BUILD}
+; UK (EGTT and EGPX) {VERSION} build date {BUILD}

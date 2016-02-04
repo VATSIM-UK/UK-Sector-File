@@ -1,0 +1,4 @@
+COPX:EGCC:*:SHAPP:*:*:Sector 29:Talla:24000:*:SHAPP
+COPX:EGGP:*:SHAPP:*:*:Sector 29:Talla:24000:*:SHAPP
+COPX:EGNR:*:SHAPP:*:*:Sector 29:Talla:24000:*:SHAPP
+COPX:EGCN:*:SHAPP:*:*:Sector 29:Talla:24000:*:SHAPP

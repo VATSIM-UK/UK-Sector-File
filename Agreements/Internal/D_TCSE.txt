@@ -1,9 +1,4 @@
-COPX:*:*:SANDY:EGLC:*:London AC Dover:London TC SE:*:8000:SANDY
-COPX:*:*:SANDY:EGKB:*:London AC Dover:London TC SE:*:8000:SANDY
-COPX:*:*:SANDY:EGMC:*:London AC Dover:London TC SE:*:8000:SANDY
-COPX:*:*:SANDY:EGTO:*:London AC Dover:London TC SE:*:8000:SANDY
+COPX:*:*:ETVAX:EGLL:*:London AC Dover:London TC BIG:*:18000:ETVAX
+COPX:*:*:ETVAX:EGWU:*:London AC Dover:London TC BIG:*:18000:ETVAX
 
-COPX:*:*:TIGER:EGLL:*:London AC Dover:London TC SE:*:15000:TIGER
-COPX:*:*:TIGER:EGWU:*:London AC Dover:London TC SE:*:15000:TIGER
-
-COPX:*:*:BEXIL:EGKK:*:London AC Dover:London TC SE:*:15000:BEXIL
+COPX:*:*:AMDUT:EGKK:*:London AC Dover:London TC TIMBA:*:16000:AMDUT

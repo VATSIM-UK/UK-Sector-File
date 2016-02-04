@@ -1,0 +1,6 @@
+COPX:EGCC:*:LIBSO:*:*:East:Humber:27000:*:LIBSO
+COPX:EGGP:*:LIBSO:*:*:East:Humber:27000:*:LIBSO
+COPX:EGNR:*:LIBSO:*:*:East:Humber:27000:*:LIBSO
+COPX:EGNX:*:LIBSO:*:*:East:Humber:27000:*:LIBSO
+COPX:EGBB:*:LIBSO:*:*:East:Humber:27000:*:LIBSO
+COPX:EGBE:*:LIBSO:*:*:East:Humber:27000:*:LIBSO
