@@ -34,7 +34,7 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 
 ## Merge Requests
 
-We welcome merge requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "accepting-public-support" but other improvements are also welcome - please ensure you read over the merge work-flow below.
+We welcome merge requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "up-for-grabs" but other improvements are also welcome - please ensure you read over the merge work-flow below.
 
 If you wish to add a new feature or you spot a bug that you wish to fix, _please open an issue for it first on the [UK Sector File issue tracker](https://gitlab.com/vatsim-uk/UK-Sector-File/issues).
 
