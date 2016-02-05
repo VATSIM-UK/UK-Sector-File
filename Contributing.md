@@ -51,6 +51,8 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Ensure you link any relevant issues in the merge request (you can type hash and the issue ID).  Comment on those issues linking back to the MR.
 * Be prepared to answer any questions about your MR when it is reviewed for acceptance
 
+_If you are actively working on a large change_ consider creating the MR early but prefixing it with [WIP] as this will prevent it from being accepted *but* let other people know you're working on that issue.
+
 _Please_ keep your changes in a single MR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large MRs with a small error will prevent the entire MR being accepted (and could potentially miss the airac release date).
 
 # Expectations
