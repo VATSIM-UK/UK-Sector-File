@@ -20,6 +20,8 @@ If you're just getting started with GitLab (and project contributions) then we s
 
 If you're comfortable with contributing to Open Source projects on GitLab please ensure you read our expectations for issue tracking, feature proposals and merge requests.
 
+**Please avoid** adding airac related commits until you've seen an issue created for them - anything else is fair game.
+
 ## Testing the sector file
 
 At present there isn't a publicly accessible auto-generation tool for the data within the repository.  We're working hard to make our current tool stable enough to release into the public domain so that open source contributions can be made to that, too, and others can use (and test) the latest development version.
