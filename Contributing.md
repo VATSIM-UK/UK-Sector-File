@@ -48,7 +48,6 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Commit your changes
  * When writing commit messages, consider closing your issues via the commit message (by starting the message with "fix #22" or "fixes #22" and then your description.
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
- * Ensure the commit message includes a reference to the issue (hash following by the issue number)
 * **Add your changes to the CHANGELOG.md file**
 * Push the commit(s) to your fork
 * Submit a merge request (MR) to the development branch
