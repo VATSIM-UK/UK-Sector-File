@@ -46,13 +46,15 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Fork the project into your personal space on GitLab.com
 * Create a new branch (with the name issue-<issue_number>, replacing issue_number with the issue number you're resolving)
 * Commit your changes
+ * When writing commit messages, consider closing your issues via the commit message (by starting the message with "fix #22" or "fixes #22" and then your description.
+  * The issues will be referenced in the first instance and then closed once the MR is accepted.
  * Ensure the commit message includes a reference to the issue (hash following by the issue number)
-* Add your changes to the CHANGELOG.md file
+* **Add your changes to the CHANGELOG.md file**
 * Push the commit(s) to your fork
 * Submit a merge request (MR) to the development branch
 * The MR title should describe the change that has been made
 * The MR description should confirm what changes have been made, how you know they're correct (with references)
-* Ensure you link any relevant issues in the merge request (you can type hash and the issue ID).  Comment on those issues linking back to the MR.
+* Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the MR (you can reference MRs using the format !<MR_ID> for example !22).
 * Be prepared to answer any questions about your MR when it is reviewed for acceptance
 
 **If you are actively working on a large change** consider creating the MR early but prefixing it with [WIP] as this will prevent it from being accepted *but* let other people know you're working on that issue.
