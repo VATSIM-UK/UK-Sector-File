@@ -22,12 +22,12 @@ If you're comfortable with contributing to Open Source projects on GitLab please
 
 ## Issue Tracking
 
-If you require _support_ with the Sector File or Euroscope, please utilise our Slack channels for this purpose.  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
+If you require **support** with the Sector File or Euroscope, please utilise our Slack channels for this purpose.  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
 
 When submitting an issue, there's a few guidelines we'd ask you to respect to make it easier to manage (and for others to understand):
-* _Search the issue tracker_ before you submit your issue - it may already be present.
+* **Search the issue tracker** before you submit your issue - it may already be present.
 * When opening an issue, a template is provided for you.  Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
-* _Issue Weight_ allows us to get an idea of how much work is required.  If it's a simple change (such as modification of runway identifiers) then the weight will likely be quite low (1 or 2).   Adding an SMR or some extra stands (and unlikely to involve huge changes) is around a 4 or 5.  Any issue that will involve changes of current sector elements will be an 8 or 9.
+* **Issue Weight** allows us to get an idea of how much work is required.  If it's a simple change (such as modification of runway identifiers) then the weight will likely be quite low (1 or 2).   Adding an SMR or some extra stands (and unlikely to involve huge changes) is around a 4 or 5.  Any issue that will involve changes of current sector elements will be an 8 or 9.
  * If something is very large (i.e. an 8 or 9) it should be split up into smaller tasks that can be managed separately by different people.
 * If you disagree with the weight of an issue, comment and discuss this with the developers to reach a suitable medium (other contributors may base their decision to contribute on the weight assigned)
 * Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
@@ -36,9 +36,9 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 
 We welcome merge requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "up-for-grabs" but other improvements are also welcome - please ensure you read over the merge work-flow below.
 
-If you wish to add a new feature or you spot a bug that you wish to fix, _please open an issue for it first on the [UK Sector File issue tracker](https://gitlab.com/vatsim-uk/UK-Sector-File/issues).
+If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [UK Sector File issue tracker](https://gitlab.com/vatsim-uk/UK-Sector-File/issues).
 
-The work-flow for submitting a new merge request is designed to be simple, but also ensure consistency from _all_ contributors:
+The work-flow for submitting a new merge request is designed to be simple, but also ensure consistency from **all** contributors:
 * Fork the project into your personal space on GitLab.com
 * Create a new branch (with the name issue-<issue_number>, replacing issue_number with the issue number you're resolving)
 * Commit your changes
@@ -51,9 +51,9 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Ensure you link any relevant issues in the merge request (you can type hash and the issue ID).  Comment on those issues linking back to the MR.
 * Be prepared to answer any questions about your MR when it is reviewed for acceptance
 
-_If you are actively working on a large change_ consider creating the MR early but prefixing it with [WIP] as this will prevent it from being accepted *but* let other people know you're working on that issue.
+**If you are actively working on a large change** consider creating the MR early but prefixing it with [WIP] as this will prevent it from being accepted *but* let other people know you're working on that issue.
 
-_Please_ keep your changes in a single MR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large MRs with a small error will prevent the entire MR being accepted (and could potentially miss the airac release date).
+**Please** keep your changes in a single MR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large MRs with a small error will prevent the entire MR being accepted (and could potentially miss the airac release date).
 
 # Expectations
 As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting merge requests or patches, and other activities.
