@@ -5,4 +5,3 @@ FIR_COPX:*:*:ORTAC:EGKB:*:LFRR low:London AC Worthing:*:22000:ORTAC
 FIR_COPX:*:*:ORTAC:EGMC:*:LFRR low:London AC Worthing:*:22000:ORTAC
 FIR_COPX:*:*:ORTAC:EGTO:*:LFRR low:London AC Worthing:*:22000:ORTAC
 FIR_COPX:*:*:ORTAC:EGMD:*:LFRR low:London AC Worthing:*:22000:ORTAC
-FIR_COPX:*:*:ORTAC:EGMH:*:LFRR low:London AC Worthing:*:22000:ORTAC
