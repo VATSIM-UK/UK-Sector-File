@@ -55,6 +55,7 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Submit a merge request (MR) to the development branch
 * The MR title should describe the change that has been made
 * The MR description should confirm what changes have been made, how you know they're correct (with references)
+ * Please include any relevant screenshots to prove the changes work.
 * Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the MR (you can reference MRs using the format !<MR_ID> for example !22).
 * Be prepared to answer any questions about your MR when it is reviewed for acceptance
 
