@@ -8,7 +8,7 @@ By submitting code as an individual you agree that VATSIM UK can use your ammend
 # Helping others
 Please help other UK Sector File users wherever you can (everybody starts somewhere).  If you require assistance (or wish to provide additional assistance) you can find our contributors in the VATSIM UK slack team.
 
-To access Slack, please contact web-services][at][vatsim-uk.co.uk] - a self registration option will be available in Q2 of 2016.
+To access Slack, you can visit https://core.vatsim-uk.co.uk and follow the registration instructions.  Once you've logged in, find the channel "UKSectorFile"
 
 # I want to contribute!
 
