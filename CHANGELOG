@@ -4,10 +4,11 @@
 3. Removed geo lines from JACKO/GURLU to the start of the EGLC point merge arc
 4. Added correct sector ownership for ENSV and EKDK thus also fixing some line display
 5. Removed remaining references to Manston (EGMH) in agreements and in adjacent airport setup
-6. Added EG R219 - thanks to @swhite (Sam White)
+6. Added EG R219 - thanks to @samw (Sam White)
 7. Added EGGP and EGPH GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 8. Added EGCC GND/TWR/APP sector rings to display to Area
 9. Added adjacent airports ownership for Scottish positions (000A Show adjacent departure airports)
 10. Corrected Stornoway (EGPO) top-down priority
 11. Added FL245 shelf/portion of the EGPX/EISN FIR
 12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions
+13. Added Essex Radar to Stansted Director automatic handoff - thanks to @samw (Sam White)
