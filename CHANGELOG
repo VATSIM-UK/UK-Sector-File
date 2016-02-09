@@ -7,3 +7,7 @@
 6. Added EG R219 - thanks to @swhite (Sam White)
 7. Added EGGP and EGPH GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 8. Added EGCC GND/TWR/APP sector rings to display to Area
+9. Added adjacent airports ownership for Scottish positions (000A Show adjacent departure airports)
+10. Corrected Stornoway (EGPO) top-down priority
+11. Added FL245 shelf/portion of the EGPX/EISN FIR
+12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions
