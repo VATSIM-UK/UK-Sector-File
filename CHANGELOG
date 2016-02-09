@@ -5,3 +5,5 @@
 4. Added correct sector ownership for ENSV and EKDK thus also fixing some line display
 5. Removed remaining references to Manston (EGMH) in agreements and in adjacent airport setup
 6. Added EG R219 - thanks to @swhite (Sam White)
+7. Added EGGP and EGPH GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
+8. Added EGCC GND/TWR/APP sector rings to display to Area
