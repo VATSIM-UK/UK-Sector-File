@@ -11,3 +11,4 @@
 10. Corrected Stornoway (EGPO) top-down priority
 11. Added FL245 shelf/portion of the EGPX/EISN FIR
 12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions
+13. Added EGPF GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
