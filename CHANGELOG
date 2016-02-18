@@ -18,3 +18,5 @@
 17. Added LTC SE sector static boundary - thanks to @samw (Sam White)
 18. Added LTC SW sector static boundary - thanks to @samw (Sam White)
 19. Reformatted RMA whitespace
+20. Added missing Y3 airspace base (to the east of the EGGD CTA)
+21. Added EGPD COPX agreements - thanks to @lpeters (Luke Peters)
