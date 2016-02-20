@@ -11,6 +11,7 @@
 10. Corrected Stornoway (EGPO) top-down priority
 11. Added FL245 shelf/portion of the EGPX/EISN FIR
 12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions
+<<<<<<< HEAD
 13. Added EGPF GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 14. Added Southern CTA bases and moved Clacton CTA base - thanks to @lpeters (Luke Peters)
 15. Added missing fixes on Gatwick STARs (TIMBA1J/1K/3F/2G) - thanks to @lpeters (Luke Peters)
@@ -20,3 +21,6 @@
 19. Reformatted RMA whitespace
 20. Added missing Y3 airspace base (to the east of the EGGD CTA)
 21. Added EGPD COPX agreements - thanks to @lpeters (Luke Peters)
+=======
+13. Added Essex Radar to Stansted Director automatic handoff - thanks to @samw (Sam White)
+>>>>>>> issue-272-essexownership
