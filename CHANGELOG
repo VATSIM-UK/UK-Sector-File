@@ -1,25 +1,26 @@
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
 2. Military runway designator updates (includes EGOV/QL/QS/VN) - thanks to @trevorhannant
-3. Removed geo lines from JACKO/GURLU to the start of the EGLC point merge arc
-4. Added correct sector ownership for ENSV and EKDK thus also fixing some line display
-5. Removed remaining references to Manston (EGMH) in agreements and in adjacent airport setup
+3. Removed geo lines from JACKO/GURLU to the start of the EGLC point merge arc - thanks to @hsugden (Harry Sugden)
+4. Added correct sector ownership for ENSV and EKDK thus also fixing some line display - thanks to @hsugden (Harry Sugden)
+5. Removed remaining references to Manston (EGMH) in agreements and in adjacent airport setup - thanks to @hsugden (Harry Sugden)
 6. Added EG R219 - thanks to @samw (Sam White)
 7. Added EGGP and EGPH GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
-8. Added EGCC GND/TWR/APP sector rings to display to Area
-9. Added adjacent airports ownership for Scottish positions (000A Show adjacent departure airports)
-10. Corrected Stornoway (EGPO) top-down priority
-11. Added FL245 shelf/portion of the EGPX/EISN FIR
-12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions
+8. Added EGCC GND/TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+9. Added adjacent airports ownership for Scottish positions (000A Show adjacent departure airports) - thanks to @hsugden (Harry Sugden)
+10. Corrected Stornoway (EGPO) top-down priority - thanks to @hsugden (Harry Sugden)
+11. Added FL245 shelf/portion of the EGPX/EISN FIR - thanks to @hsugden (Harry Sugden)
+12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions - thanks to @hsugden (Harry Sugden)
 13. Added EGPF GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 14. Added Southern CTA bases and moved Clacton CTA base - thanks to @lpeters (Luke Peters)
 15. Added missing fixes on Gatwick STARs (TIMBA1J/1K/3F/2G) - thanks to @lpeters (Luke Peters)
 16. Added EGPD GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 17. Added LTC SE sector static boundary - thanks to @samw (Sam White)
 18. Added LTC SW sector static boundary - thanks to @samw (Sam White)
-19. Added AC Daventry sector static boundary
-20. Added LTC NE and NW sector static boundaries
-21. Reformatted RMA whitespace
-22. Added missing Y3 airspace base (to the east of the EGGD CTA)
+19. Added AC Daventry sector static boundary - thanks to @hsugden (Harry Sugden)
+20. Added LTC NE and NW sector static boundaries - thanks to @hsugden (Harry Sugden)
+21. Reformatted RMA whitespace - thanks to @samw (Sam White) and @hsugden (Harry Sugden)
+22. Added missing Y3 airspace base (to the east of the EGGD CTA) - thanks to @hsugden (Harry Sugden)
 23. Added EGPD COPX agreements - thanks to @lpeters (Luke Peters)
 24. Added Essex Radar to Stansted Director automatic handoff - thanks to @samw (Sam White)
+25. Added missing agreements to/from PEAPP - thanks to @hsugden (Harry Sugden)
