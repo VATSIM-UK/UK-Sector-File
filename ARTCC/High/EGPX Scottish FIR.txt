@@ -1,25 +1,25 @@
 ;Scottish FIR Class C
-EGPX Scottish FIR RATSU          RATSU          GUNPA          GUNPA
-EGPX Scottish FIR GUNPA          GUNPA          PEPIN          PEPIN
-EGPX Scottish FIR PEPIN          PEPIN          ORVIK          ORVIK
-EGPX Scottish FIR ORVIK          ORVIK          BEREP          BEREP
-EGPX Scottish FIR BEREP          BEREP          RIGVU          RIGVU
-EGPX Scottish FIR RIGVU          RIGVU          KLONN          KLONN
-EGPX Scottish FIR KLONN          KLONN          ALOTI          ALOTI
-EGPX Scottish FIR ALOTI          ALOTI          NIVUN          NIVUN
-EGPX Scottish FIR NIVUN          NIVUN          PENUN          PENUN
-EGPX Scottish FIR PENUN          PENUN          ATNAK          ATNAK
-EGPX Scottish FIR ATNAK          ATNAK          VALBO          VALBO
-EGPX Scottish FIR VALBO          VALBO          N055.00.00.000 E005.00.00.000
-EGPX Scottish FIR N055.00.00.000 E005.00.00.000 N055.00.00.000 W005.30.00.000
-EGPX Scottish FIR N055.00.00.000 W005.30.00.000 N053.55.00.000 W005.30.00.000
-EGPX Scottish FIR N053.55.00.000 W005.30.00.000 NIMAT          NIMAT
-EGPX Scottish FIR NIMAT          NIMAT          N054.25.00.000 W008.10.00.000
-EGPX Scottish FIR N054.25.00.000 W008.10.00.000 N054.38.58.000 W009.33.20.000
-EGPX Scottish FIR N054.38.58.000 W009.33.20.000 N054.34.00.000 W010.00.00.000
-EGPX Scottish FIR N054.34.00.000 W010.00.00.000 RATSU          RATSU
-EGPX Scottish FIR N054.38.58.000 W009.33.20.000 N054.45.00.000 W009.00.00.000 ;FL245 Shelf
-EGPX Scottish FIR N054.45.00.000 W009.00.00.000 N055.20.00.000 W008.15.00.000 ;FL245 Shelf
-EGPX Scottish FIR N055.20.00.000 W008.15.00.000 N055.25.00.000 W007.20.00.000 ;FL245 Shelf
-EGPX Scottish FIR N055.25.00.000 W007.20.00.000 N055.20.00.000 W006.55.00.000 ;FL245 Shelf
-EGPX Scottish FIR N055.20.00.000 W006.55.00.000 N054.25.00.000 W008.10.00.000 ;FL245 Shelf
+EGPX Scottish FIR           RATSU          RATSU          GUNPA          GUNPA
+EGPX Scottish FIR           GUNPA          GUNPA          PEPIN          PEPIN
+EGPX Scottish FIR           PEPIN          PEPIN          ORVIK          ORVIK
+EGPX Scottish FIR           ORVIK          ORVIK          BEREP          BEREP
+EGPX Scottish FIR           BEREP          BEREP          RIGVU          RIGVU
+EGPX Scottish FIR           RIGVU          RIGVU          KLONN          KLONN
+EGPX Scottish FIR           KLONN          KLONN          ALOTI          ALOTI
+EGPX Scottish FIR           ALOTI          ALOTI          NIVUN          NIVUN
+EGPX Scottish FIR           NIVUN          NIVUN          PENUN          PENUN
+EGPX Scottish FIR           PENUN          PENUN          ATNAK          ATNAK
+EGPX Scottish FIR           ATNAK          ATNAK          VALBO          VALBO
+EGPX Scottish FIR           VALBO          VALBO          N055.00.00.000 E005.00.00.000
+EGPX Scottish FIR           N055.00.00.000 E005.00.00.000 N055.00.00.000 W005.30.00.000
+EGPX Scottish FIR           N055.00.00.000 W005.30.00.000 N053.55.00.000 W005.30.00.000
+EGPX Scottish FIR           N053.55.00.000 W005.30.00.000 NIMAT          NIMAT
+EGPX Scottish FIR           NIMAT          NIMAT          N054.25.00.000 W008.10.00.000
+EGPX Scottish FIR           N054.25.00.000 W008.10.00.000 N054.38.58.000 W009.33.20.000
+EGPX Scottish FIR           N054.38.58.000 W009.33.20.000 N054.34.00.000 W010.00.00.000
+EGPX Scottish FIR           N054.34.00.000 W010.00.00.000 RATSU          RATSU
+EGPX Scottish FIR           N054.38.58.000 W009.33.20.000 N054.45.00.000 W009.00.00.000 ;FL245 Shelf
+EGPX Scottish FIR           N054.45.00.000 W009.00.00.000 N055.20.00.000 W008.15.00.000 ;FL245 Shelf
+EGPX Scottish FIR           N055.20.00.000 W008.15.00.000 N055.25.00.000 W007.20.00.000 ;FL245 Shelf
+EGPX Scottish FIR           N055.25.00.000 W007.20.00.000 N055.20.00.000 W006.55.00.000 ;FL245 Shelf
+EGPX Scottish FIR           N055.20.00.000 W006.55.00.000 N054.25.00.000 W008.10.00.000 ;FL245 Shelf
