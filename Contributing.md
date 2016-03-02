@@ -16,7 +16,7 @@ If you wish to contribute to the UK Sector File project, there's many ways in wh
 
 ## Contributing to the data
 
-If you're just getting started with GitLab (and project contributions) then we suggest you take a look at issues marked with the "up-for-grabs" label.  These issues will be of resonable size and challenge, for anyone to start contributing to the project.  []This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
+If you're just getting started with GitLab (and project contributions) then we suggest you take a look at issues marked with the "up-for-grabs" label.  These issues will be of resonable size and challenge, for anyone to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
 
 If you're comfortable with contributing to Open Source projects on GitLab please ensure you read our expectations for issue tracking, feature proposals and merge requests.
 
