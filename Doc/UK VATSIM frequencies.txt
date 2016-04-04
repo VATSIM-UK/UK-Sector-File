@@ -10,8 +10,9 @@ The following is a list of published UK VATSIM frequencies that differ from thei
 
 Stansted Director 136.2, 126.95 on VATSIM (former SS DIR freq)
 Guernsey ATIS 109.4, 118.9 on VATSIM (Guernsey radar freq)
-City ATIS 136.35, 118.4 on VATSIM (City TWR secondary freq)
-Southend ATIS 136.05, 128.950 on VATSIM (Southend DIR fre)
+City ATIS 136.350, 118.4 on VATSIM (City TWR secondary freq)
+Southend ATIS 136.050, 128.950 on VATSIM (Southend DIR fre)
+Gatwick ATIS 136.525, 134.225 on VATSIM (Gatwick TWR secondary freq)
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.07, 124.35 on VATSIM
