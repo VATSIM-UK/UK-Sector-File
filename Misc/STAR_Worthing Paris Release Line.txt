@@ -1,0 +1,4 @@
+;Worthing - Paris Release Line
+Worthing Paris Release Line N050.39.34.901 E000.26.24.235 N050.21.10.568 W000.22.57.047
+Worthing Paris Release Line N050.21.10.568 W000.22.57.047 N050.13.46.999 W000.15.11.002
+Worthing Paris Release Line N050.13.46.999 W000.15.11.002 N050.00.00.000 W000.15.00.000

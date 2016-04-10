@@ -5,6 +5,7 @@
 4. AIRAC - Added BUZAD and WOBUN to UL10 airway - thanks to @lpeters (Luke Peters)
 5. Updated EGWU threshold coordinates and magnetic headings - thanks to @trevorhannant
 6. Improved Essex COPX prediction (Luton Gate and SSINT->FIN) - thanks to @samw (Sam White)
+7. Added Worthing-Paris release line as 'STAR' data in sector file - thanks to @pierr3 (Pierre Ferran)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
