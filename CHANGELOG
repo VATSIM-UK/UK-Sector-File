@@ -4,6 +4,7 @@
 3. Updated LTC sector line display, particularly for LTC_SW - thanks to @hsugden (Harry Sugden)
 4. AIRAC - Added BUZAD and WOBUN to UL10 airway - thanks to @lpeters (Luke Peters)
 5. Updated EGWU threshold coordinates and magnetic headings - thanks to @trevorhannant
+6. Improved Essex COPX prediction (Luton Gate and SSINT->FIN) - thanks to @samw (Sam White)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
@@ -39,5 +40,5 @@
 31. Updated French CTRs, added the Lille CTR, and updated the Deauville and Lille TMAs - thanks to @pierr3 (Pierre Ferran)
 32. AIRAC - CAE NDB withdrawn; fix FERAS withdrawn; EG D323A danger area updated - thanks to @hsugden (Harry Sugden)
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
-34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thansk to @acrix (Matthew Moy)
+34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
