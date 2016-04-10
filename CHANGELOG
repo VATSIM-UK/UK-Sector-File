@@ -1,5 +1,8 @@
 # Changes from airac-16-03 to airac-16-05
-1. AIRAC - Added BUZAD and WOBUN to UL10 airway - thanks to @lpeters (Luke Peters)
+1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
+2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden (Harry Sugden)
+3. Updated LTC sector line display, particularly for LTC_SW - thanks to @hsugden (Harry Sugden)
+4. AIRAC - Added BUZAD and WOBUN to UL10 airway - thanks to @lpeters (Luke Peters)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
