@@ -1,0 +1,8 @@
+*Billericay:N051.38.00.000:E000.25.00.000
+*South Woodham Ferrers:N051.38.41.000:E000.36.06.000
+*Northey Island:N051.43.20.000:E000.43.19.000
+*Southminster:N051.39.28.000:E000.49.49.000
+*Whitstable Harbour:N051.21.48.000:E001.01.36.000
+*Southend Pier:N051.30.54.000:E000.43.19.000
+*Sheerness:N051.26.49.000:E000.44.41.000
+*Gateway Port:N051.30.17.000:E000.30.11.000
