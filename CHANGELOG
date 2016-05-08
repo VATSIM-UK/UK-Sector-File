@@ -1,4 +1,4 @@
-# Changes from airac-16-03 to airac-16-05
+# Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
 2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden (Harry Sugden)
 3. Updated LTC sector line display, particularly for LTC_SW - thanks to @hsugden (Harry Sugden)
@@ -6,6 +6,8 @@
 5. Updated EGWU threshold coordinates and magnetic headings - thanks to @trevorhannant
 6. Improved Essex COPX prediction (Luton Gate and SSINT->FIN) - thanks to @samw (Sam White)
 7. Added Worthing-Paris release line as 'STAR' data in sector file - thanks to @pierr3 (Pierre Ferran)
+8. AIRAC (1605) - Various Jersey (EGJJ) SIDs realigned and redesignated - thanks to @acrix (Matthew Moy)
+9. Added Southend (EGMC) VRPs - thanks to @tasosp (Tasos Petropoulos)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
