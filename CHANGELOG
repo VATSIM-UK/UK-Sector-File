@@ -9,6 +9,7 @@
 8. AIRAC (1605) - Various Jersey (EGJJ) SIDs realigned and redesignated - thanks to @acrix (Matthew Moy)
 9. Added Southend (EGMC) VRPs - thanks to @tasosp (Tasos Petropoulos)
 10. AIRAC (1604) - Scatsta (EGPM) Radar frequency updated - thanks to @tasosp (Tasos Petropoulos)
+11. AIRAC (1606) - L15/UL15/N859 routing changes - thanks to @lpeters (Luke Peters)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
