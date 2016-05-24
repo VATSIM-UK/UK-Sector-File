@@ -11,6 +11,7 @@
 10. AIRAC (1604) - Scatsta (EGPM) Radar frequency updated - thanks to @tasosp (Tasos Petropoulos)
 11. AIRAC (1606) - L15/UL15/N859 routing changes - thanks to @lpeters (Luke Peters)
 12. AIRAC (1606) - Various Gatwick (EGKK) RNAV SID routing updates - thanks to @agent_squash (Alex Ashley)
+13. AIRAC (1606) - Birmingham (EGBB) SID additions and removals - thanks to @acrix (Matthew Moy)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
