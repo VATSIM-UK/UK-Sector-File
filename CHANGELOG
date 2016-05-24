@@ -13,6 +13,7 @@
 12. AIRAC (1606) - Various Gatwick (EGKK) RNAV SID routing updates - thanks to @agent_squash (Alex Ashley)
 13. AIRAC (1606) - Birmingham (EGBB) SID additions and removals - thanks to @acrix (Matthew Moy)
 14. AIRAC (1606) - Newcastle (EGNT) GIRLI RWY 25 SID updated - thanks to @tasosp (Tasos Petropoulos) and @hsugden (Harry Sugden)
+15. AIRAC (1606) - Airway Y3 removed and P2 routing updated - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
