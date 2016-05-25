@@ -26,6 +26,7 @@
 25. Added Scottish TMA sector static boundary - thanks to @hsugden (Harry Sugden)
 26. Added Scottish Antrim sector static boundary - thanks to @hsugden (Harry Sugden)
 27. AIRAC (1606) - Airways Q41/UQ41 routing updated - thanks to @lpeters (Luke Peters)
+28. Added EGNM TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
