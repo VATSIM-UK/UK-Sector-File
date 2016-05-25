@@ -28,6 +28,7 @@
 27. AIRAC (1606) - Airways Q41/UQ41 routing updated - thanks to @lpeters (Luke Peters)
 28. Added EGNM TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 29. AIRAC (1604) - Added Heathrow (EGLL) intermediate holds on B (east) - thanks to @hsugden (Harry Sugden)
+30. Added new Humberside (EGNJ) SMR / ground map - thanks to @CharlieW198 (Charlie Watson)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
