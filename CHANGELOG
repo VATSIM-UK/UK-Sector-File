@@ -1,3 +1,10 @@
+# Changes from airac-16-06 to airac-16-0X
+1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
+2. Added missing Scottish TMA 5 Class D airspace base label - thanks to @hsugden (Harry Sugden)
+3. Fixed ordering of Birmingham (EGBB) RWY 33 DTY SIDs - thanks to @hsugden (Harry Sugden)
+4. Fixed longitudinal indicator in Gatwick (EGKK) KKE10 coordinate - thanks to @hsugden (Harry Sugden)
+5. Added EGNX GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
 2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden (Harry Sugden)
