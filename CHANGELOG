@@ -5,6 +5,7 @@
 4. Fixed longitudinal indicator in Gatwick (EGKK) KKE10 coordinate - thanks to @hsugden (Harry Sugden)
 5. Added EGNX GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
 6. Added EGBB GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+7. Added KEGUN arrivals to EGNR Stars.txt file - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
