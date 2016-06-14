@@ -7,6 +7,8 @@
 6. Added EGBB GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
 7. Added KEGUN arrivals to EGNR Stars.txt file - thanks to @hsugden (Harry Sugden)
 8. Added Liverpool (EGGP) holding point labels to SMR (A2-A8) - thanks to @chrisboyle
+9. Added missing Newcastle (EGNT) ground position - thansk to @hsugden (Harry Sugden)
+10. Added EGNT GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
