@@ -1,15 +1,3 @@
-# Changes from airac-16-06 to airac-16-0X
-1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
-2. Added missing Scottish TMA 5 Class D airspace base label - thanks to @hsugden (Harry Sugden)
-3. Fixed ordering of Birmingham (EGBB) RWY 33 DTY SIDs - thanks to @hsugden (Harry Sugden)
-4. Fixed longitudinal indicator in Gatwick (EGKK) KKE10 coordinate - thanks to @hsugden (Harry Sugden)
-5. Added EGNX GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-6. Added EGBB GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-7. Added KEGUN arrivals to EGNR Stars.txt file - thanks to @hsugden (Harry Sugden)
-8. Added Liverpool (EGGP) holding point labels to SMR (A2-A8) - thanks to @chrisboyle
-9. Added missing Newcastle (EGNT) ground position - thansk to @hsugden (Harry Sugden)
-10. Added EGNT GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
 2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden (Harry Sugden)
@@ -22,25 +10,7 @@
 9. Added Southend (EGMC) VRPs - thanks to @tasosp (Tasos Petropoulos)
 10. AIRAC (1604) - Scatsta (EGPM) Radar frequency updated - thanks to @tasosp (Tasos Petropoulos)
 11. AIRAC (1606) - L15/UL15/N859 routing changes - thanks to @lpeters (Luke Peters)
-12. AIRAC (1606) - Various Gatwick (EGKK) RNAV SID routing updates - thanks to @agent_squash (Alex Ashley)
-13. AIRAC (1606) - Birmingham (EGBB) SID additions and removals - thanks to @acrix (Matthew Moy)
-14. AIRAC (1606) - Newcastle (EGNT) GIRLI RWY 25 SID updated - thanks to @tasosp (Tasos Petropoulos) and @hsugden (Harry Sugden)
-15. AIRAC (1606) - Airway Y3 removed and P2 routing updated - thanks to @agent_squash (Alex Ashley)
-16. AIRAC (1606) - Conventional airways Q295 and UQ295 replaced by RNAV Q295 - thanks to @hsugden (Harry Sugden)
-17. AIRAC (1606) - Significant point (Fixes) additions - thanks to @acrix (Matthew Moy)
-18. AIRAC (1605) - Aberdeen (EGPD) holding point D1A added - thanks to @tasosp (Tasos Petropoulos)
-19. AIRAC (1606) - Various conventional airways replaced by RNAV equivalents - thanks to @hsugden (Harry Sugden)
-20. Added London City (EGLC) Stand 15 to SMR - thanks to @tasosp (Tasos Petropoulos)
-21. AIRAC (1503) - Norwich (EGSH) ground updates - thanks to @tasosp (Tasos Petropoulos)
-22. Added AC North sector static boundary - thanks to @acrix (Matthew Moy)
-23. AIRAC (1604) - Cambridge (EGSC) RWY 05 coordinates and extended centrelines updated - thanks to @hsugden (Harry Sugden)
-24. AIRAC (1603) - Luton (EGGW) RWY coordinates and extended centrelines updated - thanks to @hsugden (Harry Sugden)
-25. Added Scottish TMA sector static boundary - thanks to @hsugden (Harry Sugden)
-26. Added Scottish Antrim sector static boundary - thanks to @hsugden (Harry Sugden)
-27. AIRAC (1606) - Airways Q41/UQ41 routing updated - thanks to @lpeters (Luke Peters)
-28. Added EGNM TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
-29. AIRAC (1604) - Added Heathrow (EGLL) intermediate holds on B (east) - thanks to @hsugden (Harry Sugden)
-30. Added new Humberside (EGNJ) SMR / ground map - thanks to @CharlieW198 (Charlie Watson)
+12. Added missing Biggin (EGKB) [RNAV] STARs and transitions - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
