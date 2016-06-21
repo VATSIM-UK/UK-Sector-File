@@ -1,3 +1,17 @@
+# Changes from airac-16-06 to airac-16-0X
+1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
+2. Added missing Scottish TMA 5 Class D airspace base label - thanks to @hsugden (Harry Sugden)
+3. Fixed ordering of Birmingham (EGBB) RWY 33 DTY SIDs - thanks to @hsugden (Harry Sugden)
+4. Fixed longitudinal indicator in Gatwick (EGKK) KKE10 coordinate - thanks to @hsugden (Harry Sugden)
+5. Added EGNX GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+6. Added EGBB GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+7. Added KEGUN arrivals to EGNR Stars.txt file - thanks to @hsugden (Harry Sugden)
+8. Added missing Newcastle (EGNT) ground position - thanks to @hsugden (Harry Sugden)
+9. Added EGNT GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+10. Added missing Biggin (EGKB) [RNAV] STARs and transitions - thanks to @agent_squash (Alex Ashley)
+11. Added missing Cranfield (EGTC) RNAV fix 'DOTIT' - thanks to @agent_squash (Alex Ashley)
+12. AIRAC (1607) - Benbecula (BEN) VOR/DME now DME only - thanks to @hsugden (Harry Sugden)
+
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
 2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden (Harry Sugden)
@@ -10,8 +24,6 @@
 9. Added Southend (EGMC) VRPs - thanks to @tasosp (Tasos Petropoulos)
 10. AIRAC (1604) - Scatsta (EGPM) Radar frequency updated - thanks to @tasosp (Tasos Petropoulos)
 11. AIRAC (1606) - L15/UL15/N859 routing changes - thanks to @lpeters (Luke Peters)
-12. Added missing Biggin (EGKB) [RNAV] STARs and transitions - thanks to @agent_squash (Alex Ashley)
-13. Added missing Cranfield (EGTC) RNAV fix 'DOTIT' - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
