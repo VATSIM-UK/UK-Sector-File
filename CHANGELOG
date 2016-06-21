@@ -11,6 +11,7 @@
 10. Added missing Biggin (EGKB) [RNAV] STARs and transitions - thanks to @agent_squash (Alex Ashley)
 11. Added missing Cranfield (EGTC) RNAV fix 'DOTIT' - thanks to @agent_squash (Alex Ashley)
 12. AIRAC (1607) - Benbecula (BEN) VOR/DME now DME only - thanks to @hsugden (Harry Sugden)
+13. AIRAC (1607) - Barrow/Walney Island (EGNL) RNAV approaches and associated airfield fixes - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
