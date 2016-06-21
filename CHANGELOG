@@ -11,6 +11,7 @@
 10. AIRAC (1604) - Scatsta (EGPM) Radar frequency updated - thanks to @tasosp (Tasos Petropoulos)
 11. AIRAC (1606) - L15/UL15/N859 routing changes - thanks to @lpeters (Luke Peters)
 12. Added missing Biggin (EGKB) [RNAV] STARs and transitions - thanks to @agent_squash (Alex Ashley)
+13. Added missing Cranfield (EGTC) RNAV fix 'DOTIT' - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
