@@ -14,6 +14,8 @@
 13. AIRAC (1607) - Barrow/Walney Island (EGNL) RNAV approaches and associated airfield fixes - thanks to @agent_squash (Alex Ashley)
 14. AIRAC (1607) - Campbeltown (EGEC) and Wick (EGPC) RNAV approaches and associated airfield fixes - thanks to @hsugden (Harry Sugden)
 15. AIRAC (1607) - Carlisle (EGNC) runway track and coordinate updates - thanks to @hsugden (Harry Sugden)
+16. AIRAC (1513) - Removed Belfast (EGAA) ground position - thanks to @hsugden (Harry Sugden)
+17. Added EGAA TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-03 to airac-16-06
 1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
