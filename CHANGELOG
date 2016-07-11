@@ -1,5 +1,6 @@
 # Changes from airac-16-07 to airac-16-
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
+2. Added AC West sector static boundary - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-06 to airac-16-07
 1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
