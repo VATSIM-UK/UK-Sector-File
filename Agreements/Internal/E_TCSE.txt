@@ -1,6 +1,6 @@
-COPX:*:*:ABTUM:EGKK:*:London AC Clacton:London TC TIMBA:*:14000:ABTUM
+COPX:*:*:ABTUM:EGKK:*:London AC Clacton:London TC SE:*:14000:ABTUM
 
 ;TIMBA3E withdrawn 02/2016
-COPX:*:*:TANET:EGKK:*:London AC Clacton:London TC TIMBA:*:13000:TANET
+COPX:*:*:TANET:EGKK:*:London AC Clacton:London TC SE:*:13000:TANET
 
-COPX:*:*:TANET:EGLL:*:London AC Clacton:London TC BIG:*:*:TANET
+COPX:*:*:TANET:EGLL:*:London AC Clacton:London TC SE:*:*:TANET

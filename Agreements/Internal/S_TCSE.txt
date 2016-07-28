@@ -1,11 +1,11 @@
-COPX:*:*:NETVU:EGLC:*:London AC Worthing:London TC TIMBA:*:14000:NETVU
-COPX:*:*:NETVU:EGKB:*:London AC Worthing:London TC TIMBA:*:14000:NETVU
-COPX:*:*:NETVU:EGTO:*:London AC Worthing:London TC TIMBA:*:14000:NETVU
-COPX:*:*:NETVU:EGMC:*:London AC Worthing:London TC TIMBA:*:14000:NETVU
+COPX:*:*:NETVU:EGLC:*:London AC Worthing:London TC SE:*:14000:NETVU
+COPX:*:*:NETVU:EGKB:*:London AC Worthing:London TC SE:*:14000:NETVU
+COPX:*:*:NETVU:EGTO:*:London AC Worthing:London TC SE:*:14000:NETVU
+COPX:*:*:NETVU:EGMC:*:London AC Worthing:London TC SE:*:14000:NETVU
 
-COPX:*:*:BIG:EGLC:*:London AC Worthing:London TC TIMBA:*:16000:BIG
-COPX:*:*:BIG:EGKB:*:London AC Worthing:London TC TIMBA:*:16000:BIG
-COPX:*:*:BIG:EGTO:*:London AC Worthing:London TC TIMBA:*:16000:BIG
-COPX:*:*:BIG:EGMC:*:London AC Worthing:London TC TIMBA:*:16000:BIG
+COPX:*:*:BIG:EGLC:*:London AC Worthing:London TC SE:*:16000:BIG
+COPX:*:*:BIG:EGKB:*:London AC Worthing:London TC SE:*:16000:BIG
+COPX:*:*:BIG:EGTO:*:London AC Worthing:London TC SE:*:16000:BIG
+COPX:*:*:BIG:EGMC:*:London AC Worthing:London TC SE:*:16000:BIG
 
-COPX:*:*:NETVU:EGKK:*:London AC Worthing:London TC TIMBA:*:14000:NETVU
+COPX:*:*:NETVU:EGKK:*:London AC Worthing:London TC SE:*:14000:NETVU
