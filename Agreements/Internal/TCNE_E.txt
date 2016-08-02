@@ -1,8 +1,0 @@
-COPX:EGLL:*:CLN:*:*:London TC NE:London AC Clacton:15000:*:CLN
-COPX:EGWU:*:CLN:*:*:London TC NE:London AC Clacton:15000:*:CLN
-COPX:EGGW:*:CLN:*:*:London TC NE:London AC Clacton:15000:*:CLN
-COPX:EGSS:*:CLN:*:*:London TC NE:London AC Clacton:11000:*:CLN
-COPX:EGSC:*:CLN:*:*:London TC NE:London AC Clacton:11000:*:CLN
-COPX:EGLC:*:CLN:*:*:London TC NE:London AC Clacton:11000:*:CLN
-COPX:EGKK:*:CLN:*:*:London TC NE:London AC Clacton:17000:*:CLN
-COPX:EGKB:*:CLN:*:*:London TC NE:London AC Clacton:17000:*:CLN

@@ -1,0 +1,11 @@
+COPX:*:*:UMBUR:EGHH:*:London TC East:London AC Worthing:*:21000:UMBUR20
+COPX:*:*:UMBUR:EGHI:*:London TC East:London AC Worthing:*:21000:UMBUR20
+
+COPX:*:*:LAM:EGLF:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGLK:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGTF:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGHL:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGVN:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGVA:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGDL:*:London TC East:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGTK:*:London TC East:London AC Worthing:*:21000:LAM15

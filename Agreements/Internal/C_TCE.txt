@@ -1,0 +1,3 @@
+COPX:*:*:ODVOD:EGLC:*:London AC Daventry:London TC East:*:22000:ODVOD
+COPX:*:*:ODVOD:EGKB:*:London AC Daventry:London TC East:*:22000:ODVOD
+COPX:*:*:ODVOD:EGTO:*:London AC Daventry:London TC East:*:22000:ODVOD
