@@ -351,6 +351,8 @@ DISPLAY:London S10:London S10:London AC Clacton
 DISPLAY:London S11:London S11:London AC Clacton
 DISPLAY:London AC Clacton:London AC Clacton:London S10
 DISPLAY:London AC Clacton:London AC Clacton:London S11
+DISPLAY:London TC East:London TC East:London S10
+DISPLAY:London TC East:London TC East:London S11
 COORD:N052.26.15.000:E000.13.48.000
 COORD:N052.25.10.000:E001.28.16.000
 COORD:N052.34.12.000:E001.54.10.000
@@ -360,6 +362,7 @@ COORD:N052.28.19.000:E002.46.44.000
 SECTORLINE:LCE1
 DISPLAY:London AC Daventry:London AC Daventry:London AC Clacton
 DISPLAY:London AC Clacton:London AC Clacton:London AC Daventry
+DISPLAY:London TC East:London TC East:London AC Daventry
 DISPLAY:London S10:London AC Daventry:London AC Clacton
 DISPLAY:London S11:London AC Daventry:London AC Clacton
 DISPLAY:London TC CPT:London AC Daventry:London AC Clacton
@@ -421,27 +424,50 @@ DISPLAY:London AC Clacton:London AC Clacton:London AC Dover
 DISPLAY:London AC Clacton:London AC Clacton:TC VATON
 DISPLAY:London AC Dover:London AC Dover:London AC Clacton
 DISPLAY:London TC VATON:London TC VATON:London AC Clacton
+DISPLAY:London TC East:London TC East:London TC VATON
+DISPLAY:London TC East:London TC East:London AC Dover
 COORD:N051.42.22.000:E000.09.04.000
 COORD:N051.27.15.000:E000.33.00.000
 
 SECTORLINE:LED1
 DISPLAY:London AC Clacton:London AC Clacton:London AC Dover
 DISPLAY:London AC Dover:London AC Dover:London AC Clacton
+DISPLAY:London AC Dover:London AC Dover:London TC East
+DISPLAY:London TC East:London TC East:London AC Dover
+DISPLAY:London TC East:London TC East:London TC SE
+DISPLAY:London AC Dover:London TC NE:London AC Dover
+DISPLAY:London TC SE:London TC SE:London TC NE
 COORD:N051.27.15.000:E000.33.00.000
 COORD:N051.26.47.000:E000.49.60.000
 
 SECTORLINE:LED2
+DISPLAY:London AC Clacton:London AC Clacton:London AC Dover
+DISPLAY:London AC Dover:London AC Dover:London AC Clacton
+DISPLAY:London AC Dover:London AC Dover:London TC East
+DISPLAY:London TC East:London TC East:London AC Dover
+DISPLAY:London TC East:London TC East:London TC SE
+DISPLAY:London TC SE:London TC SE:London TC East
 COORD:N051.26.47.000:E000.49.60.000
 COORD:N051.26.58.000:E000.55.32.000
 COORD:N051.24.50.000:E001.31.19.000
 
 SECTORLINE:LED3
+DISPLAY:London AC Clacton:London AC Clacton:London AC Dover
+DISPLAY:London AC Dover:London AC Dover:London AC Clacton
+DISPLAY:London AC Dover:London AC Dover:London TC East
+DISPLAY:London TC East:London TC East:London AC Dover
+DISPLAY:London TC East:London TC East:London TC SE
+DISPLAY:London TC SE:London TC SE:London TC East
 COORD:N051.24.50.000:E001.31.19.000
 COORD:N051.24.30.000:E001.36.43.000
 
 SECTORLINE:LED4
 DISPLAY:London AC Clacton:London AC Clacton:London AC Dover
 DISPLAY:London AC Dover:London AC Dover:London AC Clacton
+DISPLAY:London AC Dover:London AC Dover:London TC East
+DISPLAY:London TC East:London TC East:London AC Dover
+DISPLAY:London TC East:London TC East:London TC SE
+DISPLAY:London TC SE:London TC SE:London TC East
 COORD:N051.24.30.000:E001.36.43.000
 COORD:N051.23.00.000:E001.59.60.000
 
@@ -460,31 +486,39 @@ COORD:N051.23.00.000:E001.59.60.000
 
 SECTORLINE:SAS1
 DISPLAY:London AC Clacton:London AC Clacton:EBBU
+DISPLAY:London AC Clacton:London AC Clacton:London TC East
+DISPLAY:London TC East:London TC East:London AC Clacton
 COORD:N051.42.45.000:E002.10.01.000
 COORD:N051.29.60.000:E002.00.00.000
 
 SECTORLINE:SAS2
 DISPLAY:London AC Clacton:London AC Clacton:EBBU
+DISPLAY:London TC East:London TC East:EBBU
 COORD:N051.29.60.000:E002.00.00.000
 COORD:N051.27.20.000:E002.30.00.000
 
 SECTORLINE:SAS3
 DISPLAY:London AC Clacton:London AC Clacton:EBBU
+DISPLAY:London TC East:London TC East:EBBU
 COORD:N051.38.13.000:E002.29.60.000
 COORD:N051.27.20.000:E002.30.00.000
 
 SECTORLINE:REF1
 DISPLAY:London AC Clacton:London AC Clacton:EHAA
+DISPLAY:London AC Clacton:London AC Clacton:London TC East
+DISPLAY:London TC East:London TC East:London AC Clacton
 COORD:N051.57.02.000:E002.21.23.000
 COORD:N051.42.45.000:E002.10.01.000
 
 SECTORLINE:REF2
 DISPLAY:London AC Clacton:London AC Clacton:EHAA
+DISPLAY:London TC East:London TC East:EHAA
 COORD:N051.57.02.000:E002.21.23.000
 COORD:N051.57.23.000:E002.40.01.000
 
 SECTORLINE:REF3
 DISPLAY:London AC Clacton:London AC Clacton:EHAA
+DISPLAY:London TC East:London TC East:EHAA
 COORD:N051.57.23.000:E002.40.01.000
 COORD:N051.35.55.000:E002.40.01.000
 
@@ -497,11 +531,13 @@ COORD:N051.35.55.000:E002.40.01.000
 
 SECTORLINE:REF5
 DISPLAY:London AC Clacton:London AC Clacton:EHAA
+DISPLAY:London TC East:London TC East:EHAA
 COORD:N051.38.13.000:E002.29.60.000
 COORD:N051.35.55.000:E002.40.01.000
 
 SECTORLINE:REF6
 DISPLAY:London AC Clacton:EHAA:EBBU
+DISPLAY:London TC East:EHAA:EBBU
 COORD:N051.42.45.000:E002.10.01.000
 COORD:N051.38.13.000:E002.29.60.000
 
@@ -606,21 +642,29 @@ COORD:N050.54.19.000:E001.27.54.000
 
 SECTORLINE:LDM1
 DISPLAY:London AC Dover:London AC Dover:LFFF
+DISPLAY:London TC SE:London TC SE:LFFF Low
 COORD:N050.25.17.000:E000.49.17.000
 COORD:N050.39.60.000:E001.27.60.000
 
 SECTORLINE:LDM2
 DISPLAY:London AC Dover:London AC Dover:LFFF
+DISPLAY:London AC Dover:London AC Dover:London TC SE
+DISPLAY:London TC SE:London TC SE:LFFF Low
+DISPLAY:London TC SE:London TC SE:London AC Dover
 COORD:N050.54.19.000:E001.27.54.000
 COORD:N050.39.60.000:E001.27.60.000
 
 SECTORLINE:LDM3
 DISPLAY:London AC Dover:London AC Dover:LFFF
+DISPLAY:London TC SE:London TC SE:LFFF Low
 COORD:N050.54.19.000:E001.27.54.000
 COORD:N050.42.44.000:E001.44.05.000
 COORD:N050.36.06.000:E001.32.18.000
 
 SECTORLINE:LDM4
+DISPLAY:London AC Dover:London AC Dover:London TC SE
+DISPLAY:London TC SE:London TC SE:LFFF Low
+DISPLAY:London TC SE:London TC SE:London AC Dover
 COORD:N050.39.60.000:E001.27.60.000
 COORD:N050.36.06.000:E001.32.18.000
 
@@ -677,5 +721,6 @@ COORD:N049.59.51.000:E001.23.17.000
 
 SECTORLINE:LDM16
 DISPLAY:London AC Dover:London AC Dover:LFFF
+DISPLAY:London TC SE:London TC SE:LFFF Low
 COORD:N050.24.05.000:E000.46.11.000
 COORD:N050.25.17.000:E000.49.17.000
