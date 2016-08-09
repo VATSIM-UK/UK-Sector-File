@@ -8,6 +8,7 @@
 7. Added La Manche delegated airspace as ARTCC High data - thanks to @hsugden (Harry Sugden)
 8. AIRAC (1607) - Belfast (EGAA) runway coordinates and 07/25 extended centreline updated - thanks to @hsugden (Harry Sugden)
 9. AIRAC (1608) - Kirkwall (EGPA) RNAV approach fixes added - thanks to @hsugden (Harry Sugden)
+10. AIRAC (1609) - Barra (EGPR), Islay (EGPI) and Land's End (EGHC) RNAV approach fixes added - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-06 to airac-16-07
 1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
