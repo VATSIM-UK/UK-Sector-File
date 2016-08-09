@@ -10,6 +10,7 @@
 9. AIRAC (1608) - Kirkwall (EGPA) RNAV approach fixes added - thanks to @hsugden (Harry Sugden)
 10. AIRAC (1609) - Barra (EGPR), Islay (EGPI) and Land's End (EGHC) RNAV approach fixes added - thanks to @hsugden (Harry Sugden)
 11. AIRAC (1609) - Birmingham (EGBB) Runway 15 2Y RNAV SIDs now permanent procedure - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1609) - Southampton (EGHI) radar frequency updated to 122.720 - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-06 to airac-16-07
 1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
