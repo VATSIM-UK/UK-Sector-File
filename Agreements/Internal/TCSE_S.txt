@@ -1,1 +1,1 @@
-COPX:EGKK:*:LAM:*:*:London TC BIG:London AC Worthing:13000:*:LAM
+COPX:EGKK:*:LAM:*:*:London TC SE:London AC Worthing:13000:*:LAM

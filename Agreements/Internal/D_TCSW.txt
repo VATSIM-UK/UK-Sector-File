@@ -1,10 +1,3 @@
-COPX:*:*:BANVA:EGLF:*:London AC Dover:London TC SW:*:18000:BANVA
-COPX:*:*:BANVA:EGLK:*:London AC Dover:London TC SW:*:18000:BANVA
-COPX:*:*:BANVA:EGTF:*:London AC Dover:London TC SW:*:18000:BANVA
-COPX:*:*:BANVA:EGHL:*:London AC Dover:London TC SW:*:18000:BANVA
-COPX:*:*:BANVA:EGHH:*:London AC Dover:London TC SW:*:18000:BANVA
-COPX:*:*:BANVA:EGHI:*:London AC Dover:London TC SW:*:18000:BANVA
-
 COPX:*:*:WAFFU:EGLF:*:London AC Dover:London TC SW:*:18000:WAFFU15
 COPX:*:*:WAFFU:EGLK:*:London AC Dover:London TC SW:*:18000:WAFFU15
 COPX:*:*:WAFFU:EGTF:*:London AC Dover:London TC SW:*:18000:WAFFU15

@@ -1,0 +1,9 @@
+FIR_COPX:*:*:MASOS:EHRD:*:London AC Clacton:EHAA low:*:19000:MASOS
+
+FIR_COPX:*:*:HSD:EHEH:*:London AC Clacton:EHAA low:*:19000:HSD
+FIR_COPX:*:*:HSD:EHWO:*:London AC Clacton:EHAA low:*:19000:HSD
+FIR_COPX:*:*:HSD:EHVK:*:London AC Clacton:EHAA low:*:19000:HSD
+FIR_COPX:*:*:HSD:EHGR:*:London AC Clacton:EHAA low:*:19000:HSD
+FIR_COPX:*:*:HSD:EHMZ:*:London AC Clacton:EHAA low:*:19000:HSD
+FIR_COPX:*:*:HSD:EHSE:*:London AC Clacton:EHAA low:*:19000:HSD
+FIR_COPX:*:*:HSD:EHBD:*:London AC Clacton:EHAA low:*:19000:HSD
