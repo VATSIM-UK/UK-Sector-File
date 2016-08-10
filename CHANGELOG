@@ -12,7 +12,7 @@
 11. AIRAC (1609) - Birmingham (EGBB) Runway 15 2Y RNAV SIDs now permanent procedure - thanks to @hsugden (Harry Sugden)
 12. AIRAC (1609) - Southampton (EGHI) radar frequency updated to 122.720 - thanks to @hsugden (Harry Sugden)
 13. Sector Line, Ownership and Agreement changes relating to TC East and TC South airspace changes - thanks to @hsugden (Harry Sugden)
-14. Added EGPK GND/TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+14. Added EGPK, EGAE, EGPE and EGNC GND/TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
 
 # Changes from airac-16-06 to airac-16-07
 1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
