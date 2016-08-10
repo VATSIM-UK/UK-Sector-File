@@ -374,6 +374,8 @@ COORD:N052.11.04.000:E000.05.28.000
 SECTORLINE:LCE2
 DISPLAY:London AC Daventry:London AC Daventry:London AC Clacton
 DISPLAY:London AC Clacton:London AC Clacton:London AC Daventry
+DISPLAY:London TC CPT:London AC Daventry:London AC Clacton
+DISPLAY:London AC Dover:London AC Daventry:London AC Clacton
 COORD:N052.11.04.000:W000.21.59.000
 COORD:N052.11.04.000:E000.05.28.000
 
