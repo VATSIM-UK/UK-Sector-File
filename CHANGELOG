@@ -5,6 +5,7 @@
 4. Removed danger area EG D121 - thanks to @agent_squash (Alex Ashley)
 5. AIRAC (1612) - Lands End (EGHC) RNAV fix BAVMA redesignated BAVKI - thanks to @agent_squash (Alex Ashley)
 6. AIRAC (1610) - Amended agreements between SS FIN and TC NW for truncated Stansted (EGSS) SIDs - thanks to @hsugden (Harry Sugden)
+7. AIRAC (1610) - Added danger area EG D138C - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-07 to airac-16-09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
