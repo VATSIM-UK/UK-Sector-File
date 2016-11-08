@@ -1,4 +1,7 @@
-# Changes from airac-16-07 to airac-16-
+# Changes from airac-19-09 to airac-16-12
+1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
+
+# Changes from airac-16-07 to airac-16-09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
 2. Added AC West sector static boundary - thanks to @hsugden (Harry Sugden)
 3. Added Ronaldsway (EGNS) VRPs - thanks to @agent_squash (Alex Ashley)
