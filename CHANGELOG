@@ -2,6 +2,8 @@
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
 2. Moved Heathrow (EGLL) specific RNAV fixes to correct file - thanks to @agent_squash (Alex Ashley)
 3. AIRAC (1610) - Aldergrove (EGAA) ground position reinstated - thanks to @agent_squash (Alex Ashley)
+4. Removed danger area EG D121 - thanks to @agent_squash (Alex Ashley)
+5. AIRAC (1612) - Lands End (EGHC) RNAV fix BAVMA redesignated BAVKI - thanks to @agent_squash (Alex Ashley) 
 
 # Changes from airac-16-07 to airac-16-09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
