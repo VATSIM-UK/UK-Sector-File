@@ -10,6 +10,7 @@
 9. Removed defunct Manchester (EGCC) LIVSU SIDs - thanks to @agent_squash (Alex Ashley)
 10. AIRAC (1610) - Added Leeds East (EGCM) basic airport details - thanks to @agent_squash (Alex Ashley)
 11. AIRAC (1610) - Significant point (FIXES) updates, and removal of INS VOR - thanks to @agent_squash (Alex Ashley)
+12. AIRAC (1610) - Various airway redesignations and updates - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-07 to airac-16-09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
