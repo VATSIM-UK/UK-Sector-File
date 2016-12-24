@@ -3,6 +3,7 @@
 2. Removed LIVSU fix from FIXES_OLD to prevent issue with UL980 - thanks to @agent_squash (Alex Ashley)
 3. Corrected General RNAV fix names on Glasgow (EGPF) TLA5A SID - thanks to @lpeters (Luke Peters)
 4. AIRAC (1613) - Updated Southampton (EGHI) ATIS frequency - thanks to @lpeters (Luke Peters)
+5. Updated Inverness (EGPE) ATIS frequency with a suitable frequency - thanks to @lpeters (Luke Peters)
 
 # Changes from airac-16-09 to airac-16-12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
