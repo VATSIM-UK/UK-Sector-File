@@ -16,9 +16,9 @@ If you wish to contribute to the UK Sector File project, there's many ways in wh
 
 ## Contributing to the data
 
-If you're just getting started with GitLab (and project contributions) then we suggest you take a look at issues marked with the "up-for-grabs" label.  These issues will be of resonable size and challenge, for anyone to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
+If you're just getting started with GitHub (and project contributions) then we suggest you take a look at issues marked with the "up-for-grabs" label.  These issues will be of resonable size and challenge, for anyone to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
 
-If you're comfortable with contributing to Open Source projects on GitLab please ensure you read our expectations for issue tracking, feature proposals and merge requests.
+If you're comfortable with contributing to Open Source projects on GitHub please ensure you read our expectations for issue tracking, feature proposals and merge requests.
 
 **Please avoid** adding airac related commits until you've seen an issue created for them - anything else is fair game.
 
@@ -33,7 +33,7 @@ If you require **support** with the Sector File or Euroscope, please utilise our
 When submitting an issue, there's a few guidelines we'd ask you to respect to make it easier to manage (and for others to understand):
 * **Search the issue tracker** before you submit your issue - it may already be present.
 * When opening an issue, a template is provided for you.  Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
-* **Issue Weight** allows us to get an idea of how much work is required.  If it's a simple change (such as modification of runway identifiers) then the weight will likely be quite low (1 or 2).   Adding an SMR or some extra stands (and unlikely to involve huge changes) is around a 4 or 5.  Any issue that will involve changes of current sector elements will be an 8 or 9.
+* **Issue Weight** allows us to get an idea of how much work is required.  If it's a simple change (such as modification of runway identifiers) then the weight will likely be quite low (1 or 2).  Tasks that are unlikely to involve huge changes (such as amending an SMR or adding some extra stands) might be around a 4 or 5.  Issues that involve changes of sector lines/ownership (for example, incorporating a whole new sector) will be an 8 or 9.
  * If something is very large (i.e. an 8 or 9) it should be split up into smaller tasks that can be managed separately by different people.
 * If you disagree with the weight of an issue, comment and discuss this with the developers to reach a suitable medium (other contributors may base their decision to contribute on the weight assigned)
 * Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
@@ -48,20 +48,20 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Fork the project into your personal space on GitLab.com
 * Create a new branch (with the name issue-<issue_number>, replacing issue_number with the issue number you're resolving)
 * Commit your changes
- * When writing commit messages, consider closing your issues via the commit message (by starting the message with "fix #22" or "fixes #22" and then your description.
+ * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
 * **Add your changes to the CHANGELOG.md file**
 * Push the commit(s) to your fork
-* Submit a merge request (MR) to the development branch
+* Submit a merge request (MR) to the master branch
 * The MR title should describe the change that has been made
 * The MR description should confirm what changes have been made, how you know they're correct (with references)
- * Please include any relevant screenshots to prove the changes work.
+ * Please include any relevant screenshots to prove the changes work - this is particu
 * Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the MR (you can reference MRs using the format !<MR_ID> for example !22).
 * Be prepared to answer any questions about your MR when it is reviewed for acceptance
 
 **If you are actively working on a large change** consider creating the MR early but prefixing it with [WIP] as this will prevent it from being accepted *but* let other people know you're working on that issue.
 
-**Please** keep your changes in a single MR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large MRs with a small error will prevent the entire MR being accepted (and could potentially miss the airac release date).
+**Please** keep your changes in a single MR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large MRs with a small error will prevent the entire MR being accepted (and could potentially miss the airac/sector release date).
 
 # Expectations
 As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting merge requests or patches, and other activities.
@@ -70,4 +70,4 @@ We are committed to making participation in this project a harassment-free exper
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct.
 
-This code of conduct applies both within this project space and public spaces when an individual is representing the project or its community.
+This Code of Conduct applies both within this project space and public spaces when an individual is representing the project or its community.
