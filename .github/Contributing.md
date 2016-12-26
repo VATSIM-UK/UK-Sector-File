@@ -50,7 +50,7 @@ The work-flow for submitting a new merge request is designed to be simple, but a
 * Commit your changes
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
-* **Add your changes to the CHANGELOG.md file**
+* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md)
 * Push the commit(s) to your fork
 * Submit a merge request (MR) to the master branch
 * The MR title should describe the change that has been made
