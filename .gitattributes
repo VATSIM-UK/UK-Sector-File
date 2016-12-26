@@ -1,0 +1,10 @@
+* text=auto
+
+*.txt text
+*.rwy text
+
+*.ini -text
+*.md -text
+*.pdf -text
+*.kmz -text
+*.zip -text
