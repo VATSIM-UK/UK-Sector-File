@@ -33,6 +33,8 @@
 13. AIRAC (1610) - Added new Strumble CTA to ARTCC High - thanks to @hsugden (Harry Sugden)
 14. AIRAC (1612) - Runway track updates at Cardiff (EGFF), Edinburgh (EGPH) and Aberdeen (EGPD) - thanks to @hsugden (Harry Sugden)
 15. AIRAC (1611) - Cardiff (EGFF) RNAV approaches and associated airfield fixes - thanks to @hsugden (Harry Sugden)
+16. AIRAC (1610) - Doncaster (EGCN) Hold G1 Added, Removed stands 11 and 15 - thanks to @arcticash (Ash Kirby)
+17. AIRAC (1610B) - Leeds Bradford (EGNM) Holds GA/GB added, Holds L1/L2/L3/F1/F2/F3 redesignated into L1/L2/F1/F2, Old hold line F1 and L1 removed - thanks to @arcticash (Ash Kirby)
 
 # Changes from airac-16-07 to airac-16-09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
