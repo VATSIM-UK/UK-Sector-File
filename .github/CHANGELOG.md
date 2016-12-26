@@ -16,6 +16,9 @@
 15. AIRAC (1611) - East Midlands (EGNX) runway track updated - thanks to @hsugden (Harry Sugden)
 16. AIRAC (1610) - Various airway redesignations and updates, incl. Shoreham (EGKA) runway redesignation - thanks to @hsugden (Harry Sugden)
 17. Amended N864 airspace base between BHD and 5NM before EXMOR to FL65 - thanks to @hsugden (Harry Sugden)
+18. AIRAC (1610) - Doncaster (EGCN) Hold G1 Added, Removed stands 11 and 15 - thanks to @arcticash (Ash Kirby)
+19. AIRAC (1610) - Leeds Bradford (EGNM) Holds GA/GB added, Holds L1/L2/L3/F1/F2/F3 redesignated into L1/L2/F1/F2, Old hold line F1 and L1 removed - thanks to @arcticash (Ash Kirby)
+20. AIRAC (1611) - East Midlands (EGNX) Holds M4 and M5 Added - thanks to @arcticash (Ash Kirby)
 
 # Changes from airac-16-09 to airac-16-12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
@@ -33,8 +36,6 @@
 13. AIRAC (1610) - Added new Strumble CTA to ARTCC High - thanks to @hsugden (Harry Sugden)
 14. AIRAC (1612) - Runway track updates at Cardiff (EGFF), Edinburgh (EGPH) and Aberdeen (EGPD) - thanks to @hsugden (Harry Sugden)
 15. AIRAC (1611) - Cardiff (EGFF) RNAV approaches and associated airfield fixes - thanks to @hsugden (Harry Sugden)
-16. AIRAC (1610) - Doncaster (EGCN) Hold G1 Added, Removed stands 11 and 15 - thanks to @arcticash (Ash Kirby)
-17. AIRAC (1610B) - Leeds Bradford (EGNM) Holds GA/GB added, Holds L1/L2/L3/F1/F2/F3 redesignated into L1/L2/F1/F2, Old hold line F1 and L1 removed - thanks to @arcticash (Ash Kirby)
 
 # Changes from airac-16-07 to airac-16-09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
