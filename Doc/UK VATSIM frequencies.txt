@@ -13,6 +13,7 @@ Guernsey ATIS 109.4, 118.9 on VATSIM (Guernsey radar freq)
 City ATIS 136.350, 118.4 on VATSIM (City TWR secondary freq)
 Southend ATIS 136.050, 128.950 on VATSIM (Southend DIR fre)
 Gatwick ATIS 136.525, 134.225 on VATSIM (Gatwick TWR secondary freq)
+Inverness ATIS 109.2, 124.7 on VATSIM
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.07, 124.35 on VATSIM
