@@ -4,4 +4,4 @@
 
 # Screenshots (if necessary)
 
-< Please provide screenshots if this will facilitate a faster review of these changes - e.g. for SMR creation/updates)
+< Please provide screenshots if this will facilitate a faster review of these changes - e.g. for SMR creation/updates) >

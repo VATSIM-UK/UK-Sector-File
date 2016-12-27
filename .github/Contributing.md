@@ -28,40 +28,37 @@ At present there isn't a publicly accessible auto-generation tool for the data w
 
 ## Issue Tracking
 
-If you require **support** with the Sector File or Euroscope, please utilise our Slack channels for this purpose.  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
+If you require **support** with the Sector File or EuroScope, please utilise our Slack channels or the [VATSIM UK Helpdesk](https://helpdesk.vatsim-uk.co.uk/).  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
 
 When submitting an issue, there's a few guidelines we'd ask you to respect to make it easier to manage (and for others to understand):
 * **Search the issue tracker** before you submit your issue - it may already be present.
 * When opening an issue, a template is provided for you.  Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
-* **Issue Weight** allows us to get an idea of how much work is required.  If it's a simple change (such as modification of runway identifiers) then the weight will likely be quite low (1 or 2).  Tasks that are unlikely to involve huge changes (such as amending an SMR or adding some extra stands) might be around a 4 or 5.  Issues that involve changes of sector lines/ownership (for example, incorporating a whole new sector) will be an 8 or 9.
- * If something is very large (i.e. an 8 or 9) it should be split up into smaller tasks that can be managed separately by different people.
-* If you disagree with the weight of an issue, comment and discuss this with the developers to reach a suitable medium (other contributors may base their decision to contribute on the weight assigned)
 * Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
 
-## Merge Requests
+**In order to be 'assigned' an issue**, please comment on the issue itself, mentioning **@VATSIM-UK/sector-file-team** - we can then assign your GitHub account to that particular issue.
 
-We welcome merge requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "up-for-grabs" but other improvements are also welcome - please ensure you read over the merge work-flow below.
+## Push Requests
 
-If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [UK Sector File issue tracker](https://gitlab.com/vatsim-uk/UK-Sector-File/issues).
+We welcome push requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "up-for-grabs" but other improvements are also welcome - please ensure you read over the push work-flow below.
 
-The work-flow for submitting a new merge request is designed to be simple, but also ensure consistency from **all** contributors:
-* Fork the project into your personal space on GitLab.com
-* Create a new branch (with the name issue-<issue_number>, replacing issue_number with the issue number you're resolving)
+If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [UK Sector File issue tracker](https://github.com/VATSIM-UK/UK-Sector-File/issues).
+
+The work-flow for submitting a new push request is designed to be simple, but also to ensure consistency from **all** contributors:
+* Fork the project into your personal space on GitHub.com
+* Create a new branch (with the name issue-issue_number, replacing issue_number with the issue number you're resolving)
 * Commit your changes
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
-* **Add your changes to the CHANGELOG.md file**
+* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md)
 * Push the commit(s) to your fork
-* Submit a merge request (MR) to the master branch
-* The MR title should describe the change that has been made
-* The MR description should confirm what changes have been made, how you know they're correct (with references)
+* Submit a push request (PR) to the master branch
+* The PR title should describe the change that has been made
+* The PR description should confirm what changes have been made and how you know they're correct (with references)
  * Please include any relevant screenshots to prove the changes work - this is particu
-* Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the MR (you can reference MRs using the format !<MR_ID> for example !22).
-* Be prepared to answer any questions about your MR when it is reviewed for acceptance
+* Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the PR (you can reference PRs in the same way as issues, using the format #pr-id).
+* Be prepared to answer any questions about your PR when it is reviewed for acceptance
 
-**If you are actively working on a large change** consider creating the MR early but prefixing it with [WIP] as this will prevent it from being accepted *but* let other people know you're working on that issue.
-
-**Please** keep your changes in a single MR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large MRs with a small error will prevent the entire MR being accepted (and could potentially miss the airac/sector release date).
+**Please** keep your changes in a single PR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large PRs with a small error will prevent the entire PR from being accepted (and could potentially miss the airac/sector release date).
 
 # Expectations
 As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting merge requests or patches, and other activities.

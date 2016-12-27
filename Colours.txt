@@ -39,6 +39,7 @@
 #define smrCCstand 9830399
 #define smrCCtaxiway 13290186
 #define smrCompassbase 16777215
+#define smrConstruction 150
 #define smrDarkApron 3026478
 #define smrGDapron 11908533
 #define smrGDbuilding 9142113
@@ -60,7 +61,6 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
-#define smrKKRed 150
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
 #define smrMCyellow 52428
