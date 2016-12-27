@@ -1,6 +1,6 @@
 # Summary of changes
 
-< Please provide a sensible summary of changes for this merge request, ennsuring all changes are explained. >
+< Please provide a sensible summary of changes for this merge request, ensuring all changes are explained. >
 
 # Screenshots (if necessary)
 
