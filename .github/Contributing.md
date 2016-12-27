@@ -45,7 +45,7 @@ If you wish to add a new feature or you spot a bug that you wish to fix, **pleas
 
 The work-flow for submitting a new push request is designed to be simple, but also to ensure consistency from **all** contributors:
 * Fork the project into your personal space on GitHub.com
-* Create a new branch (with the name issue-<issue_number>, replacing issue_number with the issue number you're resolving)
+* Create a new branch (with the name issue-issue_number, replacing issue_number with the issue number you're resolving)
 * Commit your changes
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
@@ -55,7 +55,7 @@ The work-flow for submitting a new push request is designed to be simple, but al
 * The PR title should describe the change that has been made
 * The PR description should confirm what changes have been made and how you know they're correct (with references)
  * Please include any relevant screenshots to prove the changes work - this is particu
-* Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the PR (you can reference PRs using the format !<MR_ID>: for example, !22).
+* Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the PR (you can reference PRs in the same way as issues, using the format #pr-id).
 * Be prepared to answer any questions about your PR when it is reviewed for acceptance
 
 **Please** keep your changes in a single PR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large PRs with a small error will prevent the entire PR from being accepted (and could potentially miss the airac/sector release date).
