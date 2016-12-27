@@ -21,6 +21,7 @@
 20. AIRAC (1607) - Heathrow (EGLL) SATUN hold respositioned and Link 25 removed - thanks to @hsugden (Harry Sugden)
 21. AIRAC (1701) - Heathrow (EGLL) SMR updated, removing/adding various construction areas - thanks to @hsugden (Harry Sugden)
 22. AIRAC (1611) - East Midlands (EGNX) Holds M4 and M5 Added - thanks to @arcticash (Ash Kirby)
+23. AIRAC (1609) - Southend (EGMC) stands 12-16 replaced by stands 11-14 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
