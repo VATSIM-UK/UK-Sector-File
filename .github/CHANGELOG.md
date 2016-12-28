@@ -24,6 +24,7 @@
 23. AIRAC (1609) - Southend (EGMC) stands 12-16 replaced by stands 11-14 - thanks to @hsugden (Harry Sugden)
 24. Fixed Carlisle (EGNC) online ring display to MAN positions - thanks to @hsugden (Harry Sugden)
 25. Added London City (EGLC) / London CTR helicopter reporting point freetext - thanks to @hsugden (Harry Sugden)
+26. Corrected Southern CTA coordinates on northern boundary - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
