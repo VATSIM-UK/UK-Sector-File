@@ -1,0 +1,31 @@
+;EGLC (LON CTR) Heli Reporting Points
+N051.25.25.680:W000.14.24.720:EGLC Heli Reporting Points:*Caesars Camp
+N051.23.21.120:W000.13.51.240:EGLC Heli Reporting Points:*Morden
+N051.20.18.240:W000.12.36.720:EGLC Heli Reporting Points:*Banstead
+N051.28.21.720:W000.13.22.080:EGLC Heli Reporting Points:*Barnes
+N051.25.46.200:W000.19.07.320:EGLC Heli Reporting Points:*Teddington
+N051.24.06.840:W000.23.54.240:EGLC Heli Reporting Points:*Sunbury Lock
+N051.26.24.300:W000.25.29.280:EGLC Heli Reporting Points:*Feltham
+N051.27.19.800:W000.26.09.600:EGLC Heli Reporting Points:*Bedfont
+N051.20.52.080:W000.21.47.160:EGLC Heli Reporting Points:*Esher Common
+N051.20.15.720:W000.24.50.040:EGLC Heli Reporting Points:*Oxshott West
+N051.20.58.920:W000.20.44.880:EGLC Heli Reporting Points:*Arbrook
+N051.20.16.440:W000.20.16.440:EGLC Heli Reporting Points:*Oxshott East
+N051.24.01.800:W000.31.59.520:EGLC Heli Reporting Points:*Thorpe
+N051.20.55.320:W000.41.25.440:EGLC Heli Reporting Points:*Bagshott Mast
+N051.29.08.880:W000.17.14.640:EGLC Heli Reporting Points:*Kew Bridge
+N051.29.54.960:W000.17.40.560:EGLC Heli Reporting Points:*Brentford
+N051.31.52.680:W000.18.55.080:EGLC Heli Reporting Points:*Perivale
+N051.32.47.760:W000.24.58.320:EGLC Heli Reporting Points:*Gutteridge
+N051.30.47.880:W000.26.42.000:EGLC Heli Reporting Points:*Hayes
+N051.29.42.720:W000.27.02.880:EGLC Heli Reporting Points:*Airport Spur
+N051.28.54.840:W000.27.02.520:EGLC Heli Reporting Points:*Sipson
+N051.33.22.320:W000.28.06.960:EGLC Heli Reporting Points:*Uxbridge Common
+N051.31.52.320:W000.30.30.600:EGLC Heli Reporting Points:*Iver
+N051.29.39.120:W000.28.48.000:EGLC Heli Reporting Points:*West Drayton
+N051.33.41.760:W000.42.10.080:EGLC Heli Reporting Points:*Cookham
+N051.36.05.040:W000.27.25.920:EGLC Heli Reporting Points:*Northwood
+N051.28.57.720:W000.08.58.560:EGLC Heli Reporting Points:*Chelsea Bridge
+N051.29.14.568:W000.07.41.448:EGLC Heli Reporting Points:*Vauxhall Bridge
+N051.30.24.120:W000.05.21.480:EGLC Heli Reporting Points:*London Bridge
+N051.29.02.760:W000.00.43.200:EGLC Heli Reporting Points:*Isle of Dogs
