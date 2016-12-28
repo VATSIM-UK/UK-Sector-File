@@ -18,6 +18,8 @@
 17. Amended N864 airspace base between BHD and 5NM before EXMOR to FL65 - thanks to @hsugden (Harry Sugden)
 17. AIRAC (1610) - Doncaster (EGCN) Hold G1 Added, Removed stands 11 and 15 - thanks to @arcticash (Ash Kirby)
 18. AIRAC (1610) - Leeds Bradford (EGNM) Holds GA/GB added, Holds L1/L2/L3/F1/F2/F3 redesignated into L1/L2/F1/F2, Old hold line F1 and L1 removed - thanks to @arcticash (Ash Kirby)
+19. AIRAC (1607) - Luton (EGGW) stand 16L replaced with stands 16, 17, 18, and 19 - thanks to @orhodes (Oliver Rhodes)
+20. AIRAC (1613) - Luton (EGGW) stands 43L, 44L, 44R, and 45R thanks to @orhodes (Oliver Rhodes)
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
