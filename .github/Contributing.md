@@ -8,7 +8,7 @@ By submitting code as an individual you agree that VATSIM UK can use your ammend
 # Helping others
 Please help other UK Sector File users wherever you can (everybody starts somewhere).  If you require assistance (or wish to provide additional assistance) you can find our contributors in the VATSIM UK slack team.
 
-To access Slack, you can visit https://core.vatsim-uk.co.uk and follow the registration instructions.  Once you've logged in, find the channel "UKSectorFile"
+To access Slack, you can visit https://core.vatsim-uk.co.uk and follow the registration instructions.  Once you've logged in, find the channel "UKSectorFile".
 
 # I want to contribute!
 
@@ -44,19 +44,19 @@ We welcome push requests with fixes and improvements to the Sector File project.
 If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [UK Sector File issue tracker](https://github.com/VATSIM-UK/UK-Sector-File/issues).
 
 The work-flow for submitting a new push request is designed to be simple, but also to ensure consistency from **all** contributors:
-* Fork the project into your personal space on GitHub.com
-* Create a new branch (with the name issue-issue_number, replacing issue_number with the issue number you're resolving)
-* Commit your changes
+* Fork the project into your personal space on GitHub.com.
+* Create a new branch (with the name issue-issue_number, replacing issue_number with the issue number you're resolving).
+* Commit your changes.
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
-* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md)
-* Push the commit(s) to your fork
-* Submit a push request (PR) to the master branch
-* The PR title should describe the change that has been made
-* The PR description should confirm what changes have been made and how you know they're correct (with references)
- * Please include any relevant screenshots to prove the changes work - this is particu
+* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md).
+* Push the commit(s) to your fork.
+* Submit a push request (PR) to the master branch.
+* The PR title should describe the change that has been made.
+* The PR description should confirm what changes have been made and how you know they're correct (with references).
+ * Please include any relevant screenshots to prove the changes work - this is particularly important for SMRs. 
 * Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the PR (you can reference PRs in the same way as issues, using the format #pr-id).
-* Be prepared to answer any questions about your PR when it is reviewed for acceptance
+* Be prepared to answer any questions about your PR when it is reviewed for acceptance.
 
 **Please** keep your changes in a single PR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large PRs with a small error will prevent the entire PR from being accepted (and could potentially miss the airac/sector release date).
 
