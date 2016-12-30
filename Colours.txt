@@ -57,6 +57,7 @@
 #define smrGWcream 12701121
 #define smrGWlightBlue 13487540
 #define smrGWorange 2474495
+#define smrGWtaxiways 12103565
 #define smrHHcompass 16777215
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
