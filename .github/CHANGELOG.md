@@ -27,7 +27,8 @@
 26. Corrected Southern CTA coordinates on northern boundary - thanks to @hsugden (Harry Sugden)
 27. AIRAC (1607) - Luton (EGGW) stand 16L replaced with stands 16, 17, 18, and 19 - thanks to @orhodes (Oliver Rhodes)
 28. AIRAC (1613) - Luton (EGGW) stands 43L, 44L, 44R, and 45R - thanks to @orhodes (Oliver Rhodes)
-29. Simplified Luton (EGGW) stand labelling (20R, 21L/R, 22L, 41L/R, and 42L/R) and added some missing stands (14L, 15R, 42R and 71) - thanks to @sw104 (Sam White). 
+29. Simplified Luton (EGGW) stand labelling (20R, 21L/R, 22L, 41L/R, and 42L/R) and added some missing stands (14L, 15R, 42R and 71) - thanks to @sw104 (Sam White)
+30. AIRAC (1701) - New fixes ULKOK and INLOD added - thanks to @arcticash (Ash Kirby)
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
