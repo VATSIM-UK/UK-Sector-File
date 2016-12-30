@@ -28,6 +28,7 @@
 27. AIRAC (1607) - Luton (EGGW) stand 16L replaced with stands 16, 17, 18, and 19 - thanks to @orhodes (Oliver Rhodes)
 28. AIRAC (1613) - Luton (EGGW) stands 43L, 44L, 44R, and 45R - thanks to @orhodes (Oliver Rhodes)
 29. Updated Luton (EGGW) SMR - thanks to @sw104 (Sam White) and Luke Brown.
+30. Fixed Luton (EGGW) stand 16L apron box, fixed holding ponts C2 and A4E representation and added stand 71 area outline - thanks to @sw104 (Sam White). 
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
