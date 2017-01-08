@@ -1,4 +1,8 @@
-# Changes from release 2016/12 to 2017/
+# Changes from release 2017/01 to 2017/02
+1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1609) - Manchester (EGCC) ground layout updated - thanks to @acrix (Matthew Moy)
+
+# Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
 2. Removed LIVSU fix from FIXES_OLD to prevent issue with UL980 - thanks to @agent_squash (Alex Ashley)
 3. Corrected General RNAV fix names on Glasgow (EGPF) TLA5A SID - thanks to @lpeters (Luke Peters)
@@ -31,7 +35,11 @@
 30. AIRAC (1701) - New fixes ULKOK and INLOD added - thanks to @arcticash (Ash Kirby)
 31. Bugfix - Corrected a typo on the Handcross Gatwick (EGKK) VRP - thanks to @arcticash (Ash Kirby)
 32. Updated Luton (EGGW) SMR - thanks to @sw104 (Sam White) and Luke Brown
-33. Fixed Luton (EGGW) stand 16L apron box, fixed holding ponts C2 and A4E representation and added stand 71 area outline - thanks to @sw104 (Sam White).
+33. Fixed Luton (EGGW) stand 16L apron box, fixed holding ponts C2 and A4E representation and added stand 71 area outline - thanks to @sw104 (Sam White)
+34. AIRAC (1511) - Gatwick (EGKK) Pier 1 reinstated and holds A2 & A3 repositioned - thanks to @hsugden (Harry Sugden)
+35. AIRAC (1701) - Leeds (EGNM) stands updated - thanks to @hsugden (Harry Sugden)
+36. AIRAC (1701) - Doncaster (EGCN) stand updates and reconfiguration of taxiway E - thanks to @hsugden (Harry Sugden)
+37. AIRAC (1609) - Cambridge (EGSC) runway tracks and holds updated - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
