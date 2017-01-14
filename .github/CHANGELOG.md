@@ -1,5 +1,6 @@
 # Changes from release 2017/01 to 2017/02
-4. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
+1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
+3. AIRAC (1611) - Blackpool (EGNH) VRPs Updated/Corrected - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
@@ -60,7 +61,7 @@
 # Changes from release 2016/07 to 2016/09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
 2. Added AC West sector static boundary - thanks to @hsugden (Harry Sugden)
-3. Added Ronaldsway (EGNS) VRPs - thanks to @agent_squash (Alex Ashley)
+3. Added Ronaldsway (EGNS) fs - thanks to @agent_squash (Alex Ashley)
 4. Amended agreement between Heathrow INT S and TC SW and added CPT radar gate - thanks to @hsugden (Harry Sugden)
 5. AIRAC (1608) - Liverpool (EGGP) RNAV approach fixes added - thanks to @agent_squash (Alex Ashley)
 6. Added squawk ranges to various London ACC event only splits - thanks to @hsugden (Harry Sugden)
