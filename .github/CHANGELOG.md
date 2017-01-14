@@ -61,7 +61,7 @@
 # Changes from release 2016/07 to 2016/09
 1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
 2. Added AC West sector static boundary - thanks to @hsugden (Harry Sugden)
-3. Added Ronaldsway (EGNS) fs - thanks to @agent_squash (Alex Ashley)
+3. Added Ronaldsway (EGNS) VRPs - thanks to @agent_squash (Alex Ashley)
 4. Amended agreement between Heathrow INT S and TC SW and added CPT radar gate - thanks to @hsugden (Harry Sugden)
 5. AIRAC (1608) - Liverpool (EGGP) RNAV approach fixes added - thanks to @agent_squash (Alex Ashley)
 6. Added squawk ranges to various London ACC event only splits - thanks to @hsugden (Harry Sugden)
