@@ -1,5 +1,7 @@
 # Changes from release 2017/01 to 2017/02
 4. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
+6. AIRAC (1702) - Waypoint DIXIN renamed GITKI (EGMD) - thanks to @trevorhannant (Trevor Hannant)
+7. Lydd (EGMD) RNAV fixes location moved to own file - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
