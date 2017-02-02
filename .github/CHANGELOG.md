@@ -1,7 +1,14 @@
 # Changes from release 2017/01 to 2017/02
-4. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
-5. AIRAC (1702) - Prestwick (EGPK) SMR Updated, Taxiway Papa truncated, Ryanair hanger and apron added - thanks to @cpawley (Chris Pawley)
 
+1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
+2. Carlisle (EGNC) Annan VRP added - thanks to @cpawley (Chris Pawley)
+3. AIRAC (1611) - Blackpool (EGNH) VRPs Updated/Corrected - thanks to @cpawley (Chris Pawley)
+4. Enhancement - Heathrow (EGLL) slightly redefined sectors and RMA around the Heathrow Centerlines to reflect the division of airspace between INTN and INTS better - thanks to @cpawley (Chris Pawley)
+5. AIRAC (1702) - Channel Islands VRPs revised - thanks to @trevorhannant (Trevor Hannant)
+6. AIRAC (1702) - Waypoint DIXIN renamed GITKI (EGMD) - thanks to @trevorhannant (Trevor Hannant)
+7. Lydd (EGMD) RNAV fixes location moved to own file - thanks to @trevorhannant (Trevor Hannant)
+8. AIRAC (1702) - Luton (EGGW) Stand updates, additions and removals - thanks to @cpawley (Chris Pawley)
+10. AIRAC (1702) - Prestwick (EGPK) SMR Updated, Taxiway Papa truncated, Ryanair hanger and apron added - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
