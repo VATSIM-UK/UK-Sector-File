@@ -1,5 +1,5 @@
 # Changes from release 2017/02 to 2017/03
-2. AIRAC (1703) - Waypoint DIRGI (UL612) withdrawn - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
 
 
 
