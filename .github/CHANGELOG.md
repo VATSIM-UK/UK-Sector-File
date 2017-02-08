@@ -1,6 +1,6 @@
 
 # Changes from release 2017/02 to 2017/03
-1. Marked Link 12 as disused, taxiway B construction area reduced - thanks to @agent_squash (Alex Ashley)
+1. AIRAC (1702) - Heathrow (EGLL) - Marked Link 12 as disused, taxiway B construction area reduced - thanks to @agent_squash (Alex Ashley)
 
 # Changes from release 2017/01 to 2017/02
 1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
