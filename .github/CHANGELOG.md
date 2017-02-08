@@ -1,6 +1,6 @@
 
 # Changes from release 2017/02 to 2017/03
-2. Added new hangar at Alderney (EGJA)
+2. AIRAC (1703) - Alderney (EGJA - Added new hangar - thanks to @agent_squash (Alex Ashley)
 
 # Changes from release 2017/01 to 2017/02
 1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
