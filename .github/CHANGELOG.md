@@ -1,5 +1,5 @@
 # Changes from release 2017/01 to 2017/
-
+2. Added new hangar at Alderney (EGJA)
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
 2. Removed LIVSU fix from FIXES_OLD to prevent issue with UL980 - thanks to @agent_squash (Alex Ashley)
