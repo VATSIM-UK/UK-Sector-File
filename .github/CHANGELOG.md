@@ -1,3 +1,6 @@
+# Changes from release 2017/02 to 2017/03
+9. AIRAC (1703) - London City (EGLC) holding point updates and redesignations - thanks to @agentsquash (Alex Ashley)
+
 # Changes from release 2017/01 to 2017/02
 1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
 2. Carlisle (EGNC) Annan VRP added - thanks to @cpawley (Chris Pawley)
@@ -7,7 +10,6 @@
 6. AIRAC (1702) - Waypoint DIXIN renamed GITKI (EGMD) - thanks to @trevorhannant (Trevor Hannant)
 7. Lydd (EGMD) RNAV fixes location moved to own file - thanks to @trevorhannant (Trevor Hannant)
 8. AIRAC (1702) - Luton (EGGW) Stand updates, additions and removals - thanks to @cpawley (Chris Pawley)
-9. AIRAC (1703) - London City (EGLC) holding point updates and redesignations - thanks to @agentsquash (Alex Ashley)
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
