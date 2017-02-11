@@ -7,6 +7,7 @@
 6. AIRAC (1702) - Waypoint DIXIN renamed GITKI (EGMD) - thanks to @trevorhannant (Trevor Hannant)
 7. Lydd (EGMD) RNAV fixes location moved to own file - thanks to @trevorhannant (Trevor Hannant)
 8. AIRAC (1702) - Luton (EGGW) Stand updates, additions and removals - thanks to @cpawley (Chris Pawley)
+9. Changed Luton SMR colour scheme and edited data to more closely match real SMR - thanks to @sw104 (Sam White) 
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
