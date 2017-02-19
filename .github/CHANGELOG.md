@@ -14,7 +14,9 @@
 13. AIRAC (1703) - New Solent VRPs added - thanks to @trevorhannant (Trevor Hannant)
 14. AIRAC (1702) - Prestwick (EGPK) SMR Updated, Taxiway Papa truncated, Ryanair hanger and apron added - thanks to @cpawley (Chris Pawley)
 15. AIRAC (1702) - Glasgow (EGPF) SMR Updated, new Gamma Apron and Hangers, Hold T1 added - thanks to @cpawley (Chris Pawley)
-16. AIRAC (1702) - Airway N14 extended to LANPI - thanks to @cpawley (Chris Pawley)
+16. AIRAC (1703) - Airway N14 extended to LANPI - thanks to @cpawley (Chris Pawley)
+17. AIRAC (1703) - Airway L15 Truncated at LYD, waypoints added to M91. M91 replaced by RNAV M91 - thanks to @cpawley (Chris Pawley)
+
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
