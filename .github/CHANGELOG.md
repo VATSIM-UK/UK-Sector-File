@@ -1,3 +1,4 @@
+
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
 2. AIRAC (1703) - Waypoint DISAL renamed XAPOS - thanks to @cpawley (Chris Pawley)
@@ -9,6 +10,8 @@
 8. AIRAC (1702) - Waypoint DIXIN renamed GITKI (EGMD) - thanks to @trevorhannant (Trevor Hannant)
 9. Lydd (EGMD) RNAV fixes location moved to own file - thanks to @trevorhannant (Trevor Hannant)
 10. AIRAC (1702) - Luton (EGGW) Stand updates, additions and removals - thanks to @cpawley (Chris Pawley)
+11. AIRAC (1702) - Waypoint BAMLI added - thanks to @cpawley (Chris Pawley)
+
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
