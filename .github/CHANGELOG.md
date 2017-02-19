@@ -13,6 +13,7 @@
 12. Bug - Airway Y53 fix redesignated - thanks to @agentsquash (Alex Ashley)
 13. AIRAC (1703) - New Solent VRPs added - thanks to @trevorhannant (Trevor Hannant)
 14. AIRAC (1702) - Prestwick (EGPK) SMR Updated, Taxiway Papa truncated, Ryanair hanger and apron added - thanks to @cpawley (Chris Pawley)
+15. AIRAC (1702) - Glasgow (EGPF) SMR Updated, new Gamma Apron and Hangers, Hold T1 added - thanks to @cpawley (Chris Pawley)
 
 
 # Changes from release 2016/12 to 2017/01
