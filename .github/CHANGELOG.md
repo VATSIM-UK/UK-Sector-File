@@ -22,6 +22,8 @@
 21. AIRAC (1703) - Alderney (EGJA - Added new hangar - thanks to @agent_squash (Alex Ashley)
 22. AIRAC (1703) - Edinburgh (EGPH) - SMR - Hold E2 removed, Stand 12 added - thanks to @cpawley (Chris Pawley)
 23. AIRAC (1703) - London City (EGLC) holding point updates and redesignations - thanks to @agentsquash (Alex Ashley)
+24. Enhancement - Added online rings for EGAC - thanks to @cpawley (Chris Pawley)
+
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
