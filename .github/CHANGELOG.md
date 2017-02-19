@@ -18,6 +18,7 @@
 17. AIRAC (1703) - Airway L15 Truncated at LYD, waypoints added to M91. M91 replaced by RNAV M91 - thanks to @cpawley (Chris Pawley)
 18. AIRAC (1703) - Dundee (EGPN) - Fixes for new RNAV 27 & RNAV 09 approaches added - thanks to @cpawley (Chris Pawley)
 19. Fixed Farnborough (EGLF) SMR Holding Points - thanks to @cpawley (Chris Pawley)
+20. AIRAC (1702) - Heathrow (EGLL) - Marked Link 12 as disused, taxiway B construction area reduced - thanks to @agent_squash (Alex Ashley)
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
