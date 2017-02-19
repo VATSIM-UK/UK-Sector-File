@@ -12,6 +12,8 @@
 11. AIRAC (1702) - Waypoint BAMLI added - thanks to @cpawley (Chris Pawley)
 12. Bug - Airway Y53 fix redesignated - thanks to @agentsquash (Alex Ashley)
 13. AIRAC (1703) - New Solent VRPs added - thanks to @trevorhannant (Trevor Hannant)
+14. AIRAC (1702) - Prestwick (EGPK) SMR Updated, Taxiway Papa truncated, Ryanair hanger and apron added - thanks to @cpawley (Chris Pawley)
+
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
