@@ -54,10 +54,8 @@
 #define smrGreen 18944
 #define smrGrey 5329233
 #define smrGreyBuilding 5987163
-#define smrGWcream 12701121
-#define smrGWlightBlue 13487540
-#define smrGWorange 2474495
-#define smrGWtaxiways 12103565
+#define smrGWblack 986895
+#define smrGWlightBlue 16763480
 #define smrHHcompass 16777215
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
