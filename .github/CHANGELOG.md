@@ -25,6 +25,7 @@
 24. Enhancement - Added online rings for EGAC - thanks to @cpawley (Chris Pawley)
 25. Changed Luton SMR colour scheme and edited data to more closely match real SMR - thanks to @sw104 (Sam White)
 26. AIRAC (1703) - Various airway redesignations and updates - thanks to @agentsquash (Alex Ashley)
+27. AIRAC (1609) - Manchester (EGCC) ground layout updated - thanks to @acrix (Matthew Moy)
 
 
 # Changes from release 2016/12 to 2017/01
