@@ -23,7 +23,12 @@
 22. AIRAC (1703) - Edinburgh (EGPH) - SMR - Hold E2 removed, Stand 12 added - thanks to @cpawley (Chris Pawley)
 23. AIRAC (1703) - London City (EGLC) holding point updates and redesignations - thanks to @agentsquash (Alex Ashley)
 24. Enhancement - Added online rings for EGAC - thanks to @cpawley (Chris Pawley)
-25. Changed Luton SMR colour scheme and edited data to more closely match real SMR - thanks to @sw104 (Sam White) 
+25. Changed Luton SMR colour scheme and edited data to more closely match real SMR - thanks to @sw104 (Sam White)
+26. AIRAC (1703) - Various airway redesignations and updates - thanks to @agentsquash (Alex Ashley)
+27. AIRAC (1609) - Manchester (EGCC) ground layout updated - thanks to @acrix (Matthew Moy)
+28. Enhancement - updated VATSIM frequencies doc with entry for Southend Tower - thanks to @hsugden (Harry Sugden)
+29. AIRAC (1703) - Updated Leeds (EGNM) radar frequency - thanks to @agentsquash (Alex Ashley)
+
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
