@@ -8,7 +8,7 @@ By submitting code as an individual you agree that VATSIM UK can use your ammend
 # Helping others
 Please help other UK Sector File users wherever you can (everybody starts somewhere).  If you require assistance (or wish to provide additional assistance) you can find our contributors in the VATSIM UK slack team.
 
-To access Slack, you can visit https://core.vatsim-uk.co.uk and follow the registration instructions.  Once you've logged in, find the channel "UKSectorFile".
+To access Slack, you can visit https://core.vatsim.uk and follow the registration instructions.  Once you've logged in, find the channel "UKSectorFile".
 
 # I want to contribute!
 
@@ -28,7 +28,7 @@ At present there isn't a publicly accessible auto-generation tool for the data w
 
 ## Issue Tracking
 
-If you require **support** with the Sector File or EuroScope, please utilise our Slack channels or the [VATSIM UK Helpdesk](https://helpdesk.vatsim-uk.co.uk/).  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
+If you require **support** with the Sector File or EuroScope, please utilise our Slack channels or the [VATSIM UK Helpdesk](https://helpdesk.vatsim.uk).  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
 
 When submitting an issue, there's a few guidelines we'd ask you to respect to make it easier to manage (and for others to understand):
 * **Search the issue tracker** before you submit your issue - it may already be present.
