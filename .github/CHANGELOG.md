@@ -1,5 +1,5 @@
 # Changes from release 2017/03 to 2017/04
-1. AIRAC (1704) - Gatwick (EGKK) departures rerouted and redesignated - thanks to @agentsquash (Alex Ashley)
+2. AIRAC (1704) - Jersey (EGJJ) SID truncation - thanks to @agentsquash
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
