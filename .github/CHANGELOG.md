@@ -1,6 +1,7 @@
 # Changes from release 2017/03 to 2017/04
 1.
 2.
+4. AIRAC (1704) - Guernsey (EGJB) star changes - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
