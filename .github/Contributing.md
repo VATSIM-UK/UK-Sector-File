@@ -37,13 +37,13 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 
 **In order to be 'assigned' an issue**, please comment on the issue itself, mentioning **@VATSIM-UK/sector-file-team** - we can then assign your GitHub account to that particular issue.
 
-## Push Requests
+## Pull Requests
 
-We welcome push requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "up-for-grabs" but other improvements are also welcome - please ensure you read over the push work-flow below.
+We welcome pull requests with fixes and improvements to the Sector File project.  The features we really would like public support on are marked with "up-for-grabs" but other improvements are also welcome - please ensure you read over the pull work-flow below.
 
 If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [UK Sector File issue tracker](https://github.com/VATSIM-UK/UK-Sector-File/issues).
 
-The work-flow for submitting a new push request is designed to be simple, but also to ensure consistency from **all** contributors:
+The work-flow for submitting a new pull request is designed to be simple, but also to ensure consistency from **all** contributors:
 * Fork the project into your personal space on GitHub.com.
 * Create a new branch (with the name issue-issue_number, replacing issue_number with the issue number you're resolving).
 * Commit your changes.
@@ -51,7 +51,7 @@ The work-flow for submitting a new push request is designed to be simple, but al
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
 * **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md).
 * Push the commit(s) to your fork.
-* Submit a push request (PR) to the master branch.
+* Submit a pull request (PR) to the master branch.
 * The PR title should describe the change that has been made.
 * The PR description should confirm what changes have been made and how you know they're correct (with references).
  * Please include any relevant screenshots to prove the changes work - this is particularly important for SMRs. 
