@@ -35,7 +35,7 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 * When opening an issue, a template is provided for you.  Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
 * Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
 
-**In order to be 'assigned' an issue**, please comment on the issue itself, mentioning **@VATSIM-UK/sector-file-team** - we can then assign your GitHub account to that particular issue.
+**In order to be 'assigned' an issue**, please comment on the issue itself - we can then assign your GitHub account to that particular issue.
 
 ## Pull Requests
 
