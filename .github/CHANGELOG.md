@@ -1,3 +1,6 @@
+# Changes from release 2017/03 to 2017/04
+3. AIRAC (1704) - Jersey (EGJJ) STAR changes - thanks to @agentsquash (Alex Ashley)
+
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
 2. AIRAC (1703) - Waypoint DISAL renamed XAPOS - thanks to @cpawley (Chris Pawley)
