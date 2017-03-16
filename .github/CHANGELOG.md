@@ -1,5 +1,5 @@
 # Changes from release 2017/03 to 2017/04
-2. AIRAC (1704) - Jersey (EGJJ) SID truncation - thanks to @agentsquash
+1. AIRAC (1704) - Gatwick (EGKK) SID redesignations and removals - thanks to @agentsquash (Alex Ashley)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
