@@ -1,5 +1,5 @@
 # Changes from release 2017/03 to 2017/04
-1.
+1. Enhancement - Fixed SW England coastline to show several airfields on land rather than water - thanks to @trevorhannant (Trevor Hannant)
 2.
 
 # Changes from release 2017/01 to 2017/03
