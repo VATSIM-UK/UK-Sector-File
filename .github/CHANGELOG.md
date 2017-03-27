@@ -4,6 +4,7 @@
 3. AIRAC (1704) - Jersey (EGJJ) STAR changes - thanks to @agentsquash (Alex Ashley)
 4. AIRAC (1704) - Jersey (EGJJ) SID truncation - thanks to @agentsquash (Alex Ashley)
 5. Bug - Redisignated Yeovilton EGDY Ground Map as correct location Yeovil/Westland (EGHG) - thanks to @trevorhannant (Trevor Hannant)
+6. Bug - Fixed typo in EGAC Sector data - thanks to @trevorhannant (Trevor Hannant)
 
 
 # Changes from release 2017/01 to 2017/03
