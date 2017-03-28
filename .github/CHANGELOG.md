@@ -1,5 +1,14 @@
 # Changes from release 2017/03 to 2017/04
-1. AIRAC (1608) - Gatwick (EGKK) SMR changes - thanks to @agentsquash (Alex Ashley)
+1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1704) - Guernsey (EGJB) SID changes - thanks to @trevorhannant (Trevor Hannant)
+3. AIRAC (1704) - Jersey (EGJJ) STAR changes - thanks to @agentsquash (Alex Ashley)
+4. AIRAC (1704) - Jersey (EGJJ) SID truncation - thanks to @agentsquash (Alex Ashley)
+5. Bug - Redisignated Yeovilton EGDY Ground Map as correct location Yeovil/Westland (EGHG) - thanks to @trevorhannant (Trevor Hannant)
+6. Bug - Fixed typo in EGAC Sector data - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - Added EGR095 (Sark) - thanks to @trevorhannant (Trevor Hannant)
+8. AIRAC (1704) - Guernsey (EGJB) star changes - thanks to @trevorhannant (Trevor Hannant)
+9. AIRAC (1608) - Gatwick (EGKK) SMR changes - thanks to @agentsquash (Alex Ashley)
+
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
@@ -31,7 +40,6 @@
 27. AIRAC (1609) - Manchester (EGCC) ground layout updated - thanks to @acrix (Matthew Moy)
 28. Enhancement - updated VATSIM frequencies doc with entry for Southend Tower - thanks to @hsugden (Harry Sugden)
 29. AIRAC (1703) - Updated Leeds (EGNM) radar frequency - thanks to @agentsquash (Alex Ashley)
-
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
