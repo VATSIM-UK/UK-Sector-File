@@ -11,6 +11,7 @@
 10. Enhancement - Update Scottish SMRs to use better colour schemes - thanks to @trevorhannant (Trevor Hannant)
 11. Bug - EGPK SMR Correct GEO line around taxiway Papa - thanks to @trevorhannant (Trevor Hannant)
 12. Enhancement - Fixed SW England coastline to show several airfields on land rather than water - thanks to @trevorhannant (Trevor Hannant)
+13. Bug - Corrected Agreement between TC_E and AC_E to an outbound instead of inbound agreement - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
