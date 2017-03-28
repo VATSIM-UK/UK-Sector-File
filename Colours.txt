@@ -19,6 +19,7 @@
 #define runway 13491405
 #define taxiway 5272144
 #define taxiway3 820613
+#define terminal 2108486
 #define water 9204580
 
 ;SMR Colours
@@ -72,6 +73,9 @@
 #define smrRed 255
 #define smrRoad 6908265
 #define smrSCGrass 29440
+#define smrSCORunway 5329233
+#define smrSCOTaxiway 9474192
+#define smrSCOGrass 18944
 #define smrSSwhite 13421772
 #define smrTaxiway 0
 #define smrTaxiwayLine 8313850
