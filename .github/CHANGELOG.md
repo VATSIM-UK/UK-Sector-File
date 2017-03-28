@@ -9,7 +9,7 @@
 8. AIRAC (1704) - Guernsey (EGJB) star changes - thanks to @trevorhannant (Trevor Hannant)
 9. AIRAC (1608) - Gatwick (EGKK) SMR changes - thanks to @agentsquash (Alex Ashley)
 10. Enhancement - Update Scottish SMRs to use better colour schemes - thanks to @trevorhannant (Trevor Hannant)
-
+11. Bug - EGPK SMR Correct GEO line around taxiway Papa - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
