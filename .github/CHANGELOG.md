@@ -5,7 +5,7 @@
 4. AIRAC (1704) - Jersey (EGJJ) SID truncation - thanks to @agentsquash (Alex Ashley)
 5. Bug - Redisignated Yeovilton EGDY Ground Map as correct location Yeovil/Westland (EGHG) - thanks to @trevorhannant (Trevor Hannant)
 6. Bug - Fixed typo in EGAC Sector data - thanks to @trevorhannant (Trevor Hannant)
-
+7. Enhancement - Added EGR095 (Sark) - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
