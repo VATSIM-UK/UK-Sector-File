@@ -1,11 +1,11 @@
-COPX:*:*:*:EGLL:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:*:*:*:EGWU:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:*:*:*:EGKK:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:*:*:*:EGGW:*:London TC East:London AC Clacton:23000:*:CLN
+COPX:EGLL:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
+COPX:EGWU:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
+COPX:EGKK:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
+COPX:EGGW:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
 
-COPX:*:*:*:EGSS:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:*:*:*:EGSC:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:*:*:*:EGLC:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:*:*:*:EGKB:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:*:*:*:EGTO:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:*:*:*:EGMC:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGSS:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGSC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGLC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGKB:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGTO:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGMC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
