@@ -1,3 +1,6 @@
+# Changes from release 2017/04 to 2017/05
+1. AIRAC (1705) - Benbecula (EGPL) VRPs added - thanks to @agentsquash (Alex Ashley)
+
 # Changes from release 2017/03 to 2017/04
 1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
 2. AIRAC (1704) - Guernsey (EGJB) SID changes - thanks to @trevorhannant (Trevor Hannant)
@@ -12,6 +15,7 @@
 11. Bug - EGPK SMR Correct GEO line around taxiway Papa - thanks to @trevorhannant (Trevor Hannant)
 12. Enhancement - Fixed SW England coastline to show several airfields on land rather than water - thanks to @trevorhannant (Trevor Hannant)
 13. Bug - Corrected Agreement between TC_E and AC_E to an outbound instead of inbound agreement - thanks to @cpawley (Chris Pawley)
+14. AIRAC (1704) - Gatwick (EGKK) SIDs redesignated and old SIDs removals - thanks to @agentsquash (Alex Ashley)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
