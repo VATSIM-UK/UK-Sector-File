@@ -1,3 +1,6 @@
+# Changes from release 2017/04 to 2017/05
+1. Bug - Added Daventry CTA 10 airspace base - thanks to @agentsquasht
+
 # Changes from release 2017/03 to 2017/04
 1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
 2. AIRAC (1704) - Guernsey (EGJB) SID changes - thanks to @trevorhannant (Trevor Hannant)
