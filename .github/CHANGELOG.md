@@ -1,5 +1,9 @@
 # Changes from release 2017/04 to 2017/05
-1. AIRAC (1705) - Stand 14A added to EGNM - thanks to @tasosb (Tasos Petropoulos)
+1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1705) - Waypoint ETRID withdrawn from Q41/UQ41 - thanks to @cpawley (Chris Pawley)
+3. Bug - Fixed displaying Daventry CTA 10 airspace base - thanks to @agentsquash (Alex Ashley)
+4. AIRAC (1705) - Stand 14A added to EGNM - thanks to @tasosb (Tasos Petropoulos)
+
 
 # Changes from release 2017/03 to 2017/04
 1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
