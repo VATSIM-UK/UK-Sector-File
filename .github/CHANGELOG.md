@@ -5,7 +5,7 @@
 4. AIRAC (1705) - Stand 14A added to EGNM - thanks to @tasosb (Tasos Petropoulos)
 5. Bug - Removed unwanted Liverpool SMAA area -  - thanks to @trevorhannant (Trevor Hannant)
 6. Enhancement - EGVN VRPs missing - thanks to @trevorhannant (Trevor Hannant)
-
+7. AIRAC (1705) - Newcastle (EGNT) SID changes - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/03 to 2017/04
 1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
