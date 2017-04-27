@@ -7,7 +7,7 @@
 6. Enhancement - EGVN VRPs missing - thanks to @trevorhannant (Trevor Hannant)
 7. AIRAC (1705) - Newcastle (EGNT) SID changes - thanks to @trevorhannant (Trevor Hannant)
 8. AIRAC (1705) - amended Heathrow (EGLL) SMR to include new holding points - thanks to @agentsquash (Alex Ashley)
-
+9. Removed Bristol DHZ.  Cardiff/Bristol Buffer Zones removed and redrawn - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/03 to 2017/04
 1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
