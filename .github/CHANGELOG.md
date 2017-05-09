@@ -1,4 +1,4 @@
-# Changes from release 2017/03 to 2017/04
+# Changes from release 2017/05 to 2017/06
 1. Enhancement - Enhance tracks of EGJB SIDs - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/03 to 2017/04
