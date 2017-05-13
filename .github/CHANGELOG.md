@@ -7,6 +7,10 @@
 6. Enchancement - Oxford (EGTK) SMR added - thanks to @tasosb (Anastasios Mpithas) 
 7. Enhancement - Enhance tracks of EGJB SIDs - thanks to @trevorhannant (Trevor Hannant)
 
+
+
+12. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
+
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
 2. AIRAC (1705) - Waypoint ETRID withdrawn from Q41/UQ41 - thanks to @cpawley (Chris Pawley)
