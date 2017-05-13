@@ -6,9 +6,6 @@
 5. Enhancement - Add Missing Military Airfields/Missing SMRs - thanks to @trevorhannant (Trevor Hannant)
 6. Enchancement - Oxford (EGTK) SMR added - thanks to @tasosb (Anastasios Mpithas) 
 7. Enhancement - Enhance tracks of EGJB SIDs - thanks to @trevorhannant (Trevor Hannant)
-
-
-
 12. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2017/04 to 2017/05
