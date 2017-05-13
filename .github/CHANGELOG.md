@@ -11,7 +11,6 @@
 10. AIRAC (1706) - Redesignation of UN863 to UM184 - thanks to @tasosb (Anastasios Mpithas)
 11. AIRAC (1706) - EGNX ATIS Frequency Ammended -  thanks to @tasosb (Anastasios Mpithas)
 
-
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
 2. AIRAC (1705) - Waypoint ETRID withdrawn from Q41/UQ41 - thanks to @cpawley (Chris Pawley)
@@ -23,7 +22,6 @@
 8. AIRAC (1705) - amended Heathrow (EGLL) SMR to include new holding points - thanks to @agentsquash (Alex Ashley)
 9. Removed Bristol DHZ.  Cardiff/Bristol Buffer Zones removed and redrawn - thanks to @trevorhannant (Trevor Hannant)
 10. AIRAC (1705) - Added new Portsmouth CTA areas, and amended Southern CTA - thanks to @agentsquash (Alex Ashley)
-
 
 # Changes from release 2017/03 to 2017/04
 1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
