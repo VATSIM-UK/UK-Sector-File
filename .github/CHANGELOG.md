@@ -9,7 +9,7 @@
 8. Enhancement - Added Position Information for military airfields - thanks to @trevorhannant (Trevor Hannant)
 9. AIRAC (1706) - Adding TIBGA waypoint into Q63 airway - thanks to @arcticash (Ash Kirby)
 10. AIRAC (1706) - Redesignation of UN863 to UM184 - thanks to @tasosb (Anastasios Mpithas)
-
+11. AIRAC (1706) - EGNX ATIS Frequency Ammended -  thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
