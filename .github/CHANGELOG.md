@@ -12,6 +12,7 @@
 11. AIRAC (1706) - EGNX ATIS Frequency Ammended -  thanks to @tasosb (Anastasios Mpithas)
 12. AIRAC (1706) - Redesignation of Y76 - thanks to @tasosb (Anastasios Mpithas)
 13. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
+15. AIRAC (1706) - Airspace base of Portsmouth CTA 5 raised - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
