@@ -15,6 +15,8 @@
 14. AIRAC (1706) - Agreement amended between S10 and SCO PC East - thanks to @cpawley (Chris Pawley)
 15. AIRAC (1706) - Airspace base of Portsmouth CTA 5 raised - thanks to @cpawley (Chris Pawley)
 16. AIRAC (1706) - Waypoint OBUBA Added - thanks to @trevorhannant (Trevor Hannant)
+17. AIRAC (1706) - Waypoint LEMGU added M17/UM17 - thanks to @trevorhannant (Trevor Hannant)
+
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
