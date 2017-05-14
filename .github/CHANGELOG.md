@@ -13,6 +13,7 @@
 12. AIRAC (1706) - Redesignation of Y76 - thanks to @tasosb (Anastasios Mpithas)
 13. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
 14. AIRAC (1706) - Agreement amended between S10 and SCO PC East - thanks to @cpawley (Chris Pawley)
+15. AIRAC (1706) - Airspace base of Portsmouth CTA 5 raised - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
