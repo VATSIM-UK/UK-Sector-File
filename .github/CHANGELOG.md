@@ -18,6 +18,7 @@
 17. AIRAC (1706) - Waypoint LEMGU added M17/UM17 - thanks to @trevorhannant (Trevor Hannant)
 18. AIRAC (1706) - Heathrow (EGLL) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
 19. Bug - Bristol SMR Apron Colour Bug (smrGDApron) - thanks to @tasosb (Anastasios Mpithas)
+20. Bug - EGAA APP Frequencies mixed up - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
