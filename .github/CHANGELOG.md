@@ -20,6 +20,7 @@
 19. Bug - Bristol SMR Apron Colour Bug (smrGDApron) - thanks to @tasosb (Anastasios Mpithas)
 20. Bug - EGAA APP Frequencies mixed up - thanks to @trevorhannant (Trevor Hannant)
 21. AIRAC (1706) - Extended Cotswold CTA and updated airways to reflect this - thanks to @cpawley (Chris Pawley)
+22. AIRAC (1706) - West CTA Added - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
