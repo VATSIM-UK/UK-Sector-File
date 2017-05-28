@@ -17,7 +17,7 @@
 16. AIRAC (1706) - Waypoint OBUBA Added - thanks to @trevorhannant (Trevor Hannant)
 17. AIRAC (1706) - Waypoint LEMGU added M17/UM17 - thanks to @trevorhannant (Trevor Hannant)
 18. AIRAC (1706) - Heathrow (EGLL) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
-
+21. Bug - EGTK-EGNM Ground Map folder problems - thanks to @tasosb (Anastasios Mpithas)
 
 
 # Changes from release 2017/04 to 2017/05
