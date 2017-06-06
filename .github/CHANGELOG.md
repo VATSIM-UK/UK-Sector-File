@@ -1,3 +1,5 @@
+# Changes from release 2017/06 to 2017/07
+3. AIRAC (1707) - Manchester Squawk Code Range Updated - thanks to @tasosb (Anastasios Mpithas)
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1607) - Carlisle (EGNC) Ground Changes - Runup area and E Hold added - thanks to @tasosb (Anastasios Mpithas)
@@ -17,8 +19,6 @@
 16. AIRAC (1706) - Waypoint OBUBA Added - thanks to @trevorhannant (Trevor Hannant)
 17. AIRAC (1706) - Waypoint LEMGU added M17/UM17 - thanks to @trevorhannant (Trevor Hannant)
 18. AIRAC (1706) - Heathrow (EGLL) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
-20. AIRAC (1707) - Manchester Squawk Code Range Updated - thanks to @tasosb (Anastasios Mpithas)
-
 
 
 # Changes from release 2017/04 to 2017/05
