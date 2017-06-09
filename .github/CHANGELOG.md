@@ -1,3 +1,12 @@
+# Changes from release 2017/06 to 2017/07
+1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
+2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
+3. Bug - EGTK-EGNM Ground Map folder problems - thanks to @tasosb (Anastasios Mpithas)
+4. Bug - Newcastle (EGNT) VRP Incorrectly Spelt - thanks to @rhysmarston (Rhys Marston)
+5. AIRAC (1707) - New EGNH VRP - M55 Jnct 3 - thanks to @trevorhannant (Trevor Hannant)
+6. AIRAC (1707) - New VRPs for EGNR added - thanks to @trevorhannant (Trevor Hannant)
+7. AIRAC (1707) - EGGP VRPs Adjusted - thanks to @RhysMarston (Rhys Marston)
+
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1607) - Carlisle (EGNC) Ground Changes - Runup area and E Hold added - thanks to @tasosb (Anastasios Mpithas)
@@ -21,8 +30,6 @@
 20. Bug - EGAA APP Frequencies mixed up - thanks to @trevorhannant (Trevor Hannant)
 21. AIRAC (1706) - Extended Cotswold CTA and updated airways to reflect this - thanks to @cpawley (Chris Pawley)
 22. AIRAC (1706) - West CTA Added - thanks to @cpawley (Chris Pawley)
-23. Bug - Newcastle (EGNT) VRP Incorrectly Spelt - thanks to @RhysMarston (Rhys Marston)
-24. AIRAC (1706) - EGGP VRPs Adjusted - thanks to @RhysMarston (Rhys Marston)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
