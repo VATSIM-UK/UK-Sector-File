@@ -1,3 +1,6 @@
+# Change from release 2017/06 to 2017/07
+1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
+
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1607) - Carlisle (EGNC) Ground Changes - Runup area and E Hold added - thanks to @tasosb (Anastasios Mpithas)
