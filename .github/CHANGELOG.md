@@ -1,6 +1,57 @@
-# Changes from release 2017/03 to 2017/04
+# Change from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
-2.
+
+# Changes from release 2017/05 to 2017/06
+1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
+2. AIRAC (1607) - Carlisle (EGNC) Ground Changes - Runup area and E Hold added - thanks to @tasosb (Anastasios Mpithas)
+3. AIRAC (1705) - Hawarden Director frequency added- thanks to @tasosb (Anastasios Mpithas)
+4. Bug - LACC Sector Line SE of EGSH - thanks to @trevorhannant (Trevor Hannant)
+5. Enhancement - Add Missing Military Airfields/Missing SMRs - thanks to @trevorhannant (Trevor Hannant)
+6. Enhancement - Oxford (EGTK) SMR added - thanks to @tasosb (Anastasios Mpithas)
+7. Enhancement - Enhance tracks of EGJB SIDs - thanks to @trevorhannant (Trevor Hannant)
+8. Enhancement - Added Position Information for military airfields - thanks to @trevorhannant (Trevor Hannant)
+9. AIRAC (1706) - Adding TIBGA waypoint into Q63 airway - thanks to @arcticash (Ash Kirby)
+10. AIRAC (1706) - Redesignation of UN863 to UM184 - thanks to @tasosb (Anastasios Mpithas)
+11. AIRAC (1706) - EGNX ATIS Frequency Ammended -  thanks to @tasosb (Anastasios Mpithas)
+12. AIRAC (1706) - Redesignation of Y76 - thanks to @tasosb (Anastasios Mpithas)
+13. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
+14. AIRAC (1706) - Agreement amended between S10 and SCO PC East - thanks to @cpawley (Chris Pawley)
+15. AIRAC (1706) - Airspace base of Portsmouth CTA 5 raised - thanks to @cpawley (Chris Pawley)
+16. AIRAC (1706) - Waypoint OBUBA Added - thanks to @trevorhannant (Trevor Hannant)
+17. AIRAC (1706) - Waypoint LEMGU added M17/UM17 - thanks to @trevorhannant (Trevor Hannant)
+18. AIRAC (1706) - Heathrow (EGLL) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
+19. Bug - Bristol SMR Apron Colour Bug (smrGDApron) - thanks to @tasosb (Anastasios Mpithas)
+20. Bug - EGAA APP Frequencies mixed up - thanks to @trevorhannant (Trevor Hannant)
+21. AIRAC (1706) - Extended Cotswold CTA and updated airways to reflect this - thanks to @cpawley (Chris Pawley)
+22. AIRAC (1706) - West CTA Added - thanks to @cpawley (Chris Pawley)
+
+# Changes from release 2017/04 to 2017/05
+1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1705) - Waypoint ETRID withdrawn from Q41/UQ41 - thanks to @cpawley (Chris Pawley)
+3. Bug - Fixed displaying Daventry CTA 10 airspace base - thanks to @agentsquash (Alex Ashley)
+4. AIRAC (1705) - Stand 14A added to EGNM - thanks to @tasosb (Anastasios Mpithas)
+5. Bug - Removed unwanted Liverpool SMAA area -  - thanks to @trevorhannant (Trevor Hannant)
+6. Enhancement - EGVN VRPs missing - thanks to @trevorhannant (Trevor Hannant)
+7. AIRAC (1705) - Newcastle (EGNT) SID changes - thanks to @trevorhannant (Trevor Hannant)
+8. AIRAC (1705) - amended Heathrow (EGLL) SMR to include new holding points - thanks to @agentsquash (Alex Ashley)
+9. Removed Bristol DHZ.  Cardiff/Bristol Buffer Zones removed and redrawn - thanks to @trevorhannant (Trevor Hannant)
+10. AIRAC (1705) - Added new Portsmouth CTA areas, and amended Southern CTA - thanks to @agentsquash (Alex Ashley)
+
+# Changes from release 2017/03 to 2017/04
+1. Enhancement - Ownership settings updated for Scottish FIR Observers and Mentors - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1704) - Guernsey (EGJB) SID changes - thanks to @trevorhannant (Trevor Hannant)
+3. AIRAC (1704) - Jersey (EGJJ) STAR changes - thanks to @agentsquash (Alex Ashley)
+4. AIRAC (1704) - Jersey (EGJJ) SID truncation - thanks to @agentsquash (Alex Ashley)
+5. Bug - Redisignated Yeovilton EGDY Ground Map as correct location Yeovil/Westland (EGHG) - thanks to @trevorhannant (Trevor Hannant)
+6. Bug - Fixed typo in EGAC Sector data - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - Added EGR095 (Sark) - thanks to @trevorhannant (Trevor Hannant)
+8. AIRAC (1704) - Guernsey (EGJB) star changes - thanks to @trevorhannant (Trevor Hannant)
+9. AIRAC (1608) - Gatwick (EGKK) SMR changes - thanks to @agentsquash (Alex Ashley)
+10. Enhancement - Update Scottish SMRs to use better colour schemes - thanks to @trevorhannant (Trevor Hannant)
+11. Bug - EGPK SMR Correct GEO line around taxiway Papa - thanks to @trevorhannant (Trevor Hannant)
+12. Enhancement - Fixed SW England coastline to show several airfields on land rather than water - thanks to @trevorhannant (Trevor Hannant)
+13. Bug - Corrected Agreement between TC_E and AC_E to an outbound instead of inbound agreement - thanks to @cpawley (Chris Pawley)
+14. AIRAC (1704) - Gatwick (EGKK) SIDs redesignated and old SIDs removals - thanks to @agentsquash (Alex Ashley)
 
 # Changes from release 2017/01 to 2017/03
 1. AIRAC (1703) - Waypoint DIRGI (UP612) withdrawn - thanks to @cpawley (Chris Pawley)
@@ -32,7 +83,6 @@
 27. AIRAC (1609) - Manchester (EGCC) ground layout updated - thanks to @acrix (Matthew Moy)
 28. Enhancement - updated VATSIM frequencies doc with entry for Southend Tower - thanks to @hsugden (Harry Sugden)
 29. AIRAC (1703) - Updated Leeds (EGNM) radar frequency - thanks to @agentsquash (Alex Ashley)
-
 
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)

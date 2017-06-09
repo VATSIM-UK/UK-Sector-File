@@ -15,6 +15,7 @@ City ATIS 136.350, 118.4 on VATSIM (City TWR secondary freq)
 Southend ATIS 136.050, 128.950 on VATSIM (Southend DIR fre)
 Gatwick ATIS 136.52, 134.22 on VATSIM (Gatwick TWR secondary freq)
 Inverness ATIS 109.2, 124.7 on VATSIM
+Hawarden Director 130.015, 130.020 on VATSIM (8.33kHz-spaced frequency)
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.07, 124.35 on VATSIM
