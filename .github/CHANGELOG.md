@@ -1,5 +1,10 @@
-# Changes from release 2017/05 to 2017/06
-1. AIRAC (1707) - New VRPs for EGNR - thanks to @trevorhannant (Trevor Hannant)
+# Changes from release 2017/06 to 2017/07
+1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
+2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
+3. Bug - EGTK-EGNM Ground Map folder problems - thanks to @tasosb (Anastasios Mpithas)
+4. Bug - Newcastle (EGNT) VRP Incorrectly Spelt - thanks to @rhysmarston (Rhys Marston)
+5. AIRAC (1707) - New EGNH VRP - M55 Jnct 3 - thanks to @trevorhannant (Trevor Hannant)
+6. AIRAC (1707) - New VRPs for EGNR added - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
