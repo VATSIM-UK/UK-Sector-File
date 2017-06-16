@@ -8,6 +8,7 @@
 7. AIRAC (1707) - EGGP VRPs Adjusted - thanks to @RhysMarston (Rhys Marston)
 8. AIRAC (1707) - Manchester Squawk Code Range Updated - thanks to @tasosb (Anastasios Mpithas)
 9. AIRAC (1707) - Definition of KOLID changed - thanks to @trevorhannant (Trevor Hannant)
+10. AIRAC (1707) - Definition of RITSI changed - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
