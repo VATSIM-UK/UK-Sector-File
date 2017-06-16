@@ -1,5 +1,14 @@
 # Changes from release 2017/06 to 2017/07
-1. AIRAC (1707) - Definition of RITSI changed - thanks to @trevorhannant (Trevor Hannant)
+1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
+2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
+3. Bug - EGTK-EGNM Ground Map folder problems - thanks to @tasosb (Anastasios Mpithas)
+4. Bug - Newcastle (EGNT) VRP Incorrectly Spelt - thanks to @rhysmarston (Rhys Marston)
+5. AIRAC (1707) - New EGNH VRP - M55 Jnct 3 - thanks to @trevorhannant (Trevor Hannant)
+6. AIRAC (1707) - New VRPs for EGNR added - thanks to @trevorhannant (Trevor Hannant)
+7. AIRAC (1707) - EGGP VRPs Adjusted - thanks to @RhysMarston (Rhys Marston)
+8. AIRAC (1707) - Manchester Squawk Code Range Updated - thanks to @tasosb (Anastasios Mpithas)
+9. AIRAC (1707) - Definition of KOLID changed - thanks to @trevorhannant (Trevor Hannant)
+10. AIRAC (1707) - Definition of RITSI changed - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
@@ -7,7 +16,7 @@
 3. AIRAC (1705) - Hawarden Director frequency added- thanks to @tasosb (Anastasios Mpithas)
 4. Bug - LACC Sector Line SE of EGSH - thanks to @trevorhannant (Trevor Hannant)
 5. Enhancement - Add Missing Military Airfields/Missing SMRs - thanks to @trevorhannant (Trevor Hannant)
-6. Enchancement - Oxford (EGTK) SMR added - thanks to @tasosb (Anastasios Mpithas) 
+6. Enhancement - Oxford (EGTK) SMR added - thanks to @tasosb (Anastasios Mpithas)
 7. Enhancement - Enhance tracks of EGJB SIDs - thanks to @trevorhannant (Trevor Hannant)
 8. Enhancement - Added Position Information for military airfields - thanks to @trevorhannant (Trevor Hannant)
 9. AIRAC (1706) - Adding TIBGA waypoint into Q63 airway - thanks to @arcticash (Ash Kirby)
@@ -15,6 +24,15 @@
 11. AIRAC (1706) - EGNX ATIS Frequency Ammended -  thanks to @tasosb (Anastasios Mpithas)
 12. AIRAC (1706) - Redesignation of Y76 - thanks to @tasosb (Anastasios Mpithas)
 13. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
+14. AIRAC (1706) - Agreement amended between S10 and SCO PC East - thanks to @cpawley (Chris Pawley)
+15. AIRAC (1706) - Airspace base of Portsmouth CTA 5 raised - thanks to @cpawley (Chris Pawley)
+16. AIRAC (1706) - Waypoint OBUBA Added - thanks to @trevorhannant (Trevor Hannant)
+17. AIRAC (1706) - Waypoint LEMGU added M17/UM17 - thanks to @trevorhannant (Trevor Hannant)
+18. AIRAC (1706) - Heathrow (EGLL) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
+19. Bug - Bristol SMR Apron Colour Bug (smrGDApron) - thanks to @tasosb (Anastasios Mpithas)
+20. Bug - EGAA APP Frequencies mixed up - thanks to @trevorhannant (Trevor Hannant)
+21. AIRAC (1706) - Extended Cotswold CTA and updated airways to reflect this - thanks to @cpawley (Chris Pawley)
+22. AIRAC (1706) - West CTA Added - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
