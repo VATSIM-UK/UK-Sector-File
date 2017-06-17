@@ -1,5 +1,5 @@
-# Changes from release 2017/05 to 2017/06
-1. AIRAC (1707) - Three Dange Areas Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+# Changes from release 2017/06 to 2017/07
+1. AIRAC (1707) - Three Dange Areas (D145, D146 and D409) Withdrawn  - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
