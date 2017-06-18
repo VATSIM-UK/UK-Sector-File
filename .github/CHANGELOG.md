@@ -10,6 +10,8 @@
 9. AIRAC (1707) - Definition of KOLID changed - thanks to @trevorhannant (Trevor Hannant)
 10. AIRAC (1707) - Definition of RITSI changed - thanks to @trevorhannant (Trevor Hannant)
 11. AIRAC (1707) - Three Dange Areas (D145, D146 and D409) Withdrawn  - thanks to @trevorhannant (Trevor Hannant)
+12. Bug - EGBB - CPT4D Withdrawn - thanks to @RhysMarston (Rhys Marston)
+13. AIRAC (1612) - Norwich (EGSH) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
@@ -34,7 +36,6 @@
 20. Bug - EGAA APP Frequencies mixed up - thanks to @trevorhannant (Trevor Hannant)
 21. AIRAC (1706) - Extended Cotswold CTA and updated airways to reflect this - thanks to @cpawley (Chris Pawley)
 22. AIRAC (1706) - West CTA Added - thanks to @cpawley (Chris Pawley)
-23. Bug - EGBB - CPT4D Withdrawn - thanks to @RhysMarston (Rhys Marston)
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
