@@ -13,6 +13,7 @@
 12. Bug - EGBB - CPT4D Withdrawn - thanks to @RhysMarston (Rhys Marston)
 13. AIRAC (1612) - Norwich (EGSH) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
 14. Enhancement - Add Farnborough Heli Routes - thanks to @trevorhannant (Trevor Hannant)
+15. AIRAC (1707) - EGPH SMR Changes - thanks to @trevorhannant (Trevor Hannant)
 
 
 # Changes from release 2017/05 to 2017/06
