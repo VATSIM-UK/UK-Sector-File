@@ -1,4 +1,4 @@
-# Changes from release 2017/05 to 2017/06
+# Changes from release 2017/06 to 2017/07
 1. AIRAC (1707) - EGPH SMR Changes - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/05 to 2017/06
