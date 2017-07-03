@@ -1,3 +1,6 @@
+# Changes from release 2017/07 to 2017/08
+4. Enhancement - Add EGPN/EGPO Approach Online Rings - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
 2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
