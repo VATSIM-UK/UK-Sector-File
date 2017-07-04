@@ -1,3 +1,5 @@
+7. AIRAC (1708) - London Luton (EGGW) stand numbers updated - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
 2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
