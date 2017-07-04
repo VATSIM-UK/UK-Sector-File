@@ -1,5 +1,6 @@
-# Changes from release 2017/06 to 2017/07
-1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
+8. Enhancement - Lee-on-solent/Fleetlands ATZs added - thanks to @luke11brown (Luke Brown)
+
+co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
 2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
 3. Bug - EGTK-EGNM Ground Map folder problems - thanks to @tasosb (Anastasios Mpithas)
 4. Bug - Newcastle (EGNT) VRP Incorrectly Spelt - thanks to @rhysmarston (Rhys Marston)
