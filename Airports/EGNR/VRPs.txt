@@ -1,0 +1,6 @@
+*Beeston Castle:N053.07.42.000:W002.41.310.000
+*Flint Bridge:N053.13.46.000:W003.04.00.000
+*Mold Town:N053.09.54.000:W003.07.31.000
+*Padeswood Cement Factory:N053.09.16.000:W003.03.42.000
+*Poulton Disused Aerodrome:N053.07.56.000:W002.53.30.000
+*Wrexham Industrial Estate:N053.02.21.000:W002.54.33.000
