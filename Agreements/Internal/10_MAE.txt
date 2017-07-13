@@ -1,7 +1,7 @@
-COPX:*:*:OTBED:EGCC:*:London S10:Scottish PC East:*:28000:OTBED
-COPX:*:*:OTBED:EGCD:*:London S10:Scottish PC East:*:28000:OTBED
-COPX:*:*:OTBED:EGNM:*:London S10:Scottish PC East:*:28000:OTBED
-COPX:*:*:OTBED:EGNH:*:London S10:Scottish PC East:*:28000:OTBED
+COPX:*:*:OTBED:EGCC:*:London S10:Scottish PC East:*:29000:OTBED
+COPX:*:*:OTBED:EGCD:*:London S10:Scottish PC East:*:29000:OTBED
+COPX:*:*:OTBED:EGNM:*:London S10:Scottish PC East:*:29000:OTBED
+COPX:*:*:OTBED:EGNH:*:London S10:Scottish PC East:*:29000:OTBED
 
 COPX:*:*:VEGUS:EGGP:*:London S10:Scottish PC East:*:28000:VEGUS
 COPX:*:*:VEGUS:EGNR:*:London S10:Scottish PC East:*:28000:VEGUS
