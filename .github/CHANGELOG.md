@@ -1,3 +1,6 @@
+# Changes from release 2017/07 to 2017/08
+1. AIRAC (1708) - EGKB 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
+
 # Changes from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
 2. Enhancement - New Farnborough (EGLF) SMR - thanks to @tasosb (Anastasios Mpithas)
@@ -14,7 +17,6 @@
 13. AIRAC (1612) - Norwich (EGSH) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
 14. Enhancement - Add Farnborough Heli Routes - thanks to @trevorhannant (Trevor Hannant)
 15. AIRAC (1707) - EGPH SMR Changes - thanks to @trevorhannant (Trevor Hannant)
-
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
