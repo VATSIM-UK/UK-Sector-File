@@ -4,6 +4,7 @@
 3. Bug - EGGD/EGFF Buffer Zone colour code incorrect - thanks to @trevorhannant (Trevor Hannant)
 4. Bug - Cardiff SMR - Hold Labels Missing - thanks to @trevorhannant (Trevor Hannant)
 5. Bug - EGTE SMR - Label Changes  - thanks to @trevorhannant (Trevor Hannant)
+6. Bug - EGAA RNAV Fixes missing - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
