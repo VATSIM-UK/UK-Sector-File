@@ -1,4 +1,12 @@
-7. AIRAC (1708) - London Luton (EGGW) stand numbers updated - thanks to @luke11brown (Luke Brown)
+# Changes from release 2017/07 to 2017/08
+1. AIRAC (1708) - EGKB 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
+2. AIRAC (1708) - Add Yeovil DME - thanks to @trevorhannant (Trevor Hannant)
+3. Bug - EGGD/EGFF Buffer Zone colour code incorrect - thanks to @trevorhannant (Trevor Hannant)
+4. Bug - Cardiff SMR - Hold Labels Missing - thanks to @trevorhannant (Trevor Hannant)
+5. Bug - EGTE SMR - Label Changes  - thanks to @trevorhannant (Trevor Hannant)
+6. Bug - EGAA RNAV Fixes missing - thanks to @trevorhannant (Trevor Hannant)
+7. AIRAC (1708) - EGLL Construction Changes - thanks to @luke11brown (Luke Brown)
+8. AIRAC (1708) - London Luton (EGGW) stand numbers updated - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
@@ -16,7 +24,6 @@
 13. AIRAC (1612) - Norwich (EGSH) Ground Changes - thanks to @tasosb (Anastasios Mpithas)
 14. Enhancement - Add Farnborough Heli Routes - thanks to @trevorhannant (Trevor Hannant)
 15. AIRAC (1707) - EGPH SMR Changes - thanks to @trevorhannant (Trevor Hannant)
-
 
 # Changes from release 2017/05 to 2017/06
 1. AIRAC (1703) - Runway heading of EGMD Updated - thanks to @tasosb (Anastasios Mpithas)
