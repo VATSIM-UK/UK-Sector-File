@@ -7,6 +7,7 @@
 6. Bug - EGAA RNAV Fixes missing - thanks to @trevorhannant (Trevor Hannant)
 7. AIRAC (1708) - EGLL Construction Changes - thanks to @luke11brown (Luke Brown)
 8. AIRAC (1708) - London Luton (EGGW) stand numbers updated - thanks to @luke11brown (Luke Brown)
+9. Enhancement - Cardiff SMR - Stand 6 taxi line changed - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/06 to 2017/07
 1. AIRAC (1704) - London Luton (EGGW) stand numbers and co-ordinates now updated - thanks to @JoshRiley (Josh Riley)
