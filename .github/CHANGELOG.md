@@ -1,3 +1,6 @@
+# Changes from release 2017/08 to 2017/09
+2. Enhancement - Added in withdrawn fixes from 2017/01 until 2017/03 - thanks to @cpawley (Chris Pawley)
+
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1708) - Add Yeovil DME - thanks to @trevorhannant (Trevor Hannant)
