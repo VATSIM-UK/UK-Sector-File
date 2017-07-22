@@ -1,3 +1,6 @@
+# Changes from release 2017/08 to 2017/09
+1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
+
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1708) - Add Yeovil DME - thanks to @trevorhannant (Trevor Hannant)
