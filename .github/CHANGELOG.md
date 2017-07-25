@@ -2,6 +2,7 @@
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
 2. Enhancement - Added in withdrawn fixes from 2017/01 until 2017/03 - thanks to @cpawley (Chris Pawley)
 3. Bug - Correct Nomenclature for EGPO/EGPN online rings - thanks to @cpawley (Chris Pawley)
+4. AIRAC (1709) - Redhill (EGKR) VRPs - thanks to @RhysMarston (Rhys Marston) 
 
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
