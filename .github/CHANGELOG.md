@@ -1,3 +1,4 @@
+X. Enhancement - MAN W Static Boundary defined thanks to @luke11brown (Luke Brown)
 X. Enhancement - MAN E Static Boundary defined thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/07 to 2017/08
