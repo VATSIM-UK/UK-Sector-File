@@ -9,6 +9,7 @@
 8. AIRAC (1705) - Benbecula (EGPL) VRPs added - thanks to @luke11brown (Luke Brown)
 9. Enhancement - Place LL and CC stand labels in red in areas of construction - thanks to @luke11brown (Luke Brown)
 10. AIRAC (1709) - Southend SMR Changes - thanks to @cpawley (Chris Pawley)
+11. AIRAC (1708) - Many ARPs updated - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
