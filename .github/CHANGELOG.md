@@ -2,12 +2,13 @@
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
 2. Enhancement - Added in withdrawn fixes from 2017/01 until 2017/03 - thanks to @cpawley (Chris Pawley)
 3. Bug - Correct Nomenclature for EGPO/EGPN online rings - thanks to @cpawley (Chris Pawley)
-4. AIRAC (1709) - Redhill (EGKR) VRPs - thanks to @RhysMarston (Rhys Marston) 
+4. AIRAC (1709) - Redhill (EGKR) VRPs - thanks to @RhysMarston (Rhys Marston)
 5. AIRAC (1709) - New Denham (EGLD) VRPs - thanks to @trevorhannant (Trevor Hannant)
 6. AIRAC (1709) - Added East Midlands Conspicuity Code - thanks to @trevorhannant (Trevor Hannant)
 7. Bug - Corrected Online Rings when Aldergrove Approach online  - thanks to @RhysMarston (Rhys Marston)
 8. AIRAC (1705) - Benbecula (EGPL) VRPs added - thanks to @luke11brown (Luke Brown)
 9. Enhancement - Place LL and CC stand labels in red in areas of construction - thanks to @luke11brown (Luke Brown)
+10. AIRAC (1709) - Southend SMR Changes - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
