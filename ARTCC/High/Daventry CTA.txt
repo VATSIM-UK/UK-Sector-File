@@ -66,7 +66,8 @@ Daventry CTA                N052.06.33.000 W001.26.17.000 N052.11.35.000 W001.34
 Daventry CTA                N052.11.35.000 W001.34.50.000 N052.11.08.336 W001.36.56.464
 Daventry CTA                N052.11.08.336 W001.36.56.464 N052.10.39.000 W001.40.12.000
 Daventry CTA                N052.10.39.000 W001.40.12.000 N052.14.31.000 W001.41.59.000
-Daventry CTA                N052.14.31.000 W001.41.59.000 N052.42.16.000 W002.13.43.000
+Daventry CTA                N052.14.31.000 W001.41.59.000 N052.18.56.000 W001.47.05.000 ;Extra Point to align with neighbouring airspace
+Daventry CTA                N052.18.56.000 W001.47.05.000 N052.42.16.000 W002.13.43.000 
 Daventry CTA                N052.42.16.000 W002.13.43.000 N052.48.00.000 W001.52.16.000
 Daventry CTA                N052.48.00.000 W001.52.16.000 N052.58.33.000 W001.49.48.000
 
@@ -148,5 +149,7 @@ Daventry CTA                N052.53.34.000 W002.45.39.000 N053.00.06.000 W002.45
 ;Daventry CTA 20 Class A FL85-FL195
 Daventry CTA                N053.03.14.000 W002.49.35.000 N053.06.26.000 W002.43.49.000
 Daventry CTA                N053.06.26.000 W002.43.49.000 N053.04.43.000 W002.40.01.000
-Daventry CTA                N053.04.43.000 W002.40.01.000 N052.18.56.000 W001.47.05.000
-Daventry CTA                N052.18.56.000 W001.47.05.000 N053.03.14.000 W002.49.35.000
+Daventry CTA                N053.04.43.000 W002.40.01.000 N052.58.58.000 W002.33.14.000 ;Extra Point to align with neighbouring airspace
+Daventry CTA                N052.58.58.000 W002.33.14.000 N052.42.16.000 W002.13.43.000 ;Extra Point to align with neighbouring airspace
+Daventry CTA                N052.42.16.000 W002.13.43.000 N052.18.56.000 W001.47.05.000 ;Extra Point to align with neighbouring airspace
+Daventry CTA                N052.18.56.000 W001.47.05.000 N053.03.14.000 W002.49.35.000 
