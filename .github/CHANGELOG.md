@@ -15,6 +15,7 @@
 14. Enhancement - MAN W Static Boundary defined thanks to @luke11brown (Luke Brown)
 15. AIRAC (1704) - New ATZs Lee-On-Solent & Fleetlands - thanks to @luke11brown (Luke Brown)
 16. AIRAC (1706) - 1706 Airway Redesignation - thanks to @luke11brown (Luke Brown)
+18. Enhancement - Extra Southern CTA airspace base label removed - thnaks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
