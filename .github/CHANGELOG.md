@@ -1,3 +1,6 @@
+# Changes from release 2017/09 to 2017/10
+1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
+
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
 2. Enhancement - Added in withdrawn fixes from 2017/01 until 2017/03 - thanks to @cpawley (Chris Pawley)
@@ -16,7 +19,6 @@
 15. AIRAC (1704) - New ATZs Lee-On-Solent & Fleetlands - thanks to @luke11brown (Luke Brown)
 16. AIRAC (1706) - 1706 Airway Redesignation - thanks to @luke11brown (Luke Brown)
 17. Bug - NEXOX misspelled in EGKK Fixes/SIDs - thanks to @luke11brown (Luke Brown)
-18. Bug - Corrected online ring for EGAE Tower - thanks to @danio1024 (Daniel Remiszewski)
 
 # Changes from release 2017/07 to 2017/08
 1. AIRAC (1708) - Biggin Hill (EGKB) 03/21 Runway heading update - thanks to @tasosb (Anastasios Mpithas)
