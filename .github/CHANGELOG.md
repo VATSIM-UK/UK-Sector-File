@@ -1,3 +1,6 @@
+# Changes from release 2017/09 to 2017/10
+1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
+
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
 2. Enhancement - Added in withdrawn fixes from 2017/01 until 2017/03 - thanks to @cpawley (Chris Pawley)
