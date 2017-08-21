@@ -12,9 +12,9 @@ COORD:N052.11.04.000:W000.21.59.000
 
 SECTORLINE:LTC2
 DISPLAY:London TC NW:London TC NW:London TC NE
-DISPLAY:London TC NW:London TC NW:London AC Daventry
 DISPLAY:London TC NE:London TC NE:London TC NW
-DISPLAY:London TC NE:London TC NE:London AC Daventry
+DISPLAY:London TC NW:London AC Clacton:London AC Daventry
+DISPLAY:London TC NE:London AC Clacton:London AC Daventry
 DISPLAY:London AC Daventry:London TC NW:London TC NE
 DISPLAY:London AC Clacton:London TC NW:London TC NE
 DISPLAY:London TC CPT:London AC Daventry:London AC Clacton
