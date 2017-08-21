@@ -1,6 +1,7 @@
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
 2. Enhancement - Extra Southern CTA airspace base label removed - thnaks to @luke11brown (Luke Brown)
+3. Bug - Corrected sectorline LED1 not displaying for TC NE - thanks to @920527 (George Wright)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
