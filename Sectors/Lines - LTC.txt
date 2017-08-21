@@ -145,11 +145,8 @@ COORD:N050.33.30.000:E000.34.16.000
 
 SECTORLINE:LTC15
 DISPLAY:London AC Worthing:London AC Worthing:London AC Dover
-DISPLAY:London AC Worthing:London AC Worthing:London TC SW
-DISPLAY:London AC Worthing:London AC Worthing:London TC SE
+DISPLAY:London AC Worthing:London TC SE:London TC SW
 DISPLAY:London AC Dover:London AC Dover:London AC Worthing
-DISPLAY:London AC Dover:London AC Dover:London TC SW
-DISPLAY:London AC Dover:London AC Dover:London TC SE
 DISPLAY:London TC SW:London TC SW:London TC SE
 DISPLAY:London TC SE:London TC SE:London TC SW
 COORD:N051.18.17.000:W000.26.47.000
