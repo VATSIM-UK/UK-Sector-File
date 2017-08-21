@@ -124,6 +124,7 @@ COORD:N051.00.00.000:E001.27.60.000
 
 SECTORLINE:LTC13
 DISPLAY:London AC Worthing:London AC Worthing:London AC Dover
+DISPLAY:London AC Worthing:London AC Worthing:London TC SE
 DISPLAY:London AC Worthing:London TC SE:London TC SW
 DISPLAY:London AC Dover:London AC Dover:London AC Worthing
 DISPLAY:London TC SW:London TC SW:London TC SE
