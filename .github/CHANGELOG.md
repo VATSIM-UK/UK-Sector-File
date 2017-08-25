@@ -2,6 +2,7 @@
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
 2. Enhancement - Extra Southern CTA airspace base label removed - thnaks to @luke11brown (Luke Brown)
 3. Enhancement - Updated Slack Channel name on contributing.md - thanks to @tasosb (Anastasios Mpithas)
+4. Enhancement - Added Manchester/Barton (EGCB) VRPs - thanks to @danio1024 (Daniel Remiszewski)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
