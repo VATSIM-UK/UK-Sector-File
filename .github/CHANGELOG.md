@@ -4,6 +4,7 @@
 3. Enhancement - Updated Slack Channel name on contributing.md - thanks to @tasosb (Anastasios Mpithas)
 4. AIRAC (1710) - Changed Q75 airway to RNAV (from Lower) - thanks to @danio1024 (Daniel Remiszewski)
 5. AIRAC (1710) - Gatwick Ground Changes - thanks to @tasosb (Anastasios Mpithas)
+6. AIRAC (1710) - Added Manchester/Barton (EGCB) VRPs - thanks to @danio1024 (Daniel Remiszewski)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
