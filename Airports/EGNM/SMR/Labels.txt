@@ -22,7 +22,7 @@
 "N3" N053.52.01.179 W001.39.12.210 standHold
 "N4" N053.52.04.044 W001.39.09.649 standHold
 ;Stands
-"1" N053.52.11.362 W001.39.43.787 standHold
+"1" N053.52.11.362 W001.39.43.787 standHold;to be surveyed
 "1L" N053.52.11.480 W001.39.44.380 standHold
 "1R" N053.52.10.890 W001.39.43.490 standHold
 "3" N053.52.08.920 W001.39.40.000 standHold
