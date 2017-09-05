@@ -10,6 +10,7 @@
 9. Bug - EGWU STARs add BIG4B - thanks to @luke11brown (Luke Brown)
 10. AIRAC (1710) - Updated Strumble CTA - thanks to @luke11brown (Luke Brown)
 11. AIRAC (1710) - Updated stand coordinates in Leeds Bradford (EGNM) - thanks to @danio1024 (Daniel Remiszewski)
+12. AIRAC (1709) - Heathrow(EGLL) SMR Changes - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
