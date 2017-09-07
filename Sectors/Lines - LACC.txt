@@ -433,6 +433,7 @@ COORD:N051.27.15.000:E000.33.00.000
 
 SECTORLINE:LED1
 DISPLAY:London AC Clacton:London AC Clacton:London AC Dover
+DISPLAY:London TC NE:London TC NE:London TC SE
 DISPLAY:London AC Dover:London AC Dover:London AC Clacton
 DISPLAY:London AC Dover:London AC Dover:London TC East
 DISPLAY:London TC East:London TC East:London AC Dover
