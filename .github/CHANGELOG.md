@@ -1,7 +1,18 @@
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
-2. Enhancement - Extra Southern CTA airspace base label removed - thanks to @luke11brown (Luke Brown)
-3. Bug - Corrected sectorlines LED1, LTC1 and LTC5 not displaying for TCN when LON SC online - thanks to @920527 (George Wright)
+2. Enhancement - Extra Southern CTA airspace base label removed - thnaks to @luke11brown (Luke Brown)
+3. Enhancement - Updated Slack Channel name on contributing.md - thanks to @tasosb (Anastasios Mpithas)
+4. AIRAC (1710) - Changed Q75 airway to RNAV (from Lower) - thanks to @danio1024 (Daniel Remiszewski)
+5. AIRAC (1710) - Gatwick Ground Changes - thanks to @tasosb (Anastasios Mpithas)
+6. AIRAC (1710) - Added Manchester/Barton (EGCB) VRPs - thanks to @danio1024 (Daniel Remiszewski)
+7. AIRAC (1710) - EGPK Ground Changes - thanks to @tasosb (Anastasios Mpithas)
+8. AIRAC (1710) - Heathrow Ground Changes - thanks to @tasosb (Anastasios Mpithas)
+9. Bug - EGWU STARs add BIG4B - thanks to @luke11brown (Luke Brown)
+10. AIRAC (1710) - Updated Strumble CTA - thanks to @luke11brown (Luke Brown)
+11. AIRAC (1710) - Updated stand coordinates in Leeds Bradford (EGNM) - thanks to @danio1024 (Daniel Remiszewski)
+12. AIRAC (1709) - Heathrow(EGLL) SMR Changes - thanks to @tasosb (Anastasios Mpithas)
+13. Bug - Remove CAS North of L9 - thanks to @luke11brown (Luke Brown)
+14. Bug - Corrected sectorlines LED1, LTC1 and LTC5 not displaying for TCN when LON SC online - thanks to @920527 (George Wright)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
