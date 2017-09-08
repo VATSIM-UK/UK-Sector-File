@@ -4,4 +4,4 @@ ALTOWNER:Observing Scottish FIR:O:SM:STW:ST:SD:SWD:S
 ALTOWNER:Observing SCO_WD_CTR:STW:ST:SD:O:SM:SWD:S
 ALTOWNER:Observing SCO_D_CTR:STW:ST:O:SM:SD:SWD:S
 ALTOWNER:Observing STC_CTR:STW:O:SM:ST:SD:SWD:S
-BORDER:Gal_TayE1:Gal_Tay:Gal_Tal:Gal_Nor:Gal_IoM2:Gal_IoM1:Gal_Ant:Wes-Cen_Gal
+BORDER:Gal_TayE1:Mon_Gal:Gal_Tal:Gal_Nor:Gal_IoM2:Gal_IoM1:Gal_Ant:Wes-Cen_Gal
