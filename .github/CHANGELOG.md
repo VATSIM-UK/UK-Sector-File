@@ -13,6 +13,7 @@
 12. AIRAC (1709) - Heathrow(EGLL) SMR Changes - thanks to @tasosb (Anastasios Mpithas)
 13. Bug - Remove CAS North of L9 - thanks to @luke11brown (Luke Brown)
 14. Bug - Corrected sectorlines LED1, LTC1 and LTC5 not displaying for TCN when LON SC online - thanks to @920527 (George Wright)
+15. Bug - London AC Dover Secor Definition - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
