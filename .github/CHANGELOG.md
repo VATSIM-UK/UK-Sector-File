@@ -15,7 +15,7 @@
 14. Bug - Corrected sectorlines LED1, LTC1 and LTC5 not displaying for TCN when LON SC online - thanks to @920527 (George Wright)
 15. Bug - London AC Dover Secor Definition - thanks to @luke11brown (Luke Brown)
 16. AIRAC (1709) - Edinburgh (EGPH) SMR Update - thanks to @luke11brown (Luke Brown)
-17. AIRAC|Enhancement - Biggin Hill (EGKB) Runway withdrawn & new SMR - thanks to @tasosb (Anastasios Mpithas)
+17. AIRAC (1708) |Enhancement - Biggin Hill (EGKB) Runway withdrawn & new SMR - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
