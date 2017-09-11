@@ -16,6 +16,7 @@
 15. Bug - London AC Dover Secor Definition - thanks to @luke11brown (Luke Brown)
 16. AIRAC (1709) - Edinburgh (EGPH) SMR Update - thanks to @luke11brown (Luke Brown)
 17. AIRAC (1708) |Enhancement - Biggin Hill (EGKB) Runway withdrawn & new SMR - thanks to @tasosb (Anastasios Mpithas)
+18. AIRAC (1708) - Glasgow (EGPF) Updated - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/08 to 2017/09
 1. Enhancement - Updated OCAS regions and airspaces near Cotsold and West CTAs - thanks to @cpawley (Chris Pawley)
