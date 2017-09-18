@@ -1,5 +1,6 @@
-# Changes from release 
+# Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
+2. Bug - Added missing ownership for North Sea CTA 2 delegated airspace (EHAA) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
