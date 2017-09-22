@@ -1,5 +1,11 @@
 # Changes from release 2017/10 to 2017/11
-4. AIRAC (1710) - Updated West CTA coordinates and formatting - thanks to @hsugden (Harry Sugden)
+1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
+2. Bug - Added missing ownership for North Sea CTA 2 delegated airspace (EHAA) - thanks to @hsugden (Harry Sugden)
+3. Enhancement - Edinburgh (EGPH) Extended centrelines extended - thanks to @luke11brown (Luke Brown)
+4. AIRAC (1711) - Updated Hawarden (EGNR) squawk code allocation range - thanks to @hsugden (Harry Sugden)
+5. Bug - Updated Glasgow (EGPF) squawk code allocation range - thanks to @hsugden (Harry Sugden)
+6. Enhancement - ScAC East static sector boundary defined - thanks to @hsugden (Harry Sugden)
+7. AIRAC (1710) - Updated West CTA coordinates and formatting - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
