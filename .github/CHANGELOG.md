@@ -4,6 +4,7 @@
 3. Enhancement - Edinburgh (EGPH) Extended centrelines extended - thanks to @luke11brown (Luke Brown)
 4. AIRAC (1711) - Updated Hawarden (EGNR) squawk code allocation range - thanks to @hsugden (Harry Sugden)
 5. Bug - Updated Glasgow (EGPF) squawk code allocation range - thanks to @hsugden (Harry Sugden)
+6. Enhancement - ScAC East static sector boundary defined - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
