@@ -6,6 +6,7 @@
 5. Bug - Updated Glasgow (EGPF) squawk code allocation range - thanks to @hsugden (Harry Sugden)
 6. Enhancement - ScAC East static sector boundary defined - thanks to @hsugden (Harry Sugden)
 7. AIRAC (1710) - Updated West CTA coordinates and formatting - thanks to @hsugden (Harry Sugden)
+8. Bug - Online ring for EGNT incorrect displayfixed - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
