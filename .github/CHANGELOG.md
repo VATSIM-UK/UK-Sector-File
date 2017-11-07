@@ -1,5 +1,5 @@
 # Changes from release 2017/11 to 2017/12
-1. AIRAC (1712) - (U) N862 amended
+1. AIRAC (1712) - Airways UN862/N862 amended - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
