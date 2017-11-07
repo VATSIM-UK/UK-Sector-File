@@ -1,3 +1,6 @@
+# Changes from release 2017/11 to 2017/12
+8. AIRAC (1712) - Manchester STARs updated - thanks to @JoshRiley (Josh Riley)
+
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
 2. Bug - Added missing ownership for North Sea CTA 2 delegated airspace (EHAA) - thanks to @hsugden (Harry Sugden)
