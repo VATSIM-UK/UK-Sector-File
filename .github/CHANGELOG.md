@@ -1,5 +1,7 @@
 # Changes from release 2017/11 to 2017/12
-1. AIRAC (1712) - Airways UN862/N862 amended - thanks to @daleb99 (Dale Brooksby)
+1. Bug - Fixed definion of North Sea Area 2 - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1712) - Updated EGMC STARs - thanks to @cpawley (Chris Pawley)
+3. AIRAC (1712) - Airways UN862/N862 amended - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
