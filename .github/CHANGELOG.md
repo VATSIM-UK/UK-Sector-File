@@ -4,6 +4,7 @@
 3. AIRAC (1712) - Airways UN862/N862 amended - thanks to @daleb99 (Dale Brooksby)
 4. AIRAC (1712) - Airway P6 airway amended - thanks to @daleb99 (Dale Brooksby)
 5. AIRAC (1712) - Airways UQ4/Q4 amended - thanks to @daleb99 (Dale Brooksby)
+6. AIRAC (1712) - Liverpool STARs amended - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
