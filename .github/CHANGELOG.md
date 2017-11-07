@@ -7,6 +7,7 @@
 6. AIRAC (1712) - Liverpool STARs amended - thanks to @JoshRiley (Josh Riley)
 7. AIRAC (1712) - London City STARs updated - thanks to @JoshRiley (Josh Riley)
 8. AIRAC (1712) - Manchester STARs updated - thanks to @JoshRiley (Josh Riley)
+9. AIRAC (1712) - Heathrow STARs updated - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
