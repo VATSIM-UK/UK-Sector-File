@@ -1,4 +1,11 @@
 # Changes from release 2017/11 to 2017/12
+1. Bug - Fixed definition of North Sea Area 2 - thanks to @cpawley (Chris Pawley)
+2. AIRAC (1712) - Updated EGMC STARs - thanks to @cpawley (Chris Pawley)
+3. AIRAC (1712) - Airways UN862/N862 amended - thanks to @daleb99 (Dale Brooksby)
+4. AIRAC (1712) - Airway P6 airway amended - thanks to @daleb99 (Dale Brooksby)
+5. AIRAC (1712) - Airways UQ4/Q4 amended - thanks to @daleb99 (Dale Brooksby)
+6. AIRAC (1712) - Liverpool STARs amended - thanks to @JoshRiley (Josh Riley)
+7. AIRAC (1712) - London City STARs updated - thanks to @JoshRiley (Josh Riley)
 8. AIRAC (1712) - Manchester STARs updated - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2017/10 to 2017/11
