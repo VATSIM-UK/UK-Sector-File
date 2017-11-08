@@ -1,4 +1,4 @@
-# Changes from release 2017/10 to 2017/11
+# Changes from release 2017/11 to 2017/12
 1. AIRAC (1712) - UP620 rerouted
 
 # Changes from release 2017/10 to 2017/11
