@@ -8,6 +8,8 @@
 7. AIRAC (1712) - London City STARs updated - thanks to @JoshRiley (Josh Riley)
 8. AIRAC (1712) - Manchester STARs updated - thanks to @JoshRiley (Josh Riley)
 9. Enhancement - Added LTC_CTR functionality - thanks to @cpawley (Chris Pawley)
+10. AIRAC (1712) - Airway UP620 rerouted - thanks to @daleb99 (Dale Brooksby)
+
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
