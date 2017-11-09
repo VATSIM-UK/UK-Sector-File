@@ -1,5 +1,5 @@
 # Changes from release 2017/11 to 2017/12
-1. AIRAC (1712) - Updated stand 323 to red color
+1. AIRAC (1712) - Updated EGCC SMR.
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
