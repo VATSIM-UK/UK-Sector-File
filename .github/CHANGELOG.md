@@ -10,6 +10,7 @@
 9. Enhancement - Added LTC_CTR functionality - thanks to @cpawley (Chris Pawley)
 10. AIRAC (1712) - Airway UP620 rerouted - thanks to @daleb99 (Dale Brooksby)
 11. AIRAC (1712) - Airway UM140 rerouted - thanks to @daleb99 (Dale Brooksby)
+12. AIRAC (1712) - Gatwick STARs amended - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
