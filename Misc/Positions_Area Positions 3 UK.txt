@@ -49,7 +49,6 @@ London Control:London Control:121.020:TCO:L:LTC:CTR:-:-::
 London Control:London Control:129.270:TCL:L:LTC:CTR:-:-::
 London Control:London Control:123.900:TCL:L:LTC:CTR:-:-::
 ;TC East
-London Control:London Control:124.920:T:L:LTC:CTR:-:-::
 London Control:London Control:135.420:TCE:L:LTC:CTR:-:-::
 ;TC South
 London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051.03.50.110:E000.54.58.144

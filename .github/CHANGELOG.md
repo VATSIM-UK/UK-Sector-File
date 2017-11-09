@@ -7,7 +7,17 @@
 6. AIRAC (1712) - Liverpool STARs amended - thanks to @JoshRiley (Josh Riley)
 7. AIRAC (1712) - London City STARs updated - thanks to @JoshRiley (Josh Riley)
 8. AIRAC (1712) - Manchester STARs updated - thanks to @JoshRiley (Josh Riley)
-9. AIRAC (1712) - Heathrow STARs updated - thanks to @JoshRiley (Josh Riley)
+9. Enhancement - Added LTC_CTR functionality - thanks to @cpawley (Chris Pawley)
+10. AIRAC (1712) - Airway UP620 rerouted - thanks to @daleb99 (Dale Brooksby)
+11. AIRAC (1712) - Airway UM140 rerouted - thanks to @daleb99 (Dale Brooksby)
+12. AIRAC (1712) - Gatwick STARs amended - thanks to @cpawley (Chris Pawley)
+13. AIRAC (1712) - Stansted STARs amended - thanks to @daleb99 (Dale Brooksby)
+14. AIRAC (1712) - Luton STARs amended - thanks to @daleb99 (Dale Brooksby)
+15. AIRAC (1712) - Heathrow SMR - Stand 323 closed - thanks to @daleb99 (Dale Brooksby)
+16. AIRAC (1712) - Many Airways become RNAV and (some) lose (U) designator - thanks to @daleb99 (Dale Brooksby)
+17. AIRAC (1712) - Airway UL10 rerouted - thanks to @daleb99 (Dale Brooksby)
+18. AIRAC (1712) - Airways UL28/L28 rerouted - thanks to @daleb99 (Dale Brooksby)
+19. AIRAC (1712) - Heathrow STARs updated - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
