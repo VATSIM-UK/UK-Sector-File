@@ -11,6 +11,7 @@
 10. AIRAC (1712) - Airway UP620 rerouted - thanks to @daleb99 (Dale Brooksby)
 11. AIRAC (1712) - Airway UM140 rerouted - thanks to @daleb99 (Dale Brooksby)
 12. AIRAC (1712) - Gatwick STARs amended - thanks to @cpawley (Chris Pawley)
+13. AIRAC (1712) - Stansted STARs amended - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
