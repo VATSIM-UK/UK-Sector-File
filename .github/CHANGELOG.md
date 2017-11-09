@@ -15,6 +15,7 @@
 14. AIRAC (1712) - Luton STARs amended - thanks to @daleb99 (Dale Brooksby)
 15. AIRAC (1712) - Heathrow SMR - Stand 323 closed - thanks to @daleb99 (Dale Brooksby)
 16. AIRAC (1712) - Many Airways become RNAV and (some) lose (U) designator - thanks to @daleb99 (Dale Brooksby)
+17. AIRAC (1712) - Airway UL10 rerouted - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
