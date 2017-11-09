@@ -20,6 +20,7 @@
 19. AIRAC (1712) - Heathrow STARs updated - thanks to @JoshRiley (Josh Riley)
 20. AIRAC (1712) - Jersey SMR - Stand 32 added - thanks to @daleb99 (Dale Brooksby)
 21. AIRAC (1712) - Manchester SMR - Stands 55L/R added, 56 withdrawn - thanks to @daleb99 (Dale Brooksby)
+22. AIRAC (1712) - Tidied up missing fixes for Heathrow STARs - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
