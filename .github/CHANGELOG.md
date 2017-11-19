@@ -1,4 +1,4 @@
-# Changes from release 2017/10 to 2017/11
+# Changes from release 2017/12 to 2017/13
 1. AIRAC (1712) - (U)Y124 rerouted
 
 # Changes from release 2017/10 to 2017/11
