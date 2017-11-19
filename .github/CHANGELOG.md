@@ -2,6 +2,7 @@
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
 2. AIRAC (1712) - Updated EGKB STARs - Truncated JACKO1L STAR and changed to JACKO2L - thanks to @daleb99 (Dale Brooksby)
 3. AIRAC (1712) - Airways UY124/Y124 rerouted - thanks to @daleb99 (Dale Brooksby)
+4. Enhancement - ScAC Rathlin static sector boundary defined - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/11 to 2017/12
 1. Bug - Fixed definition of North Sea Area 2 - thanks to @cpawley (Chris Pawley)
