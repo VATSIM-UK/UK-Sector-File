@@ -1,4 +1,4 @@
-# Changes from release 2017/11 to 2017/12
+# Changes from release 2017/12 to 2017/13
 1. AIRAC (1712) - Truncated JACKO1L STAR and changed to JACKO2L
 
 # Changes from release 2017/10 to 2017/11
