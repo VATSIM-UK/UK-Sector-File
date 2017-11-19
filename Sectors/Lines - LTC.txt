@@ -130,7 +130,9 @@ DISPLAY:London AC Dover:London AC Dover:London AC Worthing
 DISPLAY:London AC Dover:London AC Dover:London TC SW
 DISPLAY:London AC Dover:London AC Dover:London TC SE
 DISPLAY:London TC SW:London TC SW:London TC SE
+DISPLAY:London TC SW:London TC SW:London AC Dover
 DISPLAY:London TC SE:London TC SE:London TC SW
+DISPLAY:London TC SE:London TC SE:London AC Worthing
 COORD:N051.08.53.000:W000.11.25.000
 COORD:N050.54.33.000:E000.07.16.000
 COORD:N050.33.30.000:E000.34.16.000
@@ -181,7 +183,9 @@ DISPLAY:London AC Dover:London AC Dover:London AC Worthing
 DISPLAY:London AC Dover:London AC Dover:London TC SW
 DISPLAY:London AC Dover:London AC Dover:London TC SE
 DISPLAY:London TC SW:London TC SW:London TC SE
+DISPLAY:London TC SW:London TC SW:London AC Worthing
 DISPLAY:London TC SE:London TC SE:London TC SW
+DISPLAY:London TC SE:London TC SE:London AC Worthing
 COORD:N051.29.04.000:W000.27.53.000
 COORD:N051.18.17.000:W000.26.47.000
 
@@ -276,7 +280,9 @@ SECTORLINE:LTC24
 DISPLAY:London AC Daventry:London TC NW:London TC SW
 DISPLAY:London AC Worthing:London TC NW:London TC SW
 DISPLAY:London TC NW:London TC NW:London TC SW
+DISPLAY:London TC NW:London TC NW:London AC Worthing
 DISPLAY:London TC SW:London TC SW:London TC NW
+DISPLAY:London TC SW:London TC SW:London AC Worthing
 DISPLAY:London TC East:London TC NW:London AC Daventry
 COORD:N051.30.37.000:W000.38.30.000
 COORD:N051.29.04.000:W000.27.53.000
