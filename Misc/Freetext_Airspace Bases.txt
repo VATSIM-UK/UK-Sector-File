@@ -10,16 +10,13 @@ N054.51.13.941:W005.31.34.739:Airspace Bases:3500
 N054.52.31.476:W005.41.53.300:Airspace Bases:3500
 
 ;Channel Islands Control Zone - CTR SFC-FL80
-:Airspace Bases:FL55
-:Airspace Bases:FL55
-
+N049.56.36.939:W002.48.00.580:Airspace Bases:SFC
+N049.35.25.955:W002.31.38.198:Airspace Bases:SFC
 ;Channel Islands Control Zone - CTA-1 FL55-FL80
 N049.55.02.223:W003.10.05.261:Airspace Bases:FL55
 N049.45.33.203:W003.05.07.979:Airspace Bases:FL55
-
 ;Channel Islands Control Zone - CTA-2 3500-FL80
-N049.56.26.981:W001.56.57.516:Airspace Bases:FL55
-
+N049.56.26.981:W001.56.57.516:Airspace Bases:3500
 ;Channel Islands Control Zone - TMA FL80-FL195
 N049.57.09.659:W002.44.20.276:Airspace Bases:FL80
 N049.34.12.616:W002.27.58.704:Airspace Bases:FL80
