@@ -17,9 +17,6 @@ N049.55.02.223:W003.10.05.261:Airspace Bases:FL55
 N049.45.33.203:W003.05.07.979:Airspace Bases:FL55
 ;Channel Islands Control Zone - CTA-2 3500-FL80
 N049.56.26.981:W001.56.57.516:Airspace Bases:3500
-;Channel Islands Control Zone - TMA FL80-FL195
-N049.57.09.659:W002.44.20.276:Airspace Bases:FL80
-N049.34.12.616:W002.27.58.704:Airspace Bases:FL80
 
 ;Clacton CTA 1 A FL155-FL195
 N052.21.59.937:W000.28.11.523:Airspace Bases:FL155
