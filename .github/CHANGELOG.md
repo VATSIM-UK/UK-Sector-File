@@ -3,6 +3,7 @@
 2. AIRAC (1713) - Brize Norton VRP Update - thanks to @trevorhannant (Trevor Hannant)
 3. Trial EG32/2017 (implimented in 1801) - New EGLL SID - DET2Z - thanks to @trevorhannant (Trevor Hannant)
 4. Bug - Fix Typo in EGLC STARs - thanks to @trevorhannant (Trevor Hannant)
+5. Enhancement - Add Controlled Airspace Bases for Jersey Zone - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
