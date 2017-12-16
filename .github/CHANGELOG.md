@@ -1,5 +1,5 @@
 # Changes from release 2017/13 to 2018/01
-1. AIRAC (1801) - EGCN Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
+1. AIRAC (1713) - EGCN Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
