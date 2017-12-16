@@ -5,6 +5,7 @@
 4. Bug - Fix Typo in EGLC STARs - thanks to @trevorhannant (Trevor Hannant)
 5. Enhancement - Add Controlled Airspace Bases for Jersey Zone - thanks to @trevorhannant (Trevor Hannant)
 6. AIRAC (1713) - EGJJ SMR Update - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - Added agreed levels between S6 and AC Worthing for 1712 STARs - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
