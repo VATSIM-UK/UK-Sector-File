@@ -5,6 +5,7 @@
 4. Bug - Fix Typo in EGLC STARs - thanks to @trevorhannant (Trevor Hannant)
 5. Enhancement - Add Controlled Airspace Bases for Jersey Zone - thanks to @trevorhannant (Trevor Hannant)
 6. AIRAC (1713) - EGJJ SMR Update - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - ScAC West static sector boundary defined - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
