@@ -1,3 +1,6 @@
+# Changes from release 2017/13 to 2018/01
+9. Enhancement - ScAC West static sector boundary defined - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
 2. Bug - Added missing ownership for North Sea CTA 2 delegated airspace (EHAA) - thanks to @hsugden (Harry Sugden)
@@ -7,7 +10,7 @@
 6. Enhancement - ScAC East static sector boundary defined - thanks to @hsugden (Harry Sugden)
 7. AIRAC (1710) - Updated West CTA coordinates and formatting - thanks to @hsugden (Harry Sugden)
 8. Bug - Online ring for EGNT incorrect displayfixed - thanks to @luke11brown (Luke Brown)
-9. Enhancement - ScAC West static sector boundary defined - thanks to @luke11brown (Luke Brown)
+
 
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
