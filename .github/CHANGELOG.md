@@ -1,3 +1,6 @@
+# Changes from release 2017/13 to 2018/01
+1. AIRAC (1713) - Liverpool Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
+
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
 2. AIRAC (1712) - Updated EGKB STARs - Truncated JACKO1L STAR and changed to JACKO2L - thanks to @daleb99 (Dale Brooksby)
