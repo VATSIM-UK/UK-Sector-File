@@ -7,6 +7,7 @@
 6. AIRAC (1713) - EGJJ SMR Update - thanks to @trevorhannant (Trevor Hannant)
 7. Enhancement - ScAC West static sector boundary defined - thanks to @luke11brown (Luke Brown)
 8. AIRAC (1801) - Danger Area EG D405A Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+9. Bug - Updated Gatwick Runway headings. - thanks to @doyleisgod (Chris Doyle)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
