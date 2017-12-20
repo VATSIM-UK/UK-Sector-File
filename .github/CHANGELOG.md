@@ -1,4 +1,4 @@
-# Changes from release 2017/12 to 2017/13
+# Changes from release 2017/13 to 2017/01
 1. AIRAC (1713) - EGMC Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
