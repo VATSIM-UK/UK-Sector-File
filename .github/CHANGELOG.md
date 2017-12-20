@@ -11,6 +11,7 @@
 10. AIRAC (1713) - Oxford ATIS Frequency Update -  - thanks to @trevorhannant (Trevor Hannant)
 11. AIRAC (1801) - Waypoint BEVEL removed from N621 - thanks to @trevorhannant (Trevor Hannant)
 12. AIRAC (1713) - Liverpool Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
+13. AIRAC (1713) - EGTK Listening Code Introduced - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
