@@ -1,4 +1,4 @@
-# Changes from release 2017/12 to 2017/13
+# Changes from release 2017/13 to 2018/01
 1. AIRAC (1801) - Waypoint BEVEL removed from N621 - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
