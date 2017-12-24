@@ -1,5 +1,6 @@
 # Changes from release 2017/13 to 2018/01
 1. Enhancement - Added Jersey Zone split position and improved line display to LON - thanks to @hsugden (Harry Sugden)
+2. Enhancement - Added Jersey (JJ), Guernsey (JB) and Alderney (JA) online rings - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/09 to 2017/10
 1. Bug - Corrected online ring for City of Derry (EGAE) Tower - thanks to @danio1024 (Daniel Remiszewski)
