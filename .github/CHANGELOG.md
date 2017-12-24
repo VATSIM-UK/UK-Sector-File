@@ -14,6 +14,7 @@
 13. AIRAC (1713) - EGTK Listening Code Introduced - thanks to @trevorhannant (Trevor Hannant)
 14. AIRAC (1713) - EGMC Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
 15. AIRAC (1712) - EGSC STARs amended - thanks to @inventor02 (George Peppard)
+16. Enhancement - Added online rings for Bristol TWR/GND to display to London - thanks to @hsugden (Harry Sugden) and @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
