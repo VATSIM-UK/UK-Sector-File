@@ -15,6 +15,7 @@
 14. AIRAC (1713) - EGMC Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
 15. AIRAC (1712) - EGSC STARs amended - thanks to @inventor02 (George Peppard)
 16. AIRAC (1712) - Holyhead, Strangford and Irish Sea CTAs added (ARTCC High, 'OCAS' Black Regions, Airspace Bases) - thanks to @hsugden (Harry Sugden) and @daleb99 (Dale Brooksby)
+17. AIRAC (1713) - Removed N864 controlled airspace (FL155-195) portion between DCS and WAL - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
