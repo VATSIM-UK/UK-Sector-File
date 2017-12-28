@@ -5,7 +5,16 @@
 4. Bug - Fix Typo in EGLC STARs - thanks to @trevorhannant (Trevor Hannant)
 5. Enhancement - Add Controlled Airspace Bases for Jersey Zone - thanks to @trevorhannant (Trevor Hannant)
 6. AIRAC (1713) - EGJJ SMR Update - thanks to @trevorhannant (Trevor Hannant)
-7. Enhancement - Added agreed levels between S6 and AC Worthing for 1712 STARs - thanks to @cpawley (Chris Pawley)
+7. Enhancement - ScAC West static sector boundary defined - thanks to @luke11brown (Luke Brown)
+8. AIRAC (1801) - Danger Area EG D405A Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+9. Bug - Updated Gatwick Runway headings. - thanks to @doyleisgod (Chris Doyle)
+10. AIRAC (1713) - Oxford ATIS Frequency Update -  - thanks to @trevorhannant (Trevor Hannant)
+11. AIRAC (1801) - Waypoint BEVEL removed from N621 - thanks to @trevorhannant (Trevor Hannant)
+12. AIRAC (1713) - Liverpool Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
+13. AIRAC (1713) - EGTK Listening Code Introduced - thanks to @trevorhannant (Trevor Hannant)
+14. AIRAC (1713) - EGMC Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
+15. AIRAC (1712) - EGSC STARs amended - thanks to @inventor02 (George Peppard)
+16. Enhancement - Added agreed levels between S6 and AC Worthing for 1712 STARs - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
