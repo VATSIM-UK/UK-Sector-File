@@ -17,6 +17,7 @@
 16. Enhancement - Added agreed levels between S6 and AC Worthing for 1712 STARs - thanks to @cpawley (Chris Pawley)
 17. Bug - Move D3 label at Blackpool (EGNH) to the correct place - thanks to @inventor02 (George Peppard)
 18. Enhancement - Removed outdated (since AIRAC 1405) EGBB SIDs and STARs, along with other redundant 'General RNAV' fixes - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Simplified Belfast Aldergrove SMR - thanks to @sw104 (Sam White)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
