@@ -25,6 +25,7 @@
 24. Enhancement - Added online rings for Solent (EGHI and EGHH) - thanks to @hsugden (Harry Sugden)
 25. Enhancement - Added online rings for Cardiff TWR to display to London - thanks to @hsugden (Harry Sugden)
 26. Enhancement - Added online rings for Bristol TWR/GND to display to London - thanks to @hsugden (Harry Sugden) and @trevorhannant (Trevor Hannant)
+27. Bug - Corrected airport line display references to 'London AC West' - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
