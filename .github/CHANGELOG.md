@@ -19,6 +19,7 @@
 18. Enhancement - Removed outdated (since AIRAC 1405) EGBB SIDs and STARs, along with other redundant 'General RNAV' fixes - thanks to @hsugden (Harry Sugden)
 19. Enhancement - Simplified Belfast Aldergrove SMR - thanks to @sw104 (Sam White)
 20. AIRAC (1712) - Updated Doncaster (EGCN) SMR ground layout - thanks to @hsugden (Harry Sugden)
+21. Enhancement - Added CAT I holding points to London Heathrow (EGLL) SMR - thanks to @james-yuen (James Yuen)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
