@@ -23,6 +23,7 @@
 22. Bug - corrected Oxford (EGTK) SMR formatting so 'Oxford' now appears in Display Settings\Regions - thanks to @hsugden (Harry Sugden)
 23. AIRAC (1713) - EGMC SMR Update - thanks to @inventor02 (George Peppard)
 24. Enhancement - Added online rings for Solent (EGHI and EGHH) - thanks to @hsugden (Harry Sugden)
+25. Enhancement - Added online rings for Cardiff TWR to display to London - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
