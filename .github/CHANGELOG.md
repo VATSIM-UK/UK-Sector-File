@@ -1,7 +1,7 @@
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1713) - Brize Norton VRP Update - thanks to @trevorhannant (Trevor Hannant)
-3. Trial EG32/2017 (implimented in 1801) - New EGLL SID - DET2Z - thanks to @trevorhannant (Trevor Hannant)
+3. Trial EG32/2017 (implemented in 1801) - New EGLL SID - DET2Z - thanks to @trevorhannant (Trevor Hannant)
 4. Bug - Fix Typo in EGLC STARs - thanks to @trevorhannant (Trevor Hannant)
 5. Enhancement - Add Controlled Airspace Bases for Jersey Zone - thanks to @trevorhannant (Trevor Hannant)
 6. AIRAC (1713) - EGJJ SMR Update - thanks to @trevorhannant (Trevor Hannant)
@@ -14,7 +14,14 @@
 13. AIRAC (1713) - EGTK Listening Code Introduced - thanks to @trevorhannant (Trevor Hannant)
 14. AIRAC (1713) - EGMC Squawk Code Update - thanks to @trevorhannant (Trevor Hannant)
 15. AIRAC (1712) - EGSC STARs amended - thanks to @inventor02 (George Peppard)
-16. AIRAC (1713) - EGMC SMR Update - thanks to @inventor02 (George Peppard)
+16. Enhancement - Added agreed levels between S6 and AC Worthing for 1712 STARs - thanks to @cpawley (Chris Pawley)
+17. Bug - Move D3 label at Blackpool (EGNH) to the correct place - thanks to @inventor02 (George Peppard)
+18. Enhancement - Removed outdated (since AIRAC 1405) EGBB SIDs and STARs, along with other redundant 'General RNAV' fixes - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Simplified Belfast Aldergrove SMR - thanks to @sw104 (Sam White)
+20. AIRAC (1712) - Updated Doncaster (EGCN) SMR ground layout - thanks to @hsugden (Harry Sugden)
+21. Enhancement - Added CAT I holding points to London Heathrow (EGLL) SMR - thanks to @james-yuen (James Yuen)
+22. Bug - corrected Oxford (EGTK) SMR formatting so 'Oxford' now appears in Display Settings\Regions - thanks to @hsugden (Harry Sugden)
+23. AIRAC (1713) - EGMC SMR Update - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
