@@ -32,6 +32,7 @@
 31. AIRAC (1801) - EGNV Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 32. AIRAC (1801) - EGTK Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 33. AIRAC (1712) - Holyhead, Strangford and Irish Sea CTAs added (ARTCC High, 'OCAS' Black Regions, Airspace Bases) - thanks to @hsugden (Harry Sugden) and @daleb99 (Dale Brooksby)
+34. AIRAC (1801) - EGNT Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
