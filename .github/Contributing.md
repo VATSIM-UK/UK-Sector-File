@@ -16,7 +16,7 @@ If you wish to contribute to the UK Sector File project, there's many ways in wh
 
 ## Contributing to the data
 
-If you're just getting started with GitHub (and project contributions) then we suggest you take a look at issues marked with the "up-for-grabs" label.  These issues will be of resonable size and challenge, for anyone to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
+If you're just getting started with GitHub (and project contributions) then we suggest you take a look at issues marked with both the "up-for-grabs" and/or "good first issue" labels.  These issues will be of reasonable size and challenge while not being as overly complex as others and a good introduction for anyone who wants to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
 
 If you're comfortable with contributing to Open Source projects on GitHub please ensure you read our expectations for issue tracking, feature proposals and merge requests.
 
