@@ -103,6 +103,8 @@ FIR_COPX:*:*:ORIST:EGTF:*:LFRR:London AC Worthing:*:28000:REVTU
 FIR_COPX:*:*:ORIST:EGVO:*:LFRR:London AC Worthing:*:28000:REVTU
 FIR_COPX:*:*:ORIST:EGTD:*:LFRR:London AC Worthing:*:28000:REVTU
 FIR_COPX:*:*:ORIST:EGHL:*:LFRR:London AC Worthing:*:28000:REVTU
+
 FIR_COPX:*:*:ORIST:EGHI:*:LFRR low:London AC Worthing:*:22000:REVTU
 FIR_COPX:*:*:ORIST:EGHH:*:LFRR low:London AC Worthing:*:22000:REVTU
+
 FIR_COPX:*:*:ORIST:*:*:LFRR:London AC Worthing:*:*:ORIST
