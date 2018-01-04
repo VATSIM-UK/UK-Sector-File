@@ -11,8 +11,10 @@ DISPLAY:London TC SW:Only HHTWR 1:Only HHTWR 2
 DISPLAY:London TC SE:Only HHTWR 1:Only HHTWR 2
 
 CIRCLE_SECTORLINE:Only HHAPP:EGHH:5
-DISPLAY:London AC Worthing:London TC NW:Only HHAPP
-DISPLAY:London AC Dover:London TC NE:Only HHAPP
+DISPLAY:London S6:London S6:Only HHAPP
+DISPLAY:London AC Worthing:London AC Worthing:Only HHAPP
+DISPLAY:London AC Dover:London AC Dover:Only HHAPP
+DISPLAY:London TC NW:London TC NW:Only HHAPP
 DISPLAY:London TC SW:London TC SW:Only HHAPP
 DISPLAY:London TC SE:London TC SE:Only HHAPP
 
