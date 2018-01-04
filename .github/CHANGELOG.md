@@ -38,7 +38,8 @@
 37. Enhancement - Added Jersey Zone split position and improved line display to LON - thanks to @hsugden (Harry Sugden)
 38. Enhancement - Added Jersey (JJ), Guernsey (JB) and Alderney (JA) online rings - thanks to @hsugden (Harry Sugden)
 39. AIRAC (1713) - Removed N864 controlled airspace (FL155-195) portion between DCS and WAL - thanks to @hsugden (Harry Sugden)
-40. Enhancement/Bug - Added Solent APP positions online ring visibility for TC NW and London S6, and corrected display conditions - thanks to @hsugden (Harry Sugden)
+40. Bug - Added missing coordinate to West CTA (ARTCC High) - thanks to @hsugden (Harry Sugden)
+41. Enhancement/Bug - Added Solent APP positions online ring visibility for TC NW and London S6, and corrected display conditions - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
