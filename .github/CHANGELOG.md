@@ -1,4 +1,7 @@
 # Changes from release 2017/13 to 2018/01
+1. Bug - EGKB STAR - JACKO1D typo - thanks to @trevorhannant (Trevor Hannant)
+
+# Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1713) - Brize Norton VRP Update - thanks to @trevorhannant (Trevor Hannant)
 3. Trial EG32/2017 (implemented in 1801) - New EGLL SID - DET2Z - thanks to @trevorhannant (Trevor Hannant)
