@@ -1,4 +1,4 @@
-# Changes from release 2017/13 to 2018/01
+# Changes from release 2018/01 to 2018/02
 1. Bug - EGKB STAR - JACKO1D typo - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/13 to 2018/01
