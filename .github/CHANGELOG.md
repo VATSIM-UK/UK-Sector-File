@@ -1,3 +1,6 @@
+# Changes from release 2018/01 to 2018/02
+1. AIRAC (1802) - Farnborough Runway Heading Update - thanks to @trevorhannant (Trevor Hannant)
+
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1713) - Brize Norton VRP Update - thanks to @trevorhannant (Trevor Hannant)
