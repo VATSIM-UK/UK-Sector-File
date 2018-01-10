@@ -17,6 +17,7 @@ Gatwick ATIS 136.52, 134.22 on VATSIM (Gatwick TWR secondary freq)
 Inverness ATIS 109.2, 124.7 on VATSIM
 Hawarden Director 130.015, 130.020 on VATSIM (8.33kHz-spaced frequency)
 Oxford ATIS 136.230 (remains on old frequency 136.220 on VATSIM)
+Farnborough Tower 122.780, 122.77 on VATSIM (8.33kHz-spaced frequency)
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.07, 124.35 on VATSIM
