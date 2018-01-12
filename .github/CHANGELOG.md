@@ -1,5 +1,10 @@
 # Changes from release 2018/01 to 2018/02
-1. AIRAC (1802) - Farnborough Tower Freq Change - thanks to @trevorhannant (Trevor Hannant)
+1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
+2. Bug - EGKB STAR - JACKO1D typo - thanks to @trevorhannant (Trevor Hannant)
+3. AIRAC (1801) - EGPH SMR Update - thanks to @trevorhannant (Trevor Hannant)
+4. AIRAC (1802) - Farnborough Runway Heading Update - thanks to @trevorhannant (Trevor Hannant)
+5. AIRAC (1802) - M605 and UM605 airways are now RNAV airways - @lpetersctc (Luke Peters)
+6. AIRAC (1802) - Farnborough Tower Freq Change - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
