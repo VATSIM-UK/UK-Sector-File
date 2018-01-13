@@ -5,6 +5,7 @@
 4. AIRAC (1802) - Farnborough Runway Heading Update - thanks to @trevorhannant (Trevor Hannant)
 5. AIRAC (1802) - M605 and UM605 airways are now RNAV airways - @lpetersctc (Luke Peters)
 6. AIRAC (1802) - Farnborough Tower Freq Change - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - Adjusted LTC Bandbox designator from 'T' to 'TC' - @lpetersctc (Luke Peters)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
