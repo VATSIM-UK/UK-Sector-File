@@ -7,6 +7,7 @@
 6. AIRAC (1802) - Farnborough Tower Freq Change - thanks to @trevorhannant (Trevor Hannant)
 7. AIRAC (1801) - Danger area EG R157 updated - thanks to @hsugden (Harry Sugden)
 8. BUG - EGKK LAM4M Updated to LAM5M - thanks to @trevorhannant (Trevor Hannant)
+9. Enhancement - Add Warton Basic Info - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
