@@ -6,7 +6,7 @@
 Airport                 ICAO  AIRAC    Runway Tracks updated?  Extended centrelines?    Conventional SIDs?
 
 Glasgow                 EGPF  1702     Yes                     Yes - need updating      Yes - need updating
-Inverness               EGPE  1711     Pending                 Yes - need updating      No
+Inverness               EGPE  1711     Yes                     Yes - need updating      No
 Stansted                EGSS  1801     Yes                     Yes - need updating      Yes - need updating
 Doncaster               EGCN  1801     Yes                     Yes - need updating      Yes - need updating
 Durham                  EGNV  1801     Yes                     Yes - need updating      No
