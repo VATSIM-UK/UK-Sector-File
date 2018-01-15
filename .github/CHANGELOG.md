@@ -10,6 +10,7 @@
 9. Enhancement - Add Warton Basic Info - thanks to @trevorhannant (Trevor Hannant)
 10. Enhancement - Update EGPE SMR and General Information thanks to @trevorhannant (Trevor Hannant)
 11. Enhancement - Added missing EGWU STARs - @lpetersctc (Luke Peters)
+12. AIRAC (1802) - Portsmouth CTA 3 update - @lpetersctc (Luke Peters)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
