@@ -15,6 +15,7 @@
 14. Enhancement - Adjusted LTC Bandbox designator from 'T' to 'TC' - @lpetersctc (Luke Peters)
 15. AIRAC (1713) - Luton SMR Update - thanks to @luke11brown (Luke Brown)
 16. AIRAC (1802) - Portsmouth CTA 3 update - @lpetersctc (Luke Peters)
+17. Bug - Resolved incorrect handoff line visibility - @lpetersctc (Luke Peters)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
