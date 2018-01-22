@@ -1,5 +1,22 @@
 # Changes from release 2018/01 to 2018/02
-1. AIRAC (1612) - Aberdeen/Dyce (EGPD) ground changes - thanks to @HCStrike (Harry Cameron) & @trevorhannant (Trevor Hannant)
+1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
+2. Bug - EGKB STAR - JACKO1D typo - thanks to @trevorhannant (Trevor Hannant)
+3. AIRAC (1801) - EGPH SMR Update - thanks to @trevorhannant (Trevor Hannant)
+4. AIRAC (1802) - Farnborough Runway Heading Update - thanks to @trevorhannant (Trevor Hannant)
+5. AIRAC (1802) - M605 and UM605 airways are now RNAV airways - @lpetersctc (Luke Peters)
+6. AIRAC (1802) - Farnborough Tower Freq Change - thanks to @trevorhannant (Trevor Hannant)
+7. AIRAC (1801) - Danger area EG R157 updated - thanks to @hsugden (Harry Sugden)
+8. BUG - EGKK LAM4M Updated to LAM5M - thanks to @trevorhannant (Trevor Hannant)
+9. Enhancement - Add Warton Basic Info - thanks to @trevorhannant (Trevor Hannant)
+10. Enhancement - Update EGPE SMR and General Information thanks to @trevorhannant (Trevor Hannant)
+11. Enhancement - Added missing EGWU STARs - @lpetersctc (Luke Peters)
+12. AIRAC (1713) - Coventry ATC Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+13. Enhancement - Added Lydd (EGMD) Runway 21 Extended Centreline - thanks to @luke11brown (Luke Brown)
+14. Enhancement - Adjusted LTC Bandbox designator from 'T' to 'TC' - @lpetersctc (Luke Peters)
+15. AIRAC (1713) - Luton SMR Update - thanks to @luke11brown (Luke Brown)
+16. AIRAC (1802) - Portsmouth CTA 3 update - @lpetersctc (Luke Peters)
+17. Bug - Resolved incorrect handoff line visibility - @lpetersctc (Luke Peters)
+18. AIRAC (1612) - Aberdeen/Dyce (EGPD) ground changes - thanks to @HCStrike (Harry Cameron) & @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
