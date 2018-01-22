@@ -1,5 +1,5 @@
-# Changes from release 2017/13 to 2018/01
-1. AIRAC (1612) - Aberdeen/Dyce (EGPD) ground changes - thanks to @HCStrike (Harry Cameron)
+# Changes from release 2018/01 to 2018/02
+1. AIRAC (1612) - Aberdeen/Dyce (EGPD) ground changes - thanks to @HCStrike (Harry Cameron) & @trevorhannant (Trevor Hannant)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
