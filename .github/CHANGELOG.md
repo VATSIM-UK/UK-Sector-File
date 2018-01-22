@@ -10,7 +10,11 @@
 9. Enhancement - Add Warton Basic Info - thanks to @trevorhannant (Trevor Hannant)
 10. Enhancement - Update EGPE SMR and General Information thanks to @trevorhannant (Trevor Hannant)
 11. Enhancement - Added missing EGWU STARs - @lpetersctc (Luke Peters)
-12. AIRAC (1802) - Portsmouth CTA 3 update - @lpetersctc (Luke Peters)
+12. AIRAC (1713) - Coventry ATC Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+13. Enhancement - Added Lydd (EGMD) Runway 21 Extended Centreline - thanks to @luke11brown (Luke Brown)
+14. Enhancement - Adjusted LTC Bandbox designator from 'T' to 'TC' - @lpetersctc (Luke Peters)
+15. AIRAC (1713) - Luton SMR Update - thanks to @luke11brown (Luke Brown)
+16. AIRAC (1802) - Portsmouth CTA 3 update - @lpetersctc (Luke Peters)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
