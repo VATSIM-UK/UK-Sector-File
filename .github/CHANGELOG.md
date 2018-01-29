@@ -19,6 +19,7 @@
 18. AIRAC (1612) - Aberdeen/Dyce (EGPD) ground changes - thanks to @HCStrike (Harry Cameron) & @trevorhannant (Trevor Hannant)
 19. Bug - Added missing "LM:O" and "SM:O" to 20 sets of online rings - @lpetersctc (Luke Peters)
 20. AIRAC (1712) - Added new fixes and new RNAV airways incorporated in 1712 - @lpetersctc (Luke Peters)
+21. AIRAC (1802) - Defined TIGGY and updated RNAV airways N6 and UN6 - @lpetersctc (Luke Peters)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
