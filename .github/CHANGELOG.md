@@ -1,3 +1,6 @@
+# Changes from release 2018/02 to 2018/03
+1. AIRAC (1803) - New EGSS VRP - thanks to @trevorhannant (Trevor Hannant)
+
 # Changes from release 2018/01 to 2018/02
 1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
 2. Bug - EGKB STAR - JACKO1D typo - thanks to @trevorhannant (Trevor Hannant)
