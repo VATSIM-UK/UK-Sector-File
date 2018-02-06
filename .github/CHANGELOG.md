@@ -1,4 +1,4 @@
-# Changes from release 2018/01 to 2018/02
+# Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2018/01 to 2018/02
