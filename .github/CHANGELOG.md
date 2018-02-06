@@ -1,5 +1,7 @@
 # Changes from release 2018/02 to 2018/03
-1. AIRAC (1802) - Add IWL DME - thanks to @inventor02 (George Peppard)
+1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
+2. AIRAC (1803) - New EGSS VRP - thanks to @trevorhannant (Trevor Hannant)
+3. AIRAC (1803) - Add IWL DME - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/01 to 2018/02
 1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
