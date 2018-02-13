@@ -1,0 +1,17 @@
+- Extended centrelines refers to those defined in the airport folders as permanent 'Geo', rather than ES generated versions.
+- When runways tracks are updated at an airport that uses conventional SIDs, some of the "fixes" on those SIDs may change position - 
+  they're not really defined fixes like on RNAV SIDs, but they're calculations for the FMC on sim aircraft at least to fly the SID correctly. 
+  These fixes are contained in the 'Misc\FIXES_General RNAV.txt' file.
+
+Airport                 ICAO  AIRAC    Runway Tracks updated?  Extended centrelines?    Conventional SIDs?
+
+Glasgow                 EGPF  1702     Yes                     Yes - need updating      Yes - need updating
+Inverness               EGPE  1711     Yes                     Yes - need updating      No
+Stansted                EGSS  1801     Yes                     Yes - need updating      Yes - need updating
+Doncaster               EGCN  1801     Yes                     Yes - need updating      Yes - need updating
+Durham                  EGNV  1801     Yes                     Yes - need updating      No
+Oxford                  EGTK  1801     Yes                     No                       No
+Newcastle               EGNT  1801     Yes                     Yes - need updating      No
+Exeter                  EGTE  1801     Yes                     Yes - need updating      No
+Jersey                  EGJJ  1801     Yes                     Yes - need updating      Yes - need updating 
+Farnborough             EGLF  1802     Yes                     Yes - need updating      No
