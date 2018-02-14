@@ -1,3 +1,8 @@
+# Changes from release 2018/02 to 2018/03
+1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
+2. AIRAC (1803) - New EGSS VRP - thanks to @trevorhannant (Trevor Hannant)
+3. AIRAC (1803) - Add IWL DME - thanks to @inventor02 (George Peppard)
+
 # Changes from release 2018/01 to 2018/02
 1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
 2. Bug - EGKB STAR - JACKO1D typo - thanks to @trevorhannant (Trevor Hannant)
@@ -14,6 +19,11 @@
 13. Enhancement - Added Lydd (EGMD) Runway 21 Extended Centreline - thanks to @luke11brown (Luke Brown)
 14. Enhancement - Adjusted LTC Bandbox designator from 'T' to 'TC' - @lpetersctc (Luke Peters)
 15. AIRAC (1713) - Luton SMR Update - thanks to @luke11brown (Luke Brown)
+16. AIRAC (1802) - Portsmouth CTA 3 update - @lpetersctc (Luke Peters)
+17. Bug - Resolved incorrect handoff line visibility - @lpetersctc (Luke Peters)
+18. AIRAC (1612) - Aberdeen/Dyce (EGPD) ground changes - thanks to @HCStrike (Harry Cameron) & @trevorhannant (Trevor Hannant)
+19. Bug - Added missing "LM:O" and "SM:O" to 20 sets of online rings - thanks to @lpetersctc (Luke Peters)
+20. Enhancement - Added MOLAK delegated airspace (Scottish Rathlin to Shannon) - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2017/13 to 2018/01
 1. AIRAC (1713) - Coningsby Approach Freq Update - thanks to @trevorhannant (Trevor Hannant)
