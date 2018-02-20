@@ -1,5 +1,5 @@
 # Changes from release 2018/02 to 2018/03
-1. EGGD Approach Changes -  - thanks to @trevorhannant (Trevor Hannant)
+1. AIRAC (1803) - EGGD Approach Changes - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2018/01 to 2018/02
 1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
