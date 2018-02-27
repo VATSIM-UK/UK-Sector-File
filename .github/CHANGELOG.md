@@ -5,6 +5,7 @@
 4. AIRAC (1803) - Add RNAV APP EGHI 02  - thanks to @daleb99 (Dale Brooksby)
 5. Bug - Removed Sectorlines and Sector Ownership for EGBE_TWR - thanks to @NickMarinov (Nick Marinov)
 6. AIRAC (1803) - EGGD Approach Changes - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - Create EGTB SMR - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2018/01 to 2018/02
 1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
