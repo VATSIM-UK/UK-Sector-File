@@ -1,3 +1,6 @@
+# Changes from release 2018/03 to 2018/04
+1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
+
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1803) - New EGSS VRP - thanks to @trevorhannant (Trevor Hannant)
