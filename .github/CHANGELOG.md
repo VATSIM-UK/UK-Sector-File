@@ -1,5 +1,6 @@
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
+2. AIRAC (1803) - Updated EBBU TC_E agreement for EBCI outbounds - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
