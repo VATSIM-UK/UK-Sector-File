@@ -2,6 +2,8 @@
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
 2. AIRAC (1803) - Fill CAS within Portsmouth CTA 3 - thanks to @daleb99 (Dale Brooksby)
 3. AIRAC (1801) - EGSS SMR Updated - thanks to @luke11brown (Luke Brown)
+4. AIRAC (1712) - Added new fixes and new RNAV airways incorporated in 1712 - thanks to @daleb99 (Dale Brooksby) and @lpetersctc (Luke Peters)
+5. AIRAC (1802) - Defined TIGGY and updated RNAV airways N6 and UN6 - @lpetersctc (Luke Peters)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
