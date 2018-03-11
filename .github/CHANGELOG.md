@@ -1,8 +1,15 @@
+# Changes from release 2018/03 to 2018/04
+1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
+2. AIRAC (1803) - Fill CAS within Portsmouth CTA 3 - thanks to @daleb99 (Dale Brooksby)
+
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1803) - New EGSS VRP - thanks to @trevorhannant (Trevor Hannant)
 3. AIRAC (1803) - Add IWL DME - thanks to @inventor02 (George Peppard)
-3. AIRAC (1803) - Fill CAS within Portsmouth CTA 3 - thanks to @daleb99 (Dale Brooksby)
+4. AIRAC (1803) - Add RNAV APP EGHI 02  - thanks to @daleb99 (Dale Brooksby)
+5. Bug - Removed Sectorlines and Sector Ownership for EGBE_TWR - thanks to @NickMarinov (Nick Marinov)
+6. AIRAC (1803) - EGGD Approach Changes - thanks to @trevorhannant (Trevor Hannant)
+7. Enhancement - Create EGTB SMR - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2018/01 to 2018/02
 1. Enhancement - EGBJ - ATZ Missing - thanks to @trevorhannant (Trevor Hannant)
