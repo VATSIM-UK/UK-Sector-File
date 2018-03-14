@@ -4,6 +4,7 @@
 3. AIRAC (1801) - EGSS SMR Updated - thanks to @luke11brown (Luke Brown)
 4. AIRAC (1712) - Added new fixes and new RNAV airways incorporated in 1712 - thanks to @daleb99 (Dale Brooksby) and @lpetersctc (Luke Peters)
 5. AIRAC (1802) - Defined TIGGY and updated RNAV airways N6 and UN6 - @lpetersctc (Luke Peters)
+6. AIRAC (1804) - EGSS SMR Stands Updated - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
