@@ -9,6 +9,7 @@
 8. AIRAC (1804) - EGSS SMR Stands Updated - thanks to @luke11brown (Luke Brown)
 9. AIRAC (1804) - Extended Midlands CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
 10. AIRAC (1804) - Extended West CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
+11. Enhancement - LTC13 Rules Updated - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
