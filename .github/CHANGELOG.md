@@ -6,7 +6,9 @@
 5. AIRAC (1802) - Defined TIGGY and updated RNAV airways N6 and UN6 - @lpetersctc (Luke Peters)
 6. Bug - Corrected sectorlines LED1, LTC1 and LTC5 not displaying for TCN when LON SC online - thanks to @920527 (George Wright)
 7. AIRAC (1803) - Updated EBBU TC_E agreement for EBCI outbounds - thanks to @cpawley (Chris Pawley)
-7. AIRAC (1804) - Amended West CTA - thanks to @daleb99 (Dale Brooksby)
+8. AIRAC (1804) - EGSS SMR Stands Updated - thanks to @luke11brown (Luke Brown)
+9. AIRAC (1804) - Extended Midlands CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
+10. AIRAC (1804) - Extended West CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
