@@ -132,11 +132,11 @@ DISPLAY:London AC Dover:London AC Dover:London TC SW
 DISPLAY:London AC Dover:London TC SW:London TC SE
 DISPLAY:London TC SW:London TC SW:London TC SE
 DISPLAY:London TC SW:London TC SW:London AC Dover
-DISPLAY:London TC SW:London S35:London AC Dover
+DISPLAY:London TC SW:London AC Worthing:London AC Dover
 DISPLAY:London TC SW:London TC SW:London AC Dover
 DISPLAY:London TC SE:London TC SE:London TC SW
 DISPLAY:London TC SE:London TC SE:London AC Worthing
-DISPLAY:London TC SE:London S35:London AC Dover
+DISPLAY:London TC SE:London AC Worthing:London AC Dover
 COORD:N051.08.53.000:W000.11.25.000
 COORD:N050.54.33.000:E000.07.16.000
 COORD:N050.33.30.000:E000.34.16.000
