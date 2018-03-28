@@ -13,6 +13,7 @@
 12. Enhancement - Updated North Sea CTA - thanks to @daleb99 (Dale Brooksby)
 13. AIRAC (1804) - Southern CTA Amended - thanks to @daleb99 (Dale Brooksby)
 14. AIRAC (1804) - Berry Head CTA Established - thanks to @daleb99 (Dale Brooksby)
+15. AIRAC (1804) - Updated Midlands CTA - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
