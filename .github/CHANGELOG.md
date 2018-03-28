@@ -10,6 +10,7 @@
 9. AIRAC (1804) - Extended Midlands CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
 10. AIRAC (1804) - Extended West CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
 11. Enhancement - LTC13 Rules Updated - thanks to @luke11brown (Luke Brown)
+12. Enhancement - Updated North Sea CTA - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
