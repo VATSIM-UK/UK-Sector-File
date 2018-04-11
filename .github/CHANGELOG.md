@@ -1,5 +1,6 @@
 # Changes from release 2018/04 to 2018/05
 1. AIRAC (1804) - NN NDB withdrawn - thanks to @daleb99 (Dale Brooksby)
+2. AIRAC (1805) - EGPH Runway 12/30 withdrawn - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
