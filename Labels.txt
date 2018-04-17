@@ -1,8 +1,0 @@
-[LABELS]
-;Start Blackbushe (EGLK) Labels
-;Holding Points
-"A" N051.19.31.000 W000.50.22.050 standHold
-"C" N051.19.25.200 W000.50.42.900 standHold
-"D" N051.19.22.300 W000.50.56.000 standHold
-"E" N051.19.18.750 W000.51.19.400 standHold
-;End Blackbushe (EGLK) Labels
