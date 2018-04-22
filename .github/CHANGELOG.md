@@ -1,3 +1,12 @@
+# Changes from release 2018/04 to 2018/05
+1. AIRAC (1804) - NN NDB withdrawn - thanks to @daleb99 (Dale Brooksby)
+2. AIRAC (1805) - EGPH Runway 12/30 withdrawn - thanks to @daleb99 (Dale Brooksby)
+3. Bug - H4 Mislabelled as H - thanks to @luke11brown (Luke Brown)
+4. AIRAC (1805) - Tango routes to RNAV - thanks to @daleb99 (Dale Brooksby)
+5. AIRAC (1805) - Lower airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+6 AIRAC (1805) - Upper airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+7. Enhancement - Removed unnecessary AIRWAY ARTCC lines - thanks to @daleb99 (Dale Brooksby)
+
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
 2. AIRAC (1803) - Fill CAS within Portsmouth CTA 3 - thanks to @daleb99 (Dale Brooksby)
@@ -6,7 +15,14 @@
 5. AIRAC (1802) - Defined TIGGY and updated RNAV airways N6 and UN6 - @lpetersctc (Luke Peters)
 6. Bug - Corrected sectorlines LED1, LTC1 and LTC5 not displaying for TCN when LON SC online - thanks to @920527 (George Wright)
 7. AIRAC (1803) - Updated EBBU TC_E agreement for EBCI outbounds - thanks to @cpawley (Chris Pawley)
-8. Enhancement (1804) - Removed unnecessary AIRWAY ARTCC lines - thanks to @daleb99 (Dale Brooksby)
+8. AIRAC (1804) - EGSS SMR Stands Updated - thanks to @luke11brown (Luke Brown)
+9. AIRAC (1804) - Extended Midlands CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
+10. AIRAC (1804) - Extended West CTA Lateral Limits - thanks to @daleb99 (Dale Brooksby)
+11. Enhancement - LTC13 Rules Updated - thanks to @luke11brown (Luke Brown)
+12. Enhancement - Updated North Sea CTA - thanks to @daleb99 (Dale Brooksby)
+13. AIRAC (1804) - Southern CTA Amended - thanks to @daleb99 (Dale Brooksby)
+14. AIRAC (1804) - Berry Head CTA Established - thanks to @daleb99 (Dale Brooksby)
+15. AIRAC (1804) - Updated Midlands CTA - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/02 to 2018/03
 1. Bug - EGNO Regions.txt file in wrong location - thanks to @trevorhannant (Trevor Hannant)
