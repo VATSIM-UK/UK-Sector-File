@@ -4,7 +4,8 @@
 3. Bug - H4 Mislabelled as H - thanks to @luke11brown (Luke Brown)
 4. AIRAC (1805) - Tango routes to RNAV - thanks to @daleb99 (Dale Brooksby)
 5. AIRAC (1805) - Lower airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
-6 AIRAC (1805) - Upper airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+6. AIRAC (1805) - Upper airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+7. Enhancement - Added lines for AC West when AC Central and AC North are different controllers - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
