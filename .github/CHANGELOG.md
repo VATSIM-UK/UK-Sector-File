@@ -5,6 +5,7 @@
 4. AIRAC (1805) - Tango routes to RNAV - thanks to @daleb99 (Dale Brooksby)
 5. AIRAC (1805) - Lower airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
 6 AIRAC (1805) - Upper airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+7. Enhancement - Removed unnecessary AIRWAY ARTCC lines - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
