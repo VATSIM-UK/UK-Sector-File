@@ -1,4 +1,7 @@
 # Changes from release 2018/04 to 2018/05
+1. Enhancement - Danger Areas D323 & D613 Amended - thanks to @trevorhannant (Trevor Hannant)
+
+# Changes from release 2018/04 to 2018/05
 1. AIRAC (1804) - NN NDB withdrawn - thanks to @daleb99 (Dale Brooksby)
 2. AIRAC (1805) - EGPH Runway 12/30 withdrawn - thanks to @daleb99 (Dale Brooksby)
 3. Bug - H4 Mislabelled as H - thanks to @luke11brown (Luke Brown)
