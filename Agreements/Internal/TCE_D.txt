@@ -1,5 +1,5 @@
-COPX:*:*:ABTUM:EGSS:*:London TC East:London AC Dover:19000:*:ABTUM
-COPX:*:*:ABTUM:EGSC:*:London TC East:London AC Dover:19000:*:ABTUM
+COPX:EGSS:*:ABTUM:*:*:London TC East:London AC Dover:19000:*:ABTUM
+COPX:EGSC:*:ABTUM:*:*:London TC East:London AC Dover:19000:*:ABTUM
 
-COPX:*:*:ABTUM:EGGW:*:London TC East:London AC Dover:23000:*:ABTUM
-COPX:*:*:ABTUM:EGWU:*:London TC East:London AC Dover:23000:*:ABTUM
+COPX:EGGW:*:ABTUM:*:*:London TC East:London AC Dover:23000:*:ABTUM
+COPX:EGWU:*:ABTUM:*:*:London TC East:London AC Dover:23000:*:ABTUM
