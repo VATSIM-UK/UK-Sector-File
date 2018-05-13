@@ -1,4 +1,4 @@
-# Changes from release 2018/04 to 2018/05
+# Changes from release 2018/05 to 2018/06
 1. Enhancement - Danger Areas D323 & D613 Amended - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2018/04 to 2018/05
