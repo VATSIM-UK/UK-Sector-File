@@ -5,6 +5,7 @@
 4. Enhancement - Danger Areas D323 & D613 Amended - thanks to @trevorhannant (Trevor Hannant)
 5. AIRAC (1806) - BEKDA redesignated ADKIK - thanks to @inventor02 (George Peppard)
 6. AIRAC (1806) - EGKK SIDs amended - thanks to @luke11brown (Luke Brown)
+7. AIRAC (1806) - More Lower Airways to RNAV - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2018/04 to 2018/05
 1. AIRAC (1804) - NN NDB withdrawn - thanks to @daleb99 (Dale Brooksby)
