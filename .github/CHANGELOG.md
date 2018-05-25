@@ -1,3 +1,6 @@
+# Changes from release 2018/06 to 2018/07
+1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
+
 # Changes from release 2018/05 to 2018/06
 1. Enhancement - EGPB Runway Headings Update - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1806) - EGLL SIDs amended - thanks to @luke11brown (Luke Brown)
