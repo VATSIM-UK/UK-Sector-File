@@ -1,3 +1,6 @@
+# Changes from release 2018/06 to 2018/07
+1. AIRAC (1806) - EGKK SMR updates - thanks to @agentsquash (Alex Ashley)
+
 # Changes from release 2018/05 to 2018/06
 1. Enhancement - EGPB Runway Headings Update - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1806) - EGLL SIDs amended - thanks to @luke11brown (Luke Brown)
@@ -7,7 +10,6 @@
 6. AIRAC (1806) - EGKK SIDs amended - thanks to @luke11brown (Luke Brown)
 7. AIRAC (1806) - More Lower Airways to RNAV - thanks to @luke11brown (Luke Brown)
 8. Enhancement - Created EGSU SMR - thanks to @atoff (Alex Toff)
-11. AIRAC (1806) - EGKK SMR updates - thanks to @agentsquash (Alex Ashley)
 
 # Changes from release 2018/04 to 2018/05
 1. AIRAC (1804) - NN NDB withdrawn - thanks to @daleb99 (Dale Brooksby)
