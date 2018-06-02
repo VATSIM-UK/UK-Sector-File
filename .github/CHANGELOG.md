@@ -78,7 +78,6 @@
 7. Enhancement - Removed unnecessary AIRWAY ARTCC lines - thanks to @daleb99 (Dale Brooksby)
 8. Enhancement - Added lines for AC West when AC Central and AC North are different controllers - thanks to @cpawley (Chris Pawley)
 9. Bug - ABTUM agreement bug fixed - thanks to @luke11brown (Luke Brown)
-10. Enhancement - Blackbushe (EGLK) SMR added - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
