@@ -2,6 +2,7 @@
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
 2. AIRAC (1806) - EGCC stands amended - thanks to @agentsquash (Alex Ashley)
 3. AIRAC (1806) - EGCC Runway Heading update - thanks to @agentsquash (Alex Ashley)
+4. Enhancement - Blackbushe (EGLK) SMR added - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2018/05 to 2018/06
 1. Enhancement - EGPB Runway Headings Update - thanks to @trevorhannant (Trevor Hannant)
