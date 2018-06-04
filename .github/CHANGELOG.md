@@ -1,3 +1,31 @@
+# Changes from release 2018/06 to 2018/07
+1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
+2. AIRAC (1806) - EGCC stands amended - thanks to @agentsquash (Alex Ashley)
+3. AIRAC (1806) - EGCC Runway Heading update - thanks to @agentsquash (Alex Ashley)
+4. Enhancement - Blackbushe (EGLK) SMR added - thanks to @epicdemon99 (Nathaniel Leff)
+5. Bug - Fixed incorrect EGBB and EGNX airport agreements - thanks to @cpawley (Chris Pawley)
+
+# Changes from release 2018/05 to 2018/06
+1. Enhancement - EGPB Runway Headings Update - thanks to @trevorhannant (Trevor Hannant)
+2. AIRAC (1806) - EGLL SIDs amended - thanks to @luke11brown (Luke Brown)
+3. AIRAC (1806) - EGMC Hold CX added - thanks to @luke11brown (Luke Brown)
+4. Enhancement - Danger Areas D323 & D613 Amended - thanks to @trevorhannant (Trevor Hannant)
+5. AIRAC (1806) - BEKDA redesignated ADKIK - thanks to @inventor02 (George Peppard)
+6. AIRAC (1806) - EGKK SIDs amended - thanks to @luke11brown (Luke Brown)
+7. AIRAC (1806) - More Lower Airways to RNAV - thanks to @luke11brown (Luke Brown)
+8. Enhancement - Created EGSU SMR - thanks to @atoff (Alex Toff)
+
+# Changes from release 2018/04 to 2018/05
+1. AIRAC (1804) - NN NDB withdrawn - thanks to @daleb99 (Dale Brooksby)
+2. AIRAC (1805) - EGPH Runway 12/30 withdrawn - thanks to @daleb99 (Dale Brooksby)
+3. Bug - H4 Mislabelled as H - thanks to @luke11brown (Luke Brown)
+4. AIRAC (1805) - Tango routes to RNAV - thanks to @daleb99 (Dale Brooksby)
+5. AIRAC (1805) - Lower airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+6. AIRAC (1805) - Upper airways converted to RNAV - thanks to @daleb99 (Dale Brooksby)
+7. Enhancement - Removed unnecessary AIRWAY ARTCC lines - thanks to @daleb99 (Dale Brooksby)
+8. Enhancement - Added lines for AC West when AC Central and AC North are different controllers - thanks to @cpawley (Chris Pawley)
+9. Bug - ABTUM agreement bug fixed - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2018/03 to 2018/04
 1. Enhancement - Removed Coventry from top-down coverage - thanks to @inventor02 (George Peppard)
 2. AIRAC (1803) - Fill CAS within Portsmouth CTA 3 - thanks to @daleb99 (Dale Brooksby)
