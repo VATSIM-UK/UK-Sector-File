@@ -4,6 +4,7 @@
 3. AIRAC (1806) - EGCC Runway Heading update - thanks to @agentsquash (Alex Ashley)
 4. Enhancement - Blackbushe (EGLK) SMR added - thanks to @epicdemon99 (Nathaniel Leff)
 5. Bug - Fixed incorrect EGBB and EGNX airport agreements - thanks to @cpawley (Chris Pawley)
+6. AIRAC (1806) - EGPC Runway Heading update - thanks to @drenahmeti22 (Dren Ahmeti)
 
 # Changes from release 2018/05 to 2018/06
 1. Enhancement - EGPB Runway Headings Update - thanks to @trevorhannant (Trevor Hannant)
