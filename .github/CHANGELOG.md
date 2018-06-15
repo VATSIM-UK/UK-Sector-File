@@ -10,6 +10,7 @@
 9. AIRAC (1806) - EGNX STARs Updated - thanks to @luke11brown (Luke Brown)
 10. Enhancement - Househeeping around the Daventry CTA area - thanks to @daleb99 (Dale Brooksby)
 11. AIRAC (1807) - EGGW Stand updates - thanks to @daleb99 (Dale Brooksby)
+12. AIRAC (1807) - Heathrow SMR Changes - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/05 to 2018/06
 1. Enhancement - EGPB Runway Headings Update - thanks to @trevorhannant (Trevor Hannant)
