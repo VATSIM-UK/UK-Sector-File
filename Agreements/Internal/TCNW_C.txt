@@ -6,6 +6,9 @@ COPX:EGTF:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
 COPX:EGHL:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:WCO
 
 COPX:EGLL:*:WOBUN:*:*:London TC NW:London AC Daventry:14000:*:WOBUN
+COPX:EGLL:*:BUZAD:*:*:London TC NW:London AC Daventry:14000:*:BUZAD
+COPX:EGLL:*:UMLAT:*:*:London TC NW:London AC Daventry:14000:*:UMLAT
+COPX:EGLL:*:ULTIB:*:*:London TC NW:London AC Daventry:14000:*:ULTIB
 
 COPX:EGWU:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
 COPX:EGLC:*:WELIN:*:*:London TC NW:London AC Daventry:14000:*:WELIN
