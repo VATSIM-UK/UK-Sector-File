@@ -7,6 +7,7 @@
 6. AIRAC (1804) - Updated Belfast City Squawk Range - thanks to @daleb99 (Dale Brooksby)
 7. AIRAC (1804) - Updated VUK Frequencies File to show 8.33kHz changes - thanks to @daleb99 (Dale Brooksby)
 8. AIRAC (1807) - Removed LONLO waypoint - thanks to @daleb99 (Dale Brooksby)
+9. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown)
 
 
 # Changes from release 2018/05 to 2018/06
