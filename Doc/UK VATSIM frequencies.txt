@@ -11,7 +11,7 @@ The following is a list of published UK VATSIM frequencies that differ from thei
 Stansted Director 136.200, 126.95 on VATSIM (former SS DIR freq)
 Southend Tower 127.720, 126.720 on VATSIM (due conflict with Langen)
 Guernsey ATIS 109.400, 118.900 on VATSIM (Guernsey radar freq)
-City ATIS 136.350, 118.400 on VATSIM (City TWR secondary freq)
+City ATIS 136.350, 129.450 on VATSIM (old Tower frequency)
 City Tower 118.080, 118.075 (8.33kHz-spaced frequency)
 City Ground 121.830, 121.825 (8.33kHz-spaced frequency)
 Southend ATIS 136.050, 128.950 on VATSIM (Southend DIR fre)
