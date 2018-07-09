@@ -1,3 +1,10 @@
+# Changes from release 2018/07 to 2018/08
+1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
+2. AIRAC (1808) - Midlands CTA amended - thanks to @tasosb (Anastasios Mpithas)
+3. AIRAC (1808) - N862/UN862 to RNAV - thanks to @indianbhaji (Eric Liu)
+4. AIRAC (1807) - Edinburgh SMR Changes - thanks to @daleb99 (Dale Brooksby)
+5. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
 2. AIRAC (1806) - EGCC stands amended - thanks to @agentsquash (Alex Ashley)
