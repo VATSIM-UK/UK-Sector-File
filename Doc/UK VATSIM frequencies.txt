@@ -9,7 +9,8 @@ However, sometimes the frequency published for VATSIM needs to be different. Thi
 The following is a list of published UK VATSIM frequencies that differ from their real-world counterpart:
 
 Stansted Director 136.200, 126.95 on VATSIM (former SS DIR freq)
-Southend Tower 127.720, 126.720 on VATSIM (due conflict with Langen)
+Southend ATIS 136.055, 128.950 on VATSIM (8.33kHz-spaced frequency)
+Southend Tower 127.730, 126.720 on VATSIM (not 127.720 due conflict with Langen and new frequency uses 8.33kHz spacing)
 Guernsey ATIS 109.400, 118.900 on VATSIM (Guernsey radar freq)
 City ATIS 136.350, 118.400 on VATSIM (City TWR secondary freq)
 Southend ATIS 136.050, 128.950 on VATSIM (Southend DIR fre)
@@ -32,4 +33,4 @@ Leeds Bradford Radar 134.580, 134.575 on VATSIM (8.33kHz-spaced frequency)
 Leeds Bradford Director 125.380, 125.375 on VATSIM (8.33kHz-spaced frequency)
 
 Withdrawn at some point in the past, now using real freq:
-Bristol Radar 136.070, 124.350 on VATSIM 
+Bristol Radar 136.070, 124.350 on VATSIM
