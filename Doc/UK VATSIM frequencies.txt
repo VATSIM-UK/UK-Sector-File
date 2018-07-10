@@ -33,7 +33,7 @@ Leeds Bradford Director 125.380, 125.375 on VATSIM (8.33kHz-spaced frequency)
 Birmingham Tower 118.305, 118.300 on VATSIM (8.33kHz-spaced frequency)
 Birmingham Delivery 121.930, 121.925 on VATSIM (8.33kHz-spaced frequency)
 Birmingham Ground 121.805, 121.800 on VATSIM (8.33kHz-spaced frequency)
-Birmingham Approach 123.980, 124.000 on VATSIM (8.33kHz-spaced frequency)
+Birmingham Approach 123.980, 123.950 on VATSIM (8.33kHz-spaced frequency, 123.970/124.00 unavailable)
 Birmingham Director 131.005, 131.000 on VATSIM (8.33kHz-spaced frequency)
 
 
