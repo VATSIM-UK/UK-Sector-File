@@ -4,6 +4,7 @@
 3. AIRAC (1808) - N862/UN862 to RNAV - thanks to @indianbhaji (Eric Liu)
 4. AIRAC (1807) - Edinburgh SMR Changes - thanks to @daleb99 (Dale Brooksby)
 5. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown)
+6. AIRAC (1805) - EGNR runway heading update - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
