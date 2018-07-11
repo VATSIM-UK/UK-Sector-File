@@ -5,6 +5,7 @@
 4. AIRAC (1807) - Edinburgh SMR Changes - thanks to @daleb99 (Dale Brooksby)
 5. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown)
 6. AIRAC (1806) - EGLF frequency update - thanks to @indianbhaji (Eric Liu)
+7. AIRAC (1806) - EGMC frequency update - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
