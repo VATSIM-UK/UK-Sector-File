@@ -10,6 +10,7 @@
 9. AIRAC (1180) - EGTK frequency update - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1808) - EGLC frequency update - thanks to @indianbhaji (Eric Liu)
 11. AIRAC (1808) - EGBB frequency update - thanks to @indianbhaji (Eric Liu)
+12. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
