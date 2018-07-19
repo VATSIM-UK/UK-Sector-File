@@ -6,7 +6,7 @@
 6. AIRAC (1806) - EGLF frequency update - thanks to @indianbhaji (Eric Liu)
 7. AIRAC (1806) - EGMC frequency update - thanks to @indianbhaji (Eric Liu)
 8. AIRAC (1805) - EGNR runway heading update - thanks to @indianbhaji (Eric Liu)
-9. AIRAC (1180) - EGTK frequency update - thanks to @indianbhaji (Eric Liu)
+9. AIRAC (1808) - EGTK frequency update - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1808) - EGLC frequency update - thanks to @indianbhaji (Eric Liu)
 11. AIRAC (1808) - EGBB frequency update - thanks to @indianbhaji (Eric Liu)
 12. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
