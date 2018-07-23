@@ -1,10 +1,23 @@
+# Changes from release 2018/08 to 2018/09
+1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
+2. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
+3. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown) (Added in 2018/08 but uncredited)
+
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1808) - Midlands CTA amended - thanks to @tasosb (Anastasios Mpithas)
 3. AIRAC (1808) - N862/UN862 to RNAV - thanks to @indianbhaji (Eric Liu)
 4. AIRAC (1807) - Edinburgh SMR Changes - thanks to @daleb99 (Dale Brooksby)
-5. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown)
-6. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
+5. AIRAC (1806) - EGLF frequency update - thanks to @indianbhaji (Eric Liu)
+6. AIRAC (1806) - EGMC frequency update - thanks to @indianbhaji (Eric Liu)
+7. AIRAC (1805) - EGNR runway heading update - thanks to @indianbhaji (Eric Liu)
+8. AIRAC (1808) - EGTK frequency update - thanks to @indianbhaji (Eric Liu)
+9. AIRAC (1808) - EGLC frequency update - thanks to @indianbhaji (Eric Liu)
+10. AIRAC (1808) - EGBB frequency update - thanks to @indianbhaji (Eric Liu)
+11. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1807) - EGSS frequency update - thanks to @indianbhaji (Eric Liu)
+13. AIRAC (1805) - EGNR, EGNT and EGSH frequency updates - thanks to @indianbhaji (Eric Liu)
+14. Bug - Fixed placement of M5 Avon Bridge VRP at Bristol - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
