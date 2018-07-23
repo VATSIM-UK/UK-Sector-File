@@ -3,6 +3,7 @@
 2. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
 3. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown) (Added in 2018/08 but uncredited)
 4. Enhancement - Removed old EGGP SIDs - thanks to @hsugden (Harry Sugden)
+5. Enhancement - Reordered EGSS SIDs to reflect permanent CLN1E and DET1D RNAVs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
