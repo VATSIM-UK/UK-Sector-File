@@ -5,6 +5,8 @@
 4. Enhancement - Removed old EGGP SIDs - thanks to @hsugden (Harry Sugden)
 5. Enhancement - Reordered EGSS SIDs to reflect permanent CLN1E and DET1D RNAVs - thanks to @hsugden (Harry Sugden)
 6. Enhancement - Removed old EGGW SIDs - thanks to @hsugden (Harry Sugden)
+7. Enhancement - Removed old EGKK ADMAG1X SID, replaced by ADMAG2X in 1606 - thanks to @hsugden (Harry Sugden)
+8. AIRAC (1806) - Archived KENET SIDs from 26L/26R, and KENET RNAV SIDs (replaced by IMVUR/NOVMA) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
