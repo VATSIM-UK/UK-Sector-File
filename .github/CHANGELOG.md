@@ -5,6 +5,7 @@
 4. Enhancement - Removed old EGGP SIDs - thanks to @hsugden (Harry Sugden)
 5. Enhancement - Reordered EGSS SIDs to reflect permanent CLN1E and DET1D RNAVs - thanks to @hsugden (Harry Sugden)
 6. Enhancement - Removed old EGGW SIDs - thanks to @hsugden (Harry Sugden)
+7. AIRAC (1809) - Removed holding point A2 from EGTE - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
