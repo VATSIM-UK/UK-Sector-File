@@ -57,6 +57,9 @@ Birmingham Delivery 121.930, 121.925 on VATSIM (8.33kHz-spaced frequency)
 Birmingham Ground 121.805, 121.800 on VATSIM (8.33kHz-spaced frequency)
 Birmingham Approach 123.980, 123.950 on VATSIM (8.33kHz-spaced frequency, 123.970/124.00 unavailable)
 Birmingham Director 131.005, 131.000 on VATSIM (8.33kHz-spaced frequency)
+Luton ATIS 120.585, 120.570 on VATSIM (8.33kHz-spaced frequency)
+Luton Ground 121.780, 121.750 on VATSIM (8.33kHz-spaced frequency)
+Luton Tower 132.555, 132.550 on VATSIM (8.33kHz-spaced frequency)
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.070, 124.350 on VATSIM
