@@ -13,6 +13,7 @@
 12. AIRAC (1809) - EGGW stands amended - thanks to @lmullenvatsim (Luke Mullen)
 13. Enhancement - Removed old EGLL DVR SIDs - thanks to @hsugden (Harry Sugden)
 14. Enhancement - Removed old EGSS DVR SIDs - thanks to @hsugden (Harry Sugden)
+15. Enhancement - Removed duplicate Manchester TMA drawing in SIDs (as well as ARTCC High) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
