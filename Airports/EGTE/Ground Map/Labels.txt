@@ -1,6 +1,5 @@
 ;Holding Points
 "A1" N050.43.51.800 W003.25.34.500 standHold
-"A2" N050.43.51.400 W003.25.29.300 standHold
 "B" N050.43.55.280 W003.25.17.790 standHold
 "C" N050.44.01.600 W003.24.36.100 standHold
 "E1" N050.44.09.400 W003.24.41.600 standHold
