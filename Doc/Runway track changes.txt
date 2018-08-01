@@ -16,4 +16,4 @@ Exeter                  EGTE  1801     Yes                     Yes - need updati
 Jersey                  EGJJ  1801     Yes                     Yes - need updating      Yes - need updating
 Farnborough             EGLF  1802     Yes                     Yes - need updating      No
 Hawarden                EGNR  1805     Yes                     Yes - need updating      No
-Bristol                 EGGD  1809     Yes                     Yes - need updating      
+Bristol                 EGGD  1809     Yes                     Yes - need updating      Yes - need updating
