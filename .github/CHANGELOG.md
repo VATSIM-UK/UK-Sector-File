@@ -10,6 +10,7 @@
 9. AIRAC (1809) - Bristol runway heading update - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1809) - EGGW frequency update - thanks to @indianbhaji (Eric Liu)
 11. AIRAC (1809) - EGPH SMR updates (H2/M4 removed, Stand 32 positioned) - thanks to @lmullenvatsim (Luke Mullen)
+12. AIRAC (1809) - EGGW stands amended - thanks to @lmullenvatsim (Luke Mullen)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
