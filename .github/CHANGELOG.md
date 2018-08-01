@@ -16,6 +16,7 @@
 15. Enhancement - Removed duplicate Manchester TMA drawing in SIDs (as well as ARTCC High) - thanks to @hsugden (Harry Sugden)
 16. AIRAC (1803) - EGHI frequencies updated in doc file (8.33 spacing) - thanks to @hsugden (Harry Sugden)
 17. Enhancement - Removed old EGPH SIDs - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Removed old EGWU SIDs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
