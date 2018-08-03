@@ -18,7 +18,8 @@
 17. Enhancement - Removed old EGPH SIDs - thanks to @hsugden (Harry Sugden)
 18. Enhancement - Removed old EGWU SIDs - thanks to @hsugden (Harry Sugden)
 19. AIRAC (1806) - Airways updates - thanks to @daleb99 (Dale Brooksby)
-20. AIRAC (1807) - EGPC Runway Heading update - thanks to @drenahmeti22 (Dren Ahmeti)
+20. AIRAC (1809) - EGTC frequency update - thanks to @indianbhaji (Eric Liu)
+21. AIRAC (1807) - EGPC Runway Heading update - thanks to @drenahmeti22 (Dren Ahmeti)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
