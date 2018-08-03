@@ -22,6 +22,7 @@
 21. AIRAC (1807) - EGPC Runway Heading update - thanks to @drenahmeti22 (Dren Ahmeti) & @cpawley (Chris Pawley)
 22. Enhancement - Removed old EGCC SIDs - thanks to @hsugden (Harry Sugden)
 23. AIRAC (1806) - Upper Airways converted to RNAV and corresponding new fixes added - thanks to @daleb99 (Dale Brooksby)
+24. Enhancement - Removed old EGNX SIDs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
@@ -37,7 +38,6 @@
 11. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
 12. AIRAC (1807) - EGSS frequency update - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1805) - EGNR, EGNT and EGSH frequency updates - thanks to @indianbhaji (Eric Liu)
-14. Bug - Fixed placement of M5 Avon Bridge VRP at Bristol - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
