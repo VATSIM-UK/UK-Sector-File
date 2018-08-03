@@ -21,6 +21,7 @@
 20. AIRAC (1809) - EGTC frequency update - thanks to @indianbhaji (Eric Liu)
 21. AIRAC (1807) - EGPC Runway Heading update - thanks to @drenahmeti22 (Dren Ahmeti) & @cpawley (Chris Pawley)
 22. Enhancement - Removed old EGCC SIDs - thanks to @hsugden (Harry Sugden)
+23. AIRAC (1806) - Upper Airways converted to RNAV and corresponding new fixes added - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
