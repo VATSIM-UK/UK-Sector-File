@@ -25,6 +25,7 @@
 24. Enhancement - Removed old EGNX SIDs - thanks to @hsugden (Harry Sugden)
 25. Enhancement - Fixed UCAS regions near Gloucester and removed unnecessary FL195 airspace bases - thanks to @daleb99 (Dale Brooksby)
 26. Enhancement - Removed old EGNM SIDs - thanks to @hsugden (Harry Sugden)
+27. Bug - Fixed Daventry->TCNW EGHI/HH inbounds via BAMBO (150) agreement display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
