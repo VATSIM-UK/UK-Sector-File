@@ -23,7 +23,7 @@
 22. Enhancement - Removed old EGCC SIDs - thanks to @hsugden (Harry Sugden)
 23. AIRAC (1806) - Upper Airways converted to RNAV and corresponding new fixes added - thanks to @daleb99 (Dale Brooksby)
 24. Enhancement - Removed old EGNX SIDs - thanks to @hsugden (Harry Sugden)
-25 Enhancement - Fixed UCAS regions near Gloucester and removed unnecessary FL195 airspace bases - thanks to @daleb99 (Dale Brooksby)
+25. Enhancement - Fixed UCAS regions near Gloucester and removed unnecessary FL195 airspace bases - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
