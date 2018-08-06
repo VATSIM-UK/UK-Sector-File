@@ -15,3 +15,4 @@ Newcastle               EGNT  1801     Yes                     Yes - need updati
 Exeter                  EGTE  1801     Yes                     Yes - need updating      No
 Jersey                  EGJJ  1801     Yes                     Yes - need updating      Yes - need updating 
 Farnborough             EGLF  1802     Yes                     Yes - need updating      No
+Sumburgh				EGPB  1809	   Yes					   Yes - need updating      No
