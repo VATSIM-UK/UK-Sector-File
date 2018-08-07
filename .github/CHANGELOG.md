@@ -28,6 +28,7 @@
 27. Bug - Fixed Daventry->TCNW EGHI/HH inbounds via BAMBO (150) agreement display - thanks to @hsugden (Harry Sugden)
 28. AIRAC (1808) - NITON CTA Established - thanks to @daleb99 (Dale Brooksby)
 29. AIRAC (1809) - EGPB Runway Heading update - thanks to @NickMarinov (Nick Marinov)
+31. Bug - Fixed Sector Entries for Scottish Approach Units - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
