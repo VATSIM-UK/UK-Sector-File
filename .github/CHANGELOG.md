@@ -1,4 +1,6 @@
-#. AIRAC (1808) - EGSC SMR Update - thanks to @tasosb (Anastasios Mpithas)
+# Changes from release 2018/08 to 2018/09
+
+33. AIRAC (1808) - EGSC SMR Update - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
