@@ -32,6 +32,7 @@
 31. Bug - Fixed Sector Entries for Scottish Approach Units - thanks to @cpawley (Chris Pawley)
 32. Enhancement - Added Agreement S -> W6 for ADKIK - thanks to @NickMarinov (Nick Marinov)
 33. AIRAC (1808) - EGSC SMR Update - thanks to @tasosb (Anastasios Mpithas)
+34. AIRAC (1805) - Update EGGW SIDs - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
