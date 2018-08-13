@@ -30,6 +30,13 @@
 29. AIRAC (1809) - EGPB Runway Heading update - thanks to @NickMarinov (Nick Marinov)
 30. Enhancement - Amended agreements for EGNX inbounds - thanks to @cpawley (Chris Pawley)
 31. Bug - Fixed Sector Entries for Scottish Approach Units - thanks to @cpawley (Chris Pawley)
+32. Enhancement - Added Agreement S -> W6 for ADKIK - thanks to @NickMarinov (Nick Marinov)
+33. AIRAC (1808) - EGSC SMR Update - thanks to @tasosb (Anastasios Mpithas)
+34. Enhancement - Removed old EGKK ADMAG1X SID, replaced by ADMAG2X in 1606 - thanks to @hsugden (Harry Sugden)
+35. AIRAC (1806) - Archived KENET SIDs from 26L/26R, and KENET RNAV SIDs (replaced by IMVUR/NOVMA) - thanks to @hsugden (Harry Sugden)
+36. AIRAC (1805) - Update EGGW SIDs - thanks to @trevorhannant (Trevor Hannant)
+37. AIRAC (1809) - EGJB SMR Update - thanks to @trevorhannant (Trevor Hannant)
+38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
@@ -45,6 +52,7 @@
 11. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
 12. AIRAC (1807) - EGSS frequency update - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1805) - EGNR, EGNT and EGSH frequency updates - thanks to @indianbhaji (Eric Liu)
+14. Bug - Fixed placement of M5 Avon Bridge VRP at Bristol - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
