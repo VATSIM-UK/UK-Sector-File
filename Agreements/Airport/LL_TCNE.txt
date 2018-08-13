@@ -2,4 +2,4 @@
 COPX:EGLL:*:CHT:*:*:LLDEP:London TC NE:6000:*:SID
 
 ;Easterlies BPK
-COPX:EGLL:*:D197F:*:*:LLDEP:London TC NE:6000:*:SID
+COPX:EGLL:*:D196F:*:*:LLDEP:London TC NE:6000:*:SID
