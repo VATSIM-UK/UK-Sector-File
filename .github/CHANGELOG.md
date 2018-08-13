@@ -37,6 +37,7 @@
 36. AIRAC (1805) - Update EGGW SIDs - thanks to @trevorhannant (Trevor Hannant)
 37. AIRAC (1809) - EGJB SMR Update - thanks to @trevorhannant (Trevor Hannant)
 38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden (Harry Sugden)
+39. Enhancement - Updated ALL 'General RNAV' fixes relating to SIDs/STARs, and associated agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)

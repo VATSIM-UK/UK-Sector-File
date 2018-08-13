@@ -5,18 +5,18 @@
 
 Airport                 ICAO  AIRAC    Runway Tracks updated?  Extended centrelines?    Conventional SIDs?
 
-Glasgow                 EGPF  1702     Yes                     Yes - need updating      Yes - need updating
+Glasgow                 EGPF  1702     Yes                     Yes - need updating      Yes - updated 1808
 Inverness               EGPE  1711     Yes                     Yes - need updating      No
-Stansted                EGSS  1801     Yes                     Yes - need updating      Yes - need updating
-Doncaster               EGCN  1801     Yes                     Yes - need updating      Yes - need updating
+Stansted                EGSS  1801     Yes                     Yes - need updating      Yes - updated 1808
+Doncaster               EGCN  1801     Yes                     Yes - need updating      Yes - updated 1808
 Durham                  EGNV  1801     Yes                     Yes - need updating      No
 Oxford                  EGTK  1801     Yes                     No                       No
 Newcastle               EGNT  1801     Yes                     Yes - need updating      No
 Exeter                  EGTE  1801     Yes                     Yes - need updating      No
-Jersey                  EGJJ  1801     Yes                     Yes - need updating      Yes - need updating
+Jersey                  EGJJ  1801     Yes                     Yes - need updating      Yes - updated 1808
 Farnborough             EGLF  1802     Yes                     Yes - need updating      No
 Hawarden                EGNR  1805     Yes                     Yes - need updating      No
-Bristol                 EGGD  1809     Yes                     Yes - need updating      Yes - need updating
-Guernsey                EGJB  1809     Yes                     Yes - need updating      Yes - need updating
+Bristol                 EGGD  1809     Yes                     Yes - need updating      Yes - updated 1808
+Guernsey                EGJB  1809     Yes                     Yes - need updating      Yes - updated 1808
 Wick                    EGPC  1807     Yes                     No                       No
-Sumburgh			        	EGPB  1809	   Yes				        	   Yes - need updating      No    
+Sumburgh			    EGPB  1809	   Yes				       Yes - need updating      No    
