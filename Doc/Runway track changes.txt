@@ -19,4 +19,4 @@ Hawarden                EGNR  1805     Yes                     Yes - need updati
 Bristol                 EGGD  1809     Yes                     Yes - need updating      Yes - updated 1808
 Guernsey                EGJB  1809     Yes                     Yes - need updating      Yes - updated 1808
 Wick                    EGPC  1807     Yes                     No                       No
-Sumburgh			    EGPB  1809	   Yes				       Yes - need updating      No    
+Sumburgh                EGPB  1809     Yes                     Yes - need updating      No    
