@@ -1,4 +1,4 @@
-# Changes from release 2018/08 to 2018/09
+# Changes from release 2018/09 to 2018/10
 3. AIRAC (1810) - Set the squawks allocated to EGBE_R_TWR to 0420
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
