@@ -1,3 +1,5 @@
+# Changes from release 2018/09 to 2018/10
+5. AIRAC (1810) - EGTC frequencies updated in doc file (8.33 spacing)
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
 2. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
