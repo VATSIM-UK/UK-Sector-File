@@ -1,5 +1,5 @@
 # Changes from release 2018/09 to 2018/10
-3. AIRAC (1810) - ammended EGBE squawk allocation - thanks to @1adamf (Adam Farquharson)
+3. AIRAC (1810) - Ammended EGBE squawk allocation - thanks to @1adamf (Adam Farquharson)
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
 2. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
