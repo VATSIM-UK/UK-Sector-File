@@ -3,6 +3,7 @@
 2. AIRAC (1810) -  L9 between Compton (CPT) and Strumble (STU) designated to Q63 - thanks to @indianbhaji (Eric Liu)
 3. AIRAC (1810) - Berry Head CTA extension - thanks to @indianbhaji (Eric Liu)
 4. AIRAC (1810) - EG D201 and EG D202 changes - thanks to @indianbhaji (Eric Liu)
+5. AIRAC (1810) - EG D510 changes - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
