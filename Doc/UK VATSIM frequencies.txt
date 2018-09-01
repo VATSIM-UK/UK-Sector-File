@@ -30,6 +30,7 @@ Leeds Bradford Tower 120.305, 120.300 on VATSIM (8.33kHz-spaced frequency)
 Leeds Bradford Delivery 121.805, 121.800 on VATSIM (8.33kHz-spaced frequency)
 Leeds Bradford Radar 134.580, 134.575 on VATSIM (8.33kHz-spaced frequency)
 Leeds Bradford Director 125.380, 125.375 on VATSIM (8.33kHz-spaced frequency)
+Benbecula Tower/Information/Approach 119.205, 119.200 on VATSIM (8.33kHz-spaced frequency)
 
 Withdrawn at some point in the past, now using real freq:
 Bristol Radar 136.070, 124.350 on VATSIM 
