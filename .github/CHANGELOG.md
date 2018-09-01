@@ -4,9 +4,10 @@
 3. AIRAC (1810) - Berry Head CTA extension - thanks to @indianbhaji (Eric Liu)
 4. AIRAC (1810) - EG D201 and EG D202 changes - thanks to @indianbhaji (Eric Liu)
 5. AIRAC (1810) - EG D510 changes - thanks to @indianbhaji (Eric Liu)
-6. AIRAC (1810) - EGPD frequencies updated in doc file (8.33 spacing) - thanks to @1adamf (Adam Farquharson)
+6. AIRAC (1810) - EGPD frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
 7. AIRAC (1810) - EGMD frequency update - thanks to @1adamf (Adam Farquharson)
-8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33 spacing)  - thanks to @1adamf (Adam Farquharson)
+8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33kHz spacing)  - thanks to @1adamf (Adam Farquharson)
+9. AIRAC (1810) - EGPB frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
