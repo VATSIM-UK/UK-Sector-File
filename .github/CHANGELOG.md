@@ -8,6 +8,7 @@
 7. AIRAC (1810) - EGMD frequency update - thanks to @1adamf (Adam Farquharson)
 8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33 spacing)  - thanks to @1adamf (Adam Farquharson)
 9. AIRAC (1810) - Holyhead CTA extension - thanks to @indianbhaji (Eric Liu)
+10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
