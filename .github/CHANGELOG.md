@@ -4,14 +4,15 @@
 3. AIRAC (1810) - Berry Head CTA extension - thanks to @indianbhaji (Eric Liu)
 4. AIRAC (1810) - EG D201 and EG D202 changes - thanks to @indianbhaji (Eric Liu)
 5. AIRAC (1810) - EG D510 changes - thanks to @indianbhaji (Eric Liu)
-6. AIRAC (1810) - EGPD frequencies updated in doc file (8.33 spacing) - thanks to @1adamf (Adam Farquharson)
-7. AIRAC (1810) - EGMD frequency update - thanks to @1adamf (Adam Farquharson)
-8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33 spacing)  - thanks to @1adamf (Adam Farquharson)
+6. AIRAC (1810) - EGPD frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
+7. AIRAC (1810) - EGMD frequency updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
+8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33kHz spacing)  - thanks to @1adamf (Adam Farquharson)
 9. AIRAC (1810) - Holyhead CTA extension - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
 11. AIRAC (1810) - EGBB Squawk Code Range Change - Thanks to @NickMarinov (Nick Marinov)
 12. Enhancement - Remove unused and unreferenced fixes in `FIXES_Old.txt` - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1810) - EGPL Runway Heading update - thanks to @tasosb (Anastasios Mpithas)
+14. AIRAC (1810) - EGPB frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
