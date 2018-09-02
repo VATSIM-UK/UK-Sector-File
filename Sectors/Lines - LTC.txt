@@ -19,7 +19,6 @@ DISPLAY:London AC Daventry:London TC NW:London TC NE
 DISPLAY:London AC Clacton:London TC NW:London TC NE
 DISPLAY:London TC CPT:London AC Daventry:London AC Clacton
 DISPLAY:London AC Dover:London AC Daventry:London AC Clacton
-DISPLAY:London TC East:London TC NW:London TC East
 COORD:N052.11.04.000:W000.21.59.000
 COORD:N051.56.19.000:W000.07.48.000
 
