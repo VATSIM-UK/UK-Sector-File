@@ -10,6 +10,7 @@
 9. AIRAC (1810) - Holyhead CTA extension - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
 11. AIRAC (1810) - EGBB Squawk Code Range Change - Thanks to @NickMarinov (Nick Marinov)
+12. Enhancement - Remove unused and unreferenced fixes in `FIXES_Old.txt` - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
