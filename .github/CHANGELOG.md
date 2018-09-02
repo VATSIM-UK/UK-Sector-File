@@ -1,5 +1,14 @@
 # Changes from release 2018/09 to 2018/10
-1. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
+1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
+2. AIRAC (1810) -  L9 between Compton (CPT) and Strumble (STU) designated to Q63 - thanks to @indianbhaji (Eric Liu)
+3. AIRAC (1810) - Berry Head CTA extension - thanks to @indianbhaji (Eric Liu)
+4. AIRAC (1810) - EG D201 and EG D202 changes - thanks to @indianbhaji (Eric Liu)
+5. AIRAC (1810) - EG D510 changes - thanks to @indianbhaji (Eric Liu)
+6. AIRAC (1810) - EGPD frequencies updated in doc file (8.33 spacing) - thanks to @1adamf (Adam Farquharson)
+7. AIRAC (1810) - EGMD frequency update - thanks to @1adamf (Adam Farquharson)
+8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33 spacing)  - thanks to @1adamf (Adam Farquharson)
+9. AIRAC (1810) - Holyhead CTA extension - thanks to @indianbhaji (Eric Liu)
+10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
