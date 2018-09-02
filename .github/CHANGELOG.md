@@ -14,6 +14,7 @@
 13. AIRAC (1810) - EGPL Runway Heading update - thanks to @tasosb (Anastasios Mpithas)
 14. AIRAC (1810) - EGPB frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
 15. AIRAC (1810) - EGMD SMR update - thanks to @tasosb (Anastasios Mpithas)
+16. AIRAC (1809) - EGJB SMR update - thanks to @tasosb (Anastasios Mpithas)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
