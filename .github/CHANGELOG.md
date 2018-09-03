@@ -1,3 +1,25 @@
+# Changes from release 2018/09 to 2018/10
+1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
+2. AIRAC (1810) -  L9 between Compton (CPT) and Strumble (STU) designated to Q63 - thanks to @indianbhaji (Eric Liu)
+3. AIRAC (1810) - Berry Head CTA extension - thanks to @indianbhaji (Eric Liu)
+4. AIRAC (1810) - EG D201 and EG D202 changes - thanks to @indianbhaji (Eric Liu)
+5. AIRAC (1810) - EG D510 changes - thanks to @indianbhaji (Eric Liu)
+6. AIRAC (1810) - EGPD frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
+7. AIRAC (1810) - EGMD frequency updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
+8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33kHz spacing)  - thanks to @1adamf (Adam Farquharson)
+9. AIRAC (1810) - Holyhead CTA extension - thanks to @indianbhaji (Eric Liu)
+10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
+11. AIRAC (1810) - EGBB Squawk Code Range Change - Thanks to @NickMarinov (Nick Marinov)
+12. Enhancement - Remove unused and unreferenced fixes in `FIXES_Old.txt` - thanks to @indianbhaji (Eric Liu)
+13. AIRAC (1810) - EGPL Runway Heading update - thanks to @tasosb (Anastasios Mpithas)
+14. AIRAC (1810) - EGPB frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
+15. AIRAC (1810) - EGMD SMR update - thanks to @tasosb (Anastasios Mpithas)
+16. AIRAC (1809) - EGJB SMR update - thanks to @tasosb (Anastasios Mpithas)
+17. AIRAC (1810) - EGPR Runway heading update - thanks to @tasosb (Anastasios Mpithas)
+18. AIRAC (1810) - EGPL Frequency Update - thanks to @tasosb (Anastasios Mpithas)
+19. AIRAC (1810) - EGPR Frequency Update - thanks to @tasosb (Anastasios Mpithas)
+20. Enhancement - Added Fairoaks (EGTF) SMR - thanks to @xItsTomx (Tom Sirett)
+
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
 2. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
@@ -26,7 +48,18 @@
 25. Enhancement - Fixed UCAS regions near Gloucester and removed unnecessary FL195 airspace bases - thanks to @daleb99 (Dale Brooksby)
 26. Enhancement - Removed old EGNM SIDs - thanks to @hsugden (Harry Sugden)
 27. Bug - Fixed Daventry->TCNW EGHI/HH inbounds via BAMBO (150) agreement display - thanks to @hsugden (Harry Sugden)
-28. Enhancement - Added Fairoaks (EGTF) SMR - thanks to @xItsTomx (Tom Sirett)
+28. AIRAC (1808) - NITON CTA Established - thanks to @daleb99 (Dale Brooksby)
+29. AIRAC (1809) - EGPB Runway Heading update - thanks to @NickMarinov (Nick Marinov)
+30. Enhancement - Amended agreements for EGNX inbounds - thanks to @cpawley (Chris Pawley)
+31. Bug - Fixed Sector Entries for Scottish Approach Units - thanks to @cpawley (Chris Pawley)
+32. Enhancement - Added Agreement S -> W6 for ADKIK - thanks to @NickMarinov (Nick Marinov)
+33. AIRAC (1808) - EGSC SMR Update - thanks to @tasosb (Anastasios Mpithas)
+34. Enhancement - Removed old EGKK ADMAG1X SID, replaced by ADMAG2X in 1606 - thanks to @hsugden (Harry Sugden)
+35. AIRAC (1806) - Archived KENET SIDs from 26L/26R, and KENET RNAV SIDs (replaced by IMVUR/NOVMA) - thanks to @hsugden (Harry Sugden)
+36. AIRAC (1805) - Update EGGW SIDs - thanks to @trevorhannant (Trevor Hannant)
+37. AIRAC (1809) - EGJB SMR Update - thanks to @trevorhannant (Trevor Hannant)
+38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden (Harry Sugden)
+39. Bug - Corrected EGHI VRP name (BUTSER HILL MAST) - thanks to @NickMarinov (NickMarinov)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
@@ -42,6 +75,7 @@
 11. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
 12. AIRAC (1807) - EGSS frequency update - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1805) - EGNR, EGNT and EGSH frequency updates - thanks to @indianbhaji (Eric Liu)
+14. Bug - Fixed placement of M5 Avon Bridge VRP at Bristol - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/06 to 2018/07
 1. AIRAC (1806) - EGKK SMR updates (HAP removed) - thanks to @agentsquash (Alex Ashley)
