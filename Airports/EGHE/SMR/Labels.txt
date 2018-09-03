@@ -1,0 +1,9 @@
+;Holding Points
+"A" N049.54.51.302 W006.17.37.357 standHold
+;Stands
+"1" N049.54.49.793 W006.17.38.228 StandHold
+"2" N049.54.49.826 W006.17.39.472 standHold
+"3" N049.54.49.815 W006.17.40.643 standHold
+"4" N049.54.50.992 W006.17.40.076 standHold
+"5" N049.54.51.674 W006.17.39.069 standHold
+"6" N049.54.49.782 W006.17.41.796 standHold
