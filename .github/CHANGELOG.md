@@ -18,6 +18,7 @@
 17. AIRAC (1810) - EGPR Runway heading update - thanks to @tasosb (Anastasios Mpithas)
 18. AIRAC (1810) - EGPL Frequency Update - thanks to @tasosb (Anastasios Mpithas)
 19. AIRAC (1810) - EGPR Frequency Update - thanks to @tasosb (Anastasios Mpithas)
+20. Enhancement - Added Fairoaks (EGTF) SMR - thanks to @xItsTomx (Tom Sirett)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
