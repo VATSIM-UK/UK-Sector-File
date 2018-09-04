@@ -1,3 +1,5 @@
+27. AIRAC (1807) - Updated EGHH SMR - thanks to @daleb99 (Dale Brooksby)
+
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
 2. AIRAC (1808) - Midlands CTA amended - thanks to @tasosb (Anastasios Mpithas)
