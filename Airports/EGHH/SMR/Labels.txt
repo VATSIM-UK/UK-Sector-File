@@ -18,4 +18,4 @@
 
 ;Taxiway Labels
 "V" N050.47.17.528 W001.50.38.154 standHold ;West
-"V" N050.47.17.739W001.50.21.621 standHold ;East
+"V" N050.47.17.739 W001.50.21.621 standHold ;East
