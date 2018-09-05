@@ -17,3 +17,13 @@ COPX:EGLF:*:DAWLY:*:*:London AC Worthing:London S6:25000:*:DAWLY
 COPX:EGLK:*:DAWLY:*:*:London AC Worthing:London S6:25000:*:DAWLY
 COPX:EGTF:*:DAWLY:*:*:London AC Worthing:London S6:25000:*:DAWLY
 COPX:EGHL:*:DAWLY:*:*:London AC Worthing:London S6:25000:*:DAWLY
+
+COPX:EGLL:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGKK:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGGW:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGTK:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGWU:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGLF:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGLK:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGTF:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
+COPX:EGHL:*:ADKIK:*:*:London AC Worthing:London S6:25000:*:ADKIK
