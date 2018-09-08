@@ -21,7 +21,9 @@
 20. Enhancement - Added Fairoaks (EGTF) SMR - thanks to @xItsTomx (Tom Sirett)
 21. AIRAC (1810) - EGBE Squawk Code added - thanks to @1adamf (Adam Farquharson)
 22. AIRAC (1807) - Updated EGHH SMR - thanks to @daleb99 (Dale Brooksby)
-23. AIRAC (1810) - Added Functionality for new EKDK sectors - thanks to @cpawley (Chris Pawley)
+23. Enhancement - Added Goodwood SMR - thanks to @xitstomx (Tom Sirett)
+24. AIRAC (1810) - CAM (Cambridge) NDB moved - thanks to @NickMarinov (Nick Marinov)
+25. AIRAC (1810) - Added Functionality for new EKDK sectors - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
