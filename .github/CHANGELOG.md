@@ -15,7 +15,14 @@
 14. AIRAC (1810) - EGPB frequencies updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
 15. AIRAC (1810) - EGMD SMR update - thanks to @tasosb (Anastasios Mpithas)
 16. AIRAC (1809) - EGJB SMR update - thanks to @tasosb (Anastasios Mpithas)
-17. AIRAC (1810) - CAM (Cambridge) NDB moved - thanks to @NickMarinov (Nick Marinov)
+17. AIRAC (1810) - EGPR Runway heading update - thanks to @tasosb (Anastasios Mpithas)
+18. AIRAC (1810) - EGPL Frequency Update - thanks to @tasosb (Anastasios Mpithas)
+19. AIRAC (1810) - EGPR Frequency Update - thanks to @tasosb (Anastasios Mpithas)
+20. Enhancement - Added Fairoaks (EGTF) SMR - thanks to @xItsTomx (Tom Sirett)
+21. AIRAC (1810) - EGBE Squawk Code added - thanks to @1adamf (Adam Farquharson)
+22. AIRAC (1807) - Updated EGHH SMR - thanks to @daleb99 (Dale Brooksby)
+23. Enhancement - Added Goodwood SMR - thanks to @xitstomx (Tom Sirett)
+24. AIRAC (1810) - CAM (Cambridge) NDB moved - thanks to @NickMarinov (Nick Marinov)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
