@@ -38,6 +38,7 @@
 37. AIRAC (1809) - EGJB SMR Update - thanks to @trevorhannant (Trevor Hannant)
 38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden (Harry Sugden)
 39. Bug - Corrected EGHI VRP name (BUTSER HILL MAST) - thanks to @NickMarinov (NickMarinov)
+40. AIRAC (1810) - EGBB ATIS Frequency Update - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
