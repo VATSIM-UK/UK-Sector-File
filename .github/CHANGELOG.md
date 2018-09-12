@@ -24,6 +24,7 @@
 23. Enhancement - Added Goodwood SMR - thanks to @xitstomx (Tom Sirett)
 24. AIRAC (1810) - CAM (Cambridge) NDB moved - thanks to @NickMarinov (Nick Marinov)
 25. AIRAC (1810) - Added Functionality for new EKDK sectors - thanks to @cpawley (Chris Pawley)
+26. AIRAC (1810) - EGBB ATIS Frequency Update - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
@@ -65,7 +66,6 @@
 37. AIRAC (1809) - EGJB SMR Update - thanks to @trevorhannant (Trevor Hannant)
 38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden (Harry Sugden)
 39. Bug - Corrected EGHI VRP name (BUTSER HILL MAST) - thanks to @NickMarinov (NickMarinov)
-40. AIRAC (1810) - EGBB ATIS Frequency Update - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2018/07 to 2018/08
 1. AIRAC (1808) - EGCC VRP Update - thanks to @tasosb (Anastasios Mpithas)
