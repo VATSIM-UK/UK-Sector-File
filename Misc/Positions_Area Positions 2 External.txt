@@ -64,6 +64,9 @@ ENOR_S_CTR:Norway Control:121.550:NS:NS:ENOR:CTR:2700:2777
 
 ;Copenhagen
 EKDK_CTR:Copenhagen Control:121.370:C:C:EKDK:CTR:-:-:7300:7377
+EKDK_B_CTR:Copenhagen Control:121.370:CB:CB:EKDK:CTR:-:-:7300:7377
+EKDK_V_CTR:Copenhagen Control:126.050:CV:CV:EKDK:CTR:-:-:7300:7377
+EKDK_N_CTR:Copenhagen Control:134.670:CN:CN:EKDK:CTR:-:-:7300:7377
 
 ;Eurocontrol
 EURW_FSS:Eurocontrol West:135.250:EW:C:EURW:FSS:EURW:FSS:0600:0677
