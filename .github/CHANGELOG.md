@@ -1,5 +1,5 @@
 # Changes from release 2018/10 to 2018/11
-1. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanhs to @hsugden (Harry Sugden)
+1. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
