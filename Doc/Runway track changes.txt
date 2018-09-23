@@ -20,3 +20,4 @@ Bristol                 EGGD  1809     Yes                     Yes - need updati
 Guernsey                EGJB  1809     Yes                     Yes - need updating      Yes - need updating
 Wick                    EGPC  1807     Yes                     No                       No
 Sumburgh			        	EGPB  1809	   Yes				        	   Yes - need updating      No    
+Carlisle                EGNC  1811     Yes                     No                       No
