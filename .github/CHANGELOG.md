@@ -14,6 +14,7 @@
 13. AIRAC (1811) - Stornoway (EGPO) runway track updated - thanks to @hsugden (Harry Sugden)
 14. AIRAC (1811) - Stornoway (EGPO) frequencies updated - thanks to @hsugden (Harry Sugden)
 15. Enhancement - Farnborough LARS (EGLF_R_APP) position defined - thanks to @hsugden (Harry Sugden)
+16. AIRAC (1811) - 8.33KHz freqs added to doc file for EGGD, LL, PA and PN - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
