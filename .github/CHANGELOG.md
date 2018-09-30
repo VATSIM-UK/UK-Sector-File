@@ -10,6 +10,7 @@
 9. AIRAC (1811) - Carlisle (EGNC) ARP updated - thanks to @hsugden (Harry Sugden)
 10. AIRAC (1807) - Dundee EGPN runway track updated - thanks to @hsugden (Harry Sugden)
 11. AIRAC (1811) - Gloucestershire (EGBJ) runway track updated - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1811) - Sumburgh (EGPB) frequency corrected in doc file - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
