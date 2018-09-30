@@ -6,6 +6,8 @@
 5. AIRAC (1811) - Newquay (NQY) NDB relocated... ish! - thanks to @hsugden (Harry Sugden)
 6. AIRAC (1808) - Doncaster (EGCN) hold A3 repositioned, and other minor SMR updates - thanks to @hsugden (Harry Sugden)
 7. Bug - Updated EGBB squawk code range change (1810) for mentor positions - thanks to @hsugden (Harry Sugden)
+8. AIRAC (1811) - Carlisle (EGNC) APP position withdrawn - thanks to @hsugden (Harry Sugden)
+9. AIRAC (1811) - Carlisle (EGNC) ARP updated - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
