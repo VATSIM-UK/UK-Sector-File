@@ -19,6 +19,7 @@
 18. AIRAC (1808) - EGCC SMR updates - thanks to @tasosb (Anastasios Mpithas)
 19. AIRAC (1804) - Number of airways converted to RNAV - thanks to @hsugden (Harry Sugden)
 20. Enhancement - Updated some Glasgow (EGPF) stand and hold labels - thanks to @hsugden (Harry Sugden)
+21. Enhancement - Updated L18 S5->Dublin sector coordinates according to Holyhead CTA - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
