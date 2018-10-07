@@ -17,6 +17,7 @@
 16. AIRAC (1811) - 8.33KHz freqs added to doc file for EGGD, LL, PA and PN - thanks to @hsugden (Harry Sugden)
 17. AIRAC (1811) - Carlisle (EGNC) runway designator/track change - thanks to @hsugden (Harry Sugden)
 18. AIRAC (1808) - EGCC SMR updates - thanks to @tasosb (Anastasios Mpithas)
+19. AIRAC (1804) - Number of airways converted to RNAV - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
