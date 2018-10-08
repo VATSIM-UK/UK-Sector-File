@@ -23,7 +23,8 @@
 22. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden (Harry Sugden)
 23. AIRAC (1811) - Oxford (EGTK) frequencies updated - thanks to @hsugden (Harry Sugden)
 24. AIRAC (1808) - Heathrow (EGLL) BIG low level STARs withdrawn - thanks to @hsugden (Harry Sugden) & @daleb99 (Dale Brooksby)
-25. AIRAC (1811) - Changes to EGKK stands 47L/R and 49 to 54 (1310) - @scotflieger (Andrew Gransden)
+25. AIRAC (1810) - Changes to EGKK stands 47L/R and 49 to 54 (1310) - @scotflieger (Andrew Gransden)
+26. AIRAC (1811) - Gloucester (EGBJ) added new hangar and apron - @scotflieger (Andrew Gransden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
