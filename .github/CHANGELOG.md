@@ -21,6 +21,7 @@
 20. Enhancement - Updated some Glasgow (EGPF) stand and hold labels - thanks to @hsugden (Harry Sugden)
 21. Enhancement - Updated L18 S5->Dublin sector coordinates according to Holyhead CTA - thanks to @hsugden (Harry Sugden)
 22. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden (Harry Sugden)
+23. AIRAC (1811) - Oxford (EGTK) frequencies updated - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
