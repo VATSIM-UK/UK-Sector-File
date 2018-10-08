@@ -15,7 +15,15 @@
 14. AIRAC (1811) - Stornoway (EGPO) frequencies updated - thanks to @hsugden (Harry Sugden)
 15. Enhancement - Farnborough LARS (EGLF_R_APP) position defined - thanks to @hsugden (Harry Sugden)
 16. AIRAC (1811) - 8.33KHz freqs added to doc file for EGGD, LL, PA and PN - thanks to @hsugden (Harry Sugden)
-17. AIRAC (1811) - Changes to EGKK stands 47L/R and 49 to 54 (1310) - @scotflieger (Andrew Gransden)
+17. AIRAC (1811) - Carlisle (EGNC) runway designator/track change - thanks to @hsugden (Harry Sugden)
+18. AIRAC (1808) - EGCC SMR updates - thanks to @tasosb (Anastasios Mpithas)
+19. AIRAC (1804) - Number of airways converted to RNAV - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Updated some Glasgow (EGPF) stand and hold labels - thanks to @hsugden (Harry Sugden)
+21. Enhancement - Updated L18 S5->Dublin sector coordinates according to Holyhead CTA - thanks to @hsugden (Harry Sugden)
+22. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden (Harry Sugden)
+23. AIRAC (1811) - Oxford (EGTK) frequencies updated - thanks to @hsugden (Harry Sugden)
+24. AIRAC (1808) - Heathrow (EGLL) BIG low level STARs withdrawn - thanks to @hsugden (Harry Sugden) & @daleb99 (Dale Brooksby)
+25. AIRAC (1811) - Changes to EGKK stands 47L/R and 49 to 54 (1310) - @scotflieger (Andrew Gransden)
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
