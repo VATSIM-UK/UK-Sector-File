@@ -1,3 +1,7 @@
+;withdrawn AIRAC 2018/11
+CT    363.500 N052.24.39.490 W001.24.21.150 ; Conventry
+
+;withdrawn AIRAC 2016/03
 CAR   366.500 N054.08.28.000 W004.29.30.000
 
 ;data not confirmed, withdrawn AIRAC 5/2011
