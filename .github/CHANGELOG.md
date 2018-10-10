@@ -27,6 +27,7 @@
 26. AIRAC (1811) - Gloucester (EGBJ) added new hangar and apron - @scotflieger (Andrew Gransden)
 27. AIRAC (1811) - Stansted (EGSS) new stands added - @scotflieger (Andrew Gransden)
 28. Enhancement - Updated ALL 'General RNAV' fixes relating to SIDs/STARs, and associated agreements - thanks to @hsugden (Harry Sugden)
+29. Enhancement - Removes EGMC (Southend) real world frequencies
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
