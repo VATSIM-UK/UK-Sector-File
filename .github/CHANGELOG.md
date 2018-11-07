@@ -1,3 +1,6 @@
+# Changes from release 2018/11 to 2018/12
+1. Enhancement - Removes EGMC (Southend) real world frequencies
+
 # Changes from release 2018/10 to 2018/11
 1. AIRAC (1811) - CT (Coventry) NDB withdrawn - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed D307 now draws correctally thanks to @lancaster123 (Scott Daniels)
