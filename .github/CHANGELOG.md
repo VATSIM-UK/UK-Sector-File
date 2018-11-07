@@ -1,3 +1,36 @@
+# Changes from release 2018/11 to 2018/12
+1. Enhancement - Removes EGMC (Southend) real world frequencies
+
+# Changes from release 2018/10 to 2018/11
+1. AIRAC (1811) - CT (Coventry) NDB withdrawn - thanks to @hsugden (Harry Sugden)
+2. Bug - Fixed D307 now draws correctally thanks to @lancaster123 (Scott Daniels)
+3. AIRAC (1811) - Newquay runway heading update - thanks to @indianbhaji (Eric Liu)
+4. AIRAC (1811) - P2/UP2 now RNAV airways - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1811) - Newquay (NQY) NDB relocated... ish! - thanks to @hsugden (Harry Sugden)
+6. AIRAC (1808) - Doncaster (EGCN) hold A3 repositioned, and other minor SMR updates - thanks to @hsugden (Harry Sugden)
+7. Bug - Updated EGBB squawk code range change (1810) for mentor positions - thanks to @hsugden (Harry Sugden)
+8. AIRAC (1811) - Carlisle (EGNC) APP position withdrawn - thanks to @hsugden (Harry Sugden)
+9. AIRAC (1811) - Carlisle (EGNC) ARP updated - thanks to @hsugden (Harry Sugden)
+10. AIRAC (1807) - Dundee EGPN runway track updated - thanks to @hsugden (Harry Sugden)
+11. AIRAC (1811) - Gloucestershire (EGBJ) runway track updated - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1811) - Sumburgh (EGPB) frequency corrected in doc file - thanks to @hsugden (Harry Sugden)
+13. AIRAC (1811) - Stornoway (EGPO) runway track updated - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1811) - Stornoway (EGPO) frequencies updated - thanks to @hsugden (Harry Sugden)
+15. Enhancement - Farnborough LARS (EGLF_R_APP) position defined - thanks to @hsugden (Harry Sugden)
+16. AIRAC (1811) - 8.33KHz freqs added to doc file for EGGD, LL, PA and PN - thanks to @hsugden (Harry Sugden)
+17. AIRAC (1811) - Carlisle (EGNC) runway designator/track change - thanks to @hsugden (Harry Sugden)
+18. AIRAC (1808) - EGCC SMR updates - thanks to @tasosb (Anastasios Mpithas)
+19. AIRAC (1804) - Number of airways converted to RNAV - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Updated some Glasgow (EGPF) stand and hold labels - thanks to @hsugden (Harry Sugden)
+21. Enhancement - Updated L18 S5->Dublin sector coordinates according to Holyhead CTA - thanks to @hsugden (Harry Sugden)
+22. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden (Harry Sugden)
+23. AIRAC (1811) - Oxford (EGTK) frequencies updated - thanks to @hsugden (Harry Sugden)
+24. AIRAC (1808) - Heathrow (EGLL) BIG low level STARs withdrawn - thanks to @hsugden (Harry Sugden) & @daleb99 (Dale Brooksby)
+25. AIRAC (1810) - Changes to EGKK stands 47L/R and 49 to 54 (1310) - @scotflieger (Andrew Gransden)
+26. AIRAC (1811) - Gloucester (EGBJ) added new hangar and apron - @scotflieger (Andrew Gransden)
+27. AIRAC (1811) - Stansted (EGSS) new stands added - @scotflieger (Andrew Gransden)
+28. Enhancement - Updated ALL 'General RNAV' fixes relating to SIDs/STARs, and associated agreements - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
 2. AIRAC (1810) -  L9 between Compton (CPT) and Strumble (STU) designated to Q63 - thanks to @indianbhaji (Eric Liu)
@@ -21,6 +54,10 @@
 20. Enhancement - Added Fairoaks (EGTF) SMR - thanks to @xItsTomx (Tom Sirett)
 21. AIRAC (1810) - EGBE Squawk Code added - thanks to @1adamf (Adam Farquharson)
 22. AIRAC (1807) - Updated EGHH SMR - thanks to @daleb99 (Dale Brooksby)
+23. Enhancement - Added Goodwood SMR - thanks to @xitstomx (Tom Sirett)
+24. AIRAC (1810) - CAM (Cambridge) NDB moved - thanks to @NickMarinov (Nick Marinov)
+25. AIRAC (1810) - Added Functionality for new EKDK sectors - thanks to @cpawley (Chris Pawley)
+26. AIRAC (1810) - EGBB ATIS Frequency Update - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2018/08 to 2018/09
 1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
