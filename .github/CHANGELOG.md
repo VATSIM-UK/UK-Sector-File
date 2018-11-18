@@ -1,3 +1,6 @@
+# Changes from release 2018/12 to 2018/13
+1. L620 and UL620 merged; L620 rerouted - thanks to @indianbhaji (Eric Liu)
+
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
 2. AIRAC (1812) - Recorded Frequencies Unable to Update (8.33 kHz spacing) - thanks to @cpawley (Chris Pawley)
