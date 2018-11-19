@@ -1,5 +1,8 @@
 # Changes from release 2018/12 to 2018/13
-1. AIRAC (1813) - L602 airway rerouted - thanks to @indianbhaji (Eric Liu)
+1. AIRAC (1813) - UL980 and L980 merged; L980 rerouted - thanks to @indianbhaji (Eric Liu)
+2. AIRAC (1813) - L620 and UL620 merged; L620 rerouted - thanks to @indianbhaji (Eric Liu)
+3. AIRAC (1813) - L608 airway rerouted - thanks to @indianbhaji (Eric Liu)
+4. AIRAC (1813) - L602 airway rerouted - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
