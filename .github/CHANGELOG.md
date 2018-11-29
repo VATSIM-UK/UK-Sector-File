@@ -15,6 +15,7 @@
 14. AIRAC (1813) - Z171 rerouted - thanks to @indianbhaji (Eric Liu)
 15. AIRAC (1813) - Y803 airway truncated - thanks to @indianbhaji (Eric Liu)
 16. AIRAC (1813) - Y113 airway removed - thanks to @indianbhaji (Eric Liu)
+17. AIRAC (1813) - Y110 airway rerouted - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
