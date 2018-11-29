@@ -26,6 +26,7 @@
 25. AIRAC (1813) - P44 airway rerouted - thanks to @indianbhaji (Eric Liu)
 26. AIRAC (1813) - M604 rerouted - thanks to @indianbhaji (Eric Liu)
 27. AIRAC (1813) - UM185/M185 airways rerouted - thanks to @indianbhaji (Eric Liu)
+28. AIRAC (1813) - M20 withdrawn; M40 to replace - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
