@@ -23,6 +23,7 @@
 22. AIRAC (1813) - Q41 airway rerouted - thanks to @indianbhaji (Eric Liu)
 23. AIRAC (1813) - P144 airway rerouted - thanks to @indianbhaji (Eric Liu)
 24. AIRAC (1813) - P49 airway extended - thanks to @indianbhaji (Eric Liu)
+25. AIRAC (1813) - P44 airway rerouted - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
