@@ -12,6 +12,7 @@
 11. AIRAC (1813) - UL18 rerouted - thanks to @indianbhaji (Eric Liu)
 12. AIRAC (1813) - N866 rerouted - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1813) - Z291 withdrawn - thanks to @indianbhaji (Eric Liu)
+14. AIRAC (1813) - Z171 rerouted - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
