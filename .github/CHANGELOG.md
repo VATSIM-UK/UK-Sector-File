@@ -7,7 +7,17 @@
 6. AIRAC (1813) - UM197 redesignated M197, re-routed and now RNAV - thanks to @indianbhaji (Eric Liu)
 7. AIRAC (1813) - UM84 withdrawn - thanks to @indianbhaji (Eric Liu)
 8. AIRAC (1813) - M84 and M189 airways to RNAV and rerouted - thanks to @indianbhaji (Eric Liu)
-9. AIRAC (1813) - Y4 rerouted - thanks to @indianbhaji (Eric Liu)
+9. AIRAC (1813) - EGBE Cement Works VRP renamed to Southam - thanks to @indianbhaji (Eric Liu)
+10. AIRAC (1813) - UL610 and L610 airways merged - thanks to @indianbhaji (Eric Liu)
+11. AIRAC (1813) - UL18 rerouted - thanks to @indianbhaji (Eric Liu)
+12. AIRAC (1813) - N866 rerouted - thanks to @indianbhaji (Eric Liu)
+13. AIRAC (1813) - Z291 withdrawn - thanks to @indianbhaji (Eric Liu)
+14. AIRAC (1813) - Z171 rerouted - thanks to @indianbhaji (Eric Liu)
+15. AIRAC (1813) - Y803 airway truncated - thanks to @indianbhaji (Eric Liu)
+16. AIRAC (1813) - Y113 airway removed - thanks to @indianbhaji (Eric Liu)
+17. AIRAC (1813) - Y110 airway rerouted - thanks to @indianbhaji (Eric Liu)
+18. AIRAC (1813) - Y70 airway rerouted - thanks to @indianbhaji (Eric Liu)
+19. AIRAC (1813) - Y4 rerouted - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
