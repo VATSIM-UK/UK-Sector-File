@@ -7,6 +7,7 @@
 6. AIRAC (1813) - UM197 redesignated M197, re-routed and now RNAV - thanks to @indianbhaji (Eric Liu)
 7. AIRAC (1813) - UM84 withdrawn - thanks to @indianbhaji (Eric Liu)
 8. AIRAC (1813) - M84 and M189 airways to RNAV and rerouted - thanks to @indianbhaji (Eric Liu)
+9. AIRAC (1813) - Y113 airway removed - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
