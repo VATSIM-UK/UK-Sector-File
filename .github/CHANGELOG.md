@@ -32,6 +32,7 @@
 31. AIRAC (1813) - Gatwick (EGKK) CLN RNAV SIDs truncated and redesignated - thanks to @hsugden (Harry Sugden)
 32. AIRAC (1813) - Heathrow (EGLL) and Northolt (EGWU) LAM3A STAR redesignated - thanks to @hsugden (Harry Sugden)
 33. Bug - Added missing fix in Gatwick (EGKK) IMVUR1Z SID routing - thanks to @hsugden (Harry Sugden)
+34. AIRAC (1813) - Guernsey (EGJB) ORIST and LERAK SIDs added - thanks to @hsugden (Harry Sugden) 
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
