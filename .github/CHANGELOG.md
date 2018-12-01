@@ -28,7 +28,16 @@
 27. AIRAC (1813) - UM185/M185 airways rerouted - thanks to @indianbhaji (Eric Liu)
 28. AIRAC (1813) - M20 withdrawn; M40 to replace - thanks to @indianbhaji (Eric Liu)
 29. AIRAC (1813) - Jersey (EGJJ) ORIST SIDs added - thanks to @hsugden (Harry Sugden)
-30. AIRAC (1813) - Reinstate EGNC APP - thanks to @indianbhaji (Eric Liu)
+30. Bug - Added missing agreement for MAW->DUBN Dublin (EIDW) inbounds via SITKU - thanks to @hsugden (Harry Sugden)
+31. AIRAC (1813) - Gatwick (EGKK) CLN RNAV SIDs truncated and redesignated - thanks to @hsugden (Harry Sugden)
+32. AIRAC (1813) - Heathrow (EGLL) and Northolt (EGWU) LAM3A STAR redesignated - thanks to @hsugden (Harry Sugden)
+33. Bug - Added missing fix in Gatwick (EGKK) IMVUR1Z SID routing - thanks to @hsugden (Harry Sugden)
+34. AIRAC (1813) - Guernsey (EGJB) ORIST and LERAK SIDs added - thanks to @hsugden (Harry Sugden) 
+35. AIRAC (1813) - EGSS/GW/SC STARs redesignated and files cleaned up - thanks to @hsugden (Harry Sugden)
+36. AIRAC (1813) - EGMC 8.33kHz frequencies added to doc file - thanks to @hsugden (Harry Sugden)
+37. AIRAC (1813) - Southend (EGMC) STAR redesignation - thanks to @hsugden (Harry Sugden)
+38. AIRAC (1813) - EGCC/GP/NR/NM/CN arrivals via LAKEY agreement changed - thanks to @hsugden (Harry Sugden)
+39. AIRAC (1813) - Reinstate EGNC APP - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
