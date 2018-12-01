@@ -1,5 +1,5 @@
-;Westerlies WOBUN
+;Westerlies UMLAT
 COPX:EGLL:*:BUR:*:*:LLDEP:London TC NW:6000:*:SID
 
-;Easterlies BUZAD
-COPX:EGLL:*:D331T:*:*:LLDEP:London TC NW:6000:*:SID
+;Easterlies ULTIB
+COPX:EGLL:*:D330T:*:*:LLDEP:London TC NW:6000:*:SID
