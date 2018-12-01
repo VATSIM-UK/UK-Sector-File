@@ -37,6 +37,7 @@
 36. AIRAC (1813) - EGMC 8.33kHz frequencies added to doc file - thanks to @hsugden (Harry Sugden)
 37. AIRAC (1813) - Southend (EGMC) STAR redesignation - thanks to @hsugden (Harry Sugden)
 38. AIRAC (1813) - EGCC/GP/NR/NM/CN arrivals via LAKEY agreement changed - thanks to @hsugden (Harry Sugden)
+39. AIRAC (1813) - Reinstate EGNC APP - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
