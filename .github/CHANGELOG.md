@@ -42,6 +42,7 @@
 41. Bug - Fixed EKDK unclosed sector border lines - thanks to @hsugden (Harry Sugden)
 42. AIRAC (1813) - Heathrow SMR updated (WIP removed) - thanks to @cpawley (Chris Pawley)
 43. AIRAC (1813) - Southampton (EGHI) and Bournemouth (EGHH) SAM1B->UMBUR1S STAR - thanks to @hsugden (Harry Sugden)
+44. AIRAC (1813) - Belfast/Aldergrove (EGAA) runway tracks updated - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
