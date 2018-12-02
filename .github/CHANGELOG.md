@@ -43,6 +43,7 @@
 42. AIRAC (1813) - Heathrow SMR updated (WIP removed) - thanks to @cpawley (Chris Pawley)
 43. AIRAC (1813) - Southampton (EGHI) and Bournemouth (EGHH) SAM1B->UMBUR1S STAR - thanks to @hsugden (Harry Sugden)
 44. AIRAC (1813) - Belfast/Aldergrove (EGAA) runway tracks updated - thanks to @hsugden (Harry Sugden)
+45. AIRAC (1813) - London/City (EGLC) and Biggin Hill (EGKB) SUMUM/XAMAN STARs redesignated - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
