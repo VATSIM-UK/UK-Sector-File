@@ -45,6 +45,7 @@
 44. AIRAC (1813) - Belfast/Aldergrove (EGAA) runway tracks updated - thanks to @hsugden (Harry Sugden)
 45. AIRAC (1813) - London/City (EGLC) and Biggin Hill (EGKB) SUMUM/XAMAN STARs redesignated - thanks to @hsugden (Harry Sugden)
 46. AIRAC (1813) - Gatwick (EGKK) TIMBA STARs redesignated / removed - thanks to @hsugden (Harry Sugden)
+47. AIRAC (1810) - Added Sumburgh (EGPB) RNAV approach fixes - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
