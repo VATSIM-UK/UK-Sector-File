@@ -40,6 +40,8 @@ Hawarden Radar 120.055, 120.070 on VATSIM (8.33kHz-spaced frequency)
 Hawarden Director 130.015, 130.020 on VATSIM (8.33kHz-spaced frequency)
 Hawarden Tower 124.955, 124.950 on VATSIM (8.33kHz-spaced frequency)
 Hawarden ATIS 125.430, 125.420 on VATSIM (8.33kHz-spaced frequency)
+Inverness Approach 122.605, 122.600 on VATSIM (8.33kHz-spaced frequency)
+Inverness Tower 118.405, 118.400 on VATSIM (8.33kHz-spaced frequency)
 Inverness ATIS 109.200, 124.700 on VATSIM
 Farnborough Radar 134.355, 134.350 on VATSIM (8.33kHz-spaced frequency)
 Farnborough Director 130.055, 130.050 on VATSIM (8.33kHz-spaced frequency)
