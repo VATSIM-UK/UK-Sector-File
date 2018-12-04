@@ -49,6 +49,7 @@
 48. AIRAC (1813) - Duxford (EGSU) basic and runway info updated - thanks to @hsugden (Harry Sugden)
 49. Bug - Update Bristol (EGGD) SMR - @Scotflieger (Andrew Gransden)
 50. Bug - Corrected Stansted (EGSS) SID fixes - thanks to @hsugden (Harry Sugden)
+51. AIRAC (1813) - Inverness (EGPE) 8.33kHz spaced frequencies added to doc - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
