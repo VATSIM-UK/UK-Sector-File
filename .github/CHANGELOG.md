@@ -48,6 +48,7 @@
 47. AIRAC (1810) - Added Sumburgh (EGPB) RNAV approach fixes - thanks to @hsugden (Harry Sugden)
 48. AIRAC (1813) - Duxford (EGSU) basic and runway info updated - thanks to @hsugden (Harry Sugden)
 49. Bugfix - Updates Bristol (EGGD) SMR - @Scotflieger (Andrew Gransden)
+50. AIRAC (1813) - EHAA FIR fixes updated (including new IBNOS area fixes) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
