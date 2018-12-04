@@ -12,6 +12,8 @@ COPX:*:*:MCT:EGBB:*:Scottish PC West:Scottish PC East:*:20000:MCT
 
 COPX:*:*:WHI:EGBB:*:Scottish PC West:Scottish PC East:*:20000:WHI
 
+COPX:*:*:CREWE:EGBB:*:Scottish PC West:Scottish PC East:*:20000:CREWE25
+
 COPX:*:*:NUGRA:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NUGRA15
 
 COPX:*:*:NOKIN:EGBB:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
