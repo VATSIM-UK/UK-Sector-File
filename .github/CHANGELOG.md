@@ -47,7 +47,7 @@
 46. AIRAC (1813) - Gatwick (EGKK) TIMBA STARs redesignated / removed - thanks to @hsugden (Harry Sugden)
 47. AIRAC (1810) - Added Sumburgh (EGPB) RNAV approach fixes - thanks to @hsugden (Harry Sugden)
 48. AIRAC (1813) - Duxford (EGSU) basic and runway info updated - thanks to @hsugden (Harry Sugden)
-49. Bug - Updates Bristol (EGGD) SMR - @Scotflieger (Andrew Gransden)
+49. Bug - Update Bristol (EGGD) SMR - @Scotflieger (Andrew Gransden)
 50. Bug - Corrected Stansted (EGSS) SID fixes - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
