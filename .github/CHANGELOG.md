@@ -55,6 +55,7 @@
 54. Enhancement - Added SASKI delegated airspace in ARTCC High - thanks to @hsugden (Harry Sugden)
 55. Enhancement - Removed redundant Coventry (EGBE) airspace and SMAA data - thanks to @hsugden (Harry Sugden)
 56. Enhancement - Guest ownership for TCNW (for KK WILLO3B) refined - thanks to @hsugden (Harry Sugden)
+57. Bug - Corrected S23->TCNW agreement for SS/GW/SC arrivals - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
