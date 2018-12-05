@@ -1,2 +1,11 @@
+FIR_COPX:EHAM:*:ABNED:*:*:EHAA low:London AC Clacton:24000:*:ABNED
+FIR_COPX:EHAM:*:MIMVA:*:*:EHAA low:London AC Clacton:24000:*:MIMVA
+FIR_COPX:EHAM:*:KOLAG:*:*:EHAA low:London AC Clacton:24000:*:KOLAG
+
+FIR_COPX:*:*:IBNOS:*:*:EHAA low:London AC Clacton:24000:*:IBNOS
+FIR_COPX:*:*:MIMVA:*:*:EHAA low:London AC Clacton:24000:*:MIMVA
+FIR_COPX:*:*:KOLAG:*:*:EHAA low:London AC Clacton:24000:*:KOLAG
+
+;Withdrawn 2018/13
 FIR_COPX:EHAM:*:GORLO:*:*:EHAA low:London AC Clacton:24000:*:GORLO
 FIR_COPX:EHAM:*:REFSO:*:*:EHAA low:London AC Clacton:24000:*:REFSO
