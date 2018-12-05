@@ -58,6 +58,7 @@
 57. Bug - Corrected S23->TCNW agreement for SS/GW/SC arrivals - thanks to @hsugden (Harry Sugden)
 58. Bug/Enhancement - Added missing EGNM inbound agreements from MAE->NMAPP - thanks to @hsugden (Harry Sugden)
 59. Bug - Corrected TOSVA fix coordinates - thanks to @hsugden (Harry Sugden)
+60. Bug - Fixed (and amended) Midlands (BB/NX) MAW->MAE inbound agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
