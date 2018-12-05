@@ -53,6 +53,7 @@
 52. Enhancement - Manchester (EGCC) SMR background colour set back to original - thanks to @hsugden (Harry Sugden)
 53. Bug - Fixed 'Virtual_Fixes' file extension - thanks to @hsugden (Harry Sugden)
 54. Enhancement - Added SASKI delegated airspace in ARTCC High - thanks to @hsugden (Harry Sugden)
+55. Enhancement - Removed redundant Coventry (EGBE) airspace and SMAA data - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
