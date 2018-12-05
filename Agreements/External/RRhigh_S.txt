@@ -1,3 +1,9 @@
+FIR_COPX:*:*:LUGIS:EGSS:*:LFRR:London AC Worthing:*:34000:DIKRO
+FIR_COPX:*:*:LUGIS:EGGW:*:LFRR:London AC Worthing:*:34000:DIKRO
+FIR_COPX:*:*:LUGIS:EGSC:*:LFRR:London AC Worthing:*:34000:DIKRO
+
+FIR_COPX:*:*:LUGIS:*:*:LFRR:London AC Worthing:*:*:LUGIS
+
 FIR_COPX:*:*:KOTEM:EGBB:*:LFRR:London AC Worthing:*:36000:DIKRO
 FIR_COPX:*:*:KOTEM:EGBE:*:LFRR:London AC Worthing:*:36000:DIKRO
 FIR_COPX:*:*:KOTEM:EGNX:*:LFRR:London AC Worthing:*:36000:DIKRO
@@ -51,6 +57,10 @@ FIR_COPX:*:*:GARMI:EGTD:*:LFRR:London AC Worthing:*:28000:AKIKI
 FIR_COPX:*:*:GARMI:EGHL:*:LFRR:London AC Worthing:*:28000:AKIKI
 
 FIR_COPX:*:*:GARMI:*:*:LFRR:London AC Worthing:*:*:GARMI
+
+FIR_COPX:*:*:ODREP:EGKK:*:LFRR:London AC Worthing:*:34000:REVTU
+
+FIR_COPX:*:*:ODREP:*:*:LFRR:London AC Worthing:*:*:ODREP
 
 FIR_COPX:*:*:BOLRO:EGBB:*:LFRR:London AC Worthing:*:36000:REVTU
 FIR_COPX:*:*:BOLRO:EGBE:*:LFRR:London AC Worthing:*:36000:REVTU
