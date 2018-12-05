@@ -53,7 +53,15 @@
 52. Enhancement - Manchester (EGCC) SMR background colour set back to original - thanks to @hsugden (Harry Sugden)
 53. Bug - Fixed 'Virtual_Fixes' file extension - thanks to @hsugden (Harry Sugden)
 54. Enhancement - Added SASKI delegated airspace in ARTCC High - thanks to @hsugden (Harry Sugden)
-55. Enhancement - Added Freetext for Links at Heathrow - thanks to @daleb99 (Dale Brooksby)
+55. Enhancement - Removed redundant Coventry (EGBE) airspace and SMAA data - thanks to @hsugden (Harry Sugden)
+56. Enhancement - Guest ownership for TCNW (for KK WILLO3B) refined - thanks to @hsugden (Harry Sugden)
+57. Bug - Corrected S23->TCNW agreement for SS/GW/SC arrivals - thanks to @hsugden (Harry Sugden)
+58. Bug/Enhancement - Added missing EGNM inbound agreements from MAE->NMAPP - thanks to @hsugden (Harry Sugden)
+59. Bug - Corrected TOSVA fix coordinates - thanks to @hsugden (Harry Sugden)
+60. Bug - Fixed (and amended) Midlands (BB/NX) MAW->MAE inbound agreements - thanks to @hsugden (Harry Sugden)
+61. AIRAC (1813) - New agreement for Jersey Zone outbounds via ORIST - thanks to @hsugden (Harry Sugden)
+62. Bug - Added missing KK/Essex RRhigh_S inbound agreements via LUGIS and ODREP - thanks to @hsugden (Harry Sugden)
+63. Enhancement - Added Freetext for Links at Heathrow - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
