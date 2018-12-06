@@ -64,6 +64,7 @@
 63. Enhancement - Added Freetext for Links at Heathrow - thanks to @daleb99 (Dale Brooksby)
 64. AIRAC (1813) - Various new agreements for Dutch interface in IBNOS area - thanks to @hsugden (Harry Sugden)
 65. AIRAC (1813) - EHAA FIR fixes updated (including new IBNOS area fixes) - thanks to @hsugden (Harry Sugden)
+66. AIRAC (1813) - IBNOS Delegated Area (EHAA->LAC/LTC), ARTCC, lines and ownership - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
