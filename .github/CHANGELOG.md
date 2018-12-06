@@ -62,6 +62,7 @@
 61. AIRAC (1813) - New agreement for Jersey Zone outbounds via ORIST - thanks to @hsugden (Harry Sugden)
 62. Bug - Added missing KK/Essex RRhigh_S inbound agreements via LUGIS and ODREP - thanks to @hsugden (Harry Sugden)
 63. Enhancement - Added Freetext for Links at Heathrow - thanks to @daleb99 (Dale Brooksby)
+64. AIRAC (1813) - Various new agreements for Dutch interface in IBNOS area - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
