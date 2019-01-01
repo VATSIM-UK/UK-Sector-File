@@ -8,6 +8,7 @@
 7. AIRAC (1813) - Re-add A5, AY5 and PLUTO to EGLL SMR - thanks to @inventor02 (George Peppard)
 8. AIRAC (1813) - Add hold N to EGSC SMR - thanks to @inventor02 (George Peppard)
 9. AIRAC (1901) - Add EGCC RNAV fixes - thanks to @inventor02 (George Peppard)
+10. Bug - Correct coordinates for UNSAD - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/12 to 2018/13
 1. AIRAC (1813) - UL980 and L980 merged; L980 rerouted - thanks to @indianbhaji (Eric Liu)
