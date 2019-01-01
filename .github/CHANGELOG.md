@@ -1,5 +1,6 @@
 # Changes from release 2018/13 to 2019/01
 1. Bug - Added missing fix SITKU - thanks to @hsugden (Harry Sugden)
+2. Bug - Fixed L9 airway to start at KONAN - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/12 to 2018/13
 1. AIRAC (1813) - UL980 and L980 merged; L980 rerouted - thanks to @indianbhaji (Eric Liu)
