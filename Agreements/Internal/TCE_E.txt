@@ -1,47 +1,36 @@
-COPX:EGLL:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:EGWU:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:EGKK:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:EGGW:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
+COPX:EGLL:*:LEDBO:*:*:London TC NE:London TC East:23000:*:^TEDSA
+COPX:EGWU:*:LEDBO:*:*:London TC NE:London TC East:23000:*:^TEDSA
+COPX:EGLL:*:SOMVA:*:*:London TC NE:London TC East:23000:*:^PAAVO
+COPX:EGWU:*:SOMVA:*:*:London TC NE:London TC East:23000:*:^PAAVO
+COPX:EGLL:*:REDFA:*:*:London TC NE:London TC East:23000:*:^GASBA
+COPX:EGWU:*:REDFA:*:*:London TC NE:London TC East:23000:*:^GASBA
 
-COPX:EGLL:*:GASBA:*:*:London TC East:London AC Clacton:23000:*:GASBA
-COPX:EGWU:*:GASBA:*:*:London TC East:London AC Clacton:23000:*:GASBA
-COPX:EGKK:*:GASBA:*:*:London TC East:London AC Clacton:23000:*:GASBA
-COPX:EGGW:*:GASBA:*:*:London TC East:London AC Clacton:23000:*:GASBA
+COPX:EGGW:*:LEDBO:*:*:London TC NE:London TC East:23000:*:^TEDSA
+COPX:EGGW:*:SOMVA:*:*:London TC NE:London TC East:23000:*:^PAAVO
+COPX:EGGW:*:REDFA:*:*:London TC NE:London TC East:23000:*:^GASBA
 
-COPX:EGLL:*:RATLO:*:*:London TC East:London AC Clacton:23000:*:RATLO
-COPX:EGWU:*:RATLO:*:*:London TC East:London AC Clacton:23000:*:RATLO
-COPX:EGKK:*:RATLO:*:*:London TC East:London AC Clacton:23000:*:RATLO
-COPX:EGGW:*:RATLO:*:*:London TC East:London AC Clacton:23000:*:RATLO
+COPX:EGKK:*:LEDBO:*:*:London TC NE:London TC East:23000:*:^TEDSA
+COPX:EGKB:*:LEDBO:*:*:London TC NE:London TC East:23000:*:^TEDSA
+COPX:EGKK:*:SOMVA:*:*:London TC NE:London TC East:23000:*:^PAAVO
+COPX:EGKB:*:SOMVA:*:*:London TC NE:London TC East:23000:*:^PAAVO
+COPX:EGKK:*:REDFA:*:*:London TC NE:London TC East:23000:*:^RATLO
+COPX:EGKB:*:REDFA:*:*:London TC NE:London TC East:23000:*:^RATLO
 
-COPX:EGLL:*:TEDSA:*:*:London TC East:London AC Clacton:23000:*:TEDSA
-COPX:EGWU:*:TEDSA:*:*:London TC East:London AC Clacton:23000:*:TEDSA
-COPX:EGKK:*:TEDSA:*:*:London TC East:London AC Clacton:23000:*:TEDSA
-COPX:EGGW:*:TEDSA:*:*:London TC East:London AC Clacton:23000:*:TEDSA
+COPX:EGSS:*:LEDBO:*:*:London TC NE:London TC East:21000:*:^LEDBO
+COPX:EGSC:*:LEDBO:*:*:London TC NE:London TC East:21000:*:^LEDBO
+COPX:EGSS:*:SOMVA:*:*:London TC NE:London TC East:21000:*:^RATLO
+COPX:EGSC:*:SOMVA:*:*:London TC NE:London TC East:21000:*:^RATLO
+COPX:EGSS:*:REDFA:*:*:London TC NE:London TC East:21000:*:^RATLO
+COPX:EGSC:*:REDFA:*:*:London TC NE:London TC East:21000:*:^RATLO
 
-COPX:EGSS:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGSC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGLC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGKB:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGTO:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGMC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGLC:*:LEDBO:*:*:London TC NE:London TC East:21000:*:^LEDBO
+COPX:EGLC:*:SOMVA:*:*:London TC NE:London TC East:21000:*:^RATLO
+COPX:EGLC:*:REDFA:*:*:London TC NE:London TC East:21000:*:^RATLO
+COPX:EGLC:*:CLN:*:*:London TC NE:London TC East:21000:*:^CLN
 
-COPX:EGSS:*:GASBA:*:*:London TC East:London AC Clacton:21000:*:GASBA
-COPX:EGSC:*:GASBA:*:*:London TC East:London AC Clacton:21000:*:GASBA
-COPX:EGLC:*:GASBA:*:*:London TC East:London AC Clacton:21000:*:GASBA
-COPX:EGKB:*:GASBA:*:*:London TC East:London AC Clacton:21000:*:GASBA
-COPX:EGTO:*:GASBA:*:*:London TC East:London AC Clacton:21000:*:GASBA
-COPX:EGMC:*:GASBA:*:*:London TC East:London AC Clacton:21000:*:GASBA
-
-COPX:EGSS:*:RATLO:*:*:London TC East:London AC Clacton:21000:*:RATLO
-COPX:EGSC:*:RATLO:*:*:London TC East:London AC Clacton:21000:*:RATLO
-COPX:EGLC:*:RATLO:*:*:London TC East:London AC Clacton:21000:*:RATLO
-COPX:EGKB:*:RATLO:*:*:London TC East:London AC Clacton:21000:*:RATLO
-COPX:EGTO:*:RATLO:*:*:London TC East:London AC Clacton:21000:*:RATLO
-COPX:EGMC:*:RATLO:*:*:London TC East:London AC Clacton:21000:*:RATLO
-
-COPX:EGSS:*:TEDSA:*:*:London TC East:London AC Clacton:21000:*:TEDSA
-COPX:EGSC:*:TEDSA:*:*:London TC East:London AC Clacton:21000:*:TEDSA
-COPX:EGLC:*:TEDSA:*:*:London TC East:London AC Clacton:21000:*:TEDSA
-COPX:EGKB:*:TEDSA:*:*:London TC East:London AC Clacton:21000:*:TEDSA
-COPX:EGTO:*:TEDSA:*:*:London TC East:London AC Clacton:21000:*:TEDSA
-COPX:EGMC:*:TEDSA:*:*:London TC East:London AC Clacton:21000:*:TEDSA
+;Pre AIRAC 1813 Routings/Agreements
+COPX:EGLL:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGWU:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGKK:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGKB:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGGW:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
