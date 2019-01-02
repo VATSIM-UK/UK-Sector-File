@@ -12,6 +12,7 @@
 11. AIRAC (1901) - Redhill (EGKR) ATIS Frequency Change - thanks to @cpawley (Chris Pawley)
 12. AIRAC (1901) - Kemble (EGBP) Information Frequency Change - thanks to @cpawley (Chris Pawley)
 13. AIRAC (1901) - Reverted Jersey Zone (SKERY) Frequency Change - thanks to @cpawley (Chris Pawley)
+14. Enhancement - TCE->E agreements enhanced with arrows and segregation for LEDBO/C2/C1 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2018/12 to 2018/13
 1. AIRAC (1813) - UL980 and L980 merged; L980 rerouted - thanks to @indianbhaji (Eric Liu)
