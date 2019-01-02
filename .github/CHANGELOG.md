@@ -15,6 +15,7 @@
 14. Enhancement - TCE->E agreements enhanced with arrows and segregation for LEDBO/C2/C1 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (1901) - Update Cardiff (EGFF) SMR - thanks to @cpawley (Chris Pawley)
 16. AIRAC (1901), Enhancement - AC Worthing to TC NE Essex inbounds now descending FL160 - thanks to @hsugden (Harry Sugden)
+17. AIRAC (1901) - Updated Liverpool (EGGP) Threshold Coordinate - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2018/12 to 2018/13
 1. AIRAC (1813) - UL980 and L980 merged; L980 rerouted - thanks to @indianbhaji (Eric Liu)
