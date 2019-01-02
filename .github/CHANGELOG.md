@@ -18,6 +18,7 @@
 17. AIRAC (1901) - Updated Liverpool (EGGP) Threshold Coordinate - thanks to @cpawley (Chris Pawley)
 18. Bug/Enhancement - Added TCNE->TCE agreements for new post-1813 routings from LTMA airfields - thanks to @hsugden (Harry Sugden)
 19. Enhancement - Adjust S8 to DUBS EIDW inbound agreement from VATRY-10 to LEMGU - thanks to @inventor02 (George Peppard)
+20. AIRAC (1901) - EGLL SMR construction areas - thanks to @inventor02 (George Peppard)
 
 # Changes from release 2018/12 to 2018/13
 1. AIRAC (1813) - UL980 and L980 merged; L980 rerouted - thanks to @indianbhaji (Eric Liu)
