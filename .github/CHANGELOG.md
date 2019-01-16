@@ -1,4 +1,4 @@
-#Changes from release 2019/01 to 2019/02
+# Changes from release 2019/01 to 2019/02
 1. Bug - EGSS SMR Update - Stands 45L/45R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
 
 
