@@ -1,3 +1,7 @@
+#Changes from release 2019/01 to 2019/02
+1. Bug - EGSS SMR Update - Stands 45L/45R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
+
+
 # Changes from release 2018/13 to 2019/01
 1. Bug - Added missing fix SITKU - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed L9 airway to start at KONAN - thanks to @hsugden (Harry Sugden)
