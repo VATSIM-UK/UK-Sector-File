@@ -1,10 +1,31 @@
-COPX:EGLL:*:CLN:*:*:London TC NE:London TC East:15000:*:CLN
-COPX:EGWU:*:CLN:*:*:London TC NE:London TC East:15000:*:CLN
-COPX:EGGW:*:CLN:*:*:London TC NE:London TC East:15000:*:CLN
+COPX:EGLL:*:LEDBO:*:*:London TC NE:London TC East:15000:*:^PAAVO
+COPX:EGWU:*:LEDBO:*:*:London TC NE:London TC East:15000:*:^PAAVO
+COPX:EGLL:*:SOMVA:*:*:London TC NE:London TC East:15000:*:^PAAVO
+COPX:EGWU:*:SOMVA:*:*:London TC NE:London TC East:15000:*:^PAAVO
+COPX:EGLL:*:REDFA:*:*:London TC NE:London TC East:15000:*:^GASBA
+COPX:EGWU:*:REDFA:*:*:London TC NE:London TC East:15000:*:^GASBA
 
-COPX:EGSS:*:CLN:*:*:London TC NE:London TC East:11000:*:CLN
-COPX:EGSC:*:CLN:*:*:London TC NE:London TC East:11000:*:CLN
-COPX:EGLC:*:CLN:*:*:London TC NE:London TC East:11000:*:CLN
+COPX:EGGW:*:LEDBO:*:*:London TC NE:London TC East:15000:*:^PAAVO
+COPX:EGGW:*:SOMVA:*:*:London TC NE:London TC East:15000:*:^PAAVO
+COPX:EGGW:*:REDFA:*:*:London TC NE:London TC East:15000:*:^GASBA
 
-COPX:EGKK:*:CLN:*:*:London TC NE:London TC East:17000:*:CLN
-COPX:EGKB:*:CLN:*:*:London TC NE:London TC East:17000:*:CLN
+COPX:EGSS:*:CLN:*:*:London TC NE:London TC East:11000:*:^CLN
+COPX:EGSC:*:CLN:*:*:London TC NE:London TC East:11000:*:^CLN
+
+COPX:EGLC:*:SOMVA:*:*:London TC NE:London TC East:11000:*:^RATLO
+COPX:EGLC:*:CLN:*:*:London TC NE:London TC East:11000:*:^CLN
+
+COPX:EGKK:*:LEDBO:*:*:London TC NE:London TC East:17000:*:^PAAVO
+COPX:EGKB:*:LEDBO:*:*:London TC NE:London TC East:17000:*:^PAAVO
+COPX:EGKK:*:SOMVA:*:*:London TC NE:London TC East:17000:*:^PAAVO
+COPX:EGKB:*:SOMVA:*:*:London TC NE:London TC East:17000:*:^PAAVO
+COPX:EGKK:*:REDFA:*:*:London TC NE:London TC East:17000:*:^RATLO
+COPX:EGKB:*:REDFA:*:*:London TC NE:London TC East:17000:*:^RATLO
+
+;Pre AIRAC 1813 Routings/Agreements
+COPX:EGLL:*:CLN:*:*:London TC NE:London TC East:15000:*:^CLN
+COPX:EGWU:*:CLN:*:*:London TC NE:London TC East:15000:*:^CLN
+COPX:EGGW:*:CLN:*:*:London TC NE:London TC East:15000:*:^CLN
+
+COPX:EGKK:*:CLN:*:*:London TC NE:London TC East:17000:*:^CLN
+COPX:EGKB:*:CLN:*:*:London TC NE:London TC East:17000:*:^CLN

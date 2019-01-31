@@ -1,3 +1,3 @@
-COPX:*:*:BPK:EGSS:*:London AC Worthing:London TC NE:*:14000:BPK
-COPX:*:*:BPK:EGSC:*:London AC Worthing:London TC NE:*:14000:BPK
-COPX:*:*:BPK:EGGW:*:London AC Worthing:London TC NE:*:14000:BPK
+COPX:*:*:BPK:EGSS:*:London AC Worthing:London TC NE:*:16000:|VATON
+COPX:*:*:BPK:EGSC:*:London AC Worthing:London TC NE:*:16000:|VATON
+COPX:*:*:BPK:EGGW:*:London AC Worthing:London TC NE:*:16000:|VATON
