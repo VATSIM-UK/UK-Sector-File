@@ -7,6 +7,7 @@
 6. Bug - Removed old EGGD VRP's and added the Clifton Suspension Bridge - thanks to @1adamf (Adam Farquharson)
 7. AIRAC (1903) - UL975, UP18, UP59, L7, L46, L602, N97, P58, Y70 airways rerouted and N44, N66, N110 airways created - thanks to @indianbhaji (Eric Liu)
 8. AIRAC (1903) - Updated EGPK SIDs - thanks to @cpawley (Chris Pawley)
+9. AIRAC (1903) - Updated EGPK STARs - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/01 to 2019/02
 1. Bug EGSS SMR Update - Stands 65L/65R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
