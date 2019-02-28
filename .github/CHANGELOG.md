@@ -1,5 +1,6 @@
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
+2. AIRAC (1902) - Updated frequency list - thanks to @sonnynixon1507 (Sonny Nixon)
 
 # Changes from release 2019/01 to 2019/02
 1. Bug EGSS SMR Update - Stands 65L/65R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
