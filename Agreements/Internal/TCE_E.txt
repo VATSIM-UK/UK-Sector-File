@@ -1,11 +1,36 @@
-COPX:EGLL:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:EGWU:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:EGKK:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
-COPX:EGGW:*:CLN:*:*:London TC East:London AC Clacton:23000:*:CLN
+COPX:EGLL:*:LEDBO:*:*:London TC East:London AC Clacton:23000:*:^TEDSA
+COPX:EGWU:*:LEDBO:*:*:London TC East:London AC Clacton:23000:*:^TEDSA
+COPX:EGLL:*:SOMVA:*:*:London TC East:London AC Clacton:23000:*:^PAAVO
+COPX:EGWU:*:SOMVA:*:*:London TC East:London AC Clacton:23000:*:^PAAVO
+COPX:EGLL:*:REDFA:*:*:London TC East:London AC Clacton:23000:*:^GASBA
+COPX:EGWU:*:REDFA:*:*:London TC East:London AC Clacton:23000:*:^GASBA
 
-COPX:EGSS:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGSC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGLC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGKB:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGTO:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
-COPX:EGMC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:ARTOV
+COPX:EGGW:*:LEDBO:*:*:London TC East:London AC Clacton:23000:*:^TEDSA
+COPX:EGGW:*:SOMVA:*:*:London TC East:London AC Clacton:23000:*:^PAAVO
+COPX:EGGW:*:REDFA:*:*:London TC East:London AC Clacton:23000:*:^GASBA
+
+COPX:EGKK:*:LEDBO:*:*:London TC East:London AC Clacton:23000:*:^TEDSA
+COPX:EGKB:*:LEDBO:*:*:London TC East:London AC Clacton:23000:*:^TEDSA
+COPX:EGKK:*:SOMVA:*:*:London TC East:London AC Clacton:23000:*:^PAAVO
+COPX:EGKB:*:SOMVA:*:*:London TC East:London AC Clacton:23000:*:^PAAVO
+COPX:EGKK:*:REDFA:*:*:London TC East:London AC Clacton:23000:*:^RATLO
+COPX:EGKB:*:REDFA:*:*:London TC East:London AC Clacton:23000:*:^RATLO
+
+COPX:EGSS:*:LEDBO:*:*:London TC East:London AC Clacton:21000:*:^LEDBO
+COPX:EGSC:*:LEDBO:*:*:London TC East:London AC Clacton:21000:*:^LEDBO
+COPX:EGSS:*:SOMVA:*:*:London TC East:London AC Clacton:21000:*:^RATLO
+COPX:EGSC:*:SOMVA:*:*:London TC East:London AC Clacton:21000:*:^RATLO
+COPX:EGSS:*:REDFA:*:*:London TC East:London AC Clacton:21000:*:^RATLO
+COPX:EGSC:*:REDFA:*:*:London TC East:London AC Clacton:21000:*:^RATLO
+
+COPX:EGLC:*:LEDBO:*:*:London TC East:London AC Clacton:21000:*:^LEDBO
+COPX:EGLC:*:SOMVA:*:*:London TC East:London AC Clacton:21000:*:^RATLO
+COPX:EGLC:*:REDFA:*:*:London TC East:London AC Clacton:21000:*:^RATLO
+COPX:EGLC:*:CLN:*:*:London TC East:London AC Clacton:21000:*:^CLN
+
+;Pre AIRAC 1813 Routings/Agreements
+COPX:EGLL:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGWU:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGKK:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGKB:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN
+COPX:EGGW:*:CLN:*:*:London TC East:London AC Clacton:23000:*:^CLN

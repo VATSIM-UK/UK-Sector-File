@@ -1,17 +1,31 @@
-COPX:*:*:DITOB:EGSS:*:London AC Clacton:London TC East:*:22000:DITOB
-COPX:*:*:DITOB:EGSC:*:London AC Clacton:London TC East:*:22000:DITOB
-COPX:*:*:DITOB:EGGW:*:London AC Clacton:London TC East:*:22000:DITOB
+COPX:*:*:MEGEL:EGSS:*:London AC Clacton:London TC East:*:22000:MEGEL
+COPX:*:*:MEGEL:EGSC:*:London AC Clacton:London TC East:*:22000:MEGEL
+COPX:*:*:MEGEL:EGGW:*:London AC Clacton:London TC East:*:22000:MEGEL
 
-COPX:*:*:TEBRA:EGKK:*:London AC Clacton:London TC East:*:22000:TEBRA10
-COPX:*:*:ERING:EGKK:*:London AC Clacton:London TC East:*:22000:ERING10
+COPX:*:*:RINIS:EGSS:*:London AC Clacton:London TC East:*:22000:RINIS
+COPX:*:*:RINIS:EGSC:*:London AC Clacton:London TC East:*:22000:RINIS
+COPX:*:*:RINIS:EGGW:*:London AC Clacton:London TC East:*:22000:RINIS
 
-COPX:*:*:LOGAN:EGLL:*:London AC Clacton:London TC East:*:25000:LOGAN
-COPX:*:*:LOGAN:EGWU:*:London AC Clacton:London TC East:*:25000:LOGAN
-COPX:*:*:LOGAN:EGBJ:*:London AC Clacton:London TC East:*:25000:LOGAN
-COPX:*:*:LOGAN:EGDL:*:London AC Clacton:London TC East:*:25000:LOGAN
-COPX:*:*:LOGAN:EGVA:*:London AC Clacton:London TC East:*:25000:LOGAN
-COPX:*:*:LOGAN:EGVN:*:London AC Clacton:London TC East:*:25000:LOGAN
-COPX:*:*:LOGAN:EGTK:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:TOSVA:EGSS:*:London AC Clacton:London TC East:*:22000:TOSVA
+COPX:*:*:TOSVA:EGSC:*:London AC Clacton:London TC East:*:22000:TOSVA
+COPX:*:*:TOSVA:EGGW:*:London AC Clacton:London TC East:*:22000:TOSVA
+
+COPX:*:*:XAMAN:EGSS:*:London AC Clacton:London TC East:*:22000:XAMAN
+COPX:*:*:XAMAN:EGSC:*:London AC Clacton:London TC East:*:22000:XAMAN
+COPX:*:*:XAMAN:EGGW:*:London AC Clacton:London TC East:*:22000:XAMAN
+
+COPX:*:*:ARREK:EGKK:*:London AC Clacton:London TC East:*:22000:ARREK
+COPX:*:*:SUNUP:EGKK:*:London AC Clacton:London TC East:*:22000:SUNUP
+
+COPX:*:*:INLOD:EGLC:*:London AC Clacton:London TC East:*:22000:INLOD
+COPX:*:*:INLOD:EGKB:*:London AC Clacton:London TC East:*:22000:INLOD
+COPX:*:*:INLOD:EGTO:*:London AC Clacton:London TC East:*:22000:INLOD
+COPX:*:*:INLOD:EGMC:*:London AC Clacton:London TC East:*:22000:INLOD
+
+COPX:*:*:MOMIC:EGLC:*:London AC Clacton:London TC East:*:22000:MOMIC
+COPX:*:*:MOMIC:EGKB:*:London AC Clacton:London TC East:*:22000:MOMIC
+COPX:*:*:MOMIC:EGTO:*:London AC Clacton:London TC East:*:22000:MOMIC
+COPX:*:*:MOMIC:EGMC:*:London AC Clacton:London TC East:*:22000:MOMIC
 
 COPX:*:*:LOGAN:EGHI:*:London AC Clacton:London TC East:*:24000:LOGAN
 COPX:*:*:LOGAN:EGHH:*:London AC Clacton:London TC East:*:24000:LOGAN
@@ -21,3 +35,14 @@ COPX:*:*:LOGAN:EGLK:*:London AC Clacton:London TC East:*:24000:LOGAN
 COPX:*:*:LOGAN:EGTD:*:London AC Clacton:London TC East:*:24000:LOGAN
 COPX:*:*:LOGAN:EGTF:*:London AC Clacton:London TC East:*:24000:LOGAN
 COPX:*:*:LOGAN:EGVO:*:London AC Clacton:London TC East:*:24000:LOGAN
+
+COPX:*:*:LOGAN:EGLL:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:LOGAN:EGWU:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:LOGAN:EGBJ:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:LOGAN:EGDL:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:LOGAN:EGVA:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:LOGAN:EGVN:*:London AC Clacton:London TC East:*:25000:LOGAN
+COPX:*:*:LOGAN:EGTK:*:London AC Clacton:London TC East:*:25000:LOGAN
+
+;Withdrawn 2018/13 (old TIMBA1J via ERING)
+COPX:*:*:ERING:EGKK:*:London AC Clacton:London TC East:*:22000:ERING10
