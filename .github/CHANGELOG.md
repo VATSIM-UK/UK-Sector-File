@@ -1,3 +1,6 @@
+# Changes from release 2019/02 to 2019/03
+AIRAC (1903) - 1903 Frequency updates - thanks to @1adamf (Adam Farquharson)
+
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
 2. AIRAC (1810) -  L9 between Compton (CPT) and Strumble (STU) designated to Q63 - thanks to @indianbhaji (Eric Liu)
