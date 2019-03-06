@@ -42,9 +42,11 @@
 #define smrCompassbase 16777215
 #define smrConstruction 150
 #define smrDarkApron 3026478
+#define smrGDairfield 1332761
 #define smrGDapron 10066329
 #define smrGDbuilding 9142113
 #define smrGDgrass 7058795
+#define smrGDrunway 5329233
 #define smrGDtaxiway 9474192
 #define smrGPgrass 3689771
 #define smrGPline 7829248

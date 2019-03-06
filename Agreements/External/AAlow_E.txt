@@ -1,2 +1,16 @@
+FIR_COPX:EHAM:*:ABNED:*:*:EHAA low:London AC Clacton:24000:*:ABNED
+FIR_COPX:EHAM:*:MIMVA:*:*:EHAA low:London AC Clacton:24000:*:MIMVA
+FIR_COPX:EHAM:*:KOLAG:*:*:EHAA low:London AC Clacton:24000:*:KOLAG
+
+FIR_COPX:EHAM:*:NOGRO:EGSS:*:EHAA low:London AC Clacton:24000:*:NOGRO
+FIR_COPX:EHAM:*:NOGRO:EGSC:*:EHAA low:London AC Clacton:24000:*:NOGRO
+FIR_COPX:EHAM:*:NOGRO:EGGW:*:EHAA low:London AC Clacton:24000:*:NOGRO
+FIR_COPX:EHAM:*:NOGRO:EGSH:*:EHAA low:London AC Clacton:24000:*:NOGRO
+
+FIR_COPX:*:*:ABNED:*:*:EHAA low:London AC Clacton:24000:*:ABNED
+FIR_COPX:*:*:MIMVA:*:*:EHAA low:London AC Clacton:24000:*:MIMVA
+FIR_COPX:*:*:KOLAG:*:*:EHAA low:London AC Clacton:24000:*:KOLAG
+
+;Withdrawn 2018/13
 FIR_COPX:EHAM:*:GORLO:*:*:EHAA low:London AC Clacton:24000:*:GORLO
 FIR_COPX:EHAM:*:REFSO:*:*:EHAA low:London AC Clacton:24000:*:REFSO
