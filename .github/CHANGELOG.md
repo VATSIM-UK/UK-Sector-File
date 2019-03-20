@@ -1,5 +1,6 @@
 # Changes from release 2019/03 to 2019/04
-1. Enhancement - Newquay SMR updated to include more accurate ground information - thanks to @danielbutton (Daniel Button)
+1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
+2. Enhancement - Newquay SMR updated to include more accurate ground information - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2018/13 to 2019/01
 1. Bug - Added missing fix SITKU - thanks to @hsugden (Harry Sugden)
