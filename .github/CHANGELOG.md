@@ -1,3 +1,6 @@
+# Changes from release 2019/03 to 2019/04
+1. Enhancement - Newquay SMR updated to include more accurate ground information - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2018/13 to 2019/01
 1. Bug - Added missing fix SITKU - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed L9 airway to start at KONAN - thanks to @hsugden (Harry Sugden)
