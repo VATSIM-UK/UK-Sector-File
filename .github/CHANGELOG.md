@@ -1,6 +1,6 @@
 # Changes from release 1019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
-
+2. Enhancement - EGKK Pier 5 Stands numbers 555, 558 ,559 ,557 ,560 ,561 ,562 ,563 ,564 ,565 Renamed - thanks to @Kye-Taylor (Kye Taylor)
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
 2. AIRAC (1902) - Updated frequency list - thanks to @sonnynixon1507 (Sonny Nixon)
