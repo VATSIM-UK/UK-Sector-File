@@ -1,5 +1,6 @@
-# Changes from release 1019/03 to 2019/04
+# Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
+X. Enhancement - Added climbing/descending arrows to agreements from TC North sectors - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
