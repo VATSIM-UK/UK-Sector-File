@@ -1,6 +1,23 @@
-# Changes from release 2019/03 to 2019/04
+# Changes from release 1019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
-2. Enhancement - Newquay SMR updated to include more accurate ground information - thanks to @danielbutton (Daniel Button)
+2. Enhancement - Newquay SMR updated to include extra details - thanks to @danielbutton (Daniel Button)
+
+# Changes from release 2019/02 to 2019/03
+1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
+2. AIRAC (1902) - Updated frequency list - thanks to @sonnynixon1507 (Sonny Nixon)
+3. Bug - Archive/remove EGKK SAM and KENET SIDs - thanks to @artturnip (Adam Turner)
+4. Enhancement - Add EGTE VRPs - thanks to @artturnip (Adam Turner)
+5. Enhancement - Add EGHE VRPs - thanks to @artturnip (Adam Turner)
+6. Bug - Removed old EGGD VRP's and added the Clifton Suspension Bridge - thanks to @1adamf (Adam Farquharson)
+7. AIRAC (1903) - UL975, UP18, UP59, L7, L46, L602, N97, P58, Y70 airways rerouted and N44, N66, N110 airways created - thanks to @indianbhaji (Eric Liu)
+8. AIRAC (1903) - Updated EGPK SIDs - thanks to @cpawley (Chris Pawley)
+9. AIRAC (1903) - Updated EGPK STARs - thanks to @cpawley (Chris Pawley)
+10. Enhancement - Added Southend Director functionality - thanks to @cpawley (Chris Pawley)
+# Changes from release 2019/01 to 2019/02
+1. Bug EGSS SMR Update - Stands 65L/65R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
+2. Bug - EGSS SMR Update - Stands 45L/45R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
+3. Enhancement - Improve functionality of auto handoff between PH INT and PH FIN - thanks to @inventor02 (George Peppard)
+4. AIRAC (1902) - EGAA and EGAC ATIS frequencies updated - thanks to @NickMarinov (Nick Marinov)
 
 # Changes from release 2018/13 to 2019/01
 1. Bug - Added missing fix SITKU - thanks to @hsugden (Harry Sugden)
