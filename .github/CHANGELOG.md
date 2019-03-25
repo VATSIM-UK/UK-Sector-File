@@ -3,6 +3,7 @@
 2. AIRAC (1904) - EGAE frequency update - thanks to @inventor02 (George Peppard)
 3. AIRAC (1904) - Various danger zones redesignated - thanks to @inventor02 (George Peppard)
 4. Bug - Updated EGPD Meldrum TV Mast VRP coordinates - thanks to @hcphoon01 (Harry Cameron)
+5. AIRAC (1904) - Updated EGNX and EGPK frequencies - thanks to @sonnynixon1507 (Sonny Nixon)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
@@ -15,6 +16,7 @@
 8. AIRAC (1903) - Updated EGPK SIDs - thanks to @cpawley (Chris Pawley)
 9. AIRAC (1903) - Updated EGPK STARs - thanks to @cpawley (Chris Pawley)
 10. Enhancement - Added Southend Director functionality - thanks to @cpawley (Chris Pawley)
+
 # Changes from release 2019/01 to 2019/02
 1. Bug EGSS SMR Update - Stands 65L/65R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
 2. Bug - EGSS SMR Update - Stands 45L/45R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
