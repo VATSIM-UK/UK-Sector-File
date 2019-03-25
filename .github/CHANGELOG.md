@@ -7,6 +7,7 @@
 6. AIRAC (1904) - update EGKH frequency - thanks to @aeroniemi (Alex Beavil)
 7. Enhancement - Added Gander Oceanic frequency and ownership - thanks to @hsugden (Harry Sugden)
 8. Bug - Added agreements via INKOB/SOSIM for EGAA/AC outbounds Rathlin->AC North - thanks to @hsugden (Harry Sugden)
+9. Enhancement - EGKK Pier 5 Stands numbers 555, 558 ,559 ,557 ,560 ,561 ,562 ,563 ,564 ,565 Renamed - thanks to @Kye-Taylor (Kye Taylor)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
