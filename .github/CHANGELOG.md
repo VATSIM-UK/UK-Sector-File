@@ -6,6 +6,7 @@
 5. AIRAC (1904) - Updated EGNX and EGPK frequencies - thanks to @sonnynixon1507 (Sonny Nixon)
 6. AIRAC (1904) - update EGKH frequency - thanks to @aeroniemi (Alex Beavil)
 7. Enhancement - Added Gander Oceanic frequency and ownership - thanks to @hsugden (Harry Sugden)
+8. Bug - Added agreements via INKOB/SOSIM for EGAA/AC outbounds Rathlin->AC North - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
