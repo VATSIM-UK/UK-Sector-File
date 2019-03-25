@@ -1,5 +1,6 @@
-# Changes from release 1019/03 to 2019/04
+# Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
+2. AIRAC (1904) - Update EGLK SMR - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
