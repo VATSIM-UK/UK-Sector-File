@@ -4,6 +4,7 @@
 3. AIRAC (1904) - Various danger zones redesignated - thanks to @inventor02 (George Peppard)
 4. Bug - Updated EGPD Meldrum TV Mast VRP coordinates - thanks to @hcphoon01 (Harry Cameron)
 5. AIRAC (1904) - Updated EGNX and EGPK frequencies - thanks to @sonnynixon1507 (Sonny Nixon)
+6. AIRAC (1904) - update EGKH frequency - thanks to @aeroniemi (Alex Beavil)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
