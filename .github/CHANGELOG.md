@@ -12,6 +12,7 @@
 11. AIRAC (1904) - Update EGLK SMR - thanks to @epicdemon99 (Nathaniel Leff)
 12. AIRAC (1904) - Removal of DET2Z trial RNAV SID - thanks to @epicdemon99 (Nathaniel Leff)
 13. AIRAC (1904) - Various airways redesignated as RNAV - thanks to @hsugden (Harry Sugden)
+14. Enhancement - Newquay SMR updated to include extra details - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
