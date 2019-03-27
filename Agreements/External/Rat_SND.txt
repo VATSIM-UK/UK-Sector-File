@@ -1,0 +1,5 @@
+FIR_COPX:EGPH:*:NIMAT:*:*:Rathlin:Shannon D (245-660):31000:*:NIMAT
+FIR_COPX:EGPF:*:NIMAT:*:*:Rathlin:Shannon D (245-660):31000:*:NIMAT
+FIR_COPX:EGPK:*:NIMAT:*:*:Rathlin:Shannon D (245-660):31000:*:NIMAT
+
+FIR_COPX:*:*:ERNAN:EIDW:*:Rathlin:Shannon D (245-660):*:29000:ERNAN
