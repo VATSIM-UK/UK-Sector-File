@@ -14,6 +14,7 @@
 13. AIRAC (1904) - Various airways redesignated as RNAV - thanks to @hsugden (Harry Sugden)
 14. Enhancement - Newquay SMR updated to include extra details - thanks to @danielbutton (Daniel Button)
 15. AIRAC (1903) - Added EGPK RNAV approach fixes - thanks to @hsugden (Harry Sugden)
+X. Enhancement - Updated EIDW/EISN sectorisation - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
