@@ -18,6 +18,7 @@
 17. AIRAC (1903) - updated EGLL SMR to remove construction and add future stands - thanks to @epicdemon99 (Nathaniel Leff)
 18. AIRAC (1904) - Prestwick (EGPK) runway track updated - thanks to @epicdemon99 (Nathaniel Leff)
 19. Enhancement - Thruxton SMR added - thanks to @xitstomx (Tom Sirett)
+20. AIRAC (1903) - 1903 Frequency updates - thanks to @1adamf (Adam Farquharson)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
