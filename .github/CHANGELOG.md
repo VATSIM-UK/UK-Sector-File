@@ -1,6 +1,22 @@
-# Changes from release 1019/03 to 2019/04
+# Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
-2. AIRAC (1904) - Prestwick (EGPK) runway track updated - thanks to @epicdemon99 (Nathaniel Leff)
+2. AIRAC (1904) - EGAE frequency update - thanks to @inventor02 (George Peppard)
+3. AIRAC (1904) - Various danger zones redesignated - thanks to @inventor02 (George Peppard)
+4. Bug - Updated EGPD Meldrum TV Mast VRP coordinates - thanks to @hcphoon01 (Harry Cameron)
+5. AIRAC (1904) - Updated EGNX and EGPK frequencies - thanks to @sonnynixon1507 (Sonny Nixon)
+6. AIRAC (1904) - update EGKH frequency - thanks to @aeroniemi (Alex Beavil)
+7. Enhancement - Added Gander Oceanic frequency and ownership - thanks to @hsugden (Harry Sugden)
+8. Bug - Added agreements via INKOB/SOSIM for EGAA/AC outbounds Rathlin->AC North - thanks to @hsugden (Harry Sugden)
+9. Enhancement - EGKK Pier 5 Stands numbers 555, 558 ,559 ,557 ,560 ,561 ,562 ,563 ,564 ,565 Renamed - thanks to @Kye-Taylor (Kye Taylor)
+10. AIRAC (1903) - Gatwick (EGKK) added Z1 - thanks to @kye-taylor (Kye Taylor)
+11. AIRAC (1904) - Update EGLK SMR - thanks to @epicdemon99 (Nathaniel Leff)
+12. AIRAC (1904) - Removal of DET2Z trial RNAV SID - thanks to @epicdemon99 (Nathaniel Leff)
+13. AIRAC (1904) - Various airways redesignated as RNAV - thanks to @hsugden (Harry Sugden)
+14. Enhancement - Newquay SMR updated to include extra details - thanks to @danielbutton (Daniel Button)
+15. AIRAC (1903) - Added EGPK RNAV approach fixes - thanks to @hsugden (Harry Sugden)
+16. AIRAC (1904) - Added new EGLF VRPs - thanks to @epicdemon99 (Nathaniel Leff)
+17. AIRAC (1903) - updated EGLL SMR to remove construction and add future stands - thanks to @epicdemon99 (Nathaniel Leff)
+18. AIRAC (1904) - Prestwick (EGPK) runway track updated - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/02 to 2019/03
 1. Bug - Update ENSV CTR Frequencies - thanks to @trevorhannant (Trevor Hannant)
@@ -13,6 +29,7 @@
 8. AIRAC (1903) - Updated EGPK SIDs - thanks to @cpawley (Chris Pawley)
 9. AIRAC (1903) - Updated EGPK STARs - thanks to @cpawley (Chris Pawley)
 10. Enhancement - Added Southend Director functionality - thanks to @cpawley (Chris Pawley)
+
 # Changes from release 2019/01 to 2019/02
 1. Bug EGSS SMR Update - Stands 65L/65R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
 2. Bug - EGSS SMR Update - Stands 45L/45R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
