@@ -4,9 +4,9 @@ DISPLAY:Hebrides:Only PETWR 1:Only PETWR 2
 DISPLAY:Montrose:Only PETWR 1:Only PETWR 2
 
 CIRCLE_SECTORLINE:Only PEAPP:EGPE:5
-DISPLAY:Moray:Scottish AC East:Only PEAPP
-DISPLAY:Hebrides:Scottish AC East:Only PEAPP
-DISPLAY:Montrose:Scottish AC East:Only PEAPP
+DISPLAY:Moray:Moray:Only PEAPP
+DISPLAY:Hebrides:Hebrides:Only PEAPP
+DISPLAY:Montrose:Montrose:Only PEAPP
 
 CIRCLE_SECTORLINE:PETWR:EGPE:2.5
 DISPLAY:PEAPP:PEAPP:PETWR
