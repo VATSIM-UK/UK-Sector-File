@@ -1,4 +1,5 @@
 SECTOR:Hebrides:0:66000
 OWNER:SEH:SN:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SEH:SN:SE:S
 BORDER:Heb_EGGX:Heb_BIRD Del Inner:Heb_BIRD:Heb_Mor 1:Heb_Mor Low:Heb_Mor 2:Mon_Heb:Cen_Heb

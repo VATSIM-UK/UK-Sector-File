@@ -1,4 +1,5 @@
 SECTOR:Central:0:66000
 OWNER:SC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
 BORDER:Wes-Cen_EGGX:Cen_EISN:Cen_RatW:Cen_DCS-S:Cen_DCS-N:Cen_Mon:Cen_Heb

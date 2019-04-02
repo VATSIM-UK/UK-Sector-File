@@ -1,14 +1,17 @@
 SECTOR:Tay E1 (DB-255):0:25500
 OWNER:SS:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
 BORDER:Gal_TayE1:Mon_DCS-N Area E1 Inner:Mon_Wes-Cen 2
 
 SECTOR:Tay E2a (DB-255):0:25500
 OWNER:SS:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
 BORDER:Mon_DCS-N Area E2a Inner:Tal_TayE2a
 
 SECTOR:Tay E2b (DB-255):0:25500
 OWNER:SS:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
 BORDER:Mon_DCS-N Area E2b Inner:Mon_DCS-S Area E2 Inner:Tal_TayE2b:TayE2b
