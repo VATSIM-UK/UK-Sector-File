@@ -1,5 +1,4 @@
 SECTOR:Central 2 (DB-255):0:25000
 OWNER:SC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
-ALTOWNER:Observing SCO_WD_CTR:SC:SW:O:SM:SWD:S
 BORDER:Cen_DCS-N:Mon_Wes-Cen 1:Mon_Wes-Cen 2:Wes-Cen_Gal:Wes-Cen_Ant:DCS-S_RatW:Cen_DCS-S
