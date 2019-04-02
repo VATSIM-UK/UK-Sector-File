@@ -1,5 +1,5 @@
 SECTOR:Tyne:0:66000
-OWNER:SET:SE:S
-ALTOWNER:Observing Scottish FIR:SET:O:SM:SE:S
-ALTOWNER:Observing SCO_E_CTR:SET:O:SM:SE:S
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing SCO_E_CTR:SS:O:SM:SE:S
 BORDER:Tyne_Montrose:Tyne_Hum:Tyne_Hum DK Del:Tyne_EKDK DB-195 Border:Mor_Tyne DK Del:Mor_Tyne

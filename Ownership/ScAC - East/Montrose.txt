@@ -1,29 +1,29 @@
 SECTOR:Montrose:0:66000
-OWNER:SEW:SE:S
-ALTOWNER:Observing Scottish FIR:O:SM:SEW:S:S
-ALTOWNER:Observing SCO_E_CTR:SEW:O:SM:SE:S
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing SCO_E_CTR:SS:O:SM:SE:S
 BORDER:Cen_Mon:Mon_Heb:Mor_Mon:Tyne_Montrose:Hum_Mon:SELN2:SELN1:Mon_S29:Mon Area B Inner:Mon Area C Inner:Mon Area D Inner:Mon EDC:Mon_DCS-N Area E2b Inner:Mon_DCS-N Area E2a Inner:Mon_Gal:Mon_DCS-N Area E1 Inner:Mon_Wes-Cen 1
 
 SECTOR:Montrose Area B (285-660):28500:66000
-OWNER:SEW:SE:S
-ALTOWNER:Observing Scottish FIR:O:SM:SEW:S:S
-ALTOWNER:Observing SCO_E_CTR:SEW:O:SM:SE:S
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing SCO_E_CTR:SS:O:SM:SE:S
 BORDER:DCS-S 285_Mon Area B:Mon_Tay B-C:Mon Area B Inner:Mon_S29 Del
 
 SECTOR:Montrose Area C (225-660):22500:66000
-OWNER:SEW:SE:S
-ALTOWNER:Observing Scottish FIR:O:SM:SEW:S:S
-ALTOWNER:Observing SCO_E_CTR:SEW:O:SM:SE:S
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing SCO_E_CTR:SS:O:SM:SE:S
 BORDER:Mon_Tay B-C:Mon Area C Inner:Mon_Tay C-D:Mon Area C Outer:DCS-S 285_Mon Area C
 
 SECTOR:Montrose Area D (165-660):16500:66000
-OWNER:SEW:SE:S
-ALTOWNER:Observing Scottish FIR:O:SM:SEW:S:S
-ALTOWNER:Observing SCO_E_CTR:SEW:O:SM:SE:S
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing SCO_E_CTR:SS:O:SM:SE:S
 BORDER:Mon_Tay C-D:Mon Area D Inner:Mon Area D Outer
 
 SECTOR:Montrose BINTI Triangle (225-285):22500:28500
-OWNER:SEW:SE:S
-ALTOWNER:Observing Scottish FIR:O:SM:SEW:S:S
-ALTOWNER:Observing SCO_E_CTR:SEW:O:SM:SE:S
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing SCO_E_CTR:SS:O:SM:SE:S
 BORDER:DCS-S 285_Mon Area C:DCS-S_TILNI Corridor Tri:DCS-S_Mon Tri B
