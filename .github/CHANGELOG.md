@@ -1,3 +1,8 @@
+# Changes from release 2019/03 to 2019/XX
+X. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
+X. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
+X. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
 2. AIRAC (1904) - EGAE frequency update - thanks to @inventor02 (George Peppard)
