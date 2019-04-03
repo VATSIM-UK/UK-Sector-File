@@ -12,4 +12,4 @@ COPX:EGGP:*:POL:*:*:Scottish PC East:Scottish PC West:19000:*:POL
 COPX:EGNR:*:POL:*:*:Scottish PC East:Scottish PC West:19000:*:POL
 
 COPX:EGNT:*:GASKO:*:*:Scottish PC East:Scottish PC West:21000:*:GASKO
-COPX:EGNV:*:GASKO:*:*:Scottish PC East:Scottish PC West:19000:*:GASKO
+COPX:EGNV:*:GASKO:*:*:Scottish PC East:Scottish PC West:19000:*:^GASKO
