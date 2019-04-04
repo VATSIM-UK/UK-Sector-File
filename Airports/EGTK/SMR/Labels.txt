@@ -21,7 +21,8 @@
 "20" N051.49.58.600 W001.19.02.940 standHold
 "21" N051.50.03.220 W001.18.58.240 standHold
 ;Holding Points 
-"A1" N051.49.48.150 W001.19.13.841 standHold                                  
+"A1" N051.49.48.150 W001.19.13.841 standHold
+"AX" N051.49.48.870 W001.19.06.269 standHold                                        
 "A3" N051.49.53.930 W001.18.56.181 standHold                                         
 "A2" N051.49.48.580 W001.18.56.619 standHold
 "J" N051.49.52.530 W001.18.53.431 standHold

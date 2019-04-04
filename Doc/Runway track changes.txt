@@ -26,4 +26,3 @@ Gloucestershire     EGBJ    1811    Yes                     No                  
 Newquay             EGHQ    1811    Yes                     Yes - need updating     No
 Carlisle            EGNC    1811    Yes                     No                      No
 Belfast/Aldergrove  EGAA    1813    Yes                     Yes - need updating     No
-Prestwick           EGPK    1904    Yes                     No                      No
