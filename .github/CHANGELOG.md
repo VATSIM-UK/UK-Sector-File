@@ -34,7 +34,6 @@ x. Bug - Update EGFF VRPs; remove EGGD VRPs from EGFF - thanks to @artturnip (Ad
 8. AIRAC (1903) - Updated EGPK SIDs - thanks to @cpawley (Chris Pawley)
 9. AIRAC (1903) - Updated EGPK STARs - thanks to @cpawley (Chris Pawley)
 10. Enhancement - Added Southend Director functionality - thanks to @cpawley (Chris Pawley)
->>>>>>> parent of 924a1d2... Merge pull request #2 from artturnip/revert-1-master
 
 # Changes from release 2019/01 to 2019/02
 1. Bug EGSS SMR Update - Stands 65L/65R switched around - thanks to @sonnynixon1507 (Sonny Nixon)
