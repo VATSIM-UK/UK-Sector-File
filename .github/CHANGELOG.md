@@ -1,3 +1,6 @@
+# Changes from release 2019/04 to 2019/XX
+X. AIRAC (1905) - Updated Danger Area EG D403 - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
 2. AIRAC (1904) - EGAE frequency update - thanks to @inventor02 (George Peppard)
