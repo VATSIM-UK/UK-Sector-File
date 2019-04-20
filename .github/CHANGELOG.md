@@ -1,3 +1,6 @@
+# Changes from release 2019/04 to 2019/05
+1. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton17 (Daniel Button)
+
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
 2. AIRAC (1904) - EGAE frequency update - thanks to @inventor02 (George Peppard)
