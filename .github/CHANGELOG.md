@@ -1,5 +1,13 @@
-# Changes from release 2019/04 to 2019/XX
-X. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden (Harry Sugden)
+# Changes from release 2019/04 to 2019/05
+1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
+2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
+3. AIRAC (1905) - Updated EGPH frequencies - thanks to @danielbutton (Daniel Button)
+4. Bug - Remove Elksham VRP at EGGD - thanks to @artturnip (Adam Turner)
+5. AIRAC (1905) - Update EGXC squawk range - thanks to @artturnip (Adam Turner)
+6. Bug - Corrects Birmingham squawk range to valid range - thanks to @cbyworth (Chad Byworth)
+7. Enhancement - Format runway definitions so they are aligned - thanks to @artturip (Adam Turner)
+8. AIRAC (1904) - EGD323 updates - thanks to @inventor02 (George Peppard)
+9. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
