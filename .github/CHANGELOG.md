@@ -5,6 +5,7 @@
 4. Bug - Remove Elksham VRP at EGGD - thanks to @artturnip (Adam Turner)
 5. AIRAC (1905) - Update EGXC squawk range - thanks to @artturnip (Adam Turner)
 6. Bug - Corrects Birmingham squawk range to valid range - thanks to @cbyworth (Chad Byworth)
+7. Enhancement - Format runway definitions so they are aligned - thanks to @artturip (Adam Turner)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
