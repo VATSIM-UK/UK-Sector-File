@@ -2,6 +2,7 @@
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
 2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
 3. AIRAC (1905) - Updated EGPH frequencies - thanks to @danielbutton (Daniel Button)
+4. Bug - Remove Elksham VRP at EGGD - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
