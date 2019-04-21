@@ -10,6 +10,7 @@
 9. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden (Harry Sugden)
 10. AIRAC (1905) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
 11. AIRAC (1905) - Upper airways to RNAV - thanks to @artturnip (Adam Turner)
+12. AIRAC (1905) - Heathrow (EGLL) stands 517 and 581 removed (archived in red) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
