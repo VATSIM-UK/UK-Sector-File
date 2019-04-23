@@ -17,6 +17,7 @@
 16. Bug - Update EGFF VRPs; remove EGGD VRPs from EGFF - thanks to @artturnip (Adam Turner)
 17. Bug - Add and correct EGHH VRPs - thanks to @artturnip (Adam Turner)
 18. Bug - Remove unncessary EGPN VRPs - thanks to @artturnip (Adam Turner)
+19. AIRAC (1905) - Updated Hawarden (EGNR) VRPs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
