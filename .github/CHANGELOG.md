@@ -1,5 +1,21 @@
-# Changes from release 2019/03 to 2019/xx
-x. Bug - Add and correct EGHH VRPs - thanks to @artturnip (Adam Turner)
+# Changes from release 2019/04 to 2019/05
+1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
+2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
+3. AIRAC (1905) - Updated EGPH frequencies - thanks to @danielbutton (Daniel Button)
+4. Bug - Remove Elksham VRP at EGGD - thanks to @artturnip (Adam Turner)
+5. AIRAC (1905) - Update EGXC squawk range - thanks to @artturnip (Adam Turner)
+6. Bug - Corrects Birmingham squawk range to valid range - thanks to @cbyworth (Chad Byworth)
+7. Enhancement - Format runway definitions so they are aligned - thanks to @artturip (Adam Turner)
+8. AIRAC (1904) - EGD323 updates - thanks to @inventor02 (George Peppard)
+9. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden (Harry Sugden)
+10. AIRAC (1905) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
+11. AIRAC (1905) - Upper airways to RNAV - thanks to @artturnip (Adam Turner)
+12. AIRAC (1905) - Heathrow (EGLL) stands 517 and 581 removed (archived in red) - thanks to @hsugden (Harry Sugden)
+13. AIRAC (1813) - Updated Inverness (EGPE) runway (11/29) track - thanks to @hsugden (Harry Sugden)
+14. Bug - Fixed EGLL stand errors - thanks to @epicdemon99 (Nathaniel Leff)
+15. AIRAC (1905) - Biggin (EGKB) holding points E and F3 added - thanks to @epicdemon99 (Nathaniel Leff)
+16. Bug - Update EGFF VRPs; remove EGGD VRPs from EGFF - thanks to @artturnip (Adam Turner)
+17. Bug - Add and correct EGHH VRPs - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
