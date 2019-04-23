@@ -13,6 +13,7 @@
 12. AIRAC (1905) - Heathrow (EGLL) stands 517 and 581 removed (archived in red) - thanks to @hsugden (Harry Sugden)
 13. AIRAC (1813) - Updated Inverness (EGPE) runway (11/29) track - thanks to @hsugden (Harry Sugden)
 14. Bug - Fixed EGLL stand errors - thanks to @epicdemon99 (Nathaniel Leff)
+15. AIRAC (1905) - Biggin (EGKB) holding points E and F3 added - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
