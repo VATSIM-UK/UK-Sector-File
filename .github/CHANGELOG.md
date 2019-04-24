@@ -19,6 +19,7 @@
 18. Bug - Remove unncessary EGPN VRPs - thanks to @artturnip (Adam Turner)
 19. AIRAC (1905) - Updated Hawarden (EGNR) VRPs - thanks to @hsugden (Harry Sugden)
 20. Enhancement - Updated DW arrival agreement, now 260 NELBO Rathlin->Antrim - thanks to @gdonohoe (Gregg Donohoe)
+21. AIRAC (1905) - Updated Danger Area EG D403 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
