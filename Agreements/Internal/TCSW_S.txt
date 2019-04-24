@@ -1,5 +1,5 @@
-COPX:EGHI:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:^OCK
-COPX:EGHH:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:^OCK
+COPX:EGHI:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
+COPX:EGHH:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
 
 COPX:EGLL:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
 COPX:EGKK:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM

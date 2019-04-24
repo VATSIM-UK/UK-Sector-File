@@ -1,10 +1,10 @@
 COPX:EGLL:*:DVR:*:*:London TC SE:London AC Dover:18000:*:^DVR
 COPX:EGKK:*:DVR:*:*:London TC SE:London AC Dover:18000:*:^DVR
 
-COPX:EGSS:*:DVR:*:*:London TC SE:London AC Dover:15000:*:^DVR
-COPX:EGSC:*:DVR:*:*:London TC SE:London AC Dover:15000:*:^DVR
-COPX:EGGW:*:DVR:*:*:London TC SE:London AC Dover:15000:*:^DVR
-COPX:EGWU:*:DVR:*:*:London TC SE:London AC Dover:15000:*:^DVR
+COPX:EGSS:*:DVR:*:*:London TC SE:London AC Dover:17000:*:^DVR
+COPX:EGSC:*:DVR:*:*:London TC SE:London AC Dover:17000:*:^DVR
+COPX:EGGW:*:DVR:*:*:London TC SE:London AC Dover:17000:*:^DVR
+COPX:EGWU:*:DVR:*:*:London TC SE:London AC Dover:17000:*:^DVR
 
 COPX:EGLC:*:DVR:*:*:London TC SE:London AC Dover:17000:*:^DVR
 COPX:EGKB:*:DVR:*:*:London TC SE:London AC Dover:17000:*:^DVR
