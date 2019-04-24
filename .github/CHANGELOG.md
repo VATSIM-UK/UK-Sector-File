@@ -30,6 +30,7 @@
 29. Bug - Updated sectors and ownership for ENSV_N/ENSV split - thanks to @hsugden (Harry Sugden)
 30. Enhancement - Updated Reykjavik sectorisation (BIRD_X) - thanks to @hsugden (Harry Sugden)
 31. Enhancement - Adjustments to Gatwick (EGKK) SMR (stands, Z1, grass) - thanks to @hsugden (Harry Sugden)
+32. AIRAC (1905) - Updated Danger Area EG D406 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
