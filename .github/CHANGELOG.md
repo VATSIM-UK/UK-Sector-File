@@ -28,6 +28,7 @@
 27. Bug - Moved SSFIN sectorline to appropriate file - thanks to @hsugden (Harry Sugden)
 28. Bug - Corrected SSAPP line display conditions to show when using ALTOWNERSHIP - thanks to @hsugden (Harry Sugden)
 29. Bug - Updated sectors and ownership for ENSV_N/ENSV split - thanks to @hsugden (Harry Sugden)
+30. Enhancement - Updated Reykjavik sectorisation (BIRD_X) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
