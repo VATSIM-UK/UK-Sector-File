@@ -23,6 +23,7 @@
 22. AIRAC (1905) - Updated Danger Area EG D512 - thanks to @hsugden (Harry Sugden)
 23. AIRAC (1905) - Updated Danger Area EG D513 - thanks to @hsugden (Harry Sugden)
 24. AIRAC (1905) - Luton (EGGW) hold F1 redesginated J1 - thanks to @hsugden (Harry Sugden)
+25. Bug - Corrected line display issues for JJCTR and London S6/LAC Worthing/LFRR - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
