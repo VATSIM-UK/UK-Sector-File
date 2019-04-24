@@ -25,6 +25,8 @@
 24. AIRAC (1905) - Luton (EGGW) hold F1 redesginated J1 - thanks to @hsugden (Harry Sugden)
 25. Bug - Corrected line display issues for JJCTR and London S6/LAC Worthing/LFRR - thanks to @hsugden (Harry Sugden)
 26. Enhancement - Added climbing/descending arrows to agreements from AC West sectors - thanks to @hsugden (Harry Sugden)
+27. Bug - Moved SSFIN sectorline to appropriate file - thanks to @hsugden (Harry Sugden)
+28. Bug - Corrected SSAPP line display conditions to show when using ALTOWNERSHIP - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
