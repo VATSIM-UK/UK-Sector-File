@@ -1,0 +1,5 @@
+FIR_COPX:*:*:LIPGO:EGAA:*:London S5:Shannon East (245-660):*:32000:LIPGO
+FIR_COPX:*:*:LIPGO:EGAC:*:London S5:Shannon East (245-660):*:32000:LIPGO
+FIR_COPX:*:*:LIPGO:EGAE:*:London S5:Shannon East (245-660):*:32000:LIPGO
+
+FIR_COPX:*:*:LIPGO:*:*:London S5:Shannon East (245-660):*:*:BADSI

@@ -1,0 +1,2 @@
+FIR_COPX:*:*:LIFFY:*:*:London S7:Shannon East (245-660):*:*:GINIS
+FIR_COPX:*:*:BAGSO:*:*:London S7:Shannon East (245-660):*:*:BAGSO

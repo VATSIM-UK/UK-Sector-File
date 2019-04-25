@@ -1,27 +1,17 @@
+FIR_COPX:*:*:SLANY:EIWF:*:London S8:Shannon East (075-245):*:18000:SLANY
+FIR_COPX:*:*:EVRIN:EIWF:*:London S8:Shannon East (075-245):*:18000:EVRIN
+FIR_COPX:*:*:BANBA:EIWF:*:London S8:Shannon East (075-245):*:18000:BANBA
+FIR_COPX:*:*:BAKUR:EIWF:*:London S8:Shannon East (075-245):*:18000:BAKUR
+
 FIR_COPX:*:*:EVRIN:EIDW:*:London S8:Shannon East (245-660):*:28000:EVRIN10
 FIR_COPX:*:*:BANBA:EICK:*:London S8:Shannon East (245-660):*:30000:BANBA
 
-FIR_COPX:*:*:LIPGO:EGAA:*:London S8:Shannon East (245-660):*:32000:LIPGO
-FIR_COPX:*:*:LIPGO:EGAC:*:London S8:Shannon East (245-660):*:32000:LIPGO
-FIR_COPX:*:*:LIPGO:EGAE:*:London S8:Shannon East (245-660):*:32000:LIPGO
-FIR_COPX:*:*:EVRIN:EGAA:*:London S8:Shannon East (245-660):*:32000:EVRIN
-FIR_COPX:*:*:EVRIN:EGAC:*:London S8:Shannon East (245-660):*:32000:EVRIN
-FIR_COPX:*:*:EVRIN:EGAE:*:London S8:Shannon East (245-660):*:32000:EVRIN
 FIR_COPX:*:*:VATRY:EGAA:*:London S8:Shannon East (245-660):*:32000:VATRY
 FIR_COPX:*:*:VATRY:EGAC:*:London S8:Shannon East (245-660):*:32000:VATRY
 FIR_COPX:*:*:VATRY:EGAE:*:London S8:Shannon East (245-660):*:32000:VATRY
 
-FIR_COPX:*:*:GAPLI:*:*:London S9:Shannon South (245-660):*:*:GAPLI
-FIR_COPX:*:*:LULOX:*:*:London S9:Shannon South (245-660):*:*:LULOX
-FIR_COPX:*:*:LESLU:*:*:London S9:Shannon East (245-660):*:*:LESLU
-FIR_COPX:*:*:LEDGO:*:*:London S9:Shannon East (245-660):*:*:LEDGO
-FIR_COPX:*:*:MOPAT:*:*:London S9:Shannon East (245-660):*:*:MOPAT20
-FIR_COPX:*:*:NORLA:*:*:London S9:Shannon East (245-660):*:*:NORLA
 FIR_COPX:*:*:EVRIN:*:*:London S8:Shannon East (245-660):*:*:EVRIN20
 FIR_COPX:*:*:BANBA:*:*:London S8:Shannon East (245-660):*:*:BANBA5
 FIR_COPX:*:*:SLANY:*:*:London S8:Shannon East (245-660):*:*:SLANY
 FIR_COPX:*:*:BAKUR:*:*:London S8:Shannon East (245-660):*:*:BAKUR
 FIR_COPX:*:*:VATRY:*:*:London S8:Shannon East (245-660):*:*:VATRY
-FIR_COPX:*:*:LIPGO:*:*:London S8:Shannon East (245-660):*:*:BADSI
-FIR_COPX:*:*:LIFFY:*:*:London S8:Shannon East (245-660):*:*:GINIS
-FIR_COPX:*:*:BAGSO:*:*:London S7:Shannon East (245-660):*:*:BAGSO

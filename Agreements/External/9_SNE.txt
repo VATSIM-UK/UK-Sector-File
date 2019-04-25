@@ -1,0 +1,8 @@
+FIR_COPX:*:*:EVRIN:EGAA:*:London S9:Shannon East (245-660):*:32000:EVRIN
+FIR_COPX:*:*:EVRIN:EGAC:*:London S9:Shannon East (245-660):*:32000:EVRIN
+FIR_COPX:*:*:EVRIN:EGAE:*:London S9:Shannon East (245-660):*:32000:EVRIN
+
+FIR_COPX:*:*:LESLU:*:*:London S9:Shannon East (245-660):*:*:LESLU
+FIR_COPX:*:*:LEDGO:*:*:London S9:Shannon East (245-660):*:*:LEDGO
+FIR_COPX:*:*:MOPAT:*:*:London S9:Shannon East (245-660):*:*:MOPAT20
+FIR_COPX:*:*:NORLA:*:*:London S9:Shannon East (245-660):*:*:NORLA

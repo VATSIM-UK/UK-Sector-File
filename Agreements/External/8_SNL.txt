@@ -1,4 +1,0 @@
-FIR_COPX:*:*:SLANY:EIWF:*:London S8:Shannon East (075-245):*:18000:SLANY
-FIR_COPX:*:*:EVRIN:EIWF:*:London S8:Shannon East (075-245):*:18000:EVRIN
-FIR_COPX:*:*:BANBA:EIWF:*:London S8:Shannon East (075-245):*:18000:BANBA
-FIR_COPX:*:*:BAKUR:EIWF:*:London S8:Shannon East (075-245):*:18000:BAKUR

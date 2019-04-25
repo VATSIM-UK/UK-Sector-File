@@ -1,0 +1,6 @@
+FIR_COPX:EGCC:*:RAMOX:*:*:Isle of Man:Shannon D (245-660):28000:*:RAMOX
+FIR_COPX:EGCD:*:RAMOX:*:*:Isle of Man:Shannon D (245-660):28000:*:RAMOX
+FIR_COPX:EGGP:*:RAMOX:*:*:Isle of Man:Shannon D (245-660):28000:*:RAMOX
+FIR_COPX:EGNR:*:RAMOX:*:*:Isle of Man:Shannon D (245-660):28000:*:RAMOX
+FIR_COPX:EGNH:*:RAMOX:*:*:Isle of Man:Shannon D (245-660):28000:*:RAMOX
+FIR_COPX:EGNO:*:RAMOX:*:*:Isle of Man:Shannon D (245-660):28000:*:RAMOX

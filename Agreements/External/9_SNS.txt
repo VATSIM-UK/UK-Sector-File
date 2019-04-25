@@ -1,0 +1,2 @@
+FIR_COPX:*:*:GAPLI:*:*:London S9:Shannon South (245-660):*:*:GAPLI
+FIR_COPX:*:*:LULOX:*:*:London S9:Shannon South (245-660):*:*:LULOX

@@ -1,6 +1,0 @@
-FIR_COPX:EGCC:*:RAMOX:*:*:Scottish PC West:Shannon D (245-660):28000:*:RAMOX
-FIR_COPX:EGCD:*:RAMOX:*:*:Scottish PC West:Shannon D (245-660):28000:*:RAMOX
-FIR_COPX:EGGP:*:RAMOX:*:*:Scottish PC West:Shannon D (245-660):28000:*:RAMOX
-FIR_COPX:EGNR:*:RAMOX:*:*:Scottish PC West:Shannon D (245-660):28000:*:RAMOX
-FIR_COPX:EGNH:*:RAMOX:*:*:Scottish PC West:Shannon D (245-660):28000:*:RAMOX
-FIR_COPX:EGNO:*:RAMOX:*:*:Scottish PC West:Shannon D (245-660):28000:*:RAMOX
