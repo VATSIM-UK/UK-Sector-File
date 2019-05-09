@@ -61,6 +61,9 @@ Isle of Man:Scottish Control:133.050:MI:M:MAN:CTR:-:-::
 SE Trent:Scottish Control:119.520:MT:M:MAN:CTR:-:-::
 SE Stafa:Scottish Control:134.420:MS:M:MAN:CTR:-:-::
 ;Scottish
+SCO_N_CTR:Scottish Control:129.220:SN:W:SCO:CTR:-:-:3601:3632:N059.02.05.447:W002.55.24.968
+SCO_S_CTR:Scottish Control:134.770:SS:W:SCO:CTR:-:-:3601:3632:N055.17.24.521:E000.32.49.087
+SCO_C_CTR:Scottish Control:127.270:SC:W:SCO:CTR:-:-:3601:3632:N057.05.05.587:W007.19.49.513
 Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose:Scottish Control:129.920:SEW:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Rathlin E:Scottish Control:125.670:SRE:W:SCO:CTR:-:-:3601:3632::
