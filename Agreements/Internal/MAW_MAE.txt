@@ -19,4 +19,4 @@ COPX:*:*:NUGRA:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NUGRA15
 COPX:*:*:NOKIN:EGBB:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
 COPX:*:*:NOKIN:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
 
-COPX:*:*:POL:EGNT:*:Scottish PC S29:Scottish PC East:*:26000:POL
+COPX:*:*:POL:EGNT:*:Scottish PC West:Scottish PC East:*:26000:POL
