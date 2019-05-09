@@ -19,8 +19,4 @@ COPX:*:*:NUGRA:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NUGRA15
 COPX:*:*:NOKIN:EGBB:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
 COPX:*:*:NOKIN:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
 
-COPX:*:*:MISTO:EGNT:*:London S10:Scottish PC East:*:29000:MISTO
-COPX:*:*:MAMUL:EGNT:*:London S28:Scottish PC East:*:28000:MAMUL
-COPX:*:*:BETAX:EGNT:*:London S28:Scottish PC East:*:28000:BETAX
-COPX:*:*:NOKIN:EGNT:*:London S05:Scottish PC S29:*:28000:NOKIN
 COPX:*:*:POL:EGNT:*:Scottish PC S29:Scottish PC East:*:26000:POL
