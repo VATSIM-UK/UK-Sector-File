@@ -1,3 +1,6 @@
+# Changes from release 2019/05 to 2019/06
+3. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
+
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
 2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
