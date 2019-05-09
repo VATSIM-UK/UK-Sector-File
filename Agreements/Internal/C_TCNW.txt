@@ -1,5 +1,5 @@
-COPX:*:*:EVSEM:EGHI:*:London AC Daventry:London TC NW:*:15000:BAMBO
-COPX:*:*:EVSEM:EGHH:*:London AC Daventry:London TC NW:*:15000:BAMBO
+COPX:*:*:RUSIN:EGHI:*:London AC Daventry:London TC NW:*:15000:BUGUP
+COPX:*:*:RUSIN:EGHH:*:London AC Daventry:London TC NW:*:15000:BUGUP
 
 COPX:*:*:NEDEX:EGLF:*:London AC Daventry:London TC NW:*:15000:NEDEX
 COPX:*:*:NEDEX:EGLK:*:London AC Daventry:London TC NW:*:15000:NEDEX
