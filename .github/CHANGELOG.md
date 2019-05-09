@@ -32,6 +32,7 @@
 31. Enhancement - Adjustments to Gatwick (EGKK) SMR (stands, Z1, grass) - thanks to @hsugden (Harry Sugden)
 32. AIRAC (1905) - Updated Danger Area EG D406 - thanks to @hsugden (Harry Sugden)
 33. AIRAC (1905) - Updated Heathrow (EGLL) runway track and threshold coordinates - thanks to @hsugden (Harry Sugden)
+34. AIRAC (1905) - Updated Edinburgh SMR (EGPH) - thanks to @nathaninnes (Nathan Innes)
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
