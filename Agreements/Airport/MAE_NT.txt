@@ -1,7 +1,3 @@
 COPX:*:*:TILNI:EGNT:*:Scottish PC East:NTAPP:*:16000:TILNI
 
-COPX:*:*:MISTO:EGNT:*:London S10:Scottish PC East:*:29000:MISTO
-COPX:*:*:MAMUL:EGNT:*:London S28:Scottish PC East:*:28000:MAMUL
-COPX:*:*:BETAX:EGNT:*:London S28:Scottish PC East:*:28000:BETAX
-COPX:*:*:NOKIN:EGNT:*:London S05:Scottish PC S29:*:28000:NOKIN
-COPX:*:*:POL:EGNT:*:Scottish PC S29:Scottish PC East:*:26000:POL
+COPX:*:*:IRKOR:EGNT:*:Scottish PC EasT:NTAPP:*:16000:IRKOR
