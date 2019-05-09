@@ -1,3 +1,10 @@
+# Changes from release 2019/05 to 2019/06
+1 AIRAC (1906) - EGLW Tower Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+2 AIRAC (1906) - EGEF Radio Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+3 AIRAC (1906) - EGCN Radar Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+4 AIRAC (1906) - Solent Radar Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+5 AIRAC (1906) - EGAD Radio Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
 2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
