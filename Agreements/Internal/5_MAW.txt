@@ -17,11 +17,7 @@ COPX:*:*:BERUL:EGNT:*:London S5:Scottish PC West:*:28000:BERUL
 COPX:*:*:BERUL:EGNV:*:London S5:Scottish PC West:*:28000:BERUL
 COPX:*:*:BERUL:EGNJ:*:London S5:Scottish PC West:*:28000:BERUL
 
-COPX:*:*:MISTO:EGNT:*:London S10:Scottish PC East:*:29000:MISTO
-COPX:*:*:MAMUL:EGNT:*:London S28:Scottish PC East:*:28000:MAMUL
-COPX:*:*:BETAX:EGNT:*:London S28:Scottish PC East:*:28000:BETAX
-COPX:*:*:NOKIN:EGNT:*:London S05:Scottish PC S29:*:28000:NOKIN
-COPX:*:*:POL:EGNT:*:Scottish PC S29:Scottish PC East:*:26000:POL
+COPX:*:*:NOKIN25:EGNT:*:London S05:Scottish PC S29:*:28000:NOKIN25
 
 ;Should be EGDX also?
 ;choice of points is not ideal
