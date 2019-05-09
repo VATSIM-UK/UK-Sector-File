@@ -108,12 +108,12 @@
 "315" N55.56.49.72 W003.20.48.12 standHold
 "314" N55.56.48.96 W003.20.50.34 standHold
 "313" N55.56.48.21 W003.20.52.56 standHold
-"312L" N55.56.47.64 W003.20.54.36 standHold
+;"312L" N55.56.47.64 W003.20.54.36 standHold ;Not shown for clarity
 "312" N55.56.47.46 W003.20.54.78 standHold
-"311L" N55.56.47.04 W003.20.56.14 standHold
+;"311L" N55.56.47.04 W003.20.56.14 standHold ;Not shown for clarity
 "311" N55.56.46.71 W003.20.56.99 standHold
-"311R" N55.56.46.43 W003.20.57.92 standHold
+;"311R" N55.56.46.43 W003.20.57.92 standHold ;Not shown for clarity
 "310" N55.56.45.96 W003.20.59.22 standHold
-"310R" N55.56.45.83 W003.20.59.69 standHold
+;"310R" N55.56.45.83 W003.20.59.69 standHold ;Not shown for clarity
 "309" N55.56.45.20 W003.21.01.44 standHold
 "308" N055.56.43.722 W003.21.04.319 standHold
