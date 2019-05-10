@@ -1,5 +1,5 @@
 # Changes from release 2019/05 to 2019/06
-x. Bug - Add waypoint to Heathrow (EGLL) CPT 09 departures to fix UKCP squawk allocation - thanks to @artturnip 
+x. Bug - Add waypoint to Heathrow (EGLL) CPT 09 departures to fix UKCP squawk allocation - thanks to @artturnip (Adam Turner)
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
 2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
 
