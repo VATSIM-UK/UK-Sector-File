@@ -1,5 +1,19 @@
 # Changes from release 2019/05 to 2019/06
-1. AIRAC (1906) - Updated EGBB SIDs - thanks to @TomS03 (Tom Earl)
+1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
+2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
+3. Bug - Add waypoint to Heathrow (EGLL) CPT 09 departures to fix UKCP squawk allocation - thanks to @artturnip (Adam Turner)
+4. AIRAC (1906) - Upper Airway (UY8) withdrawn - thanks to @kye-taylor (Kye Taylor)
+5. AIRAC (1906) - EGHH EGHI Level Agreements Updates - thanks to @kye-taylor (Kye Taylor)
+6. AIRAC (1906) - EGHH/HI STAR updates - thanks to @epicdemon99 (Nathaniel Leff)
+7. AIRAC (1906) - EGCN STAR update - thanks to @epicdemon99 (Nathaniel Leff)
+8. AIRAC (1906) - EGNT STAR's added - thanks to @kye-taylor (Kye Taylor)
+9. AIRAC (1906) - Solent Radar Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+10. AIRAC (1906) - EGCN Radar Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+11. AIRAC (1906) - EGEF Radio Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+12. AIRAC (1906) - EGLW Tower Frequancy updated - thanks to @kye-taylor (Kye Taylor)
+13. AIRAC (1906) - Essex STAR's updated - thanks to @kye-taylor (Kye Taylor)
+14. AIRAC (1906) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
+15. AIRAC (1906) - Updated EGBB SIDs - thanks to @TomS03 (Tom Earl)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
