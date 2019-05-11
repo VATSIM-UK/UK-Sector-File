@@ -7,6 +7,7 @@
 6. AIRAC (1906) - EGHH/HI STAR updates - thanks to @epicdemon99 (Nathaniel Leff)
 7. AIRAC (1906) - EGCN STAR update - thanks to @epicdemon99 (Nathaniel Leff)
 8. AIRAC (1906) - EGNT STAR's added - thanks to @kye-taylor (Kye Taylor)
+9. AIRAC (1906) - Solent Radar Frequancy updated - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
