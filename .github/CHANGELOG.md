@@ -4,6 +4,7 @@
 3. Bug - Add waypoint to Heathrow (EGLL) CPT 09 departures to fix UKCP squawk allocation - thanks to @artturnip (Adam Turner)
 4. AIRAC (1906) - Upper Airway (UY8) withdrawn - thanks to @kye-taylor (Kye Taylor)
 5. AIRAC (1906) - EGHH EGHI Level Agreements Updates - thanks to @kye-taylor (Kye Taylor)
+6. AIRAC (1906) - EGHH/HI STAR updates - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
