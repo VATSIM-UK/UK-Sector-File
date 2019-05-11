@@ -1,5 +1,5 @@
 # Changes from release 2019/05 to 2019/06
-1. AIRAC (1903) - Upper Airway (UY8) withdrawn - thanks to @kye-taylor (Kye Taylor)
+1. AIRAC (1906) - Upper Airway (UY8) withdrawn - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
