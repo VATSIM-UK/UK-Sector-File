@@ -20,6 +20,3 @@ COPX:*:*:EVSON:EGCN:*:London AC Daventry:Scottish PC East:*:20000:EVSON40
 ;fixme POL45 or TNT also
 COPX:*:*:BETAX:EGNT:*:London AC Daventry:Scottish PC East:*:28000:BETAX
 COPX:*:*:BETAX:EGNV:*:London AC Daventry:Scottish PC East:*:28000:BETAX
-
-COPX:*:*:MAMUL25:EGNT:*:London AC Daventry:Scottish PC East:*:28000:MAMUL25
-COPX:*:*:BETAX:EGNT:*:London AC Daventry:Scottish PC East:*:28000:BETAX
