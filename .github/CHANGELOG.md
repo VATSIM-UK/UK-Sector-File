@@ -12,6 +12,7 @@
 11. AIRAC (1906) - EGEF Radio Frequancy updated - thanks to @kye-taylor (Kye Taylor)
 12. AIRAC (1906) - EGLW Tower Frequancy updated - thanks to @kye-taylor (Kye Taylor)
 13. AIRAC (1906) - Essex STAR's updated - thanks to @kye-taylor (Kye Taylor)
+14. AIRAC (1906) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
