@@ -14,6 +14,7 @@
 13. AIRAC (1906) - Essex STAR's updated - thanks to @kye-taylor (Kye Taylor)
 14. AIRAC (1906) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
 15. AIRAC (1906) - Updated EGBB SIDs - thanks to @TomS03 (Tom Earl)
+16. AIRAC (1906) - RNAV Airways amended, truncated or removed - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
