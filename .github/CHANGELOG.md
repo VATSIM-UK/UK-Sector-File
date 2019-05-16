@@ -14,7 +14,7 @@
 13. AIRAC (1906) - Essex STAR's updated - thanks to @kye-taylor (Kye Taylor)
 14. AIRAC (1906) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
 15. AIRAC (1906) - Updated EGBB SIDs - thanks to @TomS03 (Tom Earl)
-x. Bug - Modify KKAPP->TCSW agreement to ensure TCSW->LONS agreement displays properly - thanks to @artturnip (Adam Turner)
+x. Bug - Modify KKAPP->TCSW agreement fix to ensure TCSW->LONS agreement displays properly - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
