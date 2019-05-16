@@ -14,6 +14,7 @@
 13. AIRAC (1906) - Essex STAR's updated - thanks to @kye-taylor (Kye Taylor)
 14. AIRAC (1906) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
 15. AIRAC (1906) - Updated EGBB SIDs - thanks to @TomS03 (Tom Earl)
+x. Bug - Modify TCNE->TCE and TCE->LONE agreements so that LONE->EHAA_W agreeement displays properly on transfer - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
@@ -22,7 +23,7 @@
 4. Bug - Remove Elksham VRP at EGGD - thanks to @artturnip (Adam Turner)
 5. AIRAC (1905) - Update EGXC squawk range - thanks to @artturnip (Adam Turner)
 6. Bug - Corrects Birmingham squawk range to valid range - thanks to @cbyworth (Chad Byworth)
-7. Enhancement - Format runway definitions so they are aligned - thanks to @artturip (Adam Turner)
+7. Enhancement - Format runway definitions so they are aligned - thanks to @artturnip (Adam Turner)
 8. AIRAC (1904) - EGD323 updates - thanks to @inventor02 (George Peppard)
 9. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden (Harry Sugden)
 10. AIRAC (1905) - Lower airways to RNAV - thanks to @artturnip (Adam Turner)
