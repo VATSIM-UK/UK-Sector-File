@@ -17,6 +17,7 @@
 16. Bug - Modify TCNE->TCE and TCE->LONE agreements so that LONE->EHAA_W agreeement displays properly on transfer - thanks to @artturnip (Adam Turner)
 17. Bug - Modify KKAPP->TCSW agreement fix to ensure TCSW->LONS agreement displays properly - thanks to @artturnip (Adam Turner)
 18. AIRAC (1906) - EGLL Taxiway A reopened to PLUTO - thanks to @epicdemon99 (Nathaniel Leff)
+19. Enhancement - Gatwick Airbridge Added to SMR - thanks to @nathaninnes (Nathan Innes)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
