@@ -1,5 +1,5 @@
 # Changes from release 2019/05 to 2019/06
-x. Enhancement - Gatwick Airbridge Added - thanks to @nathaninnes (Nathan Innes)
+x. Enhancement - Gatwick Airbridge Added to SMR - thanks to @nathaninnes (Nathan Innes)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
