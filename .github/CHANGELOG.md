@@ -22,6 +22,7 @@
 21. AIRAC (1906) - Added EGNT STARs/RNAV transitions - thanks to @epicdemon99 (Nathaniel Leff)
 22. AIRAC (1906) - EGNT Level Agreements - thanks to @kye=taylor (Kye Taylor)
 23. AIRAC (1906) - EGAD Radio Frequency updated - thanks to @kye-taylor (Kye Taylor)
+24. AIRAC (1906) - Updated Edinburgh (EGPH) SMR - thanks to @nathaninnes (Nathan Innes)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
