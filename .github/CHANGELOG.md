@@ -19,6 +19,7 @@
 18. AIRAC (1906) - EGLL Taxiway A reopened to PLUTO - thanks to @epicdemon99 (Nathaniel Leff)
 19. Enhancement - Gatwick Airbridge Added to SMR - thanks to @nathaninnes (Nathan Innes)
 20. AIRAC (1906) - EGLC/EGKB STARs Updated- thanks to @kye-taylor (Kye Taylor)
+21. AIRAC (1906) - Added EGNT STARs/RNAV transitions - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
