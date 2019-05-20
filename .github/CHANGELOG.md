@@ -24,6 +24,7 @@
 23. AIRAC (1906) - EGAD Radio Frequency updated - thanks to @kye-taylor (Kye Taylor)
 24. AIRAC (1906) - Updated Edinburgh (EGPH) SMR - thanks to @nathaninnes (Nathan Innes)
 25. AIRAC (1906) - EGMC STAR's redesignated - thanks to @kye-taylor (Kye Taylor)
+26. Enhancement - Updated frequencies to (real-world) 136.XXX versions (KK, LC, MC ATISes; SS FIN) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
