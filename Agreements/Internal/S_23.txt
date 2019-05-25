@@ -1,13 +1,12 @@
-COPX:*:*:CPT:EGVN:*:London AC Worthing:London S23:*:16000:|CPT
-COPX:*:*:CPT:EGDL:*:London AC Worthing:London S23:*:16000:|CPT
-
+COPX:*:*:CPT:EGVN:*:London AC Worthing:London S23:*:16000:CPT
+COPX:*:*:CPT:EGDL:*:London AC Worthing:London S23:*:16000:CPT
 COPX:*:*:CPT:EGFF:*:London AC Worthing:London S23:*:22000:CPT
 COPX:*:*:CPT:EGFH:*:London AC Worthing:London S23:*:22000:CPT
 COPX:*:*:CPT:EGDX:*:London AC Worthing:London S23:*:22000:CPT
 COPX:*:*:CPT:EGGD:*:London AC Worthing:London S23:*:22000:CPT
 COPX:*:*:CPT:EGTG:*:London AC Worthing:London S23:*:22000:CPT
 
-COPX:EGBB:*:KENET:*:*:London AC Worthing:London S23:21000:*:^KENET
-COPX:EGBE:*:KENET:*:*:London AC Worthing:London S23:21000:*:^KENET
-COPX:EGSS:*:KENET:*:*:London AC Worthing:London S23:21000:*:^KENET
-COPX:EGSC:*:KENET:*:*:London AC Worthing:London S23:21000:*:^KENET
+COPX:EGBB:*:KENET:*:*:London AC Worthing:London S23:21000:*:KENET
+COPX:EGBE:*:KENET:*:*:London AC Worthing:London S23:21000:*:KENET
+COPX:EGSS:*:KENET:*:*:London AC Worthing:London S23:21000:*:KENET
+COPX:EGSC:*:KENET:*:*:London AC Worthing:London S23:21000:*:KENET
