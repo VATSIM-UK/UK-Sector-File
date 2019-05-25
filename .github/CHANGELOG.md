@@ -1,5 +1,5 @@
 # Changes from release 2019/06 to 2019/07
-x. AIRAC (1906) - Moved N160 Lower Airway to RNAV - thanks to @nathaninnes (Nathan Innes)
+x. AIRAC (1907) - Moved N160 Lower Airway to RNAV - thanks to @nathaninnes (Nathan Innes)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
