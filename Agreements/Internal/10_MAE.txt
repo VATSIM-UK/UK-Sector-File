@@ -10,5 +10,3 @@ COPX:*:*:VEGUS:EGNX:*:London S10:Scottish PC East:*:28000:VEGUS
 
 COPX:*:*:NALAX:EGNT:*:London S10:Scottish PC East:*:28000:NALAX
 COPX:*:*:NALAX:EGNV:*:London S10:Scottish PC East:*:28000:NALAX
-
-;COPX:*:*:MITSO:EGNT:*:London S10:Scottish PC East:*:29000:MITSO15; fixme - 10_MAE Agreements to be reviewed
