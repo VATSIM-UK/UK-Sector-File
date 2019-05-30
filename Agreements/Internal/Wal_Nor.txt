@@ -1,0 +1,2 @@
+COPX:*:*:POL:EGNM:*:Wallasey:North:*:15000:BARTN5
+COPX:*:*:BARTN:EGCN:*:Wallasey:North:*:15000:BARTN5

@@ -1,0 +1,6 @@
+COPX:EGNM:*:STAFA:*:*:Sector 29:London AC Daventry:28000:*:STAFA
+COPX:EGNO:*:STAFA:*:*:Sector 29:London AC Daventry:28000:*:STAFA
+COPX:EGNH:*:STAFA:*:*:Sector 29:London AC Daventry:28000:*:STAFA
+
+COPX:EGNJ:*:LISTO:*:*:Sector 29:London AC Daventry:28000:*:LISTO
+COPX:EGCN:*:LISTO:*:*:Sector 29:London AC Daventry:28000:*:LISTO

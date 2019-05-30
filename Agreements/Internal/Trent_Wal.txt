@@ -1,0 +1,2 @@
+COPX:*:*:NANTI:EGGP:*:Trent:Wallasey:*:10000:NANTI
+COPX:*:*:NANTI:EGNR:*:Trent:Wallasey:*:10000:NANTI

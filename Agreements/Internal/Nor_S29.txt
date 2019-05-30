@@ -1,0 +1,3 @@
+COPX:EGCC:*:POL:*:*:North:Sector 29:19000:*:POL
+COPX:EGGP:*:POL:*:*:North:Sector 29:19000:*:POL
+COPX:EGNR:*:POL:*:*:North:Sector 29:19000:*:POL

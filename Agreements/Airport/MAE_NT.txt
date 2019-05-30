@@ -1,3 +1,0 @@
-COPX:*:*:TILNI:EGNT:*:Scottish PC East:NTAPP:*:16000:TILNI
-
-COPX:*:*:IRKOR:EGNT:*:Scottish PC East:NTAPP:*:16000:IRKOR

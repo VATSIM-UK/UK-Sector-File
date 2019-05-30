@@ -1,0 +1,2 @@
+COPX:*:*:MCT:EGNX:*:Sector 29:Trent:*:20000:MCT
+COPX:*:*:MCT:EGBB:*:Sector 29:Trent:*:20000:MCT
