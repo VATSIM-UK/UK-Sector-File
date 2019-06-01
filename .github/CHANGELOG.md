@@ -1,5 +1,5 @@
 # Changes from release 2019/06 to 2019/xx
-x. Bug - Modify LONC->LONS agreement for CC/GP/NR outbounds to allow KK WILLOW3B agreement to display correctly - thanks to @artturnip (Adam Turner)
+x. Bug - Modify LONC->LONS agreement for CC/GP/NR outbounds to allow KK WILLO3B agreement to display correctly - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
