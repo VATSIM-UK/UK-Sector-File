@@ -1,4 +1,7 @@
 # Changes from release 2019/05 to 2019/06
+x. AIRAC (1907) - Updated EGCW Frequency - thanks to @epicdemon99 (Nathaniel Leff)
+
+# Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
 2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
 3. Bug - Add waypoint to Heathrow (EGLL) CPT 09 departures to fix UKCP squawk allocation - thanks to @artturnip (Adam Turner)
