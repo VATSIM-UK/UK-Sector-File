@@ -1,3 +1,6 @@
+# Changes from release 2019/06 to 2019/07
+x. AIRAC (1907) - Update EGHC TWR frequency - thanks to @epicdemon99 (Nathaniel Leff)
+
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
 2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
