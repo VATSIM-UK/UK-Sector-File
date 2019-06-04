@@ -1,3 +1,6 @@
+# Changes from release 2019/06 to 2019/07
+1. AIRAC (1907) - Added new taxiway K, K1 and the K hangar at EGNX - thanks to @inventor02 (George Peppard)
+
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
 2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
