@@ -1,3 +1,6 @@
+# Changes from release 2019/06 to 2019/07
+x. Enhancement - Removed Old STAR's from EGLC/EGKB - thanks to @nathaninnes (Nathan Innes)
+
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
 2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
@@ -28,7 +31,7 @@
 27. Enhancement - Heathrow (EGLL) N1 reopened via NOTAM, added back to SMR - thanks to @hsugden (Harry Sugden)
 28. Enhancement - Updated MAN W and MAN E static boundaries - thanks to @hsugden (Harry Sugden)
 29. Enhancement - Added climbing/descending arrows to agreements from AC South Sectors - thanks to @hsugden (Harry Sugden)
-x. Enhancement - Removed Old STAR's from EGLC/EGKB - thanks to @nathaninnes (Nathan Innes)
+
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
 2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
