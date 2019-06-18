@@ -1,5 +1,6 @@
 # Changes from release 2019/06 to 2019/07
-x. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
+1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
+2. AIRAC (1907) - Updated EGKK frequencies - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
