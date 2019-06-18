@@ -1,4 +1,4 @@
-# Changes from release 2019/05 to 2019/06
+# Changes from release 2019/06 to 2019/07
 x. AIRAC (1907) - Update EGTB frequencies - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/05 to 2019/06
