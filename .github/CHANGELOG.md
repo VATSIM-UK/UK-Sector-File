@@ -6,6 +6,7 @@
 5. AIRAC (1907) - Updated EGCW Frequency - thanks to @epicdemon99 (Nathaniel Leff)
 6. Enhancement - Magnetic variation value updated - thanks to @artturnip (Adam Turner)
 7. AIRAC (1907) - Update EGHC TWR frequency - thanks to @epicdemon99 (Nathaniel Leff)
+8. AIRAC (1907) - Update EGTB frequencies - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
