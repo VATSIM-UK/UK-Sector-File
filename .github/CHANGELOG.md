@@ -3,9 +3,8 @@
 2. AIRAC (1907) - Updated EGKK frequencies - thanks to @epicdemon99 (Nathaniel Leff)
 3. AIRAC (1907) - Update EGTB runway track - thanks to @epicdemon99 (Nathaniel Leff)
 4. Bug - Modify LONC->LONS agreement for CC/GP/NR outbounds to allow KK WILLO3B agreement to display correctly - thanks to @artturnip (Adam Turner)
-
-# Changes from release 2019/05 to 2019/06
-x. AIRAC (1907) - Updated EGCW Frequency - thanks to @epicdemon99 (Nathaniel Leff)
+5. AIRAC (1907) - Updated EGCW Frequency - thanks to @epicdemon99 (Nathaniel Leff)
+6. Enhancement - Magnetic variation value updated - thanks to @artturnip
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
