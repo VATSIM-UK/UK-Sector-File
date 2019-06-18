@@ -9,6 +9,7 @@
 8. AIRAC (1907) - Update EGTB frequencies - thanks to @epicdemon99 (Nathaniel Leff)
 9. Enhancement - Removed Old STAR's from EGLC/EGKB - thanks to @nathaninnes (Nathan Innes)
 10. AIRAC (1907) - Moved N160 Lower Airway to RNAV - thanks to @nathaninnes (Nathan Innes)
+11. AIRAC (1906) - Extend Isle of Man CTA laterally and vertically - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
