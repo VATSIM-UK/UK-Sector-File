@@ -15,6 +15,7 @@
 14. Enhancement - Gatwick (EGKK) Grass Area Improvements - thanks to @nathaninnes (Nathan Innes)
 15. Enhancement - Added climbing/descending arrows to agreements from PC West and East sectors - thanks to @hsugden (Harry Sugden)
 16. Enhancement - Added climbing/descending arrows to agreements from TC East and AC Central sectors - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Added climbing/descending arrows to agreements from TC North sectors - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
