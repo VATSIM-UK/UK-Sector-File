@@ -1,3 +1,5 @@
+1. Enhancement - Added new fixes - thanks to @toms03 (Tom Earl)
+
 # Changes from release 2019/06 to 2019/07
 1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
 2. AIRAC (1907) - Updated EGKK frequencies - thanks to @epicdemon99 (Nathaniel Leff)
