@@ -1,4 +1,7 @@
 # Changes from release 2019/06 to 2019/07
+1. AIRAC (1908) - Updated EGJJ Threshold Coordinates - thanks to @cpawley (Chris Pawley)
+
+# Changes from release 2019/06 to 2019/07
 1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
 2. AIRAC (1907) - Updated EGKK frequencies - thanks to @epicdemon99 (Nathaniel Leff)
 3. AIRAC (1907) - Update EGTB runway track - thanks to @epicdemon99 (Nathaniel Leff)
