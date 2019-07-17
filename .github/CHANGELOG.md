@@ -1,5 +1,6 @@
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
+2. Bug - Fixed Observing LTC_E_CTR altownership - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/06 to 2019/07
 1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
