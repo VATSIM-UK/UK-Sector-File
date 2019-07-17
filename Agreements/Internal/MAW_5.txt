@@ -1,5 +1,5 @@
 COPX:*:*:NOKIN:EGFF:*:Scottish PC West:London S5:*:27000:NOKIN
-COPX:*:*:NOKIN:EGDX:*:Scottish PC West:London S5:*:27000:NOKIN
+COPX:*:*:NOKIN:EGSY:*:Scottish PC West:London S5:*:27000:NOKIN
 COPX:*:*:NOKIN:EGGD:*:Scottish PC West:London S5:*:27000:NOKIN
 COPX:*:*:NOKIN:EGTG:*:Scottish PC West:London S5:*:27000:NOKIN
 
