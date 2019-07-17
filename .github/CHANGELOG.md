@@ -1,5 +1,5 @@
-# Changes from release 2019/07 to 2019/XX
-1. AIRAC (19XX) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden (Harry Sugden)
+# Changes from release 2019/07 to 2019/08
+1. AIRAC (1906) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/06 to 2019/07
 1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
