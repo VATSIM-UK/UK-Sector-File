@@ -1,4 +1,4 @@
-# Changes from release 2019/06 to 2019/07
+# Changes from release 2019/07 to 2019/08
 3. AIRAC (1907) - Updated Danger areas D005A/B and D006B/C - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/06 to 2019/07
