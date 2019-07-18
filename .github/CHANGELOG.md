@@ -6,6 +6,7 @@
 5. AIRAC (1908) - Updated EGJJ Threshold Coordinates - thanks to @cpawley (Chris Pawley)
 6. AIRAC (1907) - Updated Alderney (EGJA) frequency - thanks to @cpawley (Chris Pawley)
 7. AIRAC (1908) - Updated Lower Airways to RNAV - thanks to @cpawley (Chris Pawley)
+8. AIRAC (1907) - Updated Danger areas D005A/B and D006B/C - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/06 to 2019/07
 1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
