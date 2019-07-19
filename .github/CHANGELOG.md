@@ -1,6 +1,6 @@
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
-2. Bug - Fixed Observing LTC_E_CTR altownership - thanks to @hsugden (Harry Sugden)
+2. Bug - Fixed Observing LTC_E_CTR altownership (for main sector and alternate airports) - thanks to @hsugden (Harry Sugden)
 3. AIRAC (1906) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden (Harry Sugden)
 4. AIRAC (1907) - Redesignated Danger Area EG D701Z->D704 and updated naming for D809C/N/S - thanks to @hsugden (Harry Sugden)
 5. AIRAC (1908) - Updated EGJJ Threshold Coordinates - thanks to @cpawley (Chris Pawley)
