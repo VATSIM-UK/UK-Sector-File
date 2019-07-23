@@ -1,3 +1,33 @@
+# Changes from release 2019/07 to 2019/08
+1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
+2. Bug - Fixed Observing LTC_E_CTR altownership (for main sector and alternate airports) - thanks to @hsugden (Harry Sugden)
+3. AIRAC (1906) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden (Harry Sugden)
+4. AIRAC (1907) - Redesignated Danger Area EG D701Z->D704 and updated naming for D809C/N/S - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1908) - Updated EGJJ Threshold Coordinates - thanks to @cpawley (Chris Pawley)
+6. AIRAC (1907) - Updated Alderney (EGJA) frequency - thanks to @cpawley (Chris Pawley)
+7. AIRAC (1908) - Updated Lower Airways to RNAV - thanks to @cpawley (Chris Pawley)
+8. AIRAC (1907) - Updated Danger areas D005A/B and D006B/C - thanks to @cpawley (Chris Pawley)
+9. AIRAC (1908) - Upper Airways to RNAV - thanks to @cpawley (Chris Pawley)
+
+# Changes from release 2019/06 to 2019/07
+1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
+2. AIRAC (1907) - Updated EGKK frequencies - thanks to @epicdemon99 (Nathaniel Leff)
+3. AIRAC (1907) - Update EGTB runway track - thanks to @epicdemon99 (Nathaniel Leff)
+4. Bug - Modify LONC->LONS agreement for CC/GP/NR outbounds to allow KK WILLO3B agreement to display correctly - thanks to @artturnip (Adam Turner)
+5. AIRAC (1907) - Updated EGCW Frequency - thanks to @epicdemon99 (Nathaniel Leff)
+6. Enhancement - Magnetic variation value updated - thanks to @artturnip (Adam Turner)
+7. AIRAC (1907) - Update EGHC TWR frequency - thanks to @epicdemon99 (Nathaniel Leff)
+8. AIRAC (1907) - Update EGTB frequencies - thanks to @epicdemon99 (Nathaniel Leff)
+9. Enhancement - Removed Old STAR's from EGLC/EGKB - thanks to @nathaninnes (Nathan Innes)
+10. AIRAC (1907) - Moved N160 Lower Airway to RNAV - thanks to @nathaninnes (Nathan Innes)
+11. AIRAC (1906) - Extend Isle of Man CTA laterally and vertically - thanks to @artturnip (Adam Turner)
+12. AIRAC (1907) - Added new taxiway K, K1 and the K hangar at EGNX - thanks to @inventor02 (George Peppard)
+13. AIRAC (1906) - EGLL/EGWU STARs Updated - thanks to @kye-taylor (Kye Taylor)
+14. Enhancement - Gatwick (EGKK) Grass Area Improvements - thanks to @nathaninnes (Nathan Innes)
+15. Enhancement - Added climbing/descending arrows to agreements from PC West and East sectors - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added climbing/descending arrows to agreements from TC East and AC Central sectors - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Added climbing/descending arrows to agreements from TC North sectors - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
 2. AIRAC (1906) - Fixes added/updated/withdrawn - thanks to @toms03 (Tom Earl)
