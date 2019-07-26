@@ -1,6 +1,6 @@
-COPX:EGNM:*:STAFA:*:*:Scottish PC West:London AC Daventry:28000:*:STAFA
-COPX:EGNO:*:STAFA:*:*:Scottish PC West:London AC Daventry:28000:*:STAFA
-COPX:EGNH:*:STAFA:*:*:Scottish PC West:London AC Daventry:28000:*:STAFA
+COPX:EGNM:*:STAFA:*:*:Scottish PC West:London AC Daventry:28000:*:^STAFA
+COPX:EGNO:*:STAFA:*:*:Scottish PC West:London AC Daventry:28000:*:^STAFA
+COPX:EGNH:*:STAFA:*:*:Scottish PC West:London AC Daventry:28000:*:^STAFA
 
-COPX:EGNJ:*:LISTO:*:*:Scottish PC West:London AC Daventry:28000:*:LISTO
-COPX:EGCN:*:LISTO:*:*:Scottish PC West:London AC Daventry:28000:*:LISTO
+COPX:EGNJ:*:LISTO:*:*:Scottish PC West:London AC Daventry:28000:*:^LISTO
+COPX:EGCN:*:LISTO:*:*:Scottish PC West:London AC Daventry:28000:*:^LISTO
