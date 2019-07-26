@@ -1,5 +1,6 @@
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
+2. Enhancement - Added missing Heathrow (EGLL) Taxiway S intermediate holding points - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
