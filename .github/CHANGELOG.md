@@ -1,5 +1,7 @@
 # Changes from release 2019/08 to 2019/09
-1. AIRAC (1909) - Converted some upper airways to RNAV - thanks to @indianbhaji (Eric Liu)
+1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
+2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @artturnip (Adam Turner)
+3. AIRAC (1909) - Converted some upper airways to RNAV - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
