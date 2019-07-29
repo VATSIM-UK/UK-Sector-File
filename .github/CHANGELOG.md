@@ -1,3 +1,18 @@
+# Changes from release 2019/08 to 2019/09
+1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
+2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @artturnip (Adam Turner)
+
+# Changes from release 2019/07 to 2019/08
+1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
+2. Bug - Fixed Observing LTC_E_CTR altownership (for main sector and alternate airports) - thanks to @hsugden (Harry Sugden)
+3. AIRAC (1906) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden (Harry Sugden)
+4. AIRAC (1907) - Redesignated Danger Area EG D701Z->D704 and updated naming for D809C/N/S - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1908) - Updated EGJJ Threshold Coordinates - thanks to @cpawley (Chris Pawley)
+6. AIRAC (1907) - Updated Alderney (EGJA) frequency - thanks to @cpawley (Chris Pawley)
+7. AIRAC (1908) - Updated Lower Airways to RNAV - thanks to @cpawley (Chris Pawley)
+8. AIRAC (1907) - Updated Danger areas D005A/B and D006B/C - thanks to @cpawley (Chris Pawley)
+9. AIRAC (1908) - Upper Airways to RNAV - thanks to @cpawley (Chris Pawley)
+
 # Changes from release 2019/06 to 2019/07
 1. AIRAC (1907) - Cambridge (CAM) NDB Moved - thanks to @nathaninnes (Nathan Innes)
 2. AIRAC (1907) - Updated EGKK frequencies - thanks to @epicdemon99 (Nathaniel Leff)
