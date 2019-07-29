@@ -8,6 +8,7 @@
 7. AIRAC (1909) - Updated Lerwick/Tingwall (EGET) frequency - thanks to @toms03 (Tom Earl)
 8. AIRAC (1909) - Converted some upper airways to RNAV - thanks to @indianbhaji (Eric Liu)
 9. Enhancement - New Agreement MAW-MAE for EGGP outbounds via BARTN/POL - thanks to @cpawley (Chris Pawley)
+10. AIRAC (1909) - Converted Y4 and Y124 airways to RNAV - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
