@@ -1,3 +1,6 @@
+# Changes from release 2019/08 to 2019/09
+1. AIRAC (1909) - Converted some upper airways to RNAV - thanks to @indianbhaji (Eric Liu)
+
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
 2. Bug - Fixed Observing LTC_E_CTR altownership (for main sector and alternate airports) - thanks to @hsugden (Harry Sugden)
