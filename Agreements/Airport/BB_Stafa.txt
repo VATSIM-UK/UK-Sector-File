@@ -1,2 +1,2 @@
 ;FixMe LUVUM/ADMEX etc?
-COPX:EGBB:*:WHI:*:*:BBAPP:Stafa:8000:*:WHI
+COPX:EGBB:*:WHI:*:*:BBAPP:Stafa:8000:*:^WHI
