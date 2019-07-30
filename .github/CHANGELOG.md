@@ -1,5 +1,10 @@
 # Changes from release 2019/08 to 2019/09
-1. AIRAC (1909) - Updated Nottingham (EGBN) frequency - thanks to @toms03 (Tom Earl)
+1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
+2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @artturnip (Adam Turner)
+3. Enhancement - Heathrow (EGLL) INT N frequency discrepancy note added - thanks to @hsugden (Harry Sugden)
+4. Enhancement - Adjusted static boundaries for S10/S11 and Humber - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1909) - Removed taxiway F and associated holds from EGTC - thanks to @indianbhaji (Eric Liu)
+6. AIRAC (1909) - Updated Nottingham (EGBN) frequency - thanks to @toms03 (Tom Earl)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
