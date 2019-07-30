@@ -1,5 +1,5 @@
-# Changes from release 2019/06 to 2019/07
-x. AIRAC (1907) - Upper Airways to RNAV - thanks to @nathaninnes (Nathan Innes)
+# Changes from release 2019/07 to 2019/08
+x. AIRAC (1908) - Upper Airways to RNAV - thanks to @nathaninnes (Nathan Innes)
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
