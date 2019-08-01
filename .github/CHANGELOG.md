@@ -1,3 +1,5 @@
+# Changes from release 2019/07 to 2019/06
+1. BUG - Stravangers Ownership Issues - thanks to @kye-taylor (Kye Taylor)
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
 2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
