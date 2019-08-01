@@ -12,6 +12,7 @@
 11. AIRAC (1909) - Converted Y47 and Y124 airways to RNAV - thanks to @indianbhaji (Eric Liu)
 12. Enhancement - Added missing Heathrow (EGLL) Taxiway S intermediate holding points - thanks to @hsugden (Harry Sugden)
 13. AIRAC (1907) - Biggin Hill (EGKB) Holding Point "AB" Removed - thanks to @nathaninnes (Nathan Innes)
+14. Bug - Added new agreement rule for Stansted (EGSS) traffic via M183, FL160 TC NW -> AC S - thanks to @hsugden (Harry Sugden) 
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
