@@ -1,7 +1,6 @@
 COPX:*:*:NOKIN:EGFF:*:Sector 29:London S5:*:27000:NOKIN
-COPX:*:*:NOKIN:EGDX:*:Sector 29:London S5:*:27000:NOKIN
+COPX:*:*:NOKIN:EGSY:*:Sector 29:London S5:*:27000:NOKIN
 COPX:*:*:NOKIN:EGGD:*:Sector 29:London S5:*:27000:NOKIN
-COPX:*:*:NOKIN:EGTG:*:Sector 29:London S5:*:27000:NOKIN
 
 COPX:EGNM:*:KARNO:*:*:Sector 29:London S5:27000:*:^KARNO
 COPX:EGCN:*:KARNO:*:*:Sector 29:London S5:27000:*:^KARNO
