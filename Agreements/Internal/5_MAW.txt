@@ -17,7 +17,7 @@ COPX:*:*:BERUL:EGNT:*:London S5:Scottish PC West:*:28000:BERUL
 COPX:*:*:BERUL:EGNV:*:London S5:Scottish PC West:*:28000:BERUL
 COPX:*:*:BERUL:EGNJ:*:London S5:Scottish PC West:*:28000:BERUL
 
-;Should be EGDX also?
+;Should be EGSY also?
 ;choice of points is not ideal
 COPX:EGFF:*:NOKIN:*:*:London S5:Scottish PC West:24000:*:NOKIN20
 COPX:EGGD:*:NOKIN:*:*:London S5:Scottish PC West:24000:*:NOKIN20

@@ -2,10 +2,10 @@ COPX:*:*:POL:EGNM:*:Scottish PC West:Scottish PC East:*:15000:BARTN5
 COPX:*:*:BARTN:EGCN:*:Scottish PC West:Scottish PC East:*:15000:BARTN5
 
 COPX:*:*:POL:EGNV:*:Scottish PC West:Scottish PC East:*:20000:POL
-COPX:*:*:POL:EGNT:*:Scottish PC West:Scottish PC East:*:24000:POL
+COPX:*:*:POL:EGNT:*:Scottish PC West:Scottish PC East:*:26000:POL
 
-COPX:EGGP:*:NANTI:*:*:Scottish PC West:Scottish PC East:9000:*:NANTI
-COPX:EGNR:*:NANTI:*:*:Scottish PC West:Scottish PC East:9000:*:NANTI
+COPX:EGGP:*:NANTI:*:*:Scottish PC West:Scottish PC East:9000:*:^NANTI
+COPX:EGNR:*:NANTI:*:*:Scottish PC West:Scottish PC East:9000:*:^NANTI
 
 COPX:*:*:MCT:EGNX:*:Scottish PC West:Scottish PC East:*:20000:MCT
 COPX:*:*:MCT:EGBB:*:Scottish PC West:Scottish PC East:*:20000:MCT
@@ -18,3 +18,6 @@ COPX:*:*:NUGRA:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NUGRA15
 
 COPX:*:*:NOKIN:EGBB:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
 COPX:*:*:NOKIN:EGNX:*:Scottish PC West:Scottish PC East:*:20000:NOKIN
+
+COPX:EGGP:*:POL:*:*:Scottish PC West:Scottish PC East:*:9000:^POL
+COPX:EGGP:*:BARTN:*:*:Scottish PC West:Scottish PC East:*:9000:^BARTN

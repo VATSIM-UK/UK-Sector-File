@@ -1,8 +1,8 @@
-COPX:EGFF:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGFH:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGDX:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGGD:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGVN:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGBJ:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGDL:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
-COPX:EGVA:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:BPK
+COPX:EGFF:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGFH:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGSY:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGGD:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGVN:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGBJ:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGDL:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
+COPX:EGVA:*:BPK:*:*:London AC Dover:London AC Clacton:29000:*:^BPK
