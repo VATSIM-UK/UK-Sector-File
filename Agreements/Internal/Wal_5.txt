@@ -1,0 +1,13 @@
+COPX:EGCC:*:^MONTY:*:*:Wallasey:London S5:19000:*:^MONTY
+COPX:EGCD:*:^MONTY:*:*:Wallasey:London S5:19000:*:^MONTY
+COPX:EGGP:*:^MONTY:*:*:Wallasey:London S5:19000:*:^MONTY
+COPX:EGNH:*:^MONTY:*:*:Wallasey:London S5:19000:*:^MONTY
+COPX:EGNO:*:^MONTY:*:*:Wallasey:London S5:19000:*:^MONTY
+COPX:EGNR:*:^MONTY:*:*:Wallasey:London S5:19000:*:^MONTY
+
+COPX:EGCC:*:^KARNO:*:*:Wallasey:London S5:19000:*:^KARNO
+COPX:EGCD:*:^KARNO:*:*:Wallasey:London S5:19000:*:^KARNO
+COPX:EGGP:*:^KARNO:*:*:Wallasey:London S5:19000:*:^KARNO
+COPX:EGNH:*:^KARNO:*:*:Wallasey:London S5:19000:*:^KARNO
+COPX:EGNO:*:^KARNO:*:*:Wallasey:London S5:19000:*:^KARNO
+COPX:EGNR:*:^KARNO:*:*:Wallasey:London S5:19000:*:^KARNO

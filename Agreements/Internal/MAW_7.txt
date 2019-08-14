@@ -1,3 +1,0 @@
-COPX:EGNM:*:PENIL:*:*:Scottish PC West:London S7:28000:*:PENIL
-
-COPX:EIDW:*:ROLEX:*:*:Scottish PC West:London S7:28000:*:ROLEX
