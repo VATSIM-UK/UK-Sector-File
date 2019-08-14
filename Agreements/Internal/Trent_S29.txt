@@ -1,0 +1,2 @@
+COPX:EGBB:*:TNT:*:*:Trent:Sector 29:19000:*:POL25
+COPX:EGNX:*:TNT:*:*:Trent:Sector 29:19000:*:POL25
