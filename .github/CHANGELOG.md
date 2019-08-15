@@ -14,9 +14,10 @@
 13. AIRAC (1907) - Biggin Hill (EGKB) Holding Point "AB" Removed - thanks to @nathaninnes (Nathan Innes)
 14. Bug - Added new agreement rule for Stansted (EGSS) traffic via M183, FL160 TC NW -> AC S - thanks to @hsugden (Harry Sugden)
 15. AIRAC (1907) - Manchester (EGCC) Stand 101 Removed - thanks to @nathaninnes (Nathan Innes)
-16. Bug - Stravangers Ownership Issues - thanks to @kye-taylor (Kye Taylor)
-17. Enhancement - Updated EGAC ownership such that Aldergrove Approach (EGAA_APP, 128.5) covers top down at EGAA+AC - thanks to @hsugden
+16. Bug - Stravanger Ownership Issues - thanks to @kye-taylor (Kye Taylor)
+17. Enhancement - Updated EGAC ownership such that Aldergrove Approach (EGAA_APP, 128.5) covers top down at EGAA+AC - thanks to @hsugden (Harry Sugden)
 18. Enhancement - Updated Sector Names in PC Sectors  - thanks to @cpawley (Chris Pawley)
+19. Enhancement - Added functionality for Wallasey Sector - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
