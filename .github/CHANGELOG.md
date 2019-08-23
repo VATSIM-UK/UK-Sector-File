@@ -1,3 +1,6 @@
+# Changes from release 2019/09 to 2019/10
+1. AIRAC (1910) - NGY withdrawn and replaced with ORVUL - thanks to @indianbhaji (Eric Liu)
+
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
 2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @artturnip (Adam Turner)
