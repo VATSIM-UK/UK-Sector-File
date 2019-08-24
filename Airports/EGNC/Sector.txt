@@ -1,12 +1,12 @@
 CIRCLE_SECTORLINE:Only NCTWR:EGNC:2.5
-DISPLAY:Scottish PC West:Scottish PC West:Only NCTWR
-DISPLAY:Scottish PC East:Scottish PC East:Only NCTWR
+DISPLAY:North:North:Only NCTWR
+DISPLAY:East:East:Only NCTWR
 DISPLAY:Galloway:Only NCTWR 1:Only NCTWR 2
 DISPLAY:Talla:Only NCTWR 1:Only NCTWR 2
 
 CIRCLE_SECTORLINE:Only NCAPP:EGNC:5
-DISPLAY:Scottish PC West:Scottish PC West:Only NCAPP
-DISPLAY:Scottish PC East:Scottish PC East:Only NCAPP
+DISPLAY:North:North:Only NCAPP
+DISPLAY:East:East:Only NCAPP
 DISPLAY:Galloway:Galloway:Only NCAPP
 DISPLAY:Talla:Talla:Only NCAPP
 

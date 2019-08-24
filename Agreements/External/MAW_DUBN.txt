@@ -1,2 +1,0 @@
-FIR_COPX:*:*:RAMOX:EIDW:*:Scottish PC West:DUBN:*:20000:|RAMOX
-FIR_COPX:*:*:SITKU:EIDW:*:Scottish PC West:DUBN:*:20000:|SITKU
