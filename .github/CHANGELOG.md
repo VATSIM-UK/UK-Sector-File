@@ -1,4 +1,7 @@
 # Changes from release 2019/08 to 2019/09
+1. AIRAC (1910) - Added new MOD airfields - thanks to @1adamf (Adam Farquharson)
+
+# Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
 2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @artturnip (Adam Turner)
 3. Enhancement - Heathrow (EGLL) INT N frequency discrepancy note added - thanks to @hsugden (Harry Sugden)
