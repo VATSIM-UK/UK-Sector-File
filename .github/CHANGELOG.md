@@ -2,6 +2,7 @@
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
 2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
 3. Enhancement - Added climbing/descending arrows to agreements from TC South sectors - thanks to @hsugden (Harry Sugden)
+4. Enhancement - New Aberdeen (EGPD) SMR - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
