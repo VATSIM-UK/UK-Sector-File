@@ -1,0 +1,2 @@
+COPX:EGNT:*:GASKO:*:*:East:Sector 29:21000:*:GASKO
+COPX:EGNV:*:GASKO:*:*:East:Sector 29:19000:*:^GASKO
