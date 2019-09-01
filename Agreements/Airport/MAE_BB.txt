@@ -1,2 +1,0 @@
-COPX:*:*:CHASE:EGBB:*:Scottish PC East:BBAPP:*:9000:CHASE
-COPX:*:*:CHASE:EGBE:*:Scottish PC East:BBAPP:*:9000:CHASE

@@ -60,6 +60,7 @@ North:Scottish Control:128.670:MN:M:MAN:CTR:-:-::
 Isle of Man:Scottish Control:133.050:MI:M:MAN:CTR:-:-::
 SE Trent:Scottish Control:119.520:MT:M:MAN:CTR:-:-::
 SE Stafa:Scottish Control:134.420:MS:M:MAN:CTR:-:-::
+Wallasey:Scottish Control:125.950:MWAL:M:MAN:CTR:-:-:0501:0577:N053.23.30.998:W003.08.03.998
 ;Scottish
 Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose:Scottish Control:129.920:SEW:E:SCO:CTR:-:-:3601:3632::
