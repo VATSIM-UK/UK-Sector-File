@@ -1,5 +1,11 @@
 # Changes from release 2019/09 to 2019/10
-1. AIRAC (1910) - NGY withdrawn and replaced with ORVUL - thanks to @indianbhaji (Eric Liu)
+1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
+2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
+3. Enhancement - Added climbing/descending arrows to agreements from TC South sectors - thanks to @hsugden (Harry Sugden)
+4. Enhancement - New Aberdeen (EGPD) SMR - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1910) - EGLL SMR Update -> Re-added stands 323,517,581 - thanks to @epicdemon99 (Nathaniel Leff)
+6. AIRAC (1910) - EGLL STAR Update - NIGIT -> BEDEK - thanks to @epicdemon99 (Nathaniel Leff)
+7. AIRAC (1910) - NGY withdrawn and replaced with ORVUL - thanks to @indianbhaji (Eric Liu)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
