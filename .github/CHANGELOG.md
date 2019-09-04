@@ -3,6 +3,7 @@
 2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
 3. Enhancement - Added climbing/descending arrows to agreements from TC South sectors - thanks to @hsugden (Harry Sugden)
 4. Enhancement - New Aberdeen (EGPD) SMR - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1910) - EGLL SMR Update -> Re-added stands 323,517,581 - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
