@@ -6,6 +6,9 @@
 5. AIRAC (1910) - EGLL SMR Update -> Re-added stands 323,517,581 - thanks to @epicdemon99 (Nathaniel Leff)
 6. AIRAC (1910) - EGLL STAR Update - NIGIT -> BEDEK - thanks to @epicdemon99 (Nathaniel Leff)
 7. AIRAC (1910) - NGY withdrawn and replaced with ORVUL - thanks to @indianbhaji (Eric Liu)
+8. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
+9. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
+10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
