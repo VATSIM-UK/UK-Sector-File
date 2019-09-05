@@ -60,6 +60,7 @@ North:Scottish Control:128.670:MN:M:MAN:CTR:-:-::
 Isle of Man:Scottish Control:133.050:MI:M:MAN:CTR:-:-::
 SE Trent:Scottish Control:119.520:MT:M:MAN:CTR:-:-::
 SE Stafa:Scottish Control:134.420:MS:M:MAN:CTR:-:-::
+Wallasey:Scottish Control:125.950:MWAL:M:MAN:CTR:-:-:0501:0577:N053.23.30.998:W003.08.03.998
 ;Scottish
 SCO_N_CTR:Scottish Control:129.220:SN:W:SCO:CTR:-:-:3601:3632:N059.02.05.447:W002.55.24.968
 SCO_S_CTR:Scottish Control:134.770:SS:W:SCO:CTR:-:-:3601:3632:N055.17.24.521:E000.32.49.087

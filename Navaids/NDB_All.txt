@@ -96,7 +96,7 @@ MW    376.000 N051.09.08.400 W001.33.43.200
 ND    396.000 N052.38.06.000 E001.43.43.800
 ;NDB - data not confirmed
 ;Netherlands, verified 2012/01
-NGY   399.000 N055.10.39.000 W004.10.07.000 ; New Galloway
+NGY   399.000 N055.10.39.000 W004.10.07.000 ; New Galloway - must be withdrawn alongside with NGY departures in EGPK/Sids.txt
 NH    371.500 N052.40.35.120 E001.23.04.960
 NL    371.500 N052.40.35.119 E001.23.04.960 ; Norwich
 NOT   430.000 N052.55.18.098 W001.04.45.599 ; Nottingham

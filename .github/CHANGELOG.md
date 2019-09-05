@@ -1,3 +1,15 @@
+# Changes from release 2019/09 to 2019/10
+1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
+2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
+3. Enhancement - Added climbing/descending arrows to agreements from TC South sectors - thanks to @hsugden (Harry Sugden)
+4. Enhancement - New Aberdeen (EGPD) SMR - thanks to @hsugden (Harry Sugden)
+5. AIRAC (1910) - EGLL SMR Update -> Re-added stands 323,517,581 - thanks to @epicdemon99 (Nathaniel Leff)
+6. AIRAC (1910) - EGLL STAR Update - NIGIT -> BEDEK - thanks to @epicdemon99 (Nathaniel Leff)
+7. AIRAC (1910) - NGY withdrawn and replaced with ORVUL - thanks to @indianbhaji (Eric Liu)
+8. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
+9. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
+10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
 2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @artturnip (Adam Turner)
@@ -12,10 +24,12 @@
 11. AIRAC (1909) - Converted Y47 and Y124 airways to RNAV - thanks to @indianbhaji (Eric Liu)
 12. Enhancement - Added missing Heathrow (EGLL) Taxiway S intermediate holding points - thanks to @hsugden (Harry Sugden)
 13. AIRAC (1907) - Biggin Hill (EGKB) Holding Point "AB" Removed - thanks to @nathaninnes (Nathan Innes)
-14. Bug - Added new agreement rule for Stansted (EGSS) traffic via M183, FL160 TC NW -> AC S - thanks to @hsugden (Harry Sugden) 
-15. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
-17. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
+14. Bug - Added new agreement rule for Stansted (EGSS) traffic via M183, FL160 TC NW -> AC S - thanks to @hsugden (Harry Sugden)
+15. AIRAC (1907) - Manchester (EGCC) Stand 101 Removed - thanks to @nathaninnes (Nathan Innes)
+16. Bug - Stavanger Ownership Issues - thanks to @kye-taylor (Kye Taylor)
+17. Enhancement - Updated EGAC ownership such that Aldergrove Approach (EGAA_APP, 128.5) covers top down at EGAA+AC - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Updated Sector Names in PC Sectors  - thanks to @cpawley (Chris Pawley)
+19. Enhancement - Added functionality for Wallasey Sector - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
