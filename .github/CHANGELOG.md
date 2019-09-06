@@ -9,6 +9,7 @@
 8. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
 9. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
 10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
+X. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
