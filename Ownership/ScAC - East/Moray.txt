@@ -5,7 +5,7 @@ ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SN:SE:S
 BORDER:Mor_BIRD:Mor_ENSV_N:Mor_ENSV:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 2:Heb_Mor Low:Heb_Mor 1
 
 SECTOR:Moray (255-660):25500:66000
-OWNER:SN:SE:S
+OWNER:SN:SE:S:EI
 ALTOWNER:Observing Scottish FIR:O:SM:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SN:SE:S
 BORDER:Mor_BIRD:Mor_ENSV_N:Mor_ENSV:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 2:Mor Low Tri:Heb_Mor 1
