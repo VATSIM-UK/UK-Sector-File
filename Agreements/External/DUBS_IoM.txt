@@ -1,0 +1,2 @@
+FIR_COPX:EIDW:*:LUTIP:*:*:DUBS:Isle of Man:23000:*:^LUTIP
+FIR_COPX:EIDW:*:*:*:*:DUBS:Isle of Man:23000:*:^LUTIP
