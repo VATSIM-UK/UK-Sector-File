@@ -1,0 +1,2 @@
+;FixMe LUVUM/ADMEX etc?
+COPX:EGBB:*:TNT:*:*:BBAPP:Trent:8000:*:^TNT
