@@ -18,6 +18,7 @@
 17. AIRAC (1910) - P6, P620 and L10 to RNAV - thanks to @inventor02 (George Peppard)
 18. AIRAC (1910) - Added new MOD airfields - thanks to @1adamf (Adam Farquharson)
 19. Enhancement - Added functionality to TC East - thanks to @cpawley (Chris Pawley)
+20. Enhancement - Updated Manchester (EGCC) RMA sector line coordinates - thanks to @hsugden (Harry Sugden) & @xItsTomx (Tom Sirett)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
