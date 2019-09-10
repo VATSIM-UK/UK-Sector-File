@@ -10,7 +10,7 @@ FIR_COPX:*:*:SASKI:EGKB:*:EBBU:London AC Clacton:*:28000:KEGIT
 FIR_COPX:*:*:SASKI:EGMC:*:EBBU:London AC Clacton:*:28000:KEGIT
 FIR_COPX:*:*:SASKI:EGTO:*:EBBU:London AC Clacton:*:28000:KEGIT
 
-FIR_COPX:*:*:RAPIX:EGKK:*:EBBU:London AC Clacton:*:28000:BULAM
+FIR_COPX:*:*:RAPIX:EGKK:*:EBBU:London AC Clacton:*:29000:BULAM
 
 FIR_COPX:*:*:SASKI:*:*:EBBU:London AC Clacton:*:*:SASKI
 FIR_COPX:*:*:RAPIX:*:*:EBBU:London AC Clacton:*:*:RAPIX
