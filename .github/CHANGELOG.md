@@ -20,6 +20,8 @@
 19. Enhancement - Added functionality to TC East - thanks to @cpawley (Chris Pawley)
 20. Enhancement - Updated Manchester (EGCC) RMA sector line coordinates - thanks to @hsugden (Harry Sugden) & @xItsTomx (Tom Sirett)
 21. Enhancement - Removed obsolete AIRWAYS ARTCC High lines - thanks to @hsugden (Harry Sugden)
+22. Enhancement - Added climbing/descending arrows to agreements from ScTMA sectors - thanks to @hsugden (Harry Sugden)
+
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
