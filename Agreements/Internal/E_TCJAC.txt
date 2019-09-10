@@ -1,0 +1,21 @@
+COPX:*:*:RINIS:EGSS:*:London AC Clacton:London TC JACKO:*:22000:RINIS
+COPX:*:*:RINIS:EGSC:*:London AC Clacton:London TC JACKO:*:22000:RINIS
+COPX:*:*:RINIS:EGGW:*:London AC Clacton:London TC JACKO:*:22000:RINIS
+
+COPX:*:*:TOSVA:EGSS:*:London AC Clacton:London TC JACKO:*:22000:TOSVA
+COPX:*:*:TOSVA:EGSC:*:London AC Clacton:London TC JACKO:*:22000:TOSVA
+COPX:*:*:TOSVA:EGGW:*:London AC Clacton:London TC JACKO:*:22000:TOSVA
+
+COPX:*:*:XAMAN:EGSS:*:London AC Clacton:London TC JACKO:*:22000:XAMAN
+COPX:*:*:XAMAN:EGSC:*:London AC Clacton:London TC JACKO:*:22000:XAMAN
+COPX:*:*:XAMAN:EGGW:*:London AC Clacton:London TC JACKO:*:22000:XAMAN
+
+COPX:*:*:INLOD:EGLC:*:London AC Clacton:London TC JACKO:*:22000:INLOD
+COPX:*:*:INLOD:EGKB:*:London AC Clacton:London TC JACKO:*:22000:INLOD
+COPX:*:*:INLOD:EGTO:*:London AC Clacton:London TC JACKO:*:22000:INLOD
+COPX:*:*:INLOD:EGMC:*:London AC Clacton:London TC JACKO:*:22000:INLOD
+
+COPX:*:*:MOMIC:EGLC:*:London AC Clacton:London TC JACKO:*:22000:MOMIC
+COPX:*:*:MOMIC:EGKB:*:London AC Clacton:London TC JACKO:*:22000:MOMIC
+COPX:*:*:MOMIC:EGTO:*:London AC Clacton:London TC JACKO:*:22000:MOMIC
+COPX:*:*:MOMIC:EGMC:*:London AC Clacton:London TC JACKO:*:22000:MOMIC
