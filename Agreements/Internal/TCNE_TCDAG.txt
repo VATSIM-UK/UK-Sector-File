@@ -24,5 +24,3 @@ COPX:EGGW:*:*:CLN:*:London TC NE:London TC DAGGA:15000:*:^CLN
 
 COPX:EGKK:*:*:CLN:*:London TC NE:London TC DAGGA:17000:*:^CLN
 COPX:EGKB:*:*:CLN:*:London TC NE:London TC DAGGA:17000:*:^CLN
-
-
