@@ -11,6 +11,7 @@
 10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
 11. Bug - Corrected EBBU high -> Clacton Gatwick inbounds agreement - thanks to @hsugden (Harry Sugden)
 12. Bug - Corrected erroneous COPX East -> London S10 - thanks to @hsugden (Harry Sugden)
+13. Bug - Fixed incorrect spelling of 'Wallasey' in agreement - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
