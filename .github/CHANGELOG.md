@@ -14,6 +14,7 @@
 13. Bug - Fixed incorrect spelling of 'Wallasey' in agreement - thanks to @hsugden (Harry Sugden)
 14. AIRAC (1909) - Added Exeter (EGTE) SMR holding point labels - thanks to @inventor02 (George Peppard)
 15. Bug - Corrected LFRR -> AC South agreement level for Thames inbounds - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added climbing/descending arrows to agreements from External sectors to EGTT sectors - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
