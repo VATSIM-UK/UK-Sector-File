@@ -9,7 +9,22 @@
 8. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
 9. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
 10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
-X. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden (Harry Sugden)
+11. Bug - Corrected EBBU high -> Clacton Gatwick inbounds agreement - thanks to @hsugden (Harry Sugden)
+12. Bug - Corrected erroneous COPX East -> London S10 - thanks to @hsugden (Harry Sugden)
+13. Bug - Fixed incorrect spelling of 'Wallasey' in agreement - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1909) - Added Exeter (EGTE) SMR holding point labels - thanks to @inventor02 (George Peppard)
+15. Bug - Corrected LFRR -> AC South agreement level for Thames inbounds - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added climbing/descending arrows to agreements from External sectors to EGTT sectors - thanks to @hsugden (Harry Sugden)
+17. AIRAC (1910) - P6, P620 and L10 to RNAV - thanks to @inventor02 (George Peppard)
+18. AIRAC (1910) - Added new MOD airfields - thanks to @1adamf (Adam Farquharson)
+19. Enhancement - Added functionality to TC East - thanks to @cpawley (Chris Pawley)
+20. Enhancement - Updated Manchester (EGCC) RMA sector line coordinates - thanks to @hsugden (Harry Sugden) & @xItsTomx (Tom Sirett)
+21. Enhancement - Removed obsolete AIRWAYS ARTCC High lines - thanks to @hsugden (Harry Sugden)
+22. Enhancement - Added climbing/descending arrows to agreements from ScTMA sectors - thanks to @hsugden (Harry Sugden)
+23. Enhancement - Added climbing/descending arrows to agreements from STC Antrim sector - thanks to @hsugden (Harry Sugden)
+24. AIRAC (1906) - Amended, truncated and remove various RNAV airways - thanks to @artturnip (Adam Turner)
+25. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden (Harry Sugden)
+
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
