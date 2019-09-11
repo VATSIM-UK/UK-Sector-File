@@ -1,5 +1,5 @@
 # Changes from release 2019/10 to 2019/11
-1. Enhancement - Added LON_SC_CTR Observing - thanks to @kye-taylor (Kye Taylor)
+X. Enhancement - Added Observing LON_SC_CTR sector ownership functionality - thanks to @kye-taylor (Kye Taylor)
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
 2. AIRAC (1905) - EGNV frequency update - thanks to @danielbutton (Daniel Button)
