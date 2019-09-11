@@ -22,6 +22,8 @@
 21. Enhancement - Removed obsolete AIRWAYS ARTCC High lines - thanks to @hsugden (Harry Sugden)
 22. Enhancement - Added climbing/descending arrows to agreements from ScTMA sectors - thanks to @hsugden (Harry Sugden)
 23. Enhancement - Added climbing/descending arrows to agreements from STC Antrim sector - thanks to @hsugden (Harry Sugden)
+24. AIRAC (1906) - Amended, truncated and remove various RNAV airways - thanks to @artturnip (Adam Turner)
+25. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden (Harry Sugden)
 X. Enhancement - Added EURI ownership over UK area sectors to aid controller handoff - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
