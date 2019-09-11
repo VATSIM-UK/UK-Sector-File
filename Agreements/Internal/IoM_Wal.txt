@@ -1,0 +1,11 @@
+COPX:*:*:IBRAR:EGCC:*:Isle of Man:Wallasey:*:17000:IBRAR
+COPX:*:*:PENIL:EGCC:*:Isle of Man:Wallasey:*:17000:PENIL
+COPX:*:*:MALUD:EGCC:*:Isle of Man:Wallasey:*:17000:MALUD
+
+COPX:*:*:PENIL:EGGP:*:Isle of Man:Wallasey:*:13000:|PENIL
+COPX:*:*:PENIL:EGNR:*:Isle of Man:Wallasey:*:13000:|PENIL
+COPX:*:*:MALUD:EGGP:*:Isle of Man:Wallasey:*:13000:|MALUD
+COPX:*:*:MALUD:EGNR:*:Isle of Man:Wallasey:*:13000:|MALUD
+
+COPX:*:*:NOMSU:EGNM:*:Isle of Man:Wallasey:*:17000:NOMSU
+COPX:*:*:NOMSU:EGCN:*:Isle of Man:Wallasey:*:17000:NOMSU
