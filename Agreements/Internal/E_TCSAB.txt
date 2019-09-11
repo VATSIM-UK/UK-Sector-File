@@ -1,0 +1,22 @@
+COPX:*:*:ARREK:EGKK:*:London AC Clacton:London TC SABER:*:22000:ARREK
+COPX:*:*:SUNUP:EGKK:*:London AC Clacton:London TC SABER:*:22000:SUNUP
+
+COPX:*:*:LOGAN:EGHI:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGHH:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGHL:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGLF:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGLK:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGTD:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGTF:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+COPX:*:*:LOGAN:EGVO:*:London AC Clacton:London TC SABER:*:24000:LOGAN
+
+COPX:*:*:LOGAN:EGLL:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+COPX:*:*:LOGAN:EGWU:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+COPX:*:*:LOGAN:EGBJ:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+COPX:*:*:LOGAN:EGDL:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+COPX:*:*:LOGAN:EGVA:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+COPX:*:*:LOGAN:EGVN:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+COPX:*:*:LOGAN:EGTK:*:London AC Clacton:London TC SABER:*:25000:LOGAN
+
+;Withdrawn 2018/13 (old TIMBA1J via ERING)
+COPX:*:*:ERING:EGKK:*:London AC Clacton:London TC SABER:*:22000:ERING10
