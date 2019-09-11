@@ -1,0 +1,24 @@
+COPX:EGLL:*:*:LEDBO:*:London TC DAGGA:London AC Clacton:23000:*:^TEDSA
+COPX:EGWU:*:*:LEDBO:*:London TC DAGGA:London AC Clacton:23000:*:^TEDSA
+COPX:EGLL:*:*:SOMVA:*:London TC DAGGA:London AC Clacton:23000:*:^PAAVO
+COPX:EGWU:*:*:SOMVA:*:London TC DAGGA:London AC Clacton:23000:*:^PAAVO
+COPX:EGLL:*:*:DAGGA:*:London TC DAGGA:London AC Clacton:23000:*:^GASBA
+COPX:EGWU:*:*:DAGGA:*:London TC DAGGA:London AC Clacton:23000:*:^GASBA
+
+COPX:EGGW:*:*:LEDBO:*:London TC DAGGA:London AC Clacton:23000:*:^TEDSA
+COPX:EGGW:*:*:SOMVA:*:London TC DAGGA:London AC Clacton:23000:*:^PAAVO
+COPX:EGGW:*:*:DAGGA:*:London TC DAGGA:London AC Clacton:23000:*:^GASBA
+
+COPX:EGKK:*:*:LEDBO:*:London TC DAGGA:London AC Clacton:23000:*:^TEDSA
+COPX:EGKB:*:*:LEDBO:*:London TC DAGGA:London AC Clacton:23000:*:^TEDSA
+COPX:EGKK:*:*:SOMVA:*:London TC DAGGA:London AC Clacton:23000:*:^PAAVO
+COPX:EGKB:*:*:SOMVA:*:London TC DAGGA:London AC Clacton:23000:*:^PAAVO
+COPX:EGKK:*:*:DAGGA:*:London TC DAGGA:London AC Clacton:23000:*:^RATLO
+COPX:EGKB:*:*:DAGGA:*:London TC DAGGA:London AC Clacton:23000:*:^RATLO
+
+;Pre AIRAC 1813 Routings/Agreements
+COPX:EGLL:*:*:CLN:*:London TC DAGGA:London AC Clacton:23000:*:^CLN
+COPX:EGWU:*:*:CLN:*:London TC DAGGA:London AC Clacton:23000:*:^CLN
+COPX:EGKK:*:*:CLN:*:London TC DAGGA:London AC Clacton:23000:*:^CLN
+COPX:EGKB:*:*:CLN:*:London TC DAGGA:London AC Clacton:23000:*:^CLN
+COPX:EGGW:*:*:CLN:*:London TC DAGGA:London AC Clacton:23000:*:^CLN
