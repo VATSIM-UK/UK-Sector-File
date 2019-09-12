@@ -1,3 +1,6 @@
+# Changes from release 2019/10 to 2019/11
+X. Enhancement - Backend changes to IBNOS area sector line names - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
 2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
@@ -24,7 +27,6 @@
 23. Enhancement - Added climbing/descending arrows to agreements from STC Antrim sector - thanks to @hsugden (Harry Sugden)
 24. AIRAC (1906) - Amended, truncated and remove various RNAV airways - thanks to @artturnip (Adam Turner)
 25. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden (Harry Sugden)
-X. Enhancement - Backend changes to IBNOS area sector line names - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
