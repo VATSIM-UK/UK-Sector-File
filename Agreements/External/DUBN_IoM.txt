@@ -1,0 +1,1 @@
+FIR_COPX:EIDW:*:GINIS:*:*:DUBN:Isle of Man:23000:*:^GINIS
