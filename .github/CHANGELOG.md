@@ -5,6 +5,7 @@
 4. AIRAC (1911) - Extended Edinburgh (EGPH) Turnhouse Apron - thanks to @Kye-Taylor (Kye Taylor)
 5. AIRAC (1911) - New Stand 103 at Gatwick (EGKK) - thanks to @Kye-Taylor (Kye Taylor)
 6. Enhancement - EBxx Danger Area Update - thanks to @cbyworth (Chad Byworth)
+7. Enhancement - LFxx Danger Area Update - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
