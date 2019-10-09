@@ -1,4 +1,4 @@
-# Changes from release 2019/09 to 2019/10
+# Changes from release 2019/10 to 2019/11
 X. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/09 to 2019/10
