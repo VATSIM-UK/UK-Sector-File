@@ -32,12 +32,12 @@ London Control S9:London Control:132.950:L6:L:LON-W6:CTR:-:-::
 London Control S27:London Control:129.200:L27:L:LON:CTR:-:-::
 London Control S32:London Control:131.120:LNC:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N052.07.30.663:W000.03.23.581
 London Control S34:London Control:127.870:LWC:L:LON:CTR:-:-:::N051.18.21.496:W004.09.51.334:N052.07.30.663:W000.03.23.581
-London Control S14:London Control:118.470:L14:L:LON:CTR:-:-::
+London Control S14:London Control:118.470:L14:L:LON:CTR:-:-:: ;AC Clacton
 ;South
 London Control  S2:London Control:127.420:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
 London Control S18:London Control:135.320:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
 London Control S19:London Control:135.050:LWS:L:LON:CTR:-:-:0301:0377:N051.18.21.496:W004.09.51.334:N051.12.49.331:E000.03.49.130
-London Control S22:London Control:127.820:LWS:L:LON:CTR:-:-:0301:0377:N051.18.21.496:W004.09.51.334:N051.12.49.331:E000.03.49.130
+London Control S22:London Control:127.820:LWS:L:LON:CTR:-:-:0301:0377:N051.18.21.496:W004.09.51.334:N051.12.49.331:E000.03.49.130 ;AC Bandbox
 London Control S16:London Control:136.600:L16:L:LON:CTR:-:-:0301:0377::
 London Control S17:London Control:128.420:L:L:LON:CTR:-:-:0301:0377:N051.32.26.870:W002.43.29.830
 ;TC Midlands
@@ -49,12 +49,14 @@ London Control:London Control:121.020:TCO:L:LTC:CTR:-:-::
 London Control:London Control:129.270:TCL:L:LTC:CTR:-:-::
 London Control:London Control:123.900:TCL:L:LTC:CTR:-:-::
 ;TC East
-LTC_ES_CTR:London Control:135.420:SABER:L:LTC:CTR:-:-:0301:0377:N051.47.19.253:E001.27.02.299
-LTC_ER_CTR:London Control:133.520:REDFA:L:LTC:CTR:-:-:0301:0377:N051.47.19.253:E001.27.02.299
+LTC_ES_CTR:London Control:129.600:SABER:L:LTC:CTR:-:-:0301:0377:N051.36.53.665:E001.01.23.060
+LTC_ER_CTR:London Control:133.520:REDFA:L:LTC:CTR:-:-:0301:0377:N052.10.22.793:E001.41.05.137
+LTC_ED_CTR:London Control:124.920:DAGGA:L:LTC:CTR:-:-:0301:0377:N052.03.44.221:E000.30.42.364
+LTC_EJ_CTR:London Control:135.420:JACKO:L:LTC:CTR:-:-:0301:0377:N051.39.28.213:E001.46.16.431
 ;TC South
 London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051.03.50.110:E000.54.58.144
 ;TC Capital
-London Control:London Control:135.800:TCC:L:LTC:CTR:-:-::
+London Control:London Control:135.800:TCC:L:LTC:CTR:-:-:: ;TC Bandbox
 London Control:London Control:127.950:TCV:L:LTC:CTR:-:-::
 ;Prestwick W2 LAG (MAN)
 North:Scottish Control:128.670:MN:M:MAN:CTR:-:-::
