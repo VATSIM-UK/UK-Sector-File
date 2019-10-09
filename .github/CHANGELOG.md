@@ -1,5 +1,6 @@
 # Changes from release 2019/10 to 2019/11
-X. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
+1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
+2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
