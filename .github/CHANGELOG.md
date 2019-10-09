@@ -10,6 +10,7 @@
 9. Enhancement - Backend changes to IBNOS area sector line names - thanks to @hsugden (Harry Sugden)
 10. Enhancement - Updated Ownership for Southend (EGMC) RAD/APP - thanks to @cpawley (Chris Pawley)
 11. Enhancement - Added Observing LON_SC_CTR sector ownership functionality - thanks to @kye-taylor (Kye Taylor)
+12. AIRAC (1910) - Extended Irish CTA 1 and Strangford CTA - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
