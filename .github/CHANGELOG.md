@@ -9,6 +9,7 @@
 8. Enhancement - Aldergrove (EGAA) And Aldergrove City (EGAC) Departure Level Agreement - @kye-taylor (Kye Taylor)
 9. Enhancement - Backend changes to IBNOS area sector line names - thanks to @hsugden (Harry Sugden)
 10. Enhancement - Updated Ownership for Southend (EGMC) RAD/APP - thanks to @cpawley (Chris Pawley)
+11. Enhancement - Added Observing LON_SC_CTR sector ownership functionality - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
