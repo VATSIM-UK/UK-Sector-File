@@ -1,6 +1,0 @@
-COPX:*:*:ABTUM:EGKK:*:London TC East:London TC SE:*:14000:ABTUM
-
-COPX:*:*:TANET:EGLL:*:London TC East:London TC SE:*:*:TANET
-
-;TIMBA3E withdrawn 02/2016
-COPX:*:*:TANET:EGKK:*:London TC East:London TC SE:*:13000:TANET

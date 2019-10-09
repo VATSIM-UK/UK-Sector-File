@@ -1,0 +1,11 @@
+COPX:EGSS:*:*:LEDBO:*:London TC REDFA:London AC Clacton:21000:*:^LEDBO
+COPX:EGSC:*:*:LEDBO:*:London TC REDFA:London AC Clacton:21000:*:^LEDBO
+COPX:EGSS:*:*:SOMVA:*:London TC REDFA:London AC Clacton:21000:*:^RATLO
+COPX:EGSC:*:*:SOMVA:*:London TC REDFA:London AC Clacton:21000:*:^RATLO
+COPX:EGSS:*:*:REDFA:*:London TC REDFA:London AC Clacton:21000:*:^RATLO
+COPX:EGSC:*:*:REDFA:*:London TC REDFA:London AC Clacton:21000:*:^RATLO
+
+COPX:EGLC:*:*:LEDBO:*:London TC REDFA:London AC Clacton:21000:*:^LEDBO
+COPX:EGLC:*:*:SOMVA:*:London TC REDFA:London AC Clacton:21000:*:^RATLO
+COPX:EGLC:*:*:REDFA:*:London TC REDFA:London AC Clacton:21000:*:^RATLO
+COPX:EGLC:*:*:CLN:*:London TC REDFA:London AC Clacton:21000:*:^CLN
