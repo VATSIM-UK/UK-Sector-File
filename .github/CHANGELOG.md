@@ -3,6 +3,7 @@
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
 3. AIRAC(1911) - EGTC SMR Update - thanks to @Kye-Taylor (Kye Taylor)
 4. AIRAC (1911) - Extended Edinburgh (EGPH) Turnhouse Apron - thanks to @Kye-Taylor (Kye Taylor)
+5. AIRAC (1911) - New Stand 103 at Gatwick (EGKK) - thanks to @Kye-Taylor (Kye Taylor)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
