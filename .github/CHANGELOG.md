@@ -1,5 +1,5 @@
 # Changes from release 2019/11 to 2019/12
-X. (AIRAC 1912) - Updated N862 and Added NEZZA
+X. (AIRAC 1912) - Updated N862 and Added NEZZA - thanks to @tszczypinski6 (Tom Szczypinski)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
