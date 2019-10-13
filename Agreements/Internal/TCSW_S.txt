@@ -11,7 +11,7 @@ COPX:EGLK:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
 COPX:EGTF:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
 COPX:EGHL:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
 
-COPX:EGLL:*:EXARO:*:*:London TC SW:London AC Worthing:15000:*:^SAM
+COPX:EGLL:*:EXARO:*:*:London TC SW:London AC Worthing:15000:*:^EXARO
 
 COPX:EGLL:*:MID:*:*:London TC SW:London AC Worthing:17000:*:^MID
 
