@@ -1,0 +1,2 @@
+;Southern North Sea HMR Fix
+LAGER N053.36.40.000 W000.08.49.000
