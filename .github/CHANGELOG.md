@@ -1,3 +1,6 @@
+# Changes from release 2019/11 to 2019/xx
+x. Bug - Fixed display of ATZ ring to LCTWR when LCR is top-down by London - thanks to @artturnip (Adam Turner)
+
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
