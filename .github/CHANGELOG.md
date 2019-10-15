@@ -1,5 +1,3 @@
-# Changes from release 2019/11 to 2019/12
-X. AIRAC (1912) - EGSS VRP Updated - thanks to @kye-taylor (Kye Taylor)
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
 2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
