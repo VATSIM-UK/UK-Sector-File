@@ -1,4 +1,0 @@
-COPX:*:*:JACKO:EGLC:*:London TC East:Thames:*:9000:JACKO
-COPX:*:*:JACKO:EGKB:*:London TC East:Thames:*:9000:JACKO
-
-COPX:*:*:JACKO:EGMC:*:London TC East:Thames:*:8000:JACKO5
