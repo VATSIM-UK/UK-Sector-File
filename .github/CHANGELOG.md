@@ -1,3 +1,5 @@
+# Changes from release 2019/11 to 2019/12
+X. AIRAC (1912) - EGSS VRP Updated - thanks to @kye-taylor (Kye Taylor)
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
