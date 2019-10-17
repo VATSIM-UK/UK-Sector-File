@@ -1,2 +1,0 @@
-COPX:*:*:FITBO:EGLL:*:London AC Daventry:S8:18000:*:FITBO
-COPX:*:*:FITBO:EGWU:*:London AC Daventry:S8:18000:*:FITBO
