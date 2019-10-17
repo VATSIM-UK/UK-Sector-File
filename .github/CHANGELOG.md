@@ -1,3 +1,5 @@
+# Changes from release 2019/11 to 2011/12
+x. Bug - Fixed Heathrow's (EGLL) Link 35 and Link 36 - thanks to @Kye-Taylor (Kye Taylor)
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
