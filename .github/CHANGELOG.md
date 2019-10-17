@@ -1,3 +1,6 @@
+# Changes from release 2019/11 to 2019/12
+1. Enhancement - Updated Montrose to Talla STMA inbounds - thanks to @1adamf (Adam Farquharson)
+
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
