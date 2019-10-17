@@ -1,0 +1,11 @@
+COPX:*:*:UMBUR:EGHH:*:London TC SABER:London AC Worthing:*:21000:UMBUR20
+COPX:*:*:UMBUR:EGHI:*:London TC SABER:London AC Worthing:*:21000:UMBUR20
+
+COPX:*:*:LAM:EGLF:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGLK:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGTF:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGHL:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGVN:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGVA:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGDL:*:London TC SABER:London AC Worthing:*:21000:LAM15
+COPX:*:*:LAM:EGTK:*:London TC SABER:London AC Worthing:*:21000:LAM15

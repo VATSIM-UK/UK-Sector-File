@@ -13,8 +13,8 @@ COORD:N053.10.17.000:W001.20.43.000
 COORD:N053.06.42.000:W000.46.27.000
 
 SECTORLINE:ME3
-DISPLAY:East:East:Scottish AC East
-DISPLAY:Scottish AC East:Scottish AC East:East
+DISPLAY:East:East:Montrose
+DISPLAY:Montrose:Montrose:East
 DISPLAY:East:East:Deancross
 DISPLAY:Deancross:Deancross:East
 COORD:N054.14.60.000:W002.10.00.000
