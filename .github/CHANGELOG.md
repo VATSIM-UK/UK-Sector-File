@@ -1,4 +1,3 @@
-
 15. AIRAC (1912) - Rerouted L22 and add HICAP as new fix - thanks to @LEWISC44 (Lewis Corcoran)
 
 # Changes from release 2019/10 to 2019/11
