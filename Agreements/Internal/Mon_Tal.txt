@@ -1,3 +1,3 @@
-COPX:*:*:AGPED:EGPH:*:Montrose:Talla:*:26000:|AGPED
-COPX:*:*:AGPED:EGPF:*:Montrose:Talla:*:26000:|AGPED
-COPX:*:*:AGPED:EGPK:*:Montrose:Talla:*:26000:|AGPED
+COPX:*:*:AGPED:EGPH:*:Montrose:Talla:*:26000:AGPED
+COPX:*:*:AGPED:EGPF:*:Montrose:Talla:*:26000:AGPED
+COPX:*:*:AGPED:EGPK:*:Montrose:Talla:*:26000:AGPED
