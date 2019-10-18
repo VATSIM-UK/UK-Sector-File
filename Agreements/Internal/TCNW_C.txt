@@ -5,8 +5,8 @@ COPX:EGLK:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:^WCO
 COPX:EGTF:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:^WCO
 COPX:EGHL:*:WCO:*:*:London TC NW:London AC Daventry:14000:*:^WCO
 
-COPX:EGLL:*:WOBUN:*:*:London TC NW:London AC Daventry:14000:*:^WOBUN
-COPX:EGLL:*:BUZAD:*:*:London TC NW:London AC Daventry:14000:*:^BUZAD
+COPX:EGLL:*:*:WELIN:*:London TC NW:London AC Daventry:14000:*:^WELIN
+; Additional agreements to match unusual flightplans
 COPX:EGLL:*:UMLAT:*:*:London TC NW:London AC Daventry:14000:*:^UMLAT
 COPX:EGLL:*:ULTIB:*:*:London TC NW:London AC Daventry:14000:*:^ULTIB
 
