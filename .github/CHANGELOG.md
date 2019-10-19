@@ -1,5 +1,12 @@
 # Changes from release 2019/11 to 2019/12
-X. AIRAC (1912) - Amended West CTA - thanks to @Kye-Taylor (Kye Taylor)
+1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
+2. AIRAC (1912) - Fixes N19 added JOZMA - thanks to @LEWISC44 (Lewis Corcoran)
+3. AIRAC (1912) - Fixes L180 added DUFZO, FIGZI - thanks to @LEWISC44 (Lewis Corcoran)
+4. AIRAC (1912) - Fixes L620 added KOFAL - thanks to @LEWISC44 (Lewis Corcoran)
+5. AIRAC (1912) - Rerouted L22 and add HICAP as new fix - thanks to @LEWISC44 (Lewis Corcoran)
+6. AIRAC (1912) - Added EGBB STAR - thanks to @epicdemon99 (Nathaniel Leff)
+7. AIRAC (1912) - Amended West CTA - thanks to @Kye-Taylor (Kye Taylor)
+
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
