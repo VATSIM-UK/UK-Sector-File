@@ -2,6 +2,7 @@
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
 2. AIRAC (1912) - Fixes N19 added JOZMA - thanks to @LEWISC44 (Lewis Corcoran)
 3. AIRAC (1912) - Fixes L180 added DUFZO, FIGZI - thanks to @LEWISC44 (Lewis Corcoran)
+4. AIRAC (1912) - Fixes L620 added KOFAL - thanks to @LEWISC44 (Lewis Corcoran)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
