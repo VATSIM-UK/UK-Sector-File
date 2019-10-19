@@ -7,6 +7,7 @@
 6. AIRAC (1912) - Added EGBB STAR - thanks to @epicdemon99 (Nathaniel Leff)
 7. AIRAC (1912) - Amended West CTA - thanks to @Kye-Taylor (Kye Taylor)
 8. AIRAC (1912) - Removed N54 - thanks to @LEWISC44 (Lewis Corcoran)
+9. AIRAC (1912) - Y8 reroute - thanks to @Kye-Taylor (Kye Taylor)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
