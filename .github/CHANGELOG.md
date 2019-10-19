@@ -1,3 +1,6 @@
+# Changes from release 2019/11 to 2019/12
+X. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
