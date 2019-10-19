@@ -1,5 +1,3 @@
-x. AIRAC (1912) - Amended EGLL STARs - thanks to @epicdemon99 (Nathaniel Leff)
-
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
@@ -14,6 +12,7 @@ x. AIRAC (1912) - Amended EGLL STARs - thanks to @epicdemon99 (Nathaniel Leff)
 11. Enhancement - Added Observing LON_SC_CTR sector ownership functionality - thanks to @kye-taylor (Kye Taylor)
 12. AIRAC (1910) - Extended Irish CTA 1 and Strangford CTA - thanks to @hsugden (Harry Sugden)
 13. Enhancement - Added climbing/descending arrows to agreements from ScAC East sectors - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1912) - Amended EGLL STARs - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
