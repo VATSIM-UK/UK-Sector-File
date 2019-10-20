@@ -9,6 +9,7 @@
 8. AIRAC (1912) - Removed N54 - thanks to @LEWISC44 (Lewis Corcoran)
 9. AIRAC (1912) - Y8 reroute - thanks to @Kye-Taylor (Kye Taylor)
 10. Enhancement - Update Worthing->S23 agreement for Cardiff (EGFF) inbounds - thanks to @artturnip (Adam Turner)
+11. Bug - Removed Church Fenton (EGXG), redesignated as Leeds East (EGCM) in 2013 - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
