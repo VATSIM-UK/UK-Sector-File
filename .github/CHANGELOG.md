@@ -26,6 +26,7 @@
 25. AIRAC (1912) - Birmingham CTA 10 added - thanks to @cbyworth (Chad Byworth)
 26. Bug - Fix LFP6-1 unclosed area - thanks to @cbyworth (Chad Byworth)
 27. AIRAC (1912) - N456 reroute - thanks to @JaRm22(James Morrissey)
+28. Bug - Fixed Heathrow's (EGLL) Link 35 and Link 36 - thanks to @Kye-Taylor (Kye Taylor)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
