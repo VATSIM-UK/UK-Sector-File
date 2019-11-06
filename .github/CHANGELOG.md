@@ -20,6 +20,7 @@
 19. Enhancement - Removed old conventional upper airways remnants - thanks to @artturnip (Adam Turner)
 20. AIRAC (1907) - Upper airways to RNAV - thanks to @artturnip (Adam Turner)
 21. AIRAC (1911) - Moved (U)Y311 and (U)Y312 to RNAV - thanks to @artturnip (Adam Turner)
+22. Bug - Fixed display of ATZ ring to LCTWR when LCR is top-down by London - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
