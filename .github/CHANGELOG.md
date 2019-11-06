@@ -25,6 +25,7 @@
 24. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden (Harry Sugden)
 25. AIRAC (1912) - Birmingham CTA 10 added - thanks to @cbyworth (Chad Byworth)
 26. Bug - Fix LFP6-1 unclosed area - thanks to @cbyworth (Chad Byworth)
+27. AIRAC (1912) - N456 reroute - thanks to @JaRm22(James Morrissey)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
