@@ -22,6 +22,7 @@
 21. AIRAC (1911) - Moved (U)Y311 and (U)Y312 to RNAV - thanks to @artturnip (Adam Turner)
 22. Bug - Fixed display of ATZ ring to LCTWR when LCR is top-down by London - thanks to @artturnip (Adam Turner)
 23. Enhancement - Updated Montrose to Talla STMA inbounds - thanks to @1adamf (Adam Farquharson)
+24. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
