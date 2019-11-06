@@ -29,6 +29,7 @@
 28. Bug - Fixed Heathrow's (EGLL) Link 35 and Link 36 - thanks to @Kye-Taylor (Kye Taylor)
 29. AIRAC (1912) - Amended EGKK STARs - thanks to @epicdemon99 (Nathaniel Leff)
 30. AIRAC (1912) - Redesignation of EGKB/LC STARs - thanks to @epicdemon99 (Nathaniel Leff)
+31. AIRAC (1912) - Fixes L179 added UGBET- thanks to @LEWISC44 (Lewis Corcoran)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
