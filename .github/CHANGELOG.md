@@ -1,5 +1,29 @@
 # Changes from release 2019/11 to 2019/12
-1. AIRAC (1912) - Birmingham CTA 10 added - thanks to @cbyworth (Chad Byworth)
+1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
+2. AIRAC (1912) - Fixes N19 added JOZMA - thanks to @LEWISC44 (Lewis Corcoran)
+3. AIRAC (1912) - Fixes L180 added DUFZO, FIGZI - thanks to @LEWISC44 (Lewis Corcoran)
+4. AIRAC (1912) - Fixes L620 added KOFAL - thanks to @LEWISC44 (Lewis Corcoran)
+5. AIRAC (1912) - Rerouted L22 and add HICAP as new fix - thanks to @LEWISC44 (Lewis Corcoran)
+6. AIRAC (1912) - Added EGBB STAR - thanks to @epicdemon99 (Nathaniel Leff)
+7. AIRAC (1912) - Amended West CTA - thanks to @Kye-Taylor (Kye Taylor)
+8. AIRAC (1912) - Removed N54 - thanks to @LEWISC44 (Lewis Corcoran)
+9. AIRAC (1912) - Y8 reroute - thanks to @Kye-Taylor (Kye Taylor)
+10. Enhancement - Update Worthing->S23 agreement for Cardiff (EGFF) inbounds - thanks to @artturnip (Adam Turner)
+11. Bug - Removed Church Fenton (EGXG), redesignated as Leeds East (EGCM) in 2013 - thanks to @cbyworth (Chad Byworth)
+12. AIRAC (1912) - Updated N862 and Added NEZZA - thanks to @tszczypinski6 (Tom Szczypinski)
+13. Bug - Tilstock (EGCT) name/position/frequency corrected - thanks to @cbyworth (Chad Byworth)
+14. Bug - Corrected spelling of UNURO waypoint on N864 - thanks to @artturnip (Adam Turner)
+15. Bug - Deleted duplicate conventional airways - thanks to @artturnip (Adam Turner)
+16. Bug - Add missing agreements for LL GOGSI/GASGU outbounds - thanks to @artturnip (Adam Turner)
+17. Bug - Fixed TCNW->Daventry overriding TCSE->Dover agreements - thanks to @artturnip (Adam Turner)
+18. AIRAC (1912) - UL9 reroute - thanks to @JaRm22 (James Morrissey)
+19. Enhancement - Removed old conventional upper airways remnants - thanks to @artturnip (Adam Turner)
+20. AIRAC (1907) - Upper airways to RNAV - thanks to @artturnip (Adam Turner)
+21. AIRAC (1911) - Moved (U)Y311 and (U)Y312 to RNAV - thanks to @artturnip (Adam Turner)
+22. Bug - Fixed display of ATZ ring to LCTWR when LCR is top-down by London - thanks to @artturnip (Adam Turner)
+23. Enhancement - Updated Montrose to Talla STMA inbounds - thanks to @1adamf (Adam Farquharson)
+24. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden (Harry Sugden)
+25. AIRAC (1912) - Birmingham CTA 10 added - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
@@ -15,6 +39,7 @@
 11. Enhancement - Added Observing LON_SC_CTR sector ownership functionality - thanks to @kye-taylor (Kye Taylor)
 12. AIRAC (1910) - Extended Irish CTA 1 and Strangford CTA - thanks to @hsugden (Harry Sugden)
 13. Enhancement - Added climbing/descending arrows to agreements from ScAC East sectors - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1912) - Amended EGLL STARs - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
