@@ -16,7 +16,16 @@
 15. Bug - Deleted duplicate conventional airways - thanks to @artturnip (Adam Turner)
 16. Bug - Add missing agreements for LL GOGSI/GASGU outbounds - thanks to @artturnip (Adam Turner)
 17. Bug - Fixed TCNW->Daventry overriding TCSE->Dover agreements - thanks to @artturnip (Adam Turner)
-18. AIRAC (1912) - N456 reroute - thanks to @JaRm22(James Morrissey)
+18. AIRAC (1912) - UL9 reroute - thanks to @JaRm22 (James Morrissey)
+19. Enhancement - Removed old conventional upper airways remnants - thanks to @artturnip (Adam Turner)
+20. AIRAC (1907) - Upper airways to RNAV - thanks to @artturnip (Adam Turner)
+21. AIRAC (1911) - Moved (U)Y311 and (U)Y312 to RNAV - thanks to @artturnip (Adam Turner)
+22. Bug - Fixed display of ATZ ring to LCTWR when LCR is top-down by London - thanks to @artturnip (Adam Turner)
+23. Enhancement - Updated Montrose to Talla STMA inbounds - thanks to @1adamf (Adam Farquharson)
+24. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden (Harry Sugden)
+25. AIRAC (1912) - Birmingham CTA 10 added - thanks to @cbyworth (Chad Byworth)
+26. Bug - Fix LFP6-1 unclosed area - thanks to @cbyworth (Chad Byworth)
+27. AIRAC (1912) - N456 reroute - thanks to @JaRm22(James Morrissey)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
