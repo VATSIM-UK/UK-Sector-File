@@ -32,7 +32,7 @@
 31. AIRAC (1912) - Fixes L179 added UGBET- thanks to @LEWISC44 (Lewis Corcoran)
 32. AIRAC (1912) - FITBO Agreement EGLL/EGWU Inbounds - thanks to @kye-taylor (Kye Taylor)
 33. AIRAC (1912) - Daventry CTA 23-24 added - thanks to @cbyworth (Chad Byworth)
-34. AIRAC (1912) - Cotswold CTA 15-18 added - thanks to @cbyworth (Chad Byworth)
+35. AIRAC (1912) - Redesignated and updated routings of various upper airways - thanks to @1adamf (Adam Farquharson)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
