@@ -1,4 +1,4 @@
-# Changes from release 2019/10 to 2019/11
+# Changes from release 2019/11 to 2019/12
 x. AIRAC (1912) - Cotswold CTA 15-18 added - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2019/10 to 2019/11
