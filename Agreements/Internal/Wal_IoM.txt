@@ -1,0 +1,3 @@
+COPX:EGCC:*:WAL:*:*:Wallasey:Isle of Man:16000:*:^WAL
+COPX:EGGP:*:WAL:*:*:Wallasey:Isle of Man:12000:*:^WAL
+COPX:EGNR:*:WAL:*:*:Wallasey:Isle of Man:12000:*:^WAL

@@ -1,0 +1,20 @@
+COPX:*:*:EVSON:EGNJ:*:London AC Daventry:Trent:*:20000:EVSON25
+COPX:*:*:EVSON:EGCN:*:London AC Daventry:Trent:*:20000:EVSON25
+
+COPX:*:*:DENBY:EGNM:*:London AC Daventry:Trent:*:20000:DENBY40
+COPX:*:*:DENBY:EGNH:*:London AC Daventry:Trent:*:20000:DENBY40
+
+;fixme ROBIN10 also?
+COPX:*:*:ELVOS:EGCC:*:London AC Daventry:Trent:*:20000:ELVOS
+COPX:*:*:ELVOS:EGGP:*:London AC Daventry:Trent:*:20000:ELVOS
+COPX:*:*:ELVOS:EGNR:*:London AC Daventry:Trent:*:20000:ELVOS
+
+COPX:*:*:DENBY:EGNO:*:London AC Daventry:Trent:*:20000:DENBY55
+COPX:*:*:DENBY:EGNJ:*:London AC Daventry:Trent:*:20000:DENBY55
+COPX:*:*:DENBY:EGCN:*:London AC Daventry:Trent:*:20000:DENBY55
+
+COPX:*:*:TNT:EGNM:*:London AC Daventry:Trent:*:20000:TNT25
+COPX:*:*:TNT:EGNH:*:London AC Daventry:Trent:*:20000:TNT25
+COPX:*:*:TNT:EGNO:*:London AC Daventry:Trent:*:20000:TNT25
+COPX:*:*:TNT:EGNJ:*:London AC Daventry:Trent:*:20000:TNT25
+COPX:*:*:TNT:EGCN:*:London AC Daventry:Trent:*:20000:TNT25

@@ -1,16 +1,20 @@
-COPX:EGBB:*:COWLY:*:*:London AC Daventry:London AC Worthing:19000:*:COWLY
-COPX:EGBE:*:COWLY:*:*:London AC Daventry:London AC Worthing:19000:*:COWLY
+COPX:EGBB:*:COWLY:*:*:London AC Daventry:London AC Worthing:19000:*:^COWLY
+COPX:EGBE:*:COWLY:*:*:London AC Daventry:London AC Worthing:19000:*:^COWLY
 
-COPX:EGBB:*:CPT:*:*:London AC Daventry:London AC Worthing:19000:*:CPT
-COPX:EGBE:*:CPT:*:*:London AC Daventry:London AC Worthing:19000:*:CPT
-COPX:EGNX:*:CPT:*:*:London AC Daventry:London AC Worthing:22000:*:CPT
+COPX:EGBB:*:CPT:*:*:London AC Daventry:London AC Worthing:19000:*:^CPT
+COPX:EGBE:*:CPT:*:*:London AC Daventry:London AC Worthing:19000:*:^CPT
+COPX:EGNX:*:CPT:*:*:London AC Daventry:London AC Worthing:22000:*:^CPT
 
-COPX:EGNX:*:SILVA:*:*:London AC Daventry:London AC Worthing:22000:*:SILVA
+COPX:EGNX:*:SILVA:*:*:London AC Daventry:London AC Worthing:22000:*:^SILVA
 
-COPX:EGCC:*:KIDLI:*:*:London AC Daventry:London AC Worthing:31000:*:KIDLI
-COPX:EGGP:*:KIDLI:*:*:London AC Daventry:London AC Worthing:31000:*:KIDLI
-COPX:EGNR:*:KIDLI:*:*:London AC Daventry:London AC Worthing:31000:*:KIDLI
+COPX:EGCC:*:CPT:*:*:London AC Daventry:London AC Worthing:31000:*:^KIDLI
+COPX:EGGP:*:CPT:*:*:London AC Daventry:London AC Worthing:31000:*:^KIDLI
+COPX:EGNR:*:CPT:*:*:London AC Daventry:London AC Worthing:31000:*:^KIDLI
 
-COPX:EGCC:*:COWLY:*:*:London AC Daventry:London AC Worthing:31000:*:COWLY
-COPX:EGGP:*:COWLY:*:*:London AC Daventry:London AC Worthing:31000:*:COWLY
-COPX:EGNR:*:COWLY:*:*:London AC Daventry:London AC Worthing:31000:*:COWLY
+COPX:EGCC:*:LINDY:*:*:London AC Daventry:London AC Worthing:31000:*:^KIDLI
+COPX:EGGP:*:LINDY:*:*:London AC Daventry:London AC Worthing:31000:*:^KIDLI
+COPX:EGNR:*:LINDY:*:*:London AC Daventry:London AC Worthing:31000:*:^KIDLI
+
+COPX:EGCC:*:COWLY:*:*:London AC Daventry:London AC Worthing:31000:*:^COWLY
+COPX:EGGP:*:COWLY:*:*:London AC Daventry:London AC Worthing:31000:*:^COWLY
+COPX:EGNR:*:COWLY:*:*:London AC Daventry:London AC Worthing:31000:*:^COWLY

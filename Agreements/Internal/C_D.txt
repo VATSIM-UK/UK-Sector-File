@@ -1,7 +1,7 @@
-COPX:EGCC:*:DTY:*:*:London AC Daventry:London AC Dover:31000:*:DTY
-COPX:EGGP:*:DTY:*:*:London AC Daventry:London AC Dover:31000:*:DTY
-COPX:EGNR:*:DTY:*:*:London AC Daventry:London AC Dover:31000:*:DTY
+COPX:EGCC:*:DTY:*:*:London AC Daventry:London AC Dover:31000:*:^DTY
+COPX:EGGP:*:DTY:*:*:London AC Daventry:London AC Dover:31000:*:^DTY
+COPX:EGNR:*:DTY:*:*:London AC Daventry:London AC Dover:31000:*:^DTY
 
-COPX:EGCC:*:FINMA:*:*:London AC Daventry:London AC Dover:31000:*:FINMA
-COPX:EGGP:*:FINMA:*:*:London AC Daventry:London AC Dover:31000:*:FINMA
-COPX:EGNR:*:FINMA:*:*:London AC Daventry:London AC Dover:31000:*:FINMA
+COPX:EGCC:*:FINMA:*:*:London AC Daventry:London AC Dover:31000:*:^FINMA
+COPX:EGGP:*:FINMA:*:*:London AC Daventry:London AC Dover:31000:*:^FINMA
+COPX:EGNR:*:FINMA:*:*:London AC Daventry:London AC Dover:31000:*:^FINMA

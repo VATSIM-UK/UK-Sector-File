@@ -1,0 +1,2 @@
+COPX:*:*:POL:EGNV:*:Sector 29:East:*:20000:POL
+COPX:*:*:POL:EGNT:*:Sector 29:East:*:26000:POL

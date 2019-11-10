@@ -1,3 +1,24 @@
+FIR_COPX:*:*:NOGRO:EGSS:*:EHAA:London AC Clacton:*:27000:NOGRO
+FIR_COPX:*:*:NOGRO:EGSC:*:EHAA:London AC Clacton:*:27000:NOGRO
+FIR_COPX:*:*:NOGRO:EGGW:*:EHAA:London AC Clacton:*:27000:NOGRO
+FIR_COPX:*:*:NOGRO:EGSH:*:EHAA:London AC Clacton:*:27000:NOGRO
+
+FIR_COPX:*:*:ABNED:EGLL:*:EHAA:London AC Clacton:*:39000:ABNED
+FIR_COPX:*:*:ABNED:EGWU:*:EHAA:London AC Clacton:*:39000:ABNED
+
+FIR_COPX:*:*:GALSO:EGMD:*:EHAA:London AC Clacton:*:26000:GALSO
+FIR_COPX:*:*:GALSO:EGLC:*:EHAA:London AC Clacton:*:26000:GALSO
+FIR_COPX:*:*:GALSO:EGKB:*:EHAA:London AC Clacton:*:26000:GALSO
+FIR_COPX:*:*:GALSO:EGMC:*:EHAA:London AC Clacton:*:26000:GALSO
+FIR_COPX:*:*:GALSO:EGTO:*:EHAA:London AC Clacton:*:26000:GALSO
+
+FIR_COPX:*:*:GALSO:EGKK:*:EHAA:London AC Clacton:*:29000:GALSO
+
+FIR_COPX:*:*:NOGRO:*:*:EHAA:London AC Clacton:*:*:NOGRO
+FIR_COPX:*:*:ABNED:*:*:EHAA:London AC Clacton:*:*:ABNED
+FIR_COPX:*:*:GALSO:*:*:EHAA:London AC Clacton:*:*:GALSO
+
+;Withdrawn 2018/13 (all GORLO agreements replaced in AD4)
 FIR_COPX:*:*:GORLO:EGLL:*:EHAA:London AC Clacton:*:39000:GORLO
 FIR_COPX:*:*:GORLO:EGWU:*:EHAA:London AC Clacton:*:39000:GORLO
 

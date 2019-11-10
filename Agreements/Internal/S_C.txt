@@ -1,3 +1,3 @@
-COPX:EGKK:*:BEDFO:*:*:London AC Worthing:London AC Daventry:19000:*:BEDFO
+COPX:EGKK:*:BEDFO:*:*:London AC Worthing:London AC Daventry:19000:*:^BEDFO
 
-COPX:EGKK:*:WELIN:*:*:London AC Worthing:London AC Daventry:19000:*:WELIN
+COPX:EGKK:*:WELIN:*:*:London AC Worthing:London AC Daventry:19000:*:^WELIN

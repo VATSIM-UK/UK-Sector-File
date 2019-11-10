@@ -1,0 +1,3 @@
+COPX:*:*:MEGEL:EGSS:*:London AC Clacton:London TC REDFA:*:22000:MEGEL
+COPX:*:*:MEGEL:EGSC:*:London AC Clacton:London TC REDFA:*:22000:MEGEL
+COPX:*:*:MEGEL:EGGW:*:London AC Clacton:London TC REDFA:*:22000:MEGEL

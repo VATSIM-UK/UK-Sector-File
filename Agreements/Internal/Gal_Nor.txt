@@ -1,5 +1,5 @@
-COPX:*:*:LAKEY:EGCC:*:Galloway:North:*:20000:LAKEY10
-COPX:*:*:LAKEY:EGGP:*:Galloway:North:*:20000:LAKEY10
-COPX:*:*:LAKEY:EGNR:*:Galloway:North:*:20000:LAKEY10
-COPX:*:*:LAKEY:EGNM:*:Galloway:North:*:20000:LAKEY10
-COPX:*:*:LAKEY:EGCN:*:Galloway:North:*:20000:LAKEY10
+COPX:*:*:LAKEY:EGCC:*:Galloway:North:*:20000:LAKEY
+COPX:*:*:LAKEY:EGGP:*:Galloway:North:*:20000:LAKEY
+COPX:*:*:LAKEY:EGNR:*:Galloway:North:*:20000:LAKEY
+COPX:*:*:LAKEY:EGNM:*:Galloway:North:*:20000:LAKEY
+COPX:*:*:LAKEY:EGCN:*:Galloway:North:*:20000:LAKEY

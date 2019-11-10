@@ -1,3 +1,0 @@
-COPX:EGCC:*:HON:*:*:Scottish PC East:London AC Daventry:19000:*:HON10
-COPX:EGGP:*:HON:*:*:Scottish PC East:London AC Daventry:19000:*:HON10
-COPX:EGNR:*:HON:*:*:Scottish PC East:London AC Daventry:19000:*:HON10

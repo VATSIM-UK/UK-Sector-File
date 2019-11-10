@@ -1,4 +1,4 @@
-COPX:EGBB:*:COWLY:*:*:BBAPP:London AC Daventry:6000:*:COWLY
-COPX:EGBB:*:DTY:*:*:BBAPP:London AC Daventry:6000:*:DTY
-COPX:EGBB:*:CPT:*:*:BBAPP:London AC Daventry:6000:*:CPT
-COPX:EGBB:*:WCO:*:*:BBAPP:London AC Daventry:6000:*:WCO
+COPX:EGBB:*:*:COWLY:*:BBAPP:London AC Daventry:6000:*:COWLY
+COPX:EGBB:*:*:DTY:*:BBAPP:London AC Daventry:6000:*:DTY
+COPX:EGBB:*:*:CPT:*:BBAPP:London AC Daventry:6000:*:CPT
+COPX:EGBB:*:*:WCO:*:BBAPP:London AC Daventry:6000:*:WCO
