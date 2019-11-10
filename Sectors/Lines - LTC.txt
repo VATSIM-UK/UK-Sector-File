@@ -1,4 +1,4 @@
-SECTORLINE:LTC1
+SECTORLINE:LTC1a
 DISPLAY:London TC NW:London TC NW:London AC Daventry
 DISPLAY:London AC Daventry:London AC Daventry:London TC NW
 DISPLAY:London AC Worthing:London AC Daventry:London TC NW
@@ -7,6 +7,14 @@ DISPLAY:London AC Clacton:London AC Daventry:London TC NW
 COORD:N051.39.43.000:W001.26.46.000
 COORD:N051.43.19.000:W001.28.37.000
 COORD:N051.54.21.000:W001.02.57.000
+COORD:N051.58.59.000:W000.52.02.000
+
+SECTORLINE:LTC1b
+DISPLAY:London TC NW:London TC NW:London AC Daventry
+DISPLAY:London AC Daventry:London AC Daventry:London TC NW
+DISPLAY:London AC Worthing:London AC Daventry:London TC NW
+DISPLAY:London AC Dover:London AC Daventry:London TC NW
+DISPLAY:London AC Clacton:London AC Daventry:London TC NW
 COORD:N051.58.59.000:W000.52.02.000
 COORD:N052.11.04.000:W000.21.59.000
 
@@ -173,7 +181,7 @@ DISPLAY:London TC SE:London TC SE:London TC SW
 COORD:N051.18.17.000:W000.26.47.000
 COORD:N051.08.53.000:W000.11.25.000
 
-SECTORLINE:LTC16
+SECTORLINE:LTC16a
 DISPLAY:London AC Worthing:London AC Worthing:London TC SE
 DISPLAY:London TC SE:London TC SE:London TC VATON
 COORD:N051.18.17.000:W000.26.47.000

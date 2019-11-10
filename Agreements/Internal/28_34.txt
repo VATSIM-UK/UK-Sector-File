@@ -1,0 +1,39 @@
+COPX:EGKK:*:ELVOS:*:*:London S28:London S34:29000:*:^ELVOS
+
+COPX:EGHI:*:LESTA:*:*:London S28:London S34:29000:*:^TNT
+COPX:EGHI:*:ELVOS:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGHH:*:LESTA:*:*:London S28:London S34:29000:*:^TNT
+COPX:EGHH:*:ELVOS:*:*:London S28:London S34:29000:*:^MAMUL
+
+COPX:EGsS:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGSS:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGSS:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGSC:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGSC:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGSC:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGGW:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGGW:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGGW:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGLL:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGLL:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGLL:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGWU:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGWU:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGWU:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGLC:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGLC:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGLC:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGKB:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGKB:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGKB:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
+COPX:EGMC:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGMC:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
+COPX:EGMC:*:TNT:*:*:London S28:London S34:29000:*:^TNT
+
