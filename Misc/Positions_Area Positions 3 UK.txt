@@ -29,10 +29,13 @@ London Control S9:London Control:132.950:L6:L:LON:CTR:-:-::
 London Control S9:London Control:132.950:L6:L:LON-WS:CTR:-:-::
 London Control S9:London Control:132.950:L6:L:LON-W6:CTR:-:-::
 ;Central
+LON_CW_CTR:London Control:134.400:LCW:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LON_CE_CTR:London Control:127.870:LCE:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LON_CL_CTR:London Control:133.970:LCL:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+
 London Control S27:London Control:129.200:L27:L:LON:CTR:-:-::
-London Control S32:London Control:131.120:LNC:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N052.07.30.663:W000.03.23.581
-London Control S34:London Control:127.870:LWC:L:LON:CTR:-:-:::N051.18.21.496:W004.09.51.334:N052.07.30.663:W000.03.23.581
-London Control S14:London Control:118.470:L14:L:LON:CTR:-:-::
+London Control S12:London Control:133.950:L12:L:LON:CTR:-:-::
+London Control S13:London Control:128.150:L13:L:LON:CTR:-:-::
 ;South
 London Control  S2:London Control:127.420:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
 London Control S18:London Control:135.320:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
@@ -41,10 +44,10 @@ London Control S22:London Control:127.820:LWS:L:LON:CTR:-:-:0301:0377:N051.18.21
 London Control S16:London Control:136.600:L16:L:LON:CTR:-:-:0301:0377::
 London Control S17:London Control:128.420:L:L:LON:CTR:-:-:0301:0377:N051.32.26.870:W002.43.29.830
 ;TC Midlands
-London Control:London Control:130.920:TCW:L:LTC:CTR:-:-::
+LTC_M_CTR:London Control:121.020:TCM:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LTC_MW_CTR:London Control:130.920:WELIN:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LTC_MC_CTR:London Control:133.070:COWLY:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
 London Control:London Control:128.470:TCW:L:LTC:CTR:-:-::
-London Control:London Control:133.070:TCO:L:LTC:CTR:-:-::
-London Control:London Control:121.020:TCO:L:LTC:CTR:-:-::
 ;TC North
 London Control:London Control:129.270:TCL:L:LTC:CTR:-:-::
 London Control:London Control:123.900:TCL:L:LTC:CTR:-:-::
