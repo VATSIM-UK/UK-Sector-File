@@ -5,7 +5,7 @@ COPX:EGHI:*:ELVOS:*:*:London S28:London S34:29000:*:^MAMUL
 COPX:EGHH:*:LESTA:*:*:London S28:London S34:29000:*:^TNT
 COPX:EGHH:*:ELVOS:*:*:London S28:London S34:29000:*:^MAMUL
 
-COPX:EGsS:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
+COPX:EGSS:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
 COPX:EGSS:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
 COPX:EGSS:*:TNT:*:*:London S28:London S34:29000:*:^TNT
 
@@ -36,4 +36,3 @@ COPX:EGKB:*:TNT:*:*:London S28:London S34:29000:*:^TNT
 COPX:EGMC:*:TUMTI:*:*:London S28:London S34:29000:*:^TUMTI
 COPX:EGMC:*:MAMUL:*:*:London S28:London S34:29000:*:^MAMUL
 COPX:EGMC:*:TNT:*:*:London S28:London S34:29000:*:^TNT
-

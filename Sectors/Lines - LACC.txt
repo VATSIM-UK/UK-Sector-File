@@ -166,37 +166,43 @@ COORD:N052.50.46.000:W002.45.29.000
 SECTORLINE:LWC1
 DISPLAY:London S5:London S5:Stafa
 DISPLAY:Stafa:Stafa:London S5
-DISPLAY:London S5:London S5:London S29
-DISPLAY:London S29:London S29:London S5
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S35
+DISPLAY:London S5:London S5:Sector 29
+DISPLAY:Sector 29:Sector 29:London S5
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S35
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
 COORD:N052.50.46.000:W002.45.29.000
 COORD:N052.41.49.000:W002.37.50.000
 
 SECTORLINE:LWC2
 DISPLAY:London S5:London S5:Stafa
 DISPLAY:Stafa:Stafa:London S5
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S5
 COORD:N052.41.49.000:W002.37.50.000
 COORD:N052.32.53.000:W002.30.11.000
 COORD:N052.16.28.100:W002.12.18.500
 
 SECTORLINE:LWC3a
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+DISPLAY:London S5:London S5:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S5
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S5
 COORD:N052.16.28.100:W002.12.18.500
 COORD:N052.09.46.000:W002.05.00.000
 
 SECTORLINE:LWC3b
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S5:London S5:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S5
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S5
 COORD:N052.09.46.000:W002.05.00.000
 COORD:N052.09.16.000:W002.04.28.000
 
