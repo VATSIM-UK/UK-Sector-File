@@ -207,42 +207,52 @@ COORD:N052.09.46.000:W002.05.00.000
 COORD:N052.09.16.000:W002.04.28.000
 
 SECTORLINE:LWC4a
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S23:London S23:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S23
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S23:London S23:London S27
+DISPLAY:London S27:London S27:London S23
+DISPLAY:London S23:London S23:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S23
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S35
 COORD:N052.09.16.000:W002.04.28.000
 COORD:N051.59.42.000:W001.54.11.000
 
 SECTORLINE:LWC4b
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S23:London S23:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S23
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S23:London S23:London S27
+DISPLAY:London S27:London S27:London S23
+DISPLAY:London S23:London S23:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S23
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S35
 COORD:N051.59.42.000:W001.54.11.000
 COORD:N051.53.36.000:W001.47.41.000
 
 SECTORLINE:LWC4c
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S23:London S23:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S23
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+;S24? needs lines with 5/35
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S23:London S23:London S27
+DISPLAY:London S27:London S27:London S23
+DISPLAY:London S23:London S23:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S23
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S35
 COORD:N051.53.36.000:W001.47.41.000
 COORD:N051.47.51.000:W001.41.36.000
 
 SECTORLINE:LWC4d
-DISPLAY:London S5:London S5:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
-DISPLAY:London S23:London S23:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S23
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S5
+;S24 needs lines with 5/35
+DISPLAY:London S5:London S5:London S27
+DISPLAY:London S27:London S27:London S5
+DISPLAY:London S23:London S23:London S27
+DISPLAY:London S27:London S27:London S23
+DISPLAY:London S23:London S23:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S23
+DISPLAY:London S35:London S35:London S27
+DISPLAY:London S27:London S27:London S35
 COORD:N051.47.51.000:W001.41.36.000
 COORD:N051.42.11.000:W001.35.37.000
 COORD:N051.40.55.000:W001.34.58.000
@@ -339,34 +349,34 @@ COORD:N053.48.16.000:W005.30.00.000
 COORD:N053.11.48.000:W005.29.60.000
 
 SECTORLINE:LNC1
-DISPLAY:London S4:London S4:London AC Daventry
-DISPLAY:London S7:London S7:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S4
-DISPLAY:London AC Daventry:London AC Daventry:London S7
-DISPLAY:London S5:London AC Daventry:London S4
-DISPLAY:London S5:London AC Daventry:London S7
-DISPLAY:London S35:London AC Daventry:London S4
-DISPLAY:London S35:London AC Daventry:London S7
+DISPLAY:London S4:London S4:London S27
+DISPLAY:London S7:London S7:London S27
+DISPLAY:London S27:London S27:London S4
+DISPLAY:London S27:London S27:London S7
+DISPLAY:London S5:London S27:London S4
+DISPLAY:London S5:London S27:London S7
+DISPLAY:London S35:London S27:London S4
+DISPLAY:London S35:London S27:London S7
 COORD:N052.50.46.000:W002.45.29.000
 COORD:N053.10.29.000:W002.05.57.000
 
 SECTORLINE:LNC2
-DISPLAY:London S4:London S4:London AC Daventry
-DISPLAY:London S7:London S7:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S4
-DISPLAY:London AC Daventry:London AC Daventry:London S7
-DISPLAY:London S5:London AC Daventry:London S4
-DISPLAY:London S5:London AC Daventry:London S7
-DISPLAY:London S35:London AC Daventry:London S4
-DISPLAY:London S35:London AC Daventry:London S7
+DISPLAY:London S4:London S4:London S27
+DISPLAY:London S7:London S7:London S27
+DISPLAY:London S27:London S27:London S4
+DISPLAY:London S27:London S27:London S7
+DISPLAY:London S5:London S27:London S4
+DISPLAY:London S5:London S27:London S7
+DISPLAY:London S35:London S27:London S4
+DISPLAY:London S35:London S27:London S7
 COORD:N053.10.29.000:W002.05.57.000
 COORD:N053.12.25.000:W001.58.44.000
 
 SECTORLINE:LNC3
-DISPLAY:London S3:London S3:London AC Daventry
-DISPLAY:London S4:London S4:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S3
-DISPLAY:London AC Daventry:London AC Daventry:London S4
+DISPLAY:London S3:London S3:London S27
+DISPLAY:London S4:London S4:London S27
+DISPLAY:London S27:London S27:London S3
+DISPLAY:London S27:London S27:London S4
 COORD:N053.12.25.000:W001.58.44.000
 COORD:N053.00.31.000:W001.47.37.000
 
