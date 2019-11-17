@@ -35,7 +35,7 @@
 35. AIRAC (1912) - Redesignated and updated routings of various upper airways - thanks to @1adamf (Adam Farquharson)
 36. AIRAC (1912) - Fixes N17, added SIDDI - thanks to @LEWISC44 (Lewis Corcoran) 
 37. AIRAC  (1912) - Added UN864 Airway - thanks to @Kye-Taylor (Kye Taylor)
-38. Enhancement - EGNX Stands Updated, Removed and Added - thanks to @AleksMax (Aleks Nieszczerzewski)
+38. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
