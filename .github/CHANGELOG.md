@@ -2,6 +2,7 @@
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - Corrected Fix Coordinates (KOFAL,LAMAT,IBOLU) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Fixes TCSW to AC Worthing agreement at SFD - thanks to @cpawley (Chris Pawley)
+4. Enhancement - Added catch-all agreement IoM->DUBN for Dublin inbounds - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/11 to 2019/12
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
