@@ -4,6 +4,7 @@
 3. Bug - Fixes TCSW to AC Worthing agreement at SFD - thanks to @cpawley (Chris Pawley)
 4. Enhancement - Added catch-all agreement IoM->DUBN for Dublin inbounds - thanks to @cpawley (Chris Pawley)
 5. Bug - Added more agreements STAFA->AC Daventry for EGGP/EGNR outbounds - thanks to @cpawley (Chris Pawley)
+6. Bug - Fixed issues with N862 - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2019/11 to 2019/12
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
