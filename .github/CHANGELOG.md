@@ -6,6 +6,7 @@
 5. Bug - Added more agreements STAFA->AC Daventry for EGGP/EGNR outbounds - thanks to @cpawley (Chris Pawley)
 6. Bug - Fixed issues with N862 - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Enhancement - Added agreement for EGGD BADIM departures - thanks to @1adamf (Adam Farquharson)
+8. Bug (AIRAC 1911) - Fixed RNAV fixes incorrect location - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2019/11 to 2019/12
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
