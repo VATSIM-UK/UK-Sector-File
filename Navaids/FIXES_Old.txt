@@ -1,3 +1,6 @@
+;Withdrawn XX/XXXX - EGKK BIG SID
+D123R N051.10.16.990 E000.26.20.520
+
 ;Removed 09/2019 - no longer in ENR 4.4 and not found elsewhere in AIP - likely remnants of Class F ADRs & realigned airways
 BEWLI N050.45.31.000 W001.48.37.000
 EMLIP N053.24.08.000 W003.21.24.000
