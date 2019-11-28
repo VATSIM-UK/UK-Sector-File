@@ -1,3 +1,6 @@
 COPX:EGCC:*:HON:*:*:Stafa:London AC Daventry:19000:*:HON10
 COPX:EGGP:*:HON:*:*:Stafa:London AC Daventry:19000:*:HON10
 COPX:EGNR:*:HON:*:*:Stafa:London AC Daventry:19000:*:HON10
+
+COPX:EGGP:*:*:PEPUL:*:Stafa:London AC Daventry:19000:*:VIDOK
+COPX:EGNR:*:*:PEPUL:*:Stafa:London AC Daventry:19000:*:VIDOK
