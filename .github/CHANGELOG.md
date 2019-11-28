@@ -36,6 +36,7 @@
 36. AIRAC (1912) - Fixes N17, added SIDDI - thanks to @LEWISC44 (Lewis Corcoran) 
 37. AIRAC  (1912) - Added UN864 Airway - thanks to @Kye-Taylor (Kye Taylor)
 38. AIRAC (1912) - Cotswold CTA 15-18 added - thanks to @cbyworth (Chad Byworth)
+39. AIRAC (1912) - Rerouted N513 - thanks to @JaRm22 (James Morrissey)
 
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
