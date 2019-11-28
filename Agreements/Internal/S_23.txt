@@ -1,9 +1,10 @@
 COPX:*:*:CPT:EGVN:*:London AC Worthing:London S23:*:16000:|CPT
 COPX:*:*:CPT:EGDL:*:London AC Worthing:London S23:*:16000:|CPT
 
-COPX:*:*:CPT:EGFF:*:London AC Worthing:London S23:*:22000:CPT
-COPX:*:*:CPT:EGFH:*:London AC Worthing:London S23:*:22000:CPT
-COPX:*:*:CPT:EGSY:*:London AC Worthing:London S23:*:22000:CPT
+COPX:*:*:CPT:EGFF:*:London AC Worthing:London S23:*:26000:CPT
+COPX:*:*:CPT:EGFH:*:London AC Worthing:London S23:*:26000:CPT
+COPX:*:*:CPT:EGSY:*:London AC Worthing:London S23:*:26000:CPT
+
 COPX:*:*:CPT:EGGD:*:London AC Worthing:London S23:*:22000:CPT
 COPX:*:*:CPT:EGTG:*:London AC Worthing:London S23:*:22000:CPT
 
