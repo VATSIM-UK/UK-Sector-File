@@ -1,3 +1,16 @@
+# Changes from release 2019/12 to 2019/13
+1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
+2. Bug - Corrected Fix Coordinates (KOFAL,LAMAT,IBOLU) - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - Fixes TCSW to AC Worthing agreement at SFD - thanks to @cpawley (Chris Pawley)
+4. Enhancement - Added catch-all agreement IoM->DUBN for Dublin inbounds - thanks to @cpawley (Chris Pawley)
+5. Bug - Added more agreements STAFA->AC Daventry for EGGP/EGNR outbounds - thanks to @cpawley (Chris Pawley)
+6. Bug - Fixed issues with N862 - thanks to @AleksMax (Aleks Nieszczerzewski)
+7. Enhancement - Added agreement for EGGD BADIM departures - thanks to @1adamf (Adam Farquharson)
+8. Bug (AIRAC 1911) - Fixed RNAV fixes incorrect location - thanks to @cbyworth (Chad Byworth)
+9. AIRAC (1910), Enhancement - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
+10. Enhancement - Updated ownership of Carlisle (EGNC) in line with new SCO sectors - thanks to @cpawley (Chris Pawley)
+11. Enhancement - Adding Wellesbourne Mountford (EGBW) an AFISO South of Birmingham
+
 # Changes from release 2019/11 to 2019/12
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
 2. AIRAC (1912) - Fixes N19 added JOZMA - thanks to @LEWISC44 (Lewis Corcoran)
@@ -33,7 +46,7 @@
 32. AIRAC (1912) - FITBO Agreement EGLL/EGWU Inbounds - thanks to @kye-taylor (Kye Taylor)
 33. AIRAC (1912) - Daventry CTA 23-24 added - thanks to @cbyworth (Chad Byworth)
 35. AIRAC (1912) - Redesignated and updated routings of various upper airways - thanks to @1adamf (Adam Farquharson)
-36. AIRAC (1912) - Fixes N17, added SIDDI - thanks to @LEWISC44 (Lewis Corcoran) 
+36. AIRAC (1912) - Fixes N17, added SIDDI - thanks to @LEWISC44 (Lewis Corcoran)
 37. AIRAC  (1912) - Added UN864 Airway - thanks to @Kye-Taylor (Kye Taylor)
 38. AIRAC (1912) - Cotswold CTA 15-18 added - thanks to @cbyworth (Chad Byworth)
 
