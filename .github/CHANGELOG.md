@@ -9,6 +9,7 @@
 8. Bug (AIRAC 1911) - Fixed RNAV fixes incorrect location - thanks to @cbyworth (Chad Byworth)
 9. AIRAC (1910), Enhancement - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
 10. Enhancement - Updated ownership of Carlisle (EGNC) in line with new SCO sectors - thanks to @cpawley (Chris Pawley)
+11. Enhancement - Adding Wellesbourne Mountford (EGBW) an AFISO South of Birmingham
 
 # Changes from release 2019/11 to 2019/12
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
