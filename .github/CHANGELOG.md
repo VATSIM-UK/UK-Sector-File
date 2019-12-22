@@ -1,3 +1,6 @@
+# Changes from release 2019/13 to 2020/01
+3. AIRAC (2001) - EGNH Runway Headings Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
+
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - Corrected Fix Coordinates (KOFAL,LAMAT,IBOLU) - thanks to @AleksMax (Aleks Nieszczerzewski)
