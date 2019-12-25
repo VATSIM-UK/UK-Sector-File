@@ -10,7 +10,7 @@ DISPLAY:London AC Clacton:London S27:London TC NW
 COORD:N051.39.43.000:W001.26.46.000
 COORD:N051.43.19.000:W001.28.37.000
 COORD:N051.54.21.000:W001.02.57.000
-COORD:N051.58.59.000:W000.52.02.000
+
 
 SECTORLINE:LTC1b
 ;fixme - this forms the new bdy between AC C and AC S so should be setup so
@@ -23,6 +23,18 @@ DISPLAY:London AC Dover:London S28:London TC NW
 DISPLAY:London AC Clacton:London S28:London TC NW
 COORD:N051.58.59.000:W000.52.02.000
 COORD:N052.11.04.000:W000.21.59.000
+
+SECTORLINE:LTC1c
+;fixme - this forms AC Cand AC S so should be setup so
+DISPLAY:London TC NW:London TC NW:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London TC NW
+DISPLAY:London S27:London S27:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S27
+DISPLAY:London AC Worthing:London S27:London TC NW
+DISPLAY:London AC Dover:London S27:London TC NW
+DISPLAY:London AC Clacton:London S27:London TC NW
+COORD:N051.54.21.000:W001.02.57.000
+COORD:N051.58.59.000:W000.52.02.000
 
 SECTORLINE:LTC2
 ;Do we need to add DTY:DTY:CLN and CLN:DTY:CLN?
