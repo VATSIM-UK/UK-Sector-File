@@ -1,9 +1,10 @@
 SECTORLINE:LTC1a
-;fixme - this forms the new bdy between AC C and AC S so should be setup so
 DISPLAY:London TC NW:London TC NW:London TC COWLY
 DISPLAY:London TC COWLY:London TC COWLY:London TC NW
 DISPLAY:London S27:London S27:London TC COWLY
+DISPLAY:London S27:London S27:London AC Worthing
 DISPLAY:London TC COWLY:London TC COWLY:London S27
+DISPLAY:London AC Worthing:London AC Worthing:London S27
 DISPLAY:London AC Worthing:London S27:London TC NW
 DISPLAY:London AC Dover:London S27:London TC NW
 DISPLAY:London AC Clacton:London S27:London TC NW
@@ -11,9 +12,18 @@ COORD:N051.39.43.000:W001.26.46.000
 COORD:N051.43.19.000:W001.28.37.000
 COORD:N051.54.21.000:W001.02.57.000
 
-
 SECTORLINE:LTC1b
-;fixme - this forms the new bdy between AC C and AC S so should be setup so
+DISPLAY:London TC NW:London TC NW:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London TC NW
+DISPLAY:London S27:London S27:London TC COWLY
+DISPLAY:London TC COWLY:London TC COWLY:London S27
+DISPLAY:London AC Worthing:London S27:London TC NW
+DISPLAY:London AC Dover:London S27:London TC NW
+DISPLAY:London AC Clacton:London S27:London TC NW
+COORD:N051.54.21.000:W001.02.57.000
+COORD:N051.58.59.000:W000.52.02.000
+
+SECTORLINE:LTC1c
 DISPLAY:London TC NW:London TC NW:London TC WELIN
 DISPLAY:London TC WELIN:London TC WELIN:London TC NW
 DISPLAY:London S28:London S28:London TC WELIN
@@ -24,20 +34,7 @@ DISPLAY:London AC Clacton:London S28:London TC NW
 COORD:N051.58.59.000:W000.52.02.000
 COORD:N052.11.04.000:W000.21.59.000
 
-SECTORLINE:LTC1c
-;fixme - this forms AC Cand AC S so should be setup so
-DISPLAY:London TC NW:London TC NW:London TC COWLY
-DISPLAY:London TC COWLY:London TC COWLY:London TC NW
-DISPLAY:London S27:London S27:London TC COWLY
-DISPLAY:London TC COWLY:London TC COWLY:London S27
-DISPLAY:London AC Worthing:London S27:London TC NW
-DISPLAY:London AC Dover:London S27:London TC NW
-DISPLAY:London AC Clacton:London S27:London TC NW
-COORD:N051.54.21.000:W001.02.57.000
-COORD:N051.58.59.000:W000.52.02.000
-
 SECTORLINE:LTC2
-;Do we need to add DTY:DTY:CLN and CLN:DTY:CLN?
 DISPLAY:London TC NW:London TC NW:London TC NE
 DISPLAY:London TC NW:London AC Clacton:London S28
 DISPLAY:London TC NW:London AC Clacton:London S34
@@ -302,12 +299,11 @@ COORD:N051.26.24.000:W001.29.33.000
 COORD:N051.40.55.000:W001.34.58.000
 
 SECTORLINE:LTC22c
+DISPLAY:London AC Worthing:London AC Worthing:London S27
+DISPLAY:London S27:London S27:London AC Worthing
 DISPLAY:London S5:London S5:London S27
 DISPLAY:London S23:London S23:London S27
 DISPLAY:London S23:London S23:London TC COWLY
-;Below 2 x needs a S24? assignment?
-DISPLAY:London S35:London S35:London AC Daventry
-DISPLAY:London AC Daventry:London AC Daventry:London S35
 DISPLAY:London S27:London S27:London S5
 DISPLAY:London S27:London S27:London S23
 DISPLAY:London TC COWLY:London TC COWLY:London S23
@@ -421,6 +417,7 @@ COORD:N052.07.13.000:E000.51.49.000
 SECTORLINE:LTC35
 DISPLAY:London TC JACKO:London TC JACKO:London TC REDFA
 DISPLAY:London TC REDFA:London TC REDFA:London TC JACKO
+COORD:N051.57.02.160:E002.21.22.620
 COORD:N051.56.19.000:E001.51.02.000
 COORD:N051.48.27.000:E001.36.43.000
 
