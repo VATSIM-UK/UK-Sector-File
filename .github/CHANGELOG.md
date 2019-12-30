@@ -1,5 +1,5 @@
 # Changes from release 2019/10 to 2019/11
-X. AIRAC (1912) - New EGBB Agreements - thanks to @Kye-Taylor (Kye Taylor)
+X. AIRAC (1912) - Added new Birmingham (EGBB) inbound agreements - thanks to @Kye-Taylor (Kye Taylor)
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
