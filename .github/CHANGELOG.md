@@ -1,3 +1,4 @@
+.x AIRAC (1912) - Y91/UY91 redesignated L149 - thanks to @LEWISC44 (Lewis Corcoran)
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
