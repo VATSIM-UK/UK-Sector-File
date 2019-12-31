@@ -1,3 +1,6 @@
+# Changes from release 2019/13 to 2020/01
+X. Bug - Added missing EIDW outbound agreements IoM -> AC North (S7) - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - Corrected Fix Coordinates (KOFAL,LAMAT,IBOLU) - thanks to @AleksMax (Aleks Nieszczerzewski)
