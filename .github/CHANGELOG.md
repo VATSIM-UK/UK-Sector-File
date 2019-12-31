@@ -1,3 +1,6 @@
+# Changes from release 2019/13 to 2020/01
+1. Enhancement - Added TC Midlands and amended AC Central/AC South boundary for 2020/01 - thanks to @cpawley (Chris Pawley)
+
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @artturnip (Adam Turner)
 2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @artturnip (Adam Turner)
