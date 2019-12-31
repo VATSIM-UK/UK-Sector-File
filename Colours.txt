@@ -52,7 +52,7 @@
 #define smrGPground 5330521‬
 #define smrGPgrass 3689771
 #define smrGPline 7829248
-#define smrGPrwhpts 4973039
+#define smrGPhpts 4973039
 #define smrGPstand 9830399
 #define smrGPterminal 1584743
 #define smrGPtaxiway 13290186
