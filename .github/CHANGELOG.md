@@ -1,5 +1,8 @@
 # Changes from release 2019/13 to 2020/01
-1. Enhancement - Improved line display for PC Sectors - thanks to @cpawley (Chris Pawley)
+1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey))
+2. AIRAC (1912) - P155 Rerouted - thanks to @JaRm22 (James Morrissey)
+3. Bug - Updated Line display between PC East and PX Humber - thanks to @cpawley (Chris Pawley)
+4. Enhancement - Improved line display for PC Sectors - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -11,6 +14,8 @@
 7. Enhancement - Added agreement for EGGD BADIM departures - thanks to @1adamf (Adam Farquharson)
 8. Bug (AIRAC 1911) - Fixed RNAV fixes incorrect location - thanks to @cbyworth (Chad Byworth)
 9. AIRAC (1910), Enhancement - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
+10. Enhancement - Updated ownership of Carlisle (EGNC) in line with new SCO sectors - thanks to @cpawley (Chris Pawley)
+11. Enhancement - Adding Wellesbourne Mountford (EGBW) an AFISO South of Birmingham - thanks to @nulldataref (Michael Bramsiepe)
 
 # Changes from release 2019/11 to 2019/12
 1. AIRAC (1912) - Fixes N40 - thanks to @LEWISC44 (Lewis Corcoran)
