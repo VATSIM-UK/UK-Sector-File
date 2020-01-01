@@ -21,6 +21,8 @@
 20. AIRAC (1912) - EGSS VRP Updated - thanks to @kye-taylor (Kye Taylor)
 21. Enhancement - Added climbing/descending arrows to agreements from external sectors into Scottish - thanks to @hsugden (Harry Sugden)
 22. Bug - Added missing EIDW outbound agreements IoM -> AC North (S7) - thanks to @hsugden (Harry Sugden)
+23. AIRAC (2001) - Amended TC SW /  AC Worthing boundary - thanks to @cpawley (Chris Pawley)
+24. AIRAC (2001) - Amended TC NE / TC East boundary - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
