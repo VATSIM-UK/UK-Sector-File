@@ -12,6 +12,7 @@
 11. AIRAC (2001) - Amended EG D005B danger area - thanks to @hsugden (Harry Sugden)
 12. Enhancement - Added Dublin (EIDW) runway definitions - thanks to @hsugden (Harry Sugden)
 13. Enhancement - Updated EIDW sectors and Irish Sea delegated airspace - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1912) - Shoreham (EGKA) RNAV Fixes - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
