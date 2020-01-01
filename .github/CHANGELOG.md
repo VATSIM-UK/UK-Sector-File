@@ -1,3 +1,6 @@
+# Changes from release 2019/13 to 2020/01
+1. Enhancement - EGGP SMR Update (adds taxiway, runway and stand markings, adds background, re-did buildings and updates positioning for all elements) - thanks to @Keanu73 (Keanu Czirjak)
+
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - Corrected Fix Coordinates (KOFAL,LAMAT,IBOLU) - thanks to @AleksMax (Aleks Nieszczerzewski)
