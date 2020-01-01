@@ -1,5 +1,3 @@
-21. Enhancement - EGGP SMR Update (ground markings, new background, element re-design + repositioning) - thanks to @Keanu73 (Keanu Czirjak)
-
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
 2. AIRAC (1912) - P155 Rerouted - thanks to @JaRm22 (James Morrissey)
@@ -24,6 +22,7 @@
 21. Bug - Added missing EIDW outbound agreements IoM -> AC North (S7) - thanks to @hsugden (Harry Sugden)
 22. AIRAC (2001) - Amended TC SW /  AC Worthing boundary - thanks to @cpawley (Chris Pawley)
 23. AIRAC (2001) - Amended TC NE / TC East boundary - thanks to @cpawley (Chris Pawley)
+24. Enhancement - EGGP SMR Update (ground markings, new background, element re-design + repositioning) - thanks to @Keanu73 (Keanu Czirjak)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
