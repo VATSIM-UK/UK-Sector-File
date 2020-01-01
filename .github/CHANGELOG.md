@@ -1,5 +1,5 @@
 # Changes from release 2019/13 to 2020/01
-1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey))
+1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
 2. AIRAC (1912) - P155 Rerouted - thanks to @JaRm22 (James Morrissey)
 3. Bug - Updated Line display between PC East and PX Humber - thanks to @cpawley (Chris Pawley)
 4. Enhancement - Improved line display for PC Sectors - thanks to @cpawley (Chris Pawley)
@@ -7,6 +7,7 @@
 6. AIRAC (2001) - EGNC Frequency Updates - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. AIRAC (2001) - EGSC Frequency Updates - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. AIRAC (2001) - EGNH Runway Headings Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. Bug - Fixed Gatwick (EGKK) ABSAV STAR routing, adding HOLLY - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
