@@ -8,6 +8,7 @@
 7. AIRAC (2001) - EGSC Frequency Updates - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. AIRAC (2001) - EGNH Runway Headings Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. Bug - Fixed Gatwick (EGKK) ABSAV STAR routing, adding HOLLY - thanks to @hsugden (Harry Sugden)
+10. AIRAC (1912) - Y91/UY91 redesignated L149 - thanks to @LEWISC44 (Lewis Corcoran)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
