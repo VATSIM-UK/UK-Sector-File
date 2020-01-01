@@ -1,5 +1,5 @@
 COPX:EIDW:*:ROLEX:*:*:Isle of Man:London S7:28000:*:ROLEX
 COPX:EIDW:*:BAGIT:*:*:Isle of Man:London S7:28000:*:BAGIT
-COPX:EIDW:*:BAGIT:*:*:Isle of Man:London S7:28000:*:DONAX
-COPX:EIDW:*:BAGIT:*:*:Isle of Man:London S7:28000:*:ALAVA
+COPX:EIDW:*:DONAX:*:*:Isle of Man:London S7:28000:*:DONAX
+COPX:EIDW:*:ALAVA:*:*:Isle of Man:London S7:28000:*:ALAVA
 COPX:EIDW:*:*:*:*:Isle of Man:London S7:28000:*:ROLEX
