@@ -16,6 +16,7 @@
 15. AIRAC (1913) - UP17 Rerouted - thanks to @Kye-Taylor (Kye Taylor)
 16. AIRAC (1912) - Added new Birmingham (EGBB) inbound agreements - thanks to @Kye-Taylor (Kye Taylor)
 17. AIRAC (1913) - EGPK Transition Redesignated - thanks to @AleksMax (Aleks Nieszczerzewski)
+18. AIRAC (1912) Rerouted N513 - thanks to @LEWISC44 (Lewis Corcoran) 
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
