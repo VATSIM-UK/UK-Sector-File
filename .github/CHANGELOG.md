@@ -4,6 +4,7 @@
 3. Bug - Updated Line display between PC East and PX Humber - thanks to @cpawley (Chris Pawley)
 4. Enhancement - Improved line display for PC Sectors - thanks to @cpawley (Chris Pawley)
 5. AIRAC (1913) - EGCC SMR Update (new taxiways D/E/NB/NC/P & holds D1-D3/E3/E4/NC1/NC2/P1-P4/Z1) - thanks to @cbyworth (Chad Byworth)
+6. AIRAC (2001) - EGNC Frequency Updates - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
