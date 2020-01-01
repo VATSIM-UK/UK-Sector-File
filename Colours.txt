@@ -52,7 +52,6 @@
 #define smrGPground 5330521‬
 #define smrGPgrass 3689771
 #define smrGPline 7829248
-#define smrGPhpts 4973039
 #define smrGPterminal 1584743
 #define smrGrass 24576
 #define smrGrass2 43520
