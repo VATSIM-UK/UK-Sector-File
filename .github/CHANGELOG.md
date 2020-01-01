@@ -13,6 +13,8 @@
 12. Enhancement - Added Dublin (EIDW) runway definitions - thanks to @hsugden (Harry Sugden)
 13. Enhancement - Updated EIDW sectors and Irish Sea delegated airspace - thanks to @hsugden (Harry Sugden)
 14. AIRAC (1912) - Shoreham (EGKA) RNAV Fixes - thanks to @kye-taylor (Kye Taylor)
+15. AIRAC (1913) - UP17 Rerouted - thanks to @Kye-Taylor (Kye Taylor)
+16. AIRAC (1912) - Added new Birmingham (EGBB) inbound agreements - thanks to @Kye-Taylor (Kye Taylor)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -66,8 +68,6 @@
 37. AIRAC  (1912) - Added UN864 Airway - thanks to @Kye-Taylor (Kye Taylor)
 38. AIRAC (1912) - Cotswold CTA 15-18 added - thanks to @cbyworth (Chad Byworth)
 
-# Changes from release 2019/10 to 2019/11
-X. AIRAC (1912) - Added new Birmingham (EGBB) inbound agreements - thanks to @Kye-Taylor (Kye Taylor)
 # Changes from release 2019/10 to 2019/11
 1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
