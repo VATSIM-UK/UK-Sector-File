@@ -16,7 +16,7 @@
 15. AIRAC (1913) - UP17 Rerouted - thanks to @Kye-Taylor (Kye Taylor)
 16. AIRAC (1912) - Added new Birmingham (EGBB) inbound agreements - thanks to @Kye-Taylor (Kye Taylor)
 17. AIRAC (1913) - EGPK Transition Redesignated - thanks to @AleksMax (Aleks Nieszczerzewski)
-18. AIRAC (1912) Rerouted N513 - thanks to @LEWISC44 (Lewis Corcoran) 
+18. AIRAC (1912) Rerouted N513 - thanks to @LEWISC44 (Lewis Corcoran)
 19. AIRAC (1912) - EGSS VRP Updated - thanks to @kye-taylor (Kye Taylor)
 20. Enhancement - Added climbing/descending arrows to agreements from external sectors into Scottish - thanks to @hsugden (Harry Sugden)
 21. Bug - Added missing EIDW outbound agreements IoM -> AC North (S7) - thanks to @hsugden (Harry Sugden)
@@ -25,7 +25,13 @@
 24. Enhancement - EGGP SMR Update (ground markings, new background, element re-design + repositioning) - thanks to @Keanu73 (Keanu Czirjak)
 25. AIRAC (1912) - Coventry Information frequency updated and renamed - thanks to @verenion (Dean Lovett)
 26. AIRAC (1913) - Coventry SMR updated, updated taxiways and added new hold - thanks to @verenion (Dean Lovett)
-27. Bug - Updated Northolt (EGWU) STARs - thanks to @hsugden (Harry Sugden)
+27. Enhancement - Added TC Midlands and amended AC Central/AC South boundary for 2020/01 - thanks to @cpawley (Chris Pawley)
+28. Bug - Added missing Newcastle (EGNT) and Durham (EGNV) inbound agreements, S28->East - thanks to @hsugden (Harry Sugden)
+29. Bug - Added missing Manchester (EGCC) and Liverpool (EGGP) inbound agreements, S28->Trent - thanks to @hsugden (Harry Sugden)
+30. Bug - Updated line display LTC3b - thanks to @cpawley (Chris Pawley)
+31. Bug - Corrected sector definition BBF33 - thanks to @cpawley (Chris Pawley)
+32. Bug - Fixed EGLL/EGWU inbound agreement via FITBO - thanks to @hsugden (Harry Sugden)
+33. Bug - Updated Northolt (EGWU) STARs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
