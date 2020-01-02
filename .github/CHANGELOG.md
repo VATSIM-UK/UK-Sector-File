@@ -30,6 +30,7 @@
 29. Bug - Added missing Manchester (EGCC) and Liverpool (EGGP) inbound agreements, S28->Trent - thanks to @hsugden (Harry Sugden)
 30. Bug - Updated line display LTC3b - thanks to @cpawley (Chris Pawley)
 31. Bug - Corrected sector definition BBF33 - thanks to @cpawley (Chris Pawley)
+32. Bug - Fixed EGLL/EGWU inbound agreement via FITBO - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
