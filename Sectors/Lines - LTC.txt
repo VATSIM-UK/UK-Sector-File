@@ -65,7 +65,8 @@ COORD:N052.11.04.000:W000.21.59.000
 COORD:N052.11.04.000:E000.26.16.414
 
 SECTORLINE:LTC3b
-DISPLAY:London AC Daventry:London AC Clacton:London TC DAGGA
+DISPLAY:London S28:London AC Clacton:London TC DAGGA
+DISPLAY:London S34:London AC Clacton:London TC DAGGA
 DISPLAY:London AC Clacton:London AC Clacton:London TC DAGGA
 DISPLAY:London TC DAGGA:London TC DAGGA:London AC Clacton
 DISPLAY:London TC DAGGA:London TC DAGGA:London TC REDFA
