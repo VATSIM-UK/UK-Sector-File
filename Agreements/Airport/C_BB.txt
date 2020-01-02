@@ -1,3 +1,0 @@
-COPX:*:*:HON:EGBB:15:London AC Daventry:BBAPP:*:9000:HON
-COPX:*:*:HON:EGBB:33:London AC Daventry:BBAPP:*:9000:HON20
-COPX:*:*:HON:EGBE:*:London AC Daventry:BBAPP:*:9000:HON
