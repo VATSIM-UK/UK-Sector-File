@@ -26,7 +26,9 @@
 25. AIRAC (1912) - Coventry Information frequency updated and renamed - thanks to @verenion (Dean Lovett)
 26. AIRAC (1913) - Coventry SMR updated, updated taxiways and added new hold - thanks to @verenion (Dean Lovett)
 27. Enhancement - Added TC Midlands and amended AC Central/AC South boundary for 2020/01 - thanks to @cpawley (Chris Pawley)
-28. Bug - Updated line display LTC3b - thanks to @cpawley (Chris Pawley)
+28. Bug - Added missing Newcastle (EGNT) and Durham (EGNV) inbound agreements, S28->East - thanks to @hsugden (Harry Sugden)
+29. Bug - Added missing Manchester (EGCC) and Liverpool (EGGP) inbound agreements, S28->Trent - thanks to @hsugden (Harry Sugden)
+30. Bug - Updated line display LTC3b - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
