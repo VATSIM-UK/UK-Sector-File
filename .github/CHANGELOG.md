@@ -25,6 +25,7 @@
 24. Enhancement - EGGP SMR Update (ground markings, new background, element re-design + repositioning) - thanks to @Keanu73 (Keanu Czirjak)
 25. AIRAC (1912) - Coventry Information frequency updated and renamed - thanks to @verenion (Dean Lovett)
 26. AIRAC (1913) - Coventry SMR updated, updated taxiways and added new hold - thanks to @verenion (Dean Lovett)
+27. Bug - Updated Northolt (EGWU) STARs - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
