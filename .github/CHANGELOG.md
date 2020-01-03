@@ -1,3 +1,6 @@
+# Changes from release 2020/01 to 2020/02
+X. Enhancement - Post-AFV frequency changes (Birmingham Approach now 123.970; Battersea Tower now 134.270; Shannon Information now 127.500) - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
 2. AIRAC (1912) - P155 Rerouted - thanks to @JaRm22 (James Morrissey)
