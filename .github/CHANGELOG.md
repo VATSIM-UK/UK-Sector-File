@@ -1,5 +1,5 @@
 # Changes from release 2020/01 to 2020/02
-X. Bug - Added various missing fixes - thanks to @hsugden (Harry Sugden)
+X. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
