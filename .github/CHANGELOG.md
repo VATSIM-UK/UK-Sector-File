@@ -1,3 +1,6 @@
+# Changes from release 2020/01 to 2020/02
+1. Bug - Removed TIMBA2H STAR - thanks to @sonnynixon1507 (Sonny Nixon)
+
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
 2. AIRAC (1912) - P155 Rerouted - thanks to @JaRm22 (James Morrissey)
