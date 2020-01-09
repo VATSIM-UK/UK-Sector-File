@@ -8,6 +8,7 @@
 7. AIRAC (2002) - Updated EGGD VRPs - thanks to @sonnynixon1507 (Sonny Nixon)
 8. Enhancement - Post-AFV frequency changes (Birmingham Approach now 123.970; Battersea Tower now 134.270; Shannon Information now 127.500) - thanks to @hsugden (Harry Sugden)
 9. Bug - Fixed Observing ownership for Essex, EGTC, EGTK and EGWU airfields following 2001 Daventry changes - thanks to @hsugden (Harry Sugden)
+10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
