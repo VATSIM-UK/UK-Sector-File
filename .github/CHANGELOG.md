@@ -3,7 +3,8 @@
 2. AIRAC (2002) - Updated EGSH Squawk Code Ranges - thanks to @sonnynixon1507 (Sonny Nixon)
 3. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden (Harry Sugden)
 4. Bug - Removed TIMBA2H STAR - thanks to @sonnynixon1507 (Sonny Nixon)
-5. AIRAC (2020) - Added EGLF Ground - thanks to @sonnynixon1507 (Sonny Nixon)
+5. AIRAC (2002) - Added EGLF Ground - thanks to @sonnynixon1507 (Sonny Nixon)
+6. AIRAC (2002) - Added EG R705 Danger Zone - thanks to @sonnynixon1507 (Sonny Nixon)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
