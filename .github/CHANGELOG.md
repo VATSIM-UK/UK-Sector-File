@@ -4,6 +4,7 @@
 3. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden (Harry Sugden)
 4. Bug - Removed TIMBA2H STAR - thanks to @sonnynixon1507 (Sonny Nixon)
 5. AIRAC (2020) - Added EGLF Ground - thanks to @sonnynixon1507 (Sonny Nixon)
+6. AIRAC (2002) - EGKK SMR Update (stand 49R amended, stand 157 removed) - thanks to @Keanu73 (Keanu Czirjak)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
