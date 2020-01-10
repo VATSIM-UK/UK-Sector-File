@@ -1,3 +1,17 @@
+# Changes from release 2020/01 to 2020/02
+1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
+2. AIRAC (2002) - Updated EGSH Squawk Code Ranges - thanks to @sonnynixon1507 (Sonny Nixon)
+3. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden (Harry Sugden)
+4. Bug - Removed TIMBA2H STAR - thanks to @sonnynixon1507 (Sonny Nixon)
+5. AIRAC (2002) - Added EGLF Ground - thanks to @sonnynixon1507 (Sonny Nixon)
+6. AIRAC (2002) - Added EG R705 Danger Zone - thanks to @sonnynixon1507 (Sonny Nixon)
+7. AIRAC (2002) - Updated EGGD VRPs - thanks to @sonnynixon1507 (Sonny Nixon)
+8. Enhancement - Post-AFV frequency changes (Birmingham Approach now 123.970; Battersea Tower now 134.270; Shannon Information now 127.500) - thanks to @hsugden (Harry Sugden)
+9. Bug - Fixed Observing ownership for Essex, EGTC, EGTK and EGWU airfields following 2001 Daventry changes - thanks to @hsugden (Harry Sugden)
+10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden (Harry Sugden)
+11. Bug - Corrected line display and ownership for Birmingham (EGBB) and East Midlands (EGNX) - thanks to @hsugden (Harry Sugden)
+12. Enhancement - Updated alternate ownership for adjacent airports (000A) to reflect Daventry changes - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
 2. AIRAC (1912) - P155 Rerouted - thanks to @JaRm22 (James Morrissey)
