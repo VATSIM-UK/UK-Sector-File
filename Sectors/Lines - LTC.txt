@@ -277,9 +277,7 @@ COORD:N050.49.44.390:W001.34.35.400
 COORD:N050.49.28.000:W001.17.14.000
 
 SECTORLINE:LTC21a
-DISPLAY:London S5:London S5:London AC Worthing
 DISPLAY:London S23:London S23:London AC Worthing
-DISPLAY:London S35:London S35:London AC Worthing
 DISPLAY:London AC Worthing:London AC Worthing:London TC SW
 DISPLAY:London TC SW:London TC SW:London AC Worthing
 DISPLAY:London TC CPT:London TC CPT:London S23
@@ -315,10 +313,8 @@ COORD:N051.40.55.000:W001.34.58.000
 SECTORLINE:LTC22c
 DISPLAY:London AC Worthing:London AC Worthing:London S27
 DISPLAY:London S27:London S27:London AC Worthing
-DISPLAY:London S5:London S5:London S27
 DISPLAY:London S23:London S23:London S27
 DISPLAY:London S23:London S23:London TC COWLY
-DISPLAY:London S27:London S27:London S5
 DISPLAY:London S27:London S27:London S23
 DISPLAY:London TC COWLY:London TC COWLY:London S23
 DISPLAY:London S23:London S23:London TC SW
@@ -355,12 +351,8 @@ COORD:N050.49.28.000:W001.17.14.000
 COORD:N050.49.25.500:W001.15.38.000
 
 SECTORLINE:LTC27
-DISPLAY:London S5:London S5:London AC Worthing
 DISPLAY:London S23:London S23:London AC Worthing
-DISPLAY:London S35:London S35:London AC Worthing
-DISPLAY:London AC Worthing:London AC Worthing:London S5
 DISPLAY:London AC Worthing:London AC Worthing:London S23
-DISPLAY:London AC Worthing:London AC Worthing:London S35
 DISPLAY:London AC Worthing:London AC Worthing:London TC SW
 DISPLAY:London TC SW:London TC SW:London AC Worthing
 COORD:N051.13.06.000:W001.30.31.000
