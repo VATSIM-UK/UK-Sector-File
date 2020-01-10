@@ -1,5 +1,3 @@
-COPX:EGKK:*:*:SPEAR:*:London TC SE:London TC LAM:13000:*:^FRANE
-COPX:EGKK:*:*:SPEAR:*:London TC SE:London TC LAM:13000:*:^FRANE
-
-COPX:EGKK:*:*:CLN:*:London TC SE:London TC LAM:13000:*:^DET
-COPX:EGKK:*:*:CLN:*:London TC SE:London TC LAM:13000:*:^DET
+;fixme
+COPX:EGKK:*:*:DET:*:London TC SE:London TC LAM:13000:*:^DET
+COPX:EGKK:*:*:DET:*:London TC SE:London TC LAM:13000:*:^DET
