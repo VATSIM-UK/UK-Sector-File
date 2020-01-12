@@ -11,6 +11,7 @@
 10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden (Harry Sugden)
 11. Bug - Corrected line display and ownership for Birmingham (EGBB) and East Midlands (EGNX) - thanks to @hsugden (Harry Sugden)
 12. Enhancement - Updated alternate ownership for adjacent airports (000A) to reflect Daventry changes - thanks to @hsugden (Harry Sugden)
+13. AIRAC (1906 & 1910) - Updated EGSS SMR (new stands 92 & 93, extended Echo apron, adjusted freetext) - thanks to @Keanu73 (Keanu Czirjak) and @Tinbum (Nick Szewicw)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
