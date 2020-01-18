@@ -21,6 +21,7 @@
 #define taxiway3 820613
 #define terminal 2108486
 #define water 9204580
+#define geoDefault 5787205
 
 ;SMR Colours
 #define smrACapron 10526880
