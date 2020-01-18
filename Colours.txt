@@ -67,7 +67,7 @@
 #define smrJJtaxiway 9474192
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
-#define smrMCyellow 52428
+#define smrMCYellow 52428
 #define smrMDapron 8816261
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262
@@ -81,7 +81,7 @@
 #define smrSCORunway 5329233
 #define smrSCOTaxiway 9474192
 #define smrSCOGrass 18944
-#define smrSSwhite 13421772
+#define smrSSWhite 13421772
 #define smrTaxiway 0
 #define smrTaxiwayLine 8313850
 #define smrTEAVGAS 6488184
