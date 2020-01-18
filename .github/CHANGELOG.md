@@ -1,5 +1,5 @@
 # Changes from release 2020/01 to 2020/02
-1. Enhanvement - resectorised AC Clacton - thanks to @cpawley (Chris Pawley)
+1. Enhancement - resectorised AC Clacton - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
