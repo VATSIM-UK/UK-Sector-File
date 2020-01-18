@@ -14,6 +14,7 @@
 13. Bug - Fixed Observing ownership for TC NW sector following changes in 2001 - thanks to @hsugden (Harry Sugden)
 14. AIRAC (2002) - EGKK SMR Update (stand 49R amended, stand 157 removed) - thanks to @Keanu73 (Keanu Czirjak)
 15. Enhancement - Adds extra COPX for S5->S29 EGNT/NV/NJ arrival agreements - thanks to @hsugden (Harry Sugden)
+16. Bug - Fixed EPOXI Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
