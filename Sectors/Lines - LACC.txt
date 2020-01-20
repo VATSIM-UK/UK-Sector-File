@@ -744,7 +744,6 @@ DISPLAY:London AC Dover:London S34:London AC Clacton
 COORD:N052.11.04.000:W000.21.59.000
 COORD:N052.11.04.000:W000.02.10.000
 
-
 SECTORLINE:LCS1
 DISPLAY:London TC COWLY:London TC COWLY:London AC Worthing
 DISPLAY:London AC Worthing:London AC Worthing:London TC COWLY
@@ -752,6 +751,9 @@ DISPLAY:London TC COWLY:London TC COWLY:London TC CPT
 DISPLAY:London TC CPT:London TC CPT:London TC COWLY
 DISPLAY:London TC COWLY:London TC COWLY:London TC SW
 DISPLAY:London TC SW:London TC SW:London TC COWLY
+DISPLAY:London TC SW:London TC SW:London TC NW
+DISPLAY:London TC NW:London TC NW:London TC SW
+DISPLAY:London TC NW:London TC NW:London TC CPT
 DISPLAY:London S5:London S27:London AC Worthing
 DISPLAY:London S23:London S27:London AC Worthing
 DISPLAY:London S35:London S27:London AC Worthing
@@ -763,6 +765,8 @@ DISPLAY:London TC COWLY:London TC COWLY:London AC Worthing
 DISPLAY:London AC Worthing:London AC Worthing:London TC COWLY
 DISPLAY:London TC COWLY:London TC COWLY:London TC CPT
 DISPLAY:London TC CPT:London TC CPT:London TC COWLY
+DISPLAY:London TC NW:London TC NW:London TC CPT
+DISPLAY:London TC NW:London TC NW:London TC COWLY
 DISPLAY:London S5:London S27:London AC Worthing
 DISPLAY:London S23:London S27:London AC Worthing
 DISPLAY:London S35:London S27:London AC Worthing
@@ -773,6 +777,8 @@ SECTORLINE:LCS3
 DISPLAY:London TC COWLY:London TC COWLY:London AC Dover
 DISPLAY:London TC COWLY:London TC COWLY:London TC CPT
 DISPLAY:London TC CPT:London TC CPT:London TC COWLY
+DISPLAY:London TC NW:London TC NW:London TC CPT
+DISPLAY:London TC NW:London TC NW:London TC COWLY
 DISPLAY:London AC Dover:London AC Dover:London TC COWLY
 COORD:N051.40.14.600:W000.45.46.000
 COORD:N051.42.55.900:W000.33.54.000
@@ -782,6 +788,8 @@ DISPLAY:London TC WELIN:London TC WELIN:London AC Dover
 DISPLAY:London TC WELIN:London TC WELIN:TC VATON
 DISPLAY:London AC Dover:London AC Dover:London TC WELIN
 DISPLAY:London TC VATON:London TC VATON:London TC WELIN
+DISPLAY:London TC NW:London TC NW:London TC VATON
+DISPLAY:London TC NW:London TC NW:London TC WELIN
 COORD:N051.42.55.900:W000.33.54.000
 COORD:N051.48.04.000:W000.11.14.000
 
