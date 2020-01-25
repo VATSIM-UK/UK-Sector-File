@@ -11,7 +11,13 @@
 10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden (Harry Sugden)
 11. Bug - Corrected line display and ownership for Birmingham (EGBB) and East Midlands (EGNX) - thanks to @hsugden (Harry Sugden)
 12. Enhancement - Updated alternate ownership for adjacent airports (000A) to reflect Daventry changes - thanks to @hsugden (Harry Sugden)
-x. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
+13. Bug - Fixed Observing ownership for TC NW sector following changes in 2001 - thanks to @hsugden (Harry Sugden)
+14. AIRAC (2002) - EGKK SMR Update (stand 49R amended, stand 157 removed) - thanks to @Keanu73 (Keanu Czirjak)
+15. Enhancement - Adds extra COPX for S5->S29 EGNT/NV/NJ arrival agreements - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added TC NE split functionality (LOREL and LAM sectors) - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Added Honiley Radar Gate (turn on under Stars) - thanks to @hsugden (Harry Sugden)
+18. AIRAC (1906 & 1910) - Updated EGSS SMR (new stands 92 & 93, extended Echo apron, adjusted freetext) - thanks to @Keanu73 (Keanu Czirjak) and @Tinbum (Nick Szewicw)
+19. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
