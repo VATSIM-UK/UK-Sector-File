@@ -1,5 +1,4 @@
 # Changes from release 2020/01 to 2020/02
-x. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
 2. AIRAC (2002) - Updated EGSH Squawk Code Ranges - thanks to @sonnynixon1507 (Sonny Nixon)
 3. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden (Harry Sugden)
@@ -12,6 +11,7 @@ x. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturne
 10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden (Harry Sugden)
 11. Bug - Corrected line display and ownership for Birmingham (EGBB) and East Midlands (EGNX) - thanks to @hsugden (Harry Sugden)
 12. Enhancement - Updated alternate ownership for adjacent airports (000A) to reflect Daventry changes - thanks to @hsugden (Harry Sugden)
+x. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
