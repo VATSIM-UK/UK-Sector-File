@@ -20,6 +20,7 @@
 19. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
 20. Enhancement - resectorised AC Clacton - thanks to @cpawley (Chris Pawley)
 21. Enhancement - EGKK SMR Update (Adds ground taxiway labels) - thanks to @nikki2048 (Nikolas Goerlitz)
+22. AIRAC (2002) - Updated Agreements with AAlow from AC Clacton and AC North - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
