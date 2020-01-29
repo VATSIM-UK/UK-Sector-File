@@ -3,7 +3,6 @@
 #define buffercolour 7884373
 #define building 10534048
 #define centrelinecolour 15790135
-#define closedtaxiway 4538367
 #define col_gate 3953980
 #define edge 6589540
 #define Filled 6316128
