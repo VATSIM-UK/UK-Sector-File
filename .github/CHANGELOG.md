@@ -1,6 +1,3 @@
-# Changes from release 2020/02 to 2020/03
-1. AIRAC (2003) - EGKK SMR Update (N1-J8 Junction closed for maintenance) - thanks to @Keanu73 (Keanu Czirjak)
-
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
 2. AIRAC (2002) - Updated EGSH Squawk Code Ranges - thanks to @sonnynixon1507 (Sonny Nixon)
@@ -23,6 +20,7 @@
 19. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
 20. Enhancement - resectorised AC Clacton - thanks to @cpawley (Chris Pawley)
 21. Enhancement - EGKK SMR Update (Adds ground taxiway labels) - thanks to @nikki2048 (Nikolas Goerlitz)
+22. AIRAC (2003) - EGKK SMR Update (N1-J8 Junction closed for maintenance) - thanks to @Keanu73 (Keanu Czirjak)
 
 # Changes from release 2019/13 to 2020/01
 1. AIRAC (1912) - Rerouted N514 - thanks to @JaRm22 (James Morrissey)
