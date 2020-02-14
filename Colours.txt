@@ -48,9 +48,10 @@
 #define smrGDgrass 7058795
 #define smrGDrunway 5329233
 #define smrGDtaxiway 9474192
+#define smrGPbackground 2829085
+#define smrGPground 5330521‬
 #define smrGPgrass 3689771
 #define smrGPline 7829248
-#define smrGPtaxiway 2631720
 #define smrGPterminal 1584743
 #define smrGrass 24576
 #define smrGrass2 43520
@@ -63,6 +64,7 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
+#define smrKKtaxiway 8224000
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
 #define smrMCyellow 52428

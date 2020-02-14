@@ -1,0 +1,9 @@
+COPX:EHAM:*:*:*:*:London S14:London S13:29000:*:^LOGAN
+COPX:EBAW:*:*:*:*:London S14:London S13:29000:*:^LOGAN
+COPX:EBBR:*:*:*:*:London S14:London S13:29000:*:^LOGAN
+COPX:EBCV:*:*:*:*:London S14:London S13:29000:*:^LOGAN
+COPX:EBMB:*:*:*:*:London S14:London S13:29000:*:^LOGAN
+COPX:EBAW:*:*:*:*:London S14:London S13:29000:*:^TEBRA
+COPX:EBBR:*:*:*:*:London S14:London S13:29000:*:^TEBRA
+COPX:EBCV:*:*:*:*:London S14:London S13:29000:*:^TEBRA
+COPX:EBMB:*:*:*:*:London S14:London S13:29000:*:^TEBRA
