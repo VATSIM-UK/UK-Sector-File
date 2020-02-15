@@ -1,5 +1,5 @@
 # Changes from release 2020/02 to 2020/xx
-x. Bug - Adjusted the position of airspace lines for airways near EGCN - thanks to @aturneruk (Adam Turner)
+x. Bug - Adjusted the position of airspace lines and bases near EGCN - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
