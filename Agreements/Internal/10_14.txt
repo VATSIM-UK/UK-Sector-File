@@ -1,0 +1,1 @@
+COPX:*:*:BARMI:EGKK:*:London S10:London S14:*:26000:BARMI
