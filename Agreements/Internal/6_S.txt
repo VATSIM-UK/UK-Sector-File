@@ -14,7 +14,6 @@ COPX:*:*:GIBSO:EGMC:*:London S6:London AC Worthing:*:27000:GIBSO
 COPX:*:*:GIBSO:EGTO:*:London S6:London AC Worthing:*:27000:GIBSO
 COPX:*:*:GIBSO:EGKB:*:London S6:London AC Worthing:*:27000:GIBSO
 
-COPX:*:*:GIBSO:EGLF:*:London S6:London AC Worthing:*:27000:GIBSO10
 COPX:*:*:GIBSO:EGLK:*:London S6:London AC Worthing:*:27000:GIBSO10
 COPX:*:*:GIBSO:EGTF:*:London S6:London AC Worthing:*:27000:GIBSO10
 COPX:*:*:GIBSO:EGHL:*:London S6:London AC Worthing:*:27000:GIBSO10
@@ -22,3 +21,5 @@ COPX:*:*:GIBSO:EGHL:*:London S6:London AC Worthing:*:27000:GIBSO10
 COPX:*:*:OTMET:EGLL:*:London S6:London AC Worthing:*:27000:OTMET
 COPX:*:*:OTMET:EGWU:*:London S6:London AC Worthing:*:27000:OTMET
 COPX:*:*:OTMET:EGKK:*:London S6:London AC Worthing:*:27000:OTMET
+
+COPX:*:*:OTMET:EGLF:*:London S6:London AC Worthing:*:27000:OTMET10

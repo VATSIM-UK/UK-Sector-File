@@ -4,6 +4,8 @@ FIR_COPX:*:*:ABNUR:*:*:LFFF:London AC Dover:*:*:ABNUR
 FIR_COPX:*:*:KESAX:*:*:LFFF:London AC Dover:*:*:KESAX
 FIR_COPX:*:*:SOSUN:*:*:LFFF:London AC Dover:*:*:SOSUN
 
+FIR_COPX:*:*:SOSUN:EGLF:*:LFFF:London AC Dover:*:28000:SOSUN
+
 FIR_COPX:*:*:KESAX:EGKK:*:LFFF:London AC Dover:*:35000:KESAX
 FIR_COPX:*:*:KESAX:EGLF:*:LFFF:London AC Dover:*:28000:KESAX
 FIR_COPX:*:*:KESAX:EGLK:*:LFFF:London AC Dover:*:28000:KESAX
