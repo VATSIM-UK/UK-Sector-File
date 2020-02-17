@@ -23,3 +23,5 @@ COPX:*:*:TELTU:EGKK:*:London AC Worthing:London TC SW:*:13000:TELTU
 COPX:*:*:ABSAV:EGLF:*:London AC Worthing:London TC SW:*:11000:ABSAV
 
 COPX:*:*:RUDMO:EGLF:*:London AC Worthing:London TC SW:*:11000:RUDMO10
+
+COPX:*:*:CPT:EGLF:*:London AC Worthing:London TC SW:*:16000:CPT
