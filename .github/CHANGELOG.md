@@ -5,6 +5,7 @@
 4. AIRAC (2003) - New EGLF SIDs - thanks to @Keanu73 (Keanu Czirjak)
 5. AIRAC (2003) - Re-route L60 - thanks to @Keanu73 (Keanu Czirjak)
 6. AIRAC (2003) - Y803 extended - thanks to @Keanu73 (Keanu Czirjak)
+7. AIRAC (2003) - Added EGCN RNAV fixes - thanks to @Keanu73 (Keanu Czirjak)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
