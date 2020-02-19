@@ -2,6 +2,7 @@
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. AIRAC (2003) - EGLF Squawk Range Update - thanks to @Keanu73 (Keanu Czirjak)
 3. AIRAC (2003) - Re-routed L603 - thanks to @Keanu73 (Keanu Czirjak)
+4. AIRAC (2003) - New EGLF SIDs - thanks to @Keanu73 (Keanu Czirjak)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
