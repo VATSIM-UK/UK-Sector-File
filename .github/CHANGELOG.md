@@ -9,6 +9,7 @@
 8. AIRAC (2003) - Reroute U/M185 - thanks to @Keanu73 (Keanu Czirjak)
 9. AIRAC (2003) - EGKK SMR Update (N1-J8 Junction closed for maintenance) - thanks to @Keanu73 (Keanu Czirjak)
 10. Enhancement - EGKK SMR Update (Moved taxiway labels to seperate Freetext option) - thanks to @Keanu73 (Keanu Czirjak)
+11. Enhancement - EGNH SMR Update (Holding points names and locations and bars) - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
