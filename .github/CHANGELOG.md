@@ -1,3 +1,6 @@
+# Changes from release 2020/02 to 2020/03
+x. Bug - Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke peters)
+
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
 2. AIRAC (2002) - Updated EGSH Squawk Code Ranges - thanks to @sonnynixon1507 (Sonny Nixon)
