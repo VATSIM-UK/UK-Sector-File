@@ -1,4 +1,5 @@
 1. AIRAC (2001) - Updated Cambridge (EGSC) SMR (Lee Roberts)
+2. AIRAC (1313) - Updated Oxford (EGTK) SMR (Lee Roberts)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
