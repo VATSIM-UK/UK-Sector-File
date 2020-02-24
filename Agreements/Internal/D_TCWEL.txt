@@ -1,4 +1,4 @@
-COPX:*:*:HEMEL:EGBB:*:London AC Dover:London TC WELIN:*:22000:MID'sgate
-COPX:*:*:HEMEL:EGBE:*:London AC Dover:London TC WELIN:*:22000:MID'sgate
-COPX:*:*:HEMEL:EGNX:*:London AC Dover:London TC WELIN:*:22000:MID'sgate
-COPX:*:*:HEMEL:EGNE:*:London AC Dover:London TC WELIN:*:22000:MID'sgate
+COPX:*:*:HEMEL:EGBB:*:London AC Dover:London TC WELIN:*:22000:MID'sGate
+COPX:*:*:HEMEL:EGBE:*:London AC Dover:London TC WELIN:*:22000:MID'sGate
+COPX:*:*:HEMEL:EGNX:*:London AC Dover:London TC WELIN:*:22000:MID'sGate
+COPX:*:*:HEMEL:EGNE:*:London AC Dover:London TC WELIN:*:22000:MID'sGate
