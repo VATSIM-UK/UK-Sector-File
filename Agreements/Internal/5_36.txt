@@ -1,0 +1,6 @@
+COPX:EGCC:*:ITJON:*:*:London S5:London S36:31000:*:^ITJON
+COPX:EGCD:*:ITJON:*:*:London S5:London S36:31000:*:^ITJON
+COPX:EGGP:*:ITJON:*:*:London S5:London S36:31000:*:^ITJON
+COPX:EGNH:*:ITJON:*:*:London S5:London S36:31000:*:^ITJON
+COPX:EGNO:*:ITJON:*:*:London S5:London S36:31000:*:^ITJON
+COPX:EGNR:*:ITJON:*:*:London S5:London S36:31000:*:^ITJON
