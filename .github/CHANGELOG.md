@@ -1,4 +1,4 @@
-1. AIRAC (1913) - Updated Oxford SMR (EGTK) - (Lee Roberts)
+1. AIRAC (1913) - Updated Oxford SMR (EGTK)  - (Lee Roberts)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
