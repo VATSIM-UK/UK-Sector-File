@@ -10,6 +10,7 @@
 9. AIRAC (2003) - EGKK SMR Update (N1-J8 Junction closed for maintenance) - thanks to @Keanu73 (Keanu Czirjak)
 10. Enhancement - EGKK SMR Update (Moved taxiway labels to seperate Freetext option) - thanks to @Keanu73 (Keanu Czirjak)
 11. AIRAC (2003) - Added Lincolnshire CTA - thanks to @aturneruk (Adam Turner)
+12. AIRAC (2003) -  Added Wash CTA - thanks to @artturnip (Adam Turner)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
