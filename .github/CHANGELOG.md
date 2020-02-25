@@ -21,6 +21,7 @@
 20. Bug - Update Northolt RMA - thanks to @cbyworth (Chad Byworth)
 21. Enhancement - Improve London CTR & London/City CTR Helicopter Routes - thanks to @cbyworth (Chad Byworth)
 22. Enhancement - Added Midlands Radar Gate - thanks to @robbo599 (Lee Roberts)
+23. Enhancement - Updated all NDBs - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
