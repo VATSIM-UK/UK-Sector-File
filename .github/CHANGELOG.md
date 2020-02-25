@@ -29,6 +29,7 @@
 28. AIRAC (2003) - EGLL SIDs Revised - thanks to @epicdemon99 (Nathaniel Leff)
 29. AIRAC (2003) - New Farnbourugh CAS and associated Heathrow/Solent/Portsmouth CTA/LTMA changes - thanks to @cbyworth (Chad Byworth)
 30. AIRAC (2002) - Added Solent Outbound Agreements - thanks to @luketp (Luke Peters)
+31. AIRAC (1913) - Updated Oxford SMR (EGTK) - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
