@@ -27,6 +27,7 @@
 26. AIRAC (2003) - Revised EGPF STARs - thanks to @Keanu73 (Keanu Czirjak)
 27. AIRAC (2003) - Updated EGPK STARs - thanks to @Keanu73 (Keanu Czirjak)
 28. AIRAC (2003) - EGLL SIDs Revised - thanks to @epicdemon99 (Nathaniel Leff)
+29. AIRAC (2003) - New Farnbourugh CAS and associated Heathrow/Solent/Portsmouth CTA/LTMA changes - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
