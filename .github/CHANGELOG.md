@@ -9,7 +9,14 @@
 8. AIRAC (2003) - Reroute U/M185 - thanks to @Keanu73 (Keanu Czirjak)
 9. AIRAC (2003) - EGKK SMR Update (N1-J8 Junction closed for maintenance) - thanks to @Keanu73 (Keanu Czirjak)
 10. Enhancement - EGKK SMR Update (Moved taxiway labels to seperate Freetext option) - thanks to @Keanu73 (Keanu Czirjak)
-11. AIRAC (Various) - Bristol (EGGD) SMR stands repositioned - thanks to @trevorhannant (Trevor Hannant)
+11. AIRAC (2003) - Added Lincolnshire CTA - thanks to @aturneruk (Adam Turner)
+12. AIRAC (2003) -  Added Wash CTA - thanks to @artturnip (Adam Turner)
+13. Bug - Removed EGHI Ground - thanks to @sonnynixon1507 (Sonny Nixon)
+14. Bug - Adjusted the position of airspace lines and bases near EGCN - thanks to @aturneruk (Adam Turner)
+15. Enhancement - Updated and added all UK TACANs (Lee Roberts)
+16. Enhancement - EGNH SMR Update (Holding points names and locations and bars) - thanks to @PLM1995 (Peter Mooney)
+17. Bug - Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke peters)
+18. AIRAC (Various) - Bristol (EGGD) SMR stands repositioned - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
