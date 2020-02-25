@@ -17,6 +17,7 @@
 16. Enhancement - EGNH SMR Update (Holding points names and locations and bars) - thanks to @PLM1995 (Peter Mooney)
 17. Bug - Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke peters)
 18. AIRAC (Various) - Bristol (EGGD) SMR stands repositioned - thanks to @trevorhannant (Trevor Hannant)
+19. Enhancement - Addition of London CTR local flying areas - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
