@@ -1,0 +1,15 @@
+COPX:EGLL:*:*:WELIN:*:London TC NW:London TC WELIN:14000:*:^WELIN
+; Additional agreements to match unusual flightplans
+COPX:EGLL:*:UMLAT:*:*:London TC NW:London TC WELIN:14000:*:^UMLAT
+COPX:EGLL:*:ULTIB:*:*:London TC NW:London TC WELIN:14000:*:^ULTIB
+
+COPX:EGWU:*:WELIN:*:*:London TC NW:London TC WELIN:14000:*:^WELIN
+COPX:EGLC:*:WELIN:*:*:London TC NW:London TC WELIN:14000:*:^WELIN
+COPX:EGMC:*:WELIN:*:*:London TC NW:London TC WELIN:14000:*:^WELIN
+COPX:EGKB:*:WELIN:*:*:London TC NW:London TC WELIN:14000:*:^WELIN
+COPX:EGTO:*:WELIN:*:*:London TC NW:London TC WELIN:14000:*:^WELIN
+
+COPX:EGSS:*:BUZAD:*:*:London TC NW:London TC WELIN:12000:*:^BUZAD
+COPX:EGSC:*:BUZAD:*:*:London TC NW:London TC WELIN:12000:*:^BUZAD
+
+COPX:EGGW:*:OLNEY:*:*:London TC NW:London TC WELIN:12000:*:^OLNEY
