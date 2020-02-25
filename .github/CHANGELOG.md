@@ -13,13 +13,14 @@
 12. AIRAC (2003) -  Added Wash CTA - thanks to @artturnip (Adam Turner)
 13. Bug - Removed EGHI Ground - thanks to @sonnynixon1507 (Sonny Nixon)
 14. Bug - Adjusted the position of airspace lines and bases near EGCN - thanks to @aturneruk (Adam Turner)
-15. Enhancement - Updated and added all UK TACANs (Lee Roberts)
+15. Enhancement - Updated and added all UK TACANs - thanks to @robbo599 (Lee Roberts)
 16. Enhancement - EGNH SMR Update (Holding points names and locations and bars) - thanks to @PLM1995 (Peter Mooney)
 17. Bug - Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke peters)
 18. AIRAC (Various) - Bristol (EGGD) SMR stands repositioned - thanks to @trevorhannant (Trevor Hannant)
 19. Enhancement - Addition of London CTR local flying areas - thanks to @cbyworth (Chad Byworth)
 20. Bug - Update Northolt RMA - thanks to @cbyworth (Chad Byworth)
 21. Enhancement - Improve London CTR & London/City CTR Helicopter Routes - thanks to @cbyworth (Chad Byworth)
+22. Enhancement - Added Midlands Radar Gate - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
