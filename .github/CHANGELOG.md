@@ -36,6 +36,7 @@
 35. AIRAC (2003) - Added EGLF Outbound agreements - thanks to @luketp (Luke Peters)
 36. AIRAC (2003) - New EGLF STARs - thanks to @Keanu73 (Keanu Czirjak)
 37. AIRAC (2003) - Updated EGPH STARs - thanks to @Keanu73 (Keanu Czirjak)
+38. AIRAC (2003) - Agreement updates for inbounds to EGLF - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
@@ -1026,4 +1027,8 @@
 32. AIRAC - CAE NDB withdrawn; fix FERAS withdrawn; EG D323A danger area updated - thanks to @hsugden (Harry Sugden)
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
+<<<<<<< HEAD
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
+=======
+35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
+>>>>>>> parent of f17eb93... Emptied changelog as requested except for change
