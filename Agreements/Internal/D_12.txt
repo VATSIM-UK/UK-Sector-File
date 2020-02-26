@@ -6,3 +6,5 @@ COPX:EGVN:*:BPK:*:*:London AC Dover:London S12:29000:*:^BPK
 COPX:EGBJ:*:BPK:*:*:London AC Dover:London S12:29000:*:^BPK
 COPX:EGDL:*:BPK:*:*:London AC Dover:London S12:29000:*:^BPK
 COPX:EGVA:*:BPK:*:*:London AC Dover:London S12:29000:*:^BPK
+
+COPX:EGLF:*:BRAIN:*:*:London AC Dover:London S12:23000:*:CLN
