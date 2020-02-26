@@ -64,7 +64,6 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
-#define smrKKtaxiway 8224000
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
 #define smrMCyellow 52428
