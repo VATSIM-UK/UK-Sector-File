@@ -36,6 +36,7 @@
 35. AIRAC (2003) - Added EGLF Outbound agreements - thanks to @luketp (Luke Peters)
 36. AIRAC (2003) - New EGLF STARs - thanks to @Keanu73 (Keanu Czirjak)
 37. AIRAC (2003) - Updated EGPH STARs - thanks to @Keanu73 (Keanu Czirjak)
+38. AIRAC (2003) - Agreement updates for inbounds to EGLF - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
