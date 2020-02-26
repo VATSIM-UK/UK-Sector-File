@@ -32,6 +32,7 @@
 31. AIRAC (1913) - Updated Oxford SMR (EGTK) - thanks to @robbo599 (Lee Roberts)
 32. AIRAC (2003) - New EGCN SIDs - thanks to @Keanu73 (Keanu Czirjak)
 33. AIRAC (1803) - East Midlands SMR Update (Lee Roberts)
+34. AIRAC (2001) - Updated Cambridge (EGSC) SMR (Lee Roberts)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
