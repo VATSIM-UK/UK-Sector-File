@@ -1,3 +1,6 @@
+# Changes from release 2020/03 to 2020/04
+1. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. AIRAC (2003) - EGLF Squawk Range Update - thanks to @Keanu73 (Keanu Czirjak)
@@ -36,6 +39,7 @@
 35. AIRAC (2003) - Added EGLF Outbound agreements - thanks to @luketp (Luke Peters)
 36. AIRAC (2003) - New EGLF STARs - thanks to @Keanu73 (Keanu Czirjak)
 37. AIRAC (2003) - Updated EGPH STARs - thanks to @Keanu73 (Keanu Czirjak)
+38. AIRAC (2003) - Agreement updates for inbounds to EGLF - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
