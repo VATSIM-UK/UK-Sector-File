@@ -34,3 +34,11 @@ COPX:EGLF:*:SFD:*:*:London AC Worthing:London AC Dover:17000:*:^SFD
 COPX:EGLK:*:SFD:*:*:London AC Worthing:London AC Dover:17000:*:^SFD
 COPX:EGTF:*:SFD:*:*:London AC Worthing:London AC Dover:17000:*:^SFD
 COPX:EGHL:*:SFD:*:*:London AC Worthing:London AC Dover:17000:*:^SFD
+
+COPX:*:*:OCK:EGBB:*:London AC Worthing:London AC Dover:*:25000:|OCK
+COPX:*:*:OCK:EGBE:*:London AC Worthing:London AC Dover:*:25000:|OCK
+COPX:*:*:OCK:EGNX:*:London AC Worthing:London AC Dover:*:25000:|OCK
+
+COPX:*:*:HEMEL:EGBB:*:London AC Worthing:London AC Dover:*:25000:|HEMEL20
+COPX:*:*:HEMEL:EGBE:*:London AC Worthing:London AC Dover:*:25000:|HEMEL20
+COPX:*:*:HEMEL:EGNX:*:London AC Worthing:London AC Dover:*:25000:|HEMEL20
