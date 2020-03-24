@@ -1,5 +1,8 @@
 # Changes from release 2020/03 to 2020/04
-1. Enhancement - Updated Sumburgh (EGPB) SMR - thanks to @PLM1995 (Peter Mooney)
+1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
+2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
+3. Enhancement - (EGGD) Add missing taxiway line from East Apron to AX - thanks to @trevorhannant (Trevor Hannant)
+4. Enhancement - Updated Sumburgh (EGPB) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
