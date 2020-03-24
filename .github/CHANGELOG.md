@@ -8,6 +8,8 @@
 7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
 8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
+10. Bug - Changes for various small aerodromes in Scotland/Northern Ireland
+11. Bug - EGHC-ATZ Missing
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
