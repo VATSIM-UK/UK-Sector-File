@@ -6,6 +6,7 @@
 5. Enhancement - Improve Kirkwall (EGPA) SMR - thanks to @PLM1995 (Peter Mooney)
 6. Enhancement - Removed FF_APP from topdown of EGGD - thanks to @luketp (Luke Peters)
 7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
+8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
