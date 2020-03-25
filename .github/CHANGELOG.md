@@ -1,5 +1,15 @@
 # Changes from release 2020/03 to 2020/04
-1. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
+1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
+2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
+3. Enhancement - (EGGD) Add missing taxiway line from East Apron to AX - thanks to @trevorhannant (Trevor Hannant)
+4. Enhancement - Updated Sumburgh (EGPB) SMR - thanks to @PLM1995 (Peter Mooney)
+5. Enhancement - Improve Kirkwall (EGPA) SMR - thanks to @PLM1995 (Peter Mooney)
+6. Enhancement - Removed FF_APP from topdown of EGGD - thanks to @luketp (Luke Peters)
+7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
+8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
+9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
+10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
