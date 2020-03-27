@@ -1,5 +1,5 @@
 # Changes from release 2020/04 to 2020/05
-1. Bug - EGPH Delivery Controller identifier fixed - thanks to @kye-taylor (Kye Taylor)
+1. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
