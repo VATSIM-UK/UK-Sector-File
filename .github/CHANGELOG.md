@@ -1,5 +1,5 @@
 # Changes from release 2020/04 to 2020/05
-X. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden (Harry Sugden)
+X. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden (Harry Sugden) and @aturneruk (Adam Turner)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
