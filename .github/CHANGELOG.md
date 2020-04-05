@@ -1041,4 +1041,4 @@
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
-36. Add Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
+36. Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
