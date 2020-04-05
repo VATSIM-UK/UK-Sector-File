@@ -1,3 +1,5 @@
+# Changes from release 2020/04 to 2020/05
+1. Enhancement - Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
@@ -1041,4 +1043,4 @@
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
-36. Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
+
