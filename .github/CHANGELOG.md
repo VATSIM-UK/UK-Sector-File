@@ -1,3 +1,6 @@
+# Changes from release 2020/04 to 2020/05
+1. AIRAC (2004) - EGCN SIDs redesignated and fix update - thanks to @luketp (Luke Peters)
+
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
