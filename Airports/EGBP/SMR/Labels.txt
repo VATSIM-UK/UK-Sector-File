@@ -1,4 +1,3 @@
-; Start Kemble (EGBP) Labels
 ;Holding Points
 "D1" N051.40.05.885 W002.03.43.284 standHold
 "B1" N051.40.06.914 W002.03.38.168 standHold
@@ -37,4 +36,3 @@
 "C2" N051.40.12.780 W002.03.42.138 smrYellow
 "G1" N051.40.11.278 W002.04.08.038 smrYellow
 "G2" N051.40.09.821 W002.04.07.991 smrYellow
-; End Kemble (EGBP) Labels
