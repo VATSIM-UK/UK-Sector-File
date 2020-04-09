@@ -1,3 +1,6 @@
+# Changes from release 2020/04 to 2020/05
+X. Bug/Enhancement - Optimised agreements for LTMA departures in TC/AC Clacton region - thanks to @hsugden (Harry Sugden) & @aturneruk (Adam Turner)
+
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
