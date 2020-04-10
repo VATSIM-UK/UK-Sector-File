@@ -1,4 +1,7 @@
 # Changes from release 2020/02 to 2020/03
+1. Enhancement - Add Brize LARS Frequency - thanks to @trevorhannant (Trevor Hannant)
+
+# Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. AIRAC (2003) - EGLF Squawk Range Update - thanks to @Keanu73 (Keanu Czirjak)
 3. AIRAC (2003) - Re-routed L603 - thanks to @Keanu73 (Keanu Czirjak)
