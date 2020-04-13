@@ -1,3 +1,6 @@
+# Changes from release 2020/04 to 2020/05
+X. Missing-ATZs---Scotland/Northern-Ireland-#2326
+
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
@@ -10,6 +13,8 @@
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
 10. Bug - EGHC Lands End ATZ Added - thanks to @gdonohoe (Gregg Donohoe)
 11. Bug - Changes for various small aerodromes in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
+12. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+13. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
