@@ -1,3 +1,6 @@
+# Changes from release 2020/04 to 2020/05
+X. Enhancement/Bug - Add Oxford SMAA and correct Radar/Director frequencies - thanks to @cbyworth (Chad Byworth)
+
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
