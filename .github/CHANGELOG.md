@@ -1,3 +1,21 @@
+# Changes from release 2020/04 to 2020/05
+1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
+2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
+3. Enhancement - Update Agreements through TC NW for City,Southend departures - thanks to @cpawley (Chris Pawley)
+
+# Changes from release 2020/03 to 2020/04
+1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
+2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
+3. Enhancement - (EGGD) Add missing taxiway line from East Apron to AX - thanks to @trevorhannant (Trevor Hannant)
+4. Enhancement - Updated Sumburgh (EGPB) SMR - thanks to @PLM1995 (Peter Mooney)
+5. Enhancement - Improve Kirkwall (EGPA) SMR - thanks to @PLM1995 (Peter Mooney)
+6. Enhancement - Removed FF_APP from topdown of EGGD - thanks to @luketp (Luke Peters)
+7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
+8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
+9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
+10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
+
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. AIRAC (2003) - EGLF Squawk Range Update - thanks to @Keanu73 (Keanu Czirjak)
@@ -23,7 +41,20 @@
 22. Enhancement - Added Midlands Radar Gate - thanks to @robbo599 (Lee Roberts)
 23. Enhancement - Updated all NDBs - thanks to @aturneruk (Adam Turner)
 24. Enhancement - Improve Heathrow Inner CTA - thanks to @cbyworth (Chad Byworth)
-25. Enhancement - Update Agreements through TC NW for City,Southend departures - thanks to @cpawley (Chris Pawley)
+25. AIRAC (2002) - T920 Track Added - thanks to @JaRm22 (James Morrissey)
+26. AIRAC (2003) - Revised EGPF STARs - thanks to @Keanu73 (Keanu Czirjak)
+27. AIRAC (2003) - Updated EGPK STARs - thanks to @Keanu73 (Keanu Czirjak)
+28. AIRAC (2003) - EGLL SIDs Revised - thanks to @epicdemon99 (Nathaniel Leff)
+29. AIRAC (2003) - New Farnbourugh CAS and associated Heathrow/Solent/Portsmouth CTA/LTMA changes - thanks to @cbyworth (Chad Byworth)
+30. AIRAC (2002) - Added Solent Outbound Agreements - thanks to @luketp (Luke Peters)
+31. AIRAC (1913) - Updated Oxford SMR (EGTK) - thanks to @robbo599 (Lee Roberts)
+32. AIRAC (2003) - New EGCN SIDs - thanks to @Keanu73 (Keanu Czirjak)
+33. AIRAC (1803) - East Midlands SMR Update (Lee Roberts)
+34. AIRAC (2001) - Updated Cambridge (EGSC) SMR (Lee Roberts)
+35. AIRAC (2003) - Added EGLF Outbound agreements - thanks to @luketp (Luke Peters)
+36. AIRAC (2003) - New EGLF STARs - thanks to @Keanu73 (Keanu Czirjak)
+37. AIRAC (2003) - Updated EGPH STARs - thanks to @Keanu73 (Keanu Czirjak)
+38. AIRAC (2003) - Agreement updates for inbounds to EGLF - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
