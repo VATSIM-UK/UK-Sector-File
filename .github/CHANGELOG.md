@@ -1,4 +1,7 @@
 # Changes from release 2020/03 to 2020/04
+X. Bug - Added Agreements for EB** inbounds - thanks to @jamest00 (James Thomas)
+
+# Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
 2. Bug - Typo in AC Worthing Agreements - thanks to @trevorhannant (Trevor Hannant)
 3. Enhancement - (EGGD) Add missing taxiway line from East Apron to AX - thanks to @trevorhannant (Trevor Hannant)
