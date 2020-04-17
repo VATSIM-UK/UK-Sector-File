@@ -1,5 +1,5 @@
 # Changes from release 2020/04 to 2020/05
-1. Enhancement - updated EGOV Valley info and added MATZ - thanks to @Robbo599 (Lee Roberts)
+1. Enhancement - Updated EGOV Valley info and added MATZ - thanks to @Robbo599 (Lee Roberts)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
