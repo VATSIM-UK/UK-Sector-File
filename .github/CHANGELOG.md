@@ -1,5 +1,5 @@
 # Changes from release 2020/04 to 2020/05
-1. Enhancement - removed old military positions and duplicates. also aded fighter controller positions - thanks to @robbo599 (Lee Roberts)
+1. Enhancement - Tidied up military positions and added fighter controller positions - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
