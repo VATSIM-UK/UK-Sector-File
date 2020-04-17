@@ -1,4 +1,7 @@
 # Changes from release 2020/04 to 2020/05
+1. Enhancement - removed old military positions and duplicates. also aded fighter controller positions - thanks to @robbo599 (Lee Roberts)
+
+# Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
 2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
 3. Enhancement - Update Agreements through TC NW for City,Southend departures - thanks to @cpawley (Chris Pawley)
