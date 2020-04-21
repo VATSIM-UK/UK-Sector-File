@@ -6,6 +6,7 @@
 5. Bug - Added Agreements for EB** inbounds - thanks to @jamest00 (James Thomas)
 6. Bug - Fixed EH-- inbound arrival agreements S12->EHAA - thanks to @hsugden (Harry Sugden)
 7. AIRAC (2004) - EGCN SIDs redesignated and fix update - thanks to @luketp (Luke Peters)
+8. Enhancement - Added airspace for Lands End (EGHC) Tower - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
