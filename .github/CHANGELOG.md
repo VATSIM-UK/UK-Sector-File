@@ -14,6 +14,7 @@
 13. Bug - Corrected Manchester (EGCC) top-down ownership - thanks to @hsugden (Harry Sugden)
 14. Bug - Fixed STC_W position identifier - thanks to @daleb99 (Dale Brooksby)
 15. Enhancement - Optimised AC South -> AC Dover agreements for BB/GD/FF departing traffic - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added airspace and positions for Scilly Isles (EGHE) - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
