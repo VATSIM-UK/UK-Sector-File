@@ -22,6 +22,7 @@
 21. Enhancement - Added Iceland Radio event clearance positions - thanks to @itsbenny99 (Benjamin Matthews)
 22. AIRAC (2004) - Updated EGNV not replicated due 8.33 spacing, updated docs - thanks to @luketp (Luke Peters) 
 23. Enhancement - Add Brize LARS Frequency - thanks to @trevorhannant (Trevor Hannant)
+24. AIRAC (2005) - EGTE SMR Update (Added D1) - thanks to @jamest00 (James Thomas)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
