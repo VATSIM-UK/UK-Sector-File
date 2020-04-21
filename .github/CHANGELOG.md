@@ -1,4 +1,4 @@
-# Changes from release 2020/03 to 2020/04
+# Changes from release 2020/04 to 2020/05
 1. Bug - Fixed STC_W position identifier - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2020/03 to 2020/04
