@@ -12,6 +12,7 @@
 11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden (Harry Sugden)
 12. AIRAC (1902) - Edited Manchester/Barton frequency - thanks to @itsbenny99 (Benjamin Matthews)
 13. Bug - Corrected Manchester (EGCC) top-down ownership - thanks to @hsugden (Harry Sugden)
+14. Bug - Fixed STC_W position identifier - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
