@@ -1,2 +1,0 @@
-FIR_COPX:*:*:SOMVA:*:*:London S12:EHAA:*:*:SOMVA
-FIR_COPX:*:*:REDFA:*:*:London S12:EHAA:*:*:REDFA

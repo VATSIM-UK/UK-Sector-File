@@ -1,5 +1,26 @@
 # Changes from release 2020/04 to 2020/05
-1. AIRAC (2004) - Updated EGNV not replicated due 8.33 spacing, updated docs - thanks to @luketp (Luke Peters) 
+1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
+2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
+3. Enhancement - Update Agreements through TC NW for City,Southend departures - thanks to @cpawley (Chris Pawley)
+4. Bug - Fixed S10->East and Added S10->Montrose EGNT/NV inbound agreements - thanks to @hsugden (Harry Sugden)
+5. Bug - Added Agreements for EB** inbounds - thanks to @jamest00 (James Thomas)
+6. Bug - Fixed EH-- inbound arrival agreements S12->EHAA - thanks to @hsugden (Harry Sugden)
+7. AIRAC (2004) - EGCN SIDs redesignated and fix update - thanks to @luketp (Luke Peters)
+8. Enhancement - Added airspace for Lands End (EGHC) Tower - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
+9. AIRAC (2005) - Added Balmoral Danger Area (EG R704) - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - Correction of Valley TCAN Identifier - thanks to @robbo599 (Lee Roberts)
+11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1902) - Edited Manchester/Barton frequency - thanks to @itsbenny99 (Benjamin Matthews)
+13. Bug - Corrected Manchester (EGCC) top-down ownership - thanks to @hsugden (Harry Sugden)
+14. Bug - Fixed STC_W position identifier - thanks to @daleb99 (Dale Brooksby)
+15. Enhancement - Optimised AC South -> AC Dover agreements for BB/GD/FF departing traffic - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added airspace and positions for Scilly Isles (EGHE) - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
+17. AIRAC (2005) - EGNV renamed to Teeside International Airport - thanks to @AleksMax (Aleks Nieszczerzewski)
+18. Enhancement - Tidied up military positions and added fighter controller positions - thanks to @robbo599 (Lee Roberts)
+19. Enhancement - Added Brize Director - thanks to @robbo599 (Lee Roberts)
+20. Enhancement/Bug - Add Oxford SMAA and correct Radar/Director frequencies - thanks to @cbyworth (Chad Byworth)
+21. Enhancement - Added Iceland Radio event clearance positions - thanks to @itsbenny99 (Benjamin Matthews)
+22. AIRAC (2004) - Updated EGNV not replicated due 8.33 spacing, updated docs - thanks to @luketp (Luke Peters) 
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
@@ -13,7 +34,6 @@
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
 10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
 11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
-
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. AIRAC (2003) - EGLF Squawk Range Update - thanks to @Keanu73 (Keanu Czirjak)
