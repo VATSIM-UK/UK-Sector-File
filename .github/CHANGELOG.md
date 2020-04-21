@@ -18,6 +18,7 @@
 17. AIRAC (2005) - EGNV renamed to Teeside International Airport - thanks to @AleksMax (Aleks Nieszczerzewski)
 18. Enhancement - Tidied up military positions and added fighter controller positions - thanks to @robbo599 (Lee Roberts)
 19. Enhancement - Added Brize Director - thanks to @robbo599 (Lee Roberts)
+20. Enhancement/Bug - Add Oxford SMAA and correct Radar/Director frequencies - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
