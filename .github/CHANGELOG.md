@@ -9,6 +9,7 @@
 8. Enhancement - Added airspace for Lands End (EGHC) Tower - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
 9. AIRAC (2005) - Added Balmoral Danger Area (EG R704) - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Bug - Correction of Valley TCAN Identifier - thanks to @robbo599 (Lee Roberts)
+11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
