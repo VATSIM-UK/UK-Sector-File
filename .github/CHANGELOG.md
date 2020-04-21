@@ -20,7 +20,7 @@
 19. Enhancement - Added Brize Director - thanks to @robbo599 (Lee Roberts)
 20. Enhancement/Bug - Add Oxford SMAA and correct Radar/Director frequencies - thanks to @cbyworth (Chad Byworth)
 21. Enhancement - Added Iceland Radio event clearance positions - thanks to @itsbenny99 (Benjamin Matthews)
-22. AIRAC (2004) - Updated EGNV not replicated due 8.33 spacing, updated docs - thanks to @luketp (Luke Peters) 
+22. AIRAC (2004) - Updated EGNV not replicated due 8.33 spacing, updated docs - thanks to @luketp (Luke Peters)
 23. Enhancement - Add Brize LARS Frequency - thanks to @trevorhannant (Trevor Hannant)
 24. AIRAC (2005) - EGTE SMR Update (Added D1) - thanks to @jamest00 (James Thomas)
 25. Enhancement - Updated drawing of EGUW MATZ - thanks to @Robbo599 (Lee Roberts)
@@ -29,6 +29,7 @@
 28. Enhancement - updated drawing of EGQL MATZ - thanks to @Robbo599 (Lee Roberts)
 29. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden (Harry Sugden) and @aturneruk (Adam Turner)
 30. AIRAC (2005) - EGMC New SENA Apron, stands 101/102 added - thanks to @kye-taylor (Kye Taylor)
+31.
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
