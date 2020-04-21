@@ -27,6 +27,7 @@
 26. Enhancement - Added MATZ and runway for EGQK Kinloss - thanks to @Robbo599 (Lee Roberts)
 27. Enhancement - updated EGQS Lossiemouth info and MATZ - thanks to @Robbo599 (Lee Roberts)
 28. Enhancement - updated drawing of EGQL MATZ - thanks to @Robbo599 (Lee Roberts)
+29. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden (Harry Sugden) and @aturneruk (Adam Turner)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
