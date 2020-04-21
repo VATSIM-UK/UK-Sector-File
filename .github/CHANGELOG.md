@@ -10,6 +10,7 @@
 9. AIRAC (2005) - Added Balmoral Danger Area (EG R704) - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Bug - Correction of Valley TCAN Identifier - thanks to @robbo599 (Lee Roberts)
 11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1902) - Edited Manchester/Barton frequency - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
@@ -23,7 +24,6 @@
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
 10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
 11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
-
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. AIRAC (2003) - EGLF Squawk Range Update - thanks to @Keanu73 (Keanu Czirjak)
