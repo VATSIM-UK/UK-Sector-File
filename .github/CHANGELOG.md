@@ -47,6 +47,7 @@
 46. Enhancement - Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
 47. AIRAC (1909) - EGGW SMR Update - thanks to @trevorhannant (Trevor Hannant)
 48. Enhancement - updated drawing of EGXC MATZ - thanks to @Robbo599 (Lee Roberts)
+49. Enhancement - updated drawing of EGYD MATZ - thanks to @Robbo599 (Lee Roberts)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
