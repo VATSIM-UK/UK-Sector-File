@@ -38,6 +38,7 @@
 37. Enhancement - Added EGCB (Barton) Runways - thanks to @AleksMax (Aleks Nieszczerzewski)
 38. Enhancement - Improved functionality of EGKK LAM departure agreements - thanks to @hsugden (Harry Sugden)
 39. Enhancement - Removed Solent online ring display to AC Dover - thanks to @hsugden (Harry Sugden)
+40. Enhancement - Belfast TMA standing agreements - thanks to @kye-taylor (Kye Taylor) and @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
