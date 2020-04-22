@@ -36,6 +36,7 @@
 35. Enhancement - Isles of Scilly Enhancements - thanks to @trevorhannant (Trevor Hannant)
 36. Bug - Updated Thames Clutch agreements - thanks to @cbyworth (Chad Byworth)
 37. Enhancement - Added EGCB (Barton) Runways - thanks to @AleksMax (Aleks Nieszczerzewski)
+38. Enhancement - Improved functionality of EGKK LAM departure agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
