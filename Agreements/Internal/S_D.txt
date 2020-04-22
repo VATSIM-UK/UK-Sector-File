@@ -1,25 +1,40 @@
-COPX:EGBB:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGBE:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGNX:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGGD:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGVN:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGBJ:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGDL:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
-COPX:EGVA:*:BIG:*:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGBB:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGBE:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGNX:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
 
-COPX:EGGD:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^BPK
-COPX:EGVN:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^BPK
-COPX:EGBJ:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^BPK
-COPX:EGDL:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^BPK
-COPX:EGVA:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^BPK
+COPX:EGBB:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+COPX:EGBE:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+COPX:EGNX:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
 
-COPX:EGFF:*:BIG:*:*:London AC Worthing:London AC Dover:29000:*:^BIG
-COPX:EGFH:*:BIG:*:*:London AC Worthing:London AC Dover:29000:*:^BIG
-COPX:EGSY:*:BIG:*:*:London AC Worthing:London AC Dover:29000:*:^BIG
+COPX:EGGD:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGVN:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGBJ:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGDL:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
+COPX:EGVA:*:*:BIG:*:London AC Worthing:London AC Dover:23000:*:^BIG
 
-COPX:EGFF:*:*:*:*:London AC Worthing:London AC Dover:29000:*:^BPK
-COPX:EGFH:*:*:*:*:London AC Worthing:London AC Dover:29000:*:^BPK
-COPX:EGSY:*:*:*:*:London AC Worthing:London AC Dover:29000:*:^BPK
+COPX:EGGD:*:*:BPK:*:London AC Worthing:London AC Dover:23000:*:^BPK
+COPX:EGVN:*:*:BPK:*:London AC Worthing:London AC Dover:23000:*:^BPK
+COPX:EGBJ:*:*:BPK:*:London AC Worthing:London AC Dover:23000:*:^BPK
+COPX:EGDL:*:*:BPK:*:London AC Worthing:London AC Dover:23000:*:^BPK
+COPX:EGVA:*:*:BPK:*:London AC Worthing:London AC Dover:23000:*:^BPK
+
+COPX:EGGD:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+COPX:EGVN:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+COPX:EGBJ:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+COPX:EGDL:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+COPX:EGVA:*:*:*:*:London AC Worthing:London AC Dover:23000:*:^
+
+COPX:EGFF:*:*:BIG:*:London AC Worthing:London AC Dover:29000:*:^BIG
+COPX:EGFH:*:*:BIG:*:London AC Worthing:London AC Dover:29000:*:^BIG
+COPX:EGSY:*:*:BIG:*:London AC Worthing:London AC Dover:29000:*:^BIG
+
+COPX:EGFF:*:*:BPK:*:London AC Worthing:London AC Dover:29000:*:^BPK
+COPX:EGFH:*:*:BPK:*:London AC Worthing:London AC Dover:29000:*:^BPK
+COPX:EGSY:*:*:BPK:*:London AC Worthing:London AC Dover:29000:*:^BPK
+
+COPX:EGFF:*:*:*:*:London AC Worthing:London AC Dover:29000:*:^
+COPX:EGFH:*:*:*:*:London AC Worthing:London AC Dover:29000:*:^
+COPX:EGSY:*:*:*:*:London AC Worthing:London AC Dover:29000:*:^
 
 COPX:EGHH:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
 COPX:EGHI:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
