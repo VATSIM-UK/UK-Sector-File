@@ -34,6 +34,7 @@
 33. Enhancement - Added agreements between PC East sectors - thanks to @hsugden (Harry Sugden)
 34. Enhancement - Create EGAE SMR - thanks to @trevorhannant (Trevor Hannant)
 35. Enhancement - Isles of Scilly Enhancements - thanks to @trevorhannant (Trevor Hannant)
+36. Bug - Updated Thames Clutch agreements - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
