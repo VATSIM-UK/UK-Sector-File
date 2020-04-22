@@ -1,4 +1,4 @@
-EGQK Kinloss  N00.00.00.000 W000.00.00.000 N00.00.00.000 W000.00.00.000
+EGQK Kinloss  S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000
 ;
 ;Outside edge - starting Rwy 08 - Anticlockwise
 ;
