@@ -4,7 +4,8 @@
 #define building 10534048
 #define centrelinecolour 15790135
 #define col_gate 3953980
-#define edge 6589540
+#define gate 3953980
+#define Edge 6589540
 #define Filled 6316128
 #define fire 2894694
 #define grass 6919785
@@ -21,6 +22,7 @@
 #define taxiway3 820613
 #define terminal 2108486
 #define water 9204580
+#define geoDefault 5787205
 
 ;SMR Colours
 #define smrACapron 10526880
@@ -49,7 +51,7 @@
 #define smrGDrunway 5329233
 #define smrGDtaxiway 9474192
 #define smrGPbackground 2829085
-#define smrGPground 5330521‬
+#define smrGPground 5530521
 #define smrGPgrass 3689771
 #define smrGPline 7829248
 #define smrGPterminal 1584743
@@ -66,7 +68,7 @@
 #define smrJJtaxiway 9474192
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
-#define smrMCyellow 52428
+#define smrMCYellow 52428
 #define smrMDapron 8816261
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262
@@ -80,7 +82,7 @@
 #define smrSCORunway 5329233
 #define smrSCOTaxiway 9474192
 #define smrSCOGrass 18944
-#define smrSSwhite 13421772
+#define smrSSWhite 13421772
 #define smrTaxiway 0
 #define smrTaxiwayLine 8313850
 #define smrTEAVGAS 6488184
