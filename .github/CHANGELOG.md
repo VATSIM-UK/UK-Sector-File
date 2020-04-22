@@ -45,6 +45,7 @@
 44. Enhancement - Added agreements between PC West sectors - thanks to @hsugden (Harry Sugden)
 45. Enhancement - Removed Dupe airspace bases - thanks to @kye-taylor (Kye Taylor)
 46. Enhancement - Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
+47. AIRAC (1909) - EGGW SMR Update - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
