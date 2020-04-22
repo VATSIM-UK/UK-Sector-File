@@ -1,6 +1,9 @@
 ;COPX for LL/WU/GW
 COPX:BRAIN:*:*:*:*:London TC DAGGA:London S12:23000:*:^BRAIN
 
+;COPX for LL
+COPX:DIGSU:*:*:*:*:London TC DAGGA:London S12:23000:*:^DIGSU
+
 ;COPX for KK/KB
 COPX:DAGGA:*:*:*:*:London TC DAGGA:London S12:23000:*:^DAGGA
 
