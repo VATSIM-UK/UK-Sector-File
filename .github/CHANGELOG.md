@@ -1,4 +1,4 @@
-# Changes from release 2020/02 to 2020/03
+# Changes from release 2020/04 to 2020/05
 1. Enhancement - Create EGAE SMR - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/02 to 2020/03
