@@ -49,6 +49,7 @@
 48. Enhancement - updated drawing of EGXC MATZ - thanks to @Robbo599 (Lee Roberts)
 49. Enhancement - updated drawing of EGYD MATZ - thanks to @Robbo599 (Lee Roberts)
 50. Enhancement - updated EGYM Marham airspace and info - thanks to @Robbo599 (Lee Roberts)
+51. Enhancement - updated drawing of EGDM Boscombe Down MATZ - thanks to @Robbo599 (Lee Roberts)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
