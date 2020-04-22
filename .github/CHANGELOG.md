@@ -8,7 +8,7 @@
 7. AIRAC (2004) - EGCN SIDs redesignated and fix update - thanks to @luketp (Luke Peters)
 8. Enhancement - Added airspace for Lands End (EGHC) Tower - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
 9. AIRAC (2005) - Added Balmoral Danger Area (EG R704) - thanks to @AleksMax (Aleks Nieszczerzewski)
-10. Bug - Correction of Valley TCAN Identifier - thanks to @robbo599 (Lee Roberts)
+10. Bug - Correction of Valley TACAN Identifier - thanks to @robbo599 (Lee Roberts)
 11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden (Harry Sugden)
 12. AIRAC (1902) - Edited Manchester/Barton frequency - thanks to @itsbenny99 (Benjamin Matthews)
 13. Bug - Corrected Manchester (EGCC) top-down ownership - thanks to @hsugden (Harry Sugden)
@@ -37,6 +37,7 @@
 36. Bug - Updated Thames Clutch agreements - thanks to @cbyworth (Chad Byworth)
 37. Enhancement - Added EGCB (Barton) Runways - thanks to @AleksMax (Aleks Nieszczerzewski)
 38. Enhancement - Improved functionality of EGKK LAM departure agreements - thanks to @hsugden (Harry Sugden)
+39. Enhancement - Removed Solent online ring display to AC Dover - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
