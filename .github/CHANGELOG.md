@@ -44,6 +44,7 @@
 43. Bug - Fixed Deancross to ScTMA (Talla) inbound ScTMA agreements - thanks to @hsugden (Harry Sugden)
 44. Enhancement - Added agreements between PC West sectors - thanks to @hsugden (Harry Sugden)
 45. Enhancement - Removed Dupe airspace bases - thanks to @kye-taylor (Kye Taylor)
+46. Enhancement - Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
