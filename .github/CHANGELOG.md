@@ -1,10 +1,9 @@
-X. Bug - Fixed SS FIN -> TC NW outbound agreements - thanks to @hsugden (Harry Sugden)
-
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
 2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
 3. Enhancement - Update Agreements through TC NW for City,Southend departures - thanks to @cpawley (Chris Pawley)
 4. Bug - Fixed S10->East and Added S10->Montrose EGNT/NV inbound agreements - thanks to @hsugden (Harry Sugden)
+5. Bug - Fixed SS FIN -> TC NW outbound agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
