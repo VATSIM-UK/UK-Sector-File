@@ -29,7 +29,7 @@
 28. Enhancement - updated drawing of EGQL MATZ - thanks to @Robbo599 (Lee Roberts)
 29. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden (Harry Sugden) and @aturneruk (Adam Turner)
 30. AIRAC (2005) - EGMC New SENA Apron, stands 101/102 added - thanks to @kye-taylor (Kye Taylor)
-31.
+31. Enhancement - Updated Military Radar Corridors - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
