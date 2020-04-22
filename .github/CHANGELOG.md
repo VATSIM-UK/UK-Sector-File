@@ -43,6 +43,7 @@
 42. Bug - Fixed various line display issues in the LTC area - thanks to @hsugden (Harry Sugden)
 43. Bug - Fixed Deancross to ScTMA (Talla) inbound ScTMA agreements - thanks to @hsugden (Harry Sugden)
 44. Enhancement - Added agreements between PC West sectors - thanks to @hsugden (Harry Sugden)
+45. Enhancement - Removed Dupe airspace bases - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
