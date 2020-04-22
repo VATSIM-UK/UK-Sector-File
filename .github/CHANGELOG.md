@@ -41,6 +41,7 @@
 40. Enhancement - Belfast TMA standing agreements - thanks to @kye-taylor (Kye Taylor) and @hsugden (Harry Sugden)
 41. Enhancement - Updated TC NW sector definition to reflect 155/165 split - thanks to @hsugden (Harry Sugden)
 42. Bug - Fixed various line display issues in the LTC area - thanks to @hsugden (Harry Sugden)
+43. Bug - Fixed Deancross to ScTMA (Talla) inbound ScTMA agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
