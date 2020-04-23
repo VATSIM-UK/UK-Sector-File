@@ -52,6 +52,7 @@
 51. Enhancement - updated drawing of EGDM Boscombe Down MATZ - thanks to @Robbo599 (Lee Roberts)
 52. Enhancement - Updated EGOV Valley info and added MATZ - thanks to @Robbo599 (Lee Roberts)
 53. Enhancement - Update EGKA Shoreham SMR - thanks to @trevorhannant (Trevor Hannant)
+54. Bug/Enhancement - Optimised agreements for LTMA departures in TC/AC Clacton region - thanks to @hsugden (Harry Sugden) & @aturneruk (Adam Turner)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
