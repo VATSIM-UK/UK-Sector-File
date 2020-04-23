@@ -1,0 +1,3 @@
+COPX:*:*:EVSON:EGNJ:*:Trent:East:18000:*:|EVSON
+COPX:*:*:ADELU:EGNJ:*:Trent:East:18000:*:|EVSON
+COPX:*:*:TIPIL:EGNJ:*:Trent:East:18000:*:|EVSON

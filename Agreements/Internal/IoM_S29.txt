@@ -1,0 +1,11 @@
+COPX:*:*:MALUD:EGBB:*:Isle of Man:Sector 29:*:27000:MALUD
+COPX:*:*:MALUD:EGBE:*:Isle of Man:Sector 29:*:27000:MALUD
+COPX:*:*:MALUD:EGNX:*:Isle of Man:Sector 29:*:27000:MALUD
+
+COPX:*:*:NOSLO:EGBB:*:Isle of Man:Sector 29:*:27000:NOSLO
+COPX:*:*:NOSLO:EGBE:*:Isle of Man:Sector 29:*:27000:NOSLO
+COPX:*:*:NOSLO:EGNX:*:Isle of Man:Sector 29:*:27000:NOSLO
+
+COPX:*:*:DOLOP:EGBB:*:Isle of Man:Sector 29:*:27000:DOLOP
+COPX:*:*:DOLOP:EGBE:*:Isle of Man:Sector 29:*:27000:DOLOP
+COPX:*:*:DOLOP:EGNX:*:Isle of Man:Sector 29:*:27000:DOLOP
