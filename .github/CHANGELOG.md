@@ -1,4 +1,4 @@
-x. Fix categories for misc GEO entries - thanks to @aturneruk (Adam Turner)
+x. Bug - Fix categories for misc GEO entries - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
