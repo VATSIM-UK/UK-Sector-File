@@ -1,0 +1,2 @@
+COPX:*:*:PENIL:EGNS:*:Sector 29:Isle of Man:*:20000:PENIL
+COPX:*:*:DIGMA:EGNS:*:Sector 29:Isle of Man:*:20000:DIGMA
