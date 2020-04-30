@@ -1,5 +1,5 @@
 # Changes from release 2020/05 to 2020/06
-X. AIRAC (2006) - Addition of LOREL1R STAR for GW, SS, SC - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. AIRAC (2006) - Addition of LOREL1R STAR for the Essex Clutch - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
