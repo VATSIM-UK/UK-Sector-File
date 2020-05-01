@@ -1,4 +1,4 @@
-X. Enhancement - Added guest ownerhip for TC Cowly to fix Welin -> BB auto handoff prediction - thanks to @hsugden (Harry Sugden)
+X. Bug - Fixed TC Welin -> BB APP auto handoff prediction - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
