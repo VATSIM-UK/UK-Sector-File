@@ -1,5 +1,5 @@
 # Changes from release 2020/05 to 2020/06
-1. Enhancement - Barton (EGCB) SMR Update - thanks to @Spacenano (Samuel Lefevre)
+X. Enhancement - Barton (EGCB) SMR Update - thanks to @Spacenano (Samuel Lefevre)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
