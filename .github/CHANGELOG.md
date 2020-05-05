@@ -1,3 +1,4 @@
+# Changes from release 2020/05 to 2020/06
 X. Bug - Fixed EB-- inbound arrival agreements D->EBBU - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
