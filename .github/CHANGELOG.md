@@ -1,3 +1,6 @@
+# Changes from release 2020/05 to 2020/06
+X. Bug - Updated EGTE Squawk range - thanks to @jamest00 (James Thomas)
+
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
 2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
@@ -31,7 +34,6 @@
 30. AIRAC (2005) - EGMC New SENA Apron, stands 101/102 added - thanks to @kye-taylor (Kye Taylor)
 31. Enhancement - Updated Military Radar Corridors - thanks to @robbo599 (Lee Roberts)
 32. Bug - Fixed SS FIN -> TC NW outbound agreements - thanks to @hsugden (Harry Sugden)
-X. Bug - Updated EGTE Squawk range - thanks to @jamest00 (James Thomas)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
