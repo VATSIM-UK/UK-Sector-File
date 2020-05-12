@@ -1,4 +1,4 @@
-.X AIRAC (2006) - EGGP SMR added Link L and associated Hangar - thanks to @luke11brown (Luke Brown)
+.X AIRAC (2006) - EGGP SMR added Link L and Associated Hangar - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
