@@ -1,4 +1,9 @@
-SECTOR:Montrose:0:66000
+SECTOR:Montrose:0:0
+OWNER:SEW:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
+
+SECTOR:Montrose (DB-660):0:66000
 OWNER:SEW:SS:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
