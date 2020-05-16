@@ -1,4 +1,5 @@
-X. AIRAC (2006) - Removed EGBB POutdated SIDs - thanks to @luke11brown (Luke Brown)
+# Changes from release 2020/05 to 2020/06
+X. AIRAC (2006) - Removed EGBB Outdated SIDs - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
