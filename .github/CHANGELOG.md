@@ -1,4 +1,4 @@
-# Changes from release 2020/04 to 2020/05
+# Changes from release 2020/05 to 2020/06
 1. Bug - Re-order SKERY and OYSTA SIDs from EGJJ - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/04 to 2020/05
