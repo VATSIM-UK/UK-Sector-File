@@ -1,3 +1,6 @@
+# Changes from release 2020/05 to 2020/06
+1. Bug - Incorrect colour definitions fixed - thanks to @Keanu73 (Keanu Czirjak)
+
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
 2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
