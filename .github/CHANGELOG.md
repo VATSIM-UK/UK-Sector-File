@@ -13,6 +13,7 @@
 12. Bug - Incorrect colour definitions fixed - thanks to @Keanu73 (Keanu Czirjak)
 13. AIRAC - EGTE SMR Update - thanks to @daleb99 (Dale Brooksby)
 14. AIRAC - EGLL SMR Update - thanks to @daleb99 (Dale Brooksby)
+15. AIRAC (2006) - Added WIP to EGLL SMR - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
