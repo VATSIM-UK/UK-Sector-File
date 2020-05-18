@@ -1,5 +1,4 @@
-; Start Cranwell (EGYD) Geo
-;
+EGYD Cranwell S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000
 ;Perimeter outside edge start at rwy 09 - clockwise
 N053.01.41.495 W000.30.19.900 N053.01.42.935 W000.30.20.200 building 
 N053.01.42.935 W000.30.20.200 N053.01.42.365 W000.30.28.714 building 
