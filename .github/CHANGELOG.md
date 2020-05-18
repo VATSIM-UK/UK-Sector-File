@@ -25,6 +25,7 @@
 24. Enhancement - Added the Mauchline VRP to Prestwick (EGPK) - Thanks to @Bucklerz (Reece Buckley) and @Keanu73 (Keanu Czirjak)
 25. Bug - EGBB stand 57L/R added - thanks to @jamest00 (James Thomas)
 26. AIRAC (2006) - Updated EGLC Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
+27. Bug - Fixed TC Welin -> BB APP auto handoff prediction - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
