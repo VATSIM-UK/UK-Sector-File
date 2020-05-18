@@ -22,6 +22,8 @@
 21. Enhancement - Updated ScTMA Galloway<->Talla agreements - thanks to @luketp (Luke Peters)
 22. AIRAC (2005) - Fairoaks NDB removed - thanks to @itsbenny99 (Benjamin Matthews)
 23. Bug - Remove definition for gate colour and associated references - thanks to @aturneruk (Adam Turner)
+24. Enhancement - Added the Mauchline VRP to Prestwick (EGPK) - Thanks to @Bucklerz (Reece Buckley) and @Keanu73 (Keanu Czirjak)
+
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
