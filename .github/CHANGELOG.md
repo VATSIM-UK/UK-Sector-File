@@ -1,5 +1,6 @@
 # Changes from release 2020/05 to 2020/06
-1. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
+1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
+2. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
