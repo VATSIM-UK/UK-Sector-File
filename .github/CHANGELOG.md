@@ -1,3 +1,4 @@
+# Changes from release 2020/05 to 2020/06
 X. Bug - Fixed TC Welin -> BB APP auto handoff prediction - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
