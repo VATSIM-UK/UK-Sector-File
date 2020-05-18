@@ -11,6 +11,7 @@
 10. Bug - Updated EGTE Squawk range - thanks to @jamest00 (James Thomas)
 11. Enhancement - Update to EGTE threshold coordinates - thanks to @itsbenny99 (Benjamin Matthews)
 12. Bug - Incorrect colour definitions fixed - thanks to @Keanu73 (Keanu Czirjak)
+13. AIRAC - EGTE SMR Update - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
