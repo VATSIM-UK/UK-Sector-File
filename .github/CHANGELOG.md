@@ -21,6 +21,7 @@
 20. AIRAC (2006) - EGGW Runway Designator Changed - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Enhancement - Updated ScTMA Galloway<->Talla agreements - thanks to @luketp (Luke Peters)
 22. AIRAC (2005) - Fairoaks NDB removed - thanks to @itsbenny99 (Benjamin Matthews)
+23. Bug - Remove definition for gate colour and associated references - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
