@@ -7,6 +7,7 @@
 6. Bug - Fixed TC Welin -> NX APP VELAG COPX - thanks to @hsugden (Harry Sugden)
 7. Bug - Amended Bristol Region Naming Error - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. Bug - Fixed EB-- inbound arrival agreements D->EBBU - thanks to @hsugden (Harry Sugden)
+9. Enhancement - Brussels (EBBU) 'fallback' ownership priority - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
