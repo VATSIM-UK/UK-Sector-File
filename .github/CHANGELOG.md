@@ -1,3 +1,4 @@
+# Changes from release 2020/05 to 2020/06
 X. Bug - Fixed auto handoff next sector prediction for TC Welin -> S28 LTMA outbounds - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
