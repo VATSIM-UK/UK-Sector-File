@@ -1,3 +1,4 @@
+# Changes from release 2020/05 to 2020/06
 x. Bug - Fixed categories for GEO entries - thanks to @aturneruk (Adam Turner)
 
 # Changes from release 2020/04 to 2020/05
