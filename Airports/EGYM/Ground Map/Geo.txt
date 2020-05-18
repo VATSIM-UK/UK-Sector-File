@@ -1,4 +1,4 @@
-; Start Marham (EGYM) Geo
+EGYM Marham S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000
 ;Threshold rwy 06 - then outside edge of perimeter-clockwise
 N052.38.27.697 E000.32.02.378 N052.38.27.316 E000.32.01.298 building
 N052.38.27.316 E000.32.01.298 N052.38.28.780 E000.31.59.405 building

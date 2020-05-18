@@ -1,5 +1,4 @@
-;Coastline (Low Detail)
-S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000 geoDefault
+Coastline (Low Detail) S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000 geoDefault
 ; NOAA object 1
 ;N050.02.38.080 W005.30.28.879 N049.59.40.664 W005.30.28.879 geoDefault
 ; NOAA object 2
