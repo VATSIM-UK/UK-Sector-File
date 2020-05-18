@@ -31,6 +31,7 @@
 30. Enhancement - Removed Filton (EGTG - closed) agreements and added St Athan (EGSY) agreements - thanks to @hsugden (Harry Sugden)
 31. Enhancement - LD -> TC Welin Midlands inbound agreement - thanks to @daleb99 (Dale Brooksby)
 32. Enhancement - SOLENT Forest Gate added - thanks to @daviesnathan (Nathan Davies)
+33. Bug - Fixed BIRD line display to Scottish - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
