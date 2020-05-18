@@ -29,7 +29,7 @@
 28. Enhancement - Added agreements for arrivals between TC Cowly and BB APP for GROVE 1B arrivals - thanks to @hsugden (Harry Sugden)
 29. Bug - Fixed auto handoff next sector prediction for TC Welin -> S28 LTMA outbounds - thanks to @hsugden (Harry Sugden)
 30. Enhancement - Removed Filton (EGTG - closed) agreements and added St Athan (EGSY) agreements - thanks to @hsugden (Harry Sugden)
-
+31. Enhancement - LD -> TC Welin Midlands inbound agreement - thanks to @daleb99 (Dale Brooksby)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
