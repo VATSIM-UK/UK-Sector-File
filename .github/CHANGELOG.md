@@ -18,6 +18,7 @@
 17. Enhancement - Updated London Heathrow (EGLL) RMA - thanks to @daleb99 (Dale Brooksby)
 18. Enhancement - EGPD SMR Update - thanks to @Bucklerz (Reece Buckley) and @Keanu73 (Keanu Czirjak)
 19. Bug - Fixed categories for GEO entries - thanks to @aturneruk (Adam Turner)
+20. AIRAC (2006) - EGGW Runway Designator Changed - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
