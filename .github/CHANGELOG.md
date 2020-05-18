@@ -27,6 +27,7 @@
 26. AIRAC (2006) - Updated EGLC Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 27. Bug - Fixed TC Welin -> BB APP auto handoff prediction - thanks to @hsugden (Harry Sugden)
 28. Enhancement - Added agreements for arrivals between TC Cowly and BB APP for GROVE 1B arrivals - thanks to @hsugden (Harry Sugden)
+29. Bug - Fixed auto handoff next sector prediction for TC Welin -> S28 LTMA outbounds - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
