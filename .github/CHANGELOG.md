@@ -1,3 +1,4 @@
+# Changes from release 2020/05 to 2020/06
 X. Enhancement - Removed Filton (EGTG - closed) agreements and added St Athan (EGSY) agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
