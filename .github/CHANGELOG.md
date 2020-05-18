@@ -1,5 +1,8 @@
 # Changes from release 2020/05 to 2020/06
-1. Bug - Resolved EGKK outbound agreement from TC WELIN to S28 (now FL210) - thanks to @luketp (Luke Peters)
+1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
+2. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
+3. Bug - Re-order SKERY and OYSTA SIDs from EGJJ - thanks to @trevorhannant (Trevor Hannant)
+4. Bug - Resolved EGKK outbound agreement from TC WELIN to S28 (now FL210) - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
