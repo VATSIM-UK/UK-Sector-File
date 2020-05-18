@@ -16,6 +16,7 @@
 15. AIRAC (2006) - Added WIP to EGLL SMR - thanks to @daleb99 (Dale Brooksby)
 16. AIRAC (2006) - Amended VRPs in NW England - thanks to @AleksMax (Aleks Nieszczerzewski)
 17. Enhancement - Updated London Heathrow (EGLL) RMA - thanks to @daleb99 (Dale Brooksby)
+18. Enhancement - EGPD SMR Update - thanks to @Bucklerz (Reece Buckley) and @Keanu73 (Keanu Czirjak)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
