@@ -1,0 +1,3 @@
+;Southend CLN/DET/DVR/LYD Departures
+COPX:EGMC:*:CLN:*:*:MCAPP_W:Thames:3000:*:CLN
+COPX:EGMC:*:DET:*:*:MCAPP_W:Thames:3000:*:DET
