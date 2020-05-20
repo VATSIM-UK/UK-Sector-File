@@ -17,5 +17,5 @@
 *Tarbock Island:N053.23.53.860:W002.48.30.410
 *Tarvin Roundabout:N053.11.41.960:W002.46.37.800
 *The Liver Building (Pier Head):N053.24.20.730:W002.59.45.190
-*Wigan Lakes:N053.31.17.000 W002.37.40.000
-*Winter Hills Mast:N053.37.32.000 W002.30.54.000
+*Wigan Lakes:N053.31.17.000:W002.37.40.000
+*Winter Hills Mast:N053.37.32.000:W002.30.54.000
