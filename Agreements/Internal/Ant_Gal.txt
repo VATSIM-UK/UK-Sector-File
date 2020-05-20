@@ -1,5 +1,3 @@
-COPX:*:*:GIRVA:EGPF:*:Antrim:Galloway:*:11000:GIRVA
+COPX:*:*:GIRVA:EGPF:*:Antrim:Galloway:*:15000:GIRVA
 
-COPX:*:*:TUNSO:EGPK:*:Antrim:Galloway:*:11000:TUNSO
-
-COPX:*:*:TUNSO:EGPH:*:Antrim:Galloway:*:15000:TUNSO
+COPX:*:*:TUNSO:EGPH:*:Antrim:Galloway:*:17000:TUNSO
