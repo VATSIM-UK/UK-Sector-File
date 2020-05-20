@@ -35,6 +35,7 @@
 34. Bug - Updated TC NE top down ownership to include TC Saber - thanks to @hsugden (Harry Sugden)
 35. Added EGMC PDR's to SID Column  - thanks to @LEWISC44 (Lewis Corcoran)
 36. Enhancement - Updated Antrim -> ScTMA agreements - thanks to @hsugden (Harry Sugden)
+37. Bug - London Control, Clacton (North) frq change - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
