@@ -37,6 +37,7 @@
 36. Enhancement - Updated Antrim -> ScTMA agreements - thanks to @hsugden (Harry Sugden)
 37. Bug - London Control, Clacton (North) frq change - thanks to @itsbenny99 (Benjamin Matthews)
 38. Enhancement - Added St Athan basic sector file requirements - thanks to @hsugden (Harry Sugden)
+39. Enhancement - Renamed references to MAN -> PC - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
