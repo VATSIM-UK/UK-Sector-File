@@ -60,7 +60,6 @@ London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051
 London Control:London Control:135.800:TCC:L:LTC:CTR:-:-:: ;TC Bandbox
 London Control:London Control:127.950:TCV:L:LTC:CTR:-:-::
 ;Prestwick W2 LAG (MAN)
-Isle of Man:Scottish Control:133.050:PCI:M:MAN:CTR:-:-::
 North:Scottish Control:128.670:PCN:M:MAN:CTR:-:-:0501:0577:N053.49.11.974:W002.18.59.167
 Isle of Man:Scottish Control:133.050:PCI:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
 SE Trent:Scottish Control:119.520:PCT:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
