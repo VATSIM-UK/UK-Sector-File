@@ -1,3 +1,7 @@
+# Changes from release 2020/06 to 2020/07
+1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
+2. Bug - Fixed Galloway->Deancross STMA outbound agreements to include PN PG and PJ - thanks to @theobearman (Theo Bearman)
+
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
 2. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
