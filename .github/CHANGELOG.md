@@ -1,3 +1,4 @@
+# Changes from release 2020/06 to 2020/07
 5. Bug - Fixed S10->East Midlands/EGGP Inbound Agreements - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/04 to 2020/05
