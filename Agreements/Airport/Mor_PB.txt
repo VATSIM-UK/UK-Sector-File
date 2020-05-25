@@ -1,1 +1,3 @@
-COPX:*:*:SUM:EGPB:*:Moray:PBAPP:*:11000:|SUM
+COPX:*:*:*:EGPB:*:Moray:PBAPP:*:13000:|SUM
+COPX:*:*:*:EGPM:*:Moray:PBAPP:*:13000:|SUM
+COPX:*:*:*:EGET:*:Moray:PBAPP:*:13000:|SUM
