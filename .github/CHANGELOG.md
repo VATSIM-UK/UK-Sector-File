@@ -1,3 +1,5 @@
+X. Enhancement - Updated Isle of Man (PC West) <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
 2. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
