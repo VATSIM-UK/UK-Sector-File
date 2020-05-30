@@ -1,5 +1,5 @@
 # Changes from release 2020/06 to 2020/07
-1. Bug - Fixes NITON CTA-1 Incorrect Altitude - thanks to @scottdaniels292 (Scott Daniels)
+x. Bug - Fixes NITON CTA-1 Incorrect Altitude - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
