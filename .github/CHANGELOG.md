@@ -1,4 +1,4 @@
-X. Enhancement - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
+X. Procedure Change (2007) - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
