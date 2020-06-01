@@ -1,5 +1,5 @@
 X. Bug - Added missing S13 -> D EGFF/SY inbound agreement, now FL300 - thanks to @hsugden (Harry Sugden)
-X. AIRAC (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden (Harry Sugden)
+X. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
