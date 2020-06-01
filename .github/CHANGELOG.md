@@ -1,4 +1,4 @@
-X. Enhancement - Updated PC West and Antrim sectorisation in the Isle of Man area - thanks to @hsugden (Harry Sugden)
+X. Procedure Change (2007) - Updated PC West and Antrim sectorisation in the Isle of Man area - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
