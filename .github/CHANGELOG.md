@@ -7,6 +7,7 @@
 6. Bug - Renamed Worthing Paris Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Enhancement - Renamed EGMC PDRs - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. Enhancement - Added EGLF STARs to Additional Airfields - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - Fixed Galloway->Deancross STMA outbound agreements to include PN PG and PJ - thanks to @theobearman (Theo Bearman)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
