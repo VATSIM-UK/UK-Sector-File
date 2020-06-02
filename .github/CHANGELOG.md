@@ -1,4 +1,5 @@
-X. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
+# Changes from release 2020/05 to 2020/06
+N. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
