@@ -4,6 +4,7 @@
 3. AIRAC (2007) - Updated EGHC Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 4. AIRAC (2007) - Updated EGLF Heliroutes - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2007) - Updated EGKB Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Bug - Renamed Worthing Paris Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
