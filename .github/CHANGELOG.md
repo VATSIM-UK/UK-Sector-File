@@ -1,5 +1,5 @@
 # Changes from release 2020/06 to 2020/07
-1. Enhancement - Add Bristol EXMOR Burnham line (Burnham Box) - thanks to @AxonC (Callum Axon)
+1. Procedure Change (2007) - Add Bristol EXMOR Burnham line (Burnham Box) - thanks to @AxonC (Callum Axon)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
