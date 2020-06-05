@@ -1,0 +1,6 @@
+COPX:EGPH:*:*:*:*:Central:Rathlin:25000:*:^
+COPX:EGPF:*:*:*:*:Central:Rathlin:25000:*:^
+COPX:EGPK:*:*:*:*:Central:Rathlin:25000:*:^
+COPX:EGPN:*:*:*:*:Central:Rathlin:25000:*:^
+COPX:EGPG:*:*:*:*:Central:Rathlin:25000:*:^
+COPX:EGQL:*:*:*:*:Central:Rathlin:25000:*:^
