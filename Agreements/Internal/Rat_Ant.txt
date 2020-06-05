@@ -1,1 +1,14 @@
-COPX:*:*:NELBO:EIDW:*:Rathlin:Antrim:*:26000:NELBO
+COPX:*:*:BEL:EIDW:*:Rathlin:Antrim:*:26000:BEL
+COPX:*:*:BEL:EIWT:*:Rathlin:Antrim:*:26000:BEL
+COPX:*:*:BEL:EIME:*:Rathlin:Antrim:*:26000:BEL
+
+COPX:TRN:*:*:EIDW:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EIWT:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EIME:*:Rathlin:Antrim:*:26000:|TRN
+
+COPX:TRN:*:*:EGPH:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EGPF:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EGPK:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EGPN:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EGPG:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EGQL:*:Rathlin:Antrim:*:26000:|TRN
