@@ -1,3 +1,5 @@
+X. Procedure Change (2007) - Altered delegated airspace in the ERKIT area from ScAC East (Montrose) to PC East - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
 2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden (Harry Sugden)
