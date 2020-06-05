@@ -443,8 +443,10 @@ COORD:N054.34.05.304:W002.03.03.861
 SECTORLINE:DCS-S 285_Mon Area B
 DISPLAY:Deancross:Deancross:Montrose
 DISPLAY:Montrose:Montrose:Deancross
+DISPLAY:Montrose:Montrose:East
 DISPLAY:Deancross:Deancross:East
 DISPLAY:East:East:Deancross
+DISPLAY:East:East:Montrose
 COORD:N054.33.22.908:W001.56.30.643
 COORD:N054.14.60.000:W001.48.56.000
 
