@@ -1,4 +1,4 @@
-X. Procedure Change - Updated Galloway->Antrim PK Outbounds - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. Procedure Change - Updated Galloway->Antrim PK Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
