@@ -654,8 +654,6 @@ COORD:N055.02.59.577:W002.01.18.376
 COORD:N055.12.29.160:W002.30.18.000
 
 SECTORLINE:TayE2b
-DISPLAY:Montrose:Montrose:Talla
-DISPLAY:Talla:Talla:Montrose
 DISPLAY:Deancross:Deancross:Montrose
 DISPLAY:Montrose:Montrose:Deancross
 COORD:N054.54.24.000:W002.24.10.000
