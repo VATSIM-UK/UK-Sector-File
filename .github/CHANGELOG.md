@@ -9,6 +9,7 @@
 8. Enhancement - Added EGLF STARs to Additional Airfields - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Bug - Fixed Galloway->Deancross STMA outbound agreements to include PN PG and PJ - thanks to @theobearman (Theo Bearman)
 11. Bug - Update Magvar value - thanks to @robbo599 (Lee Roberts)
+x. AIRAC (2007) Update EGSU SMR - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
