@@ -1,6 +1,16 @@
 # Changes from release 2020/06 to 2020/07
-X. Bug - Added missing S13 -> D EGFF/SY inbound agreement, now FL300 - thanks to @hsugden (Harry Sugden)
-X. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden (Harry Sugden)
+1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
+2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden (Harry Sugden)
+3. AIRAC (2007) - Updated EGHC Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. AIRAC (2007) - Updated EGLF Heliroutes - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2007) - Updated EGKB Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Bug - Renamed Worthing Paris Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
+7. Enhancement - Renamed EGMC PDRs - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. Enhancement - Added EGLF STARs to Additional Airfields - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - Fixed Galloway->Deancross STMA outbound agreements to include PN PG and PJ - thanks to @theobearman (Theo Bearman)
+11. Bug - Update Magvar value - thanks to @robbo599 (Lee Roberts)
+12. Bug - Added missing S13 -> D EGFF/SY inbound agreement, now FL300 - thanks to @hsugden (Harry Sugden)
+13. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
@@ -43,6 +53,7 @@ X. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300
 38. Enhancement - Added St Athan basic sector file requirements - thanks to @hsugden (Harry Sugden)
 39. Enhancement - Renamed references to MAN -> PC - thanks to @hsugden (Harry Sugden)
 40. AIRAC (2006) - Addition of LOREL1R STAR for the Essex Clutch - thanks to @AleksMax (Aleks Nieszczerzewski)
+41. Enhancement - Barton (EGCB) SMR Update - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2020/04 to 2020/05
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
