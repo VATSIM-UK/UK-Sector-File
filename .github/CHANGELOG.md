@@ -11,6 +11,7 @@
 11. Bug - Update Magvar value - thanks to @robbo599 (Lee Roberts)
 12. Bug - Added missing S13 -> D EGFF/SY inbound agreement, now FL300 - thanks to @hsugden (Harry Sugden)
 13. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden (Harry Sugden)
+14. Bug - Fixed Marham Tower frequency - Thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
