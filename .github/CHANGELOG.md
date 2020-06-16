@@ -15,6 +15,7 @@
 15. Procedure Change (2007) - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
 16. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
 17. Enhancement - Added Blackpool (EGNH) ownership - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Added descending arrow for Talla -> PH inbounds via TARTN - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
