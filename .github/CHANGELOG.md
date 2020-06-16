@@ -1,3 +1,4 @@
+# Changes from release 2020/06 to 2020/07
 X. Enhancement - Added Blackpool (EGNH) ownership - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
