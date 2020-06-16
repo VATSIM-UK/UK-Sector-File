@@ -14,6 +14,7 @@
 14. Bug - Fixed Marham Tower frequency - Thanks to @robbo599 (Lee Roberts)
 15. Procedure Change (2007) - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
 16. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
+x. Enhancement - Add EGVN Brize Norton SIDs and STARs - Thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
