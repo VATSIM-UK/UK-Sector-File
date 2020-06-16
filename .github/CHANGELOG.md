@@ -14,6 +14,9 @@
 14. Bug - Fixed Marham Tower frequency - Thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
+N. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
+
+# Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
 2. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
 3. Bug - Re-order SKERY and OYSTA SIDs from EGJJ - thanks to @trevorhannant (Trevor Hannant)
