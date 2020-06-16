@@ -17,6 +17,7 @@
 17. Enhancement - Added Blackpool (EGNH) ownership - thanks to @hsugden (Harry Sugden)
 18. Enhancement - Added descending arrow for Talla -> PH inbounds via TARTN - thanks to @hsugden (Harry Sugden)
 19. Bug - Fixed S10->East Midlands/EGGP Inbound Agreements - thanks to @luketp (Luke Peters)
+20. Enhancement - Added guest ownership for S10->S13/14 LTMA inbound (transiting) agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
