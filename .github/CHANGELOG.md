@@ -1,5 +1,5 @@
 # Changes from release 2020/06 to 2020/07
-x. Enhancement - Updated PC East <-> Montrose agreements - thanks to @robbo599 (Lee Roberts)
+x. Procedure Change (2007) - Updated PC East <-> Montrose agreements - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
