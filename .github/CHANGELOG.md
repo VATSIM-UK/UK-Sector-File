@@ -28,6 +28,7 @@
 28. Procedure Change (2007) - Agreement changes and added ROTEV-NIMAT buffer zone at the Antrim-DUBN interface - thanks to @hsugden (Harry Sugden)
 29. Procedure Change - Updated Galloway->Antrim PK Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 30. Procedure Change - Updated Central->PF Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+31. Procedure Change (2007) - Updated Rathlin <-> Antrim agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
