@@ -1,5 +1,3 @@
-X. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
 2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden (Harry Sugden)
@@ -16,6 +14,7 @@ X. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @Alek
 14. Bug - Fixed Marham Tower frequency - Thanks to @robbo599 (Lee Roberts)
 15. Procedure Change (2007) - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
 16. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
+17. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
