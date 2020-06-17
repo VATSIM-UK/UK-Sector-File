@@ -1,7 +1,7 @@
 FIR_COPX:*:*:AKOKO:*:*:Humber:London S10:*:*:AKOKO
 
-FIR_COPX:*:*:*:ADGEG:*:Humber:London S10:*:*:ADGEG-14
+FIR_COPX:*:*:*:ADGEG:*:Humber:London S10:*:*:ADGEG14
 
-FIR_COPX:*:*:*:ELNAB:*:Humber:London S10:*:*:ELNAB-25
+FIR_COPX:*:*:*:ELNAB:*:Humber:London S10:*:*:ELNAB25
 
-FIR_COPX:*:*:*:ROVNI:*:Humber:London S10:*:*:ROVNI-5
+FIR_COPX:*:*:*:ROVNI:*:Humber:London S10:*:*:ROVNI5
