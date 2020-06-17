@@ -34,6 +34,7 @@
 34. Procedure Change - Added Deancross->S29 BB/NX/BE/NJ inbound agreement - thanks to @itsbenny99 (Benjamin Matthews)
 35. Procedure Change (2007) - Removed Humber <-> S10 agreements, replaced with FIR COPX - thanks to @hsugden (Harry Sugden)
 36. Procedure Change (2007) - Added agreements for EGNM outbounds via N601 - thanks to @hsugden (Harry Sugden)
+37. Enhancement - Added Birmingham Range Rings - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
