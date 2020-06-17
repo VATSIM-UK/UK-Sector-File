@@ -41,6 +41,7 @@
 41. Enhancement - Added Tyne -> Montrose agreements - thanks to @robbo599 (Lee Roberts)
 42. Enhancement - Added Montrose -> PH/PF agreements - thanks to @robbo599 (Lee Roberts)
 43. Procedure Change (2007) - Updated Isle of Man (PC West) <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
+44. Procedure Change (2007) - Updated PC West and Antrim sectorisation in the Isle of Man area - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
