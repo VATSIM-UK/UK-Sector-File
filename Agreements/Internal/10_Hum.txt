@@ -1,3 +1,7 @@
 FIR_COPX:*:*:GIVPO:*:*:London S10:Humber:*:*:GIVPO
 
-FIR_COPX:*:*:AKOKO:*:*:London S10:Humber:*:*:AKOKO
+FIR_COPX:ELNAB:*:*:*:*:London S10:Humber:*:*:ELNAB+25
+
+FIR_COPX:LATMU:*:*:*:*:London S10:Humber:*:*:LATMU+17
+
+FIR_COPX:ROVNI:*:*:*:*:London S10:Humber:*:*:ROVNI+5
