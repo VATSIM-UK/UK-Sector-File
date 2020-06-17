@@ -24,6 +24,7 @@
 24. AIRAC (2007) Update EGSU SMR - thanks to @scottdaniels292 (Scott Daniels)
 25. Bug - Fixed EIDW_3_CTR frequency - thanks to @hsugden (Harry Sugden)
 26. Bug - ACTUALLY Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke Peters)
+27. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC East (Montrose/Tay) to ScTMA Talla - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
