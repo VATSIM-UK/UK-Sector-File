@@ -39,6 +39,7 @@
 39. Procedure Change (2007) - Add Bristol EXMOR Burnham line (Burnham Box) - thanks to @AxonC (Callum Axon)
 40. Procedure Change (2007) - Updated PC East <-> Montrose agreements - thanks to @robbo599 (Lee Roberts)
 41. Enhancement - Added Tyne -> Montrose agreements - thanks to @robbo599 (Lee Roberts)
+42. Enhancement - Added Montrose -> PH/PF agreements - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
