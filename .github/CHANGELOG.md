@@ -1,5 +1,3 @@
-X. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC East (Montrose/Tay) to ScTMA Talla - thanks to @hsugden (Harry Sugden)
-
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
 2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden (Harry Sugden)
@@ -21,6 +19,7 @@ X. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC 
 19. Bug - Fixed S10->East Midlands/EGGP Inbound Agreements - thanks to @luketp (Luke Peters)
 20. Enhancement - Added guest ownership for S10->S13/14 LTMA inbound (transiting) agreements - thanks to @hsugden (Harry Sugden)
 21. Enhancement - Altered S7 -> IoM and IoM -> DUBN Dublin group inbound agreements - thanks to @hsugden (Harry Sugden)
+X. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC East (Montrose/Tay) to ScTMA Talla - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
