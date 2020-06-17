@@ -19,7 +19,10 @@
 19. Bug - Fixed S10->East Midlands/EGGP Inbound Agreements - thanks to @luketp (Luke Peters)
 20. Enhancement - Added guest ownership for S10->S13/14 LTMA inbound (transiting) agreements - thanks to @hsugden (Harry Sugden)
 21. Enhancement - Altered S7 -> IoM and IoM -> DUBN Dublin group inbound agreements - thanks to @hsugden (Harry Sugden)
-X. Bug - Fixed EIDW_3_CTR frequency - thanks to @hsugden (Harry Sugden)
+22. Bug - Fixed Scottish ownership in EKDK Delegated area - thanks to @hsugden (Harry Sugden)
+23. Procedure Change (2007) - Added Southend RMA - thanks to @hsugden (Harry Sugden)
+24. AIRAC (2007) Update EGSU SMR - thanks to @scottdaniels292 (Scott Daniels)
+25. Bug - Fixed EIDW_3_CTR frequency - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
