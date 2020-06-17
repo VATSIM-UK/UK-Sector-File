@@ -1,9 +1,14 @@
 COPX:*:*:TILNI:EGCC:*:Montrose:East:*:23000:TILNI
 COPX:*:*:TILNI:EGGP:*:Montrose:East:*:23000:TILNI
 COPX:*:*:TILNI:EGNR:*:Montrose:East:*:23000:TILNI
-
-COPX:*:*:UMBEL:EGSH:*:Montrose:East:*:27000:UMBEL
+COPX:*:*:TILNI:EGNM:*:Montrose:East:*:23000:TILNI
+COPX:*:*:TILNI:EGCN:*:Montrose:East:*:23000:TILNI
 
 COPX:*:*:BINTI:EGNX:*:Montrose:East:*:27000:BINTI
 COPX:*:*:BINTI:EGBB:*:Montrose:East:*:27000:BINTI
 COPX:*:*:BINTI:EGBE:*:Montrose:East:*:27000:BINTI
+
+COPX:*:*:ERKIT:EGSH:*:Montrose:East:*:27000:ERKIT
+COPX:*:*:ERKIT:EGUL:*:Montrose:East:*:27000:ERKIT
+COPX:*:*:ERKIT:EGUN:*:Montrose:East:*:27000:ERKIT
+COPX:*:*:ERKIT:EGYM:*:Montrose:East:*:27000:ERKIT
