@@ -19,7 +19,17 @@
 19. Bug - Fixed S10->East Midlands/EGGP Inbound Agreements - thanks to @luketp (Luke Peters)
 20. Enhancement - Added guest ownership for S10->S13/14 LTMA inbound (transiting) agreements - thanks to @hsugden (Harry Sugden)
 21. Enhancement - Altered S7 -> IoM and IoM -> DUBN Dublin group inbound agreements - thanks to @hsugden (Harry Sugden)
-X. Procedure Change (2007) - Updated agreements between Montrose and Talla for ScTMA inbounds and outbounds -  thanks to @hsugden (Harry Sugden)
+22. Bug - Fixed Scottish ownership in EKDK Delegated area - thanks to @hsugden (Harry Sugden)
+23. Procedure Change (2007) - Added Southend RMA - thanks to @hsugden (Harry Sugden)
+24. AIRAC (2007) Update EGSU SMR - thanks to @scottdaniels292 (Scott Daniels)
+25. Bug - Fixed EIDW_3_CTR frequency - thanks to @hsugden (Harry Sugden)
+26. Bug - ACTUALLY Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke Peters)
+27. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC East (Montrose/Tay) to ScTMA Talla - thanks to @hsugden (Harry Sugden)
+28. Procedure Change (2007) - Agreement changes and added ROTEV-NIMAT buffer zone at the Antrim-DUBN interface - thanks to @hsugden (Harry Sugden)
+29. Procedure Change - Updated Galloway->Antrim PK Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+30. Procedure Change - Updated Central->PF Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+31. Procedure Change (2007) - Updated Rathlin <-> Antrim agreements - thanks to @hsugden (Harry Sugden)
+32. Procedure Change (2007) - Updated agreements between Montrose and Talla for ScTMA inbounds and outbounds -  thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
