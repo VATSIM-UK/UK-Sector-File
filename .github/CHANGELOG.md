@@ -1,4 +1,3 @@
-x. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - thanks to @itsbenny99 (Benjamin Matthews)
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
 2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden (Harry Sugden)
@@ -10,6 +9,7 @@ x. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - 
 8. Enhancement - Added EGLF STARs to Additional Airfields - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Bug - Fixed Galloway->Deancross STMA outbound agreements to include PN PG and PJ - thanks to @theobearman (Theo Bearman)
 11. Bug - Update Magvar value - thanks to @robbo599 (Lee Roberts)
+12. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
