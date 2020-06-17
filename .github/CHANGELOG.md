@@ -31,6 +31,7 @@
 31. Procedure Change (2007) - Updated Rathlin <-> Antrim agreements - thanks to @hsugden (Harry Sugden)
 32. Procedure Change (2007) - Updated agreements between Montrose and Talla for ScTMA inbounds and outbounds -  thanks to @hsugden (Harry Sugden)
 33. Procedure Change - Added Galloway-> PF inbound agreement - thanks to @itsbenny99 (Benjamin Matthews)
+34. Procedure Change - Added Deancross->S29 BB/NX/BE/NJ inbound agreement - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
