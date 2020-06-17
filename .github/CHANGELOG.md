@@ -37,6 +37,7 @@
 37. Enhancement - Added Birmingham Range Rings - thanks to @AleksMax (Aleks Nieszczerzewski)
 38. Bug - Fixes NITON CTA-1 Incorrect Altitude - thanks to @scottdaniels292 (Scott Daniels)
 39. Procedure Change (2007) - Add Bristol EXMOR Burnham line (Burnham Box) - thanks to @AxonC (Callum Axon)
+40. Procedure Change (2007) - Updated PC East <-> Montrose agreements - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
