@@ -1,1 +1,3 @@
-COPX:*:*:PENIL:EIDW:*:London S7:Isle of Man:*:29000:|PENIL
+COPX:PENIL:*:*:EIDW:*:London S7:Isle of Man:*:29000:|PENIL
+COPX:PENIL:*:*:EIWT:*:London S7:Isle of Man:*:29000:|PENIL
+COPX:PENIL:*:*:EIME:*:London S7:Isle of Man:*:29000:|PENIL
