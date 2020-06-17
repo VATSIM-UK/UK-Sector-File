@@ -43,6 +43,7 @@
 43. Procedure Change (2007) - Updated Isle of Man (PC West) <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
 44. Procedure Change (2007) - Updated PC West and Antrim sectorisation in the Isle of Man area - thanks to @hsugden (Harry Sugden)
 45. Enhancement - Added Moray -> Montrose ScTMA inbound agreement - thanks to @hsugden (Harry Sugden)
+46. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
