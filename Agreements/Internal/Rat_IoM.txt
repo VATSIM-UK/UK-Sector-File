@@ -11,5 +11,5 @@ COPX:*:*:MAKUX:EGNX:*:Rathlin:Isle of Man:*:27000:MAKUX
 COPX:*:*:MAKUX:EGBE:*:Rathlin:Isle of Man:*:27000:MAKUX
 COPX:*:*:MAKUX:EGNJ:*:Rathlin:Isle of Man:*:27000:MAKUX
 
-COPX:EGAA:*:SOSIM:*:*:Rathlin:Isle of Man:27000:*:5SOSIM
-COPX:EGAC:*:SOSIM:*:*:Rathlin:Isle of Man:27000:*:5SOSIM
+COPX:EGAA:*:SOSIM:*:*:Rathlin:Isle of Man:27000:*:SOSIM5
+COPX:EGAC:*:SOSIM:*:*:Rathlin:Isle of Man:27000:*:SOSIM5
