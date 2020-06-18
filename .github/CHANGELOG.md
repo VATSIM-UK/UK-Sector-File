@@ -48,6 +48,7 @@
 48. Procedure Change (2007) - Altered delegated airspace in the ERKIT area from ScAC East (Montrose) to PC East - thanks to @hsugden (Harry Sugden)
 49. Procedure Change - Added IoM <-> Rathlin agreements - thanks to itsbenny99 (Benjamin Matthews)
 50. Procedure Change - Added S29->Deancross MTMA & EGCN outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
+51. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
