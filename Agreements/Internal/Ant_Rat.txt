@@ -1,9 +1,12 @@
-COPX:EGAA:*:IOM:*:*:Antrim:Rathlin:25000:*:KELLY
-COPX:EGAC:*:IOM:*:*:Antrim:Rathlin:25000:*:KELLY
+COPX:EGAA:*:ETIGA:*:*:Antrim:Rathlin:25000:*:ETIGA
+COPX:EGAC:*:ETIGA:*:*:Antrim:Rathlin:25000:*:ETIGA
+
+COPX:EGAA:*:MAKUX:*:*:Antrim:Rathlin:25000:*:MAKUX
+COPX:EGAC:*:MAKUX:*:*:Antrim:Rathlin:25000:*:MAKUX
 
 COPX:EIDW:*:BEL:*:*:Antrim:Rathlin:25000:*:^BEL
 
-COPX:EGPH:*:*:*:*:Antrim:Rathlin:25000:*:^P600
 COPX:EGPF:*:*:*:*:Antrim:Rathlin:25000:*:^P600
 COPX:EGPK:*:*:*:*:Antrim:Rathlin:25000:*:^P600
-COPX:*:*:*:*:*:Antrim:Rathlin:25000:*:^ALL
+COPX:EGAA:*:*:TRN:*:Antrim:Rathlin:25000:*:^
+COPX:EGAC:*:*:TRN:*:Antrim:Rathlin:25000:*:^
