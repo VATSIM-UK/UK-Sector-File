@@ -1,1 +1,1 @@
-COPX:*:*:TRN:EGPF:*:Galloway:PFAPP:*:8000:TRN15
+COPX:*:*:LANAK:EGPF:*:Galloway:PFAPP:*:8000:LANAK
