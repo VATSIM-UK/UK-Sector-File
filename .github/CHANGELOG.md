@@ -46,6 +46,7 @@
 46. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - thanks to @itsbenny99 (Benjamin Matthews)
 47. Procedure Change (2007) - Amended Thames RMA and associated COPX - thanks to @hsugden (Harry Sugden)
 48. Procedure Change (2007) - Altered delegated airspace in the ERKIT area from ScAC East (Montrose) to PC East - thanks to @hsugden (Harry Sugden)
+49. Procedure Change - Added IoM <-> Rathlin agreements - thanks to itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
