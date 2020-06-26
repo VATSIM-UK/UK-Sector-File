@@ -1,4 +1,4 @@
-# Changes from release 2020/06 to 2020/07
+# Changes from release 2020/07 to 2020/08
 1. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect - thanks to @theobearman (Theo Bearman)
 
 # Changes from release 2020/06 to 2020/07
