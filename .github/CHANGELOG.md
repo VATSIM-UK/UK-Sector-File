@@ -1,5 +1,6 @@
 # Changes from release 2020/07 to 2020/08
-2. Enhancement - Implement dynamic sectors for EGNO, top down ownership of EGNH by EGNO_R_APP, and update EGNO details - thanks to @lennycolton (Lenny Colton)
+2. Enhancement - Implement dynamic sectors for Warton (EGNO), top down ownership of Blackpool (EGNH) by EGNO_R_APP, and update Warton (EGNO) details - thanks to @lennycolton (Lenny Colton)
+3. Bug - Corrected Warton (EGNO) MATZ boundaires.
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
