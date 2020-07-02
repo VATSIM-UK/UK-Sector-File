@@ -1,1 +1,3 @@
 *Hulton Industrial Estate:N053.32.06.280:W002.27.04.560
+*Wigan Lakes:N053.31.17.000:W002.37.40.000
+*Winter Hills Mast:N053.37.32.000:W002.30.54.000
