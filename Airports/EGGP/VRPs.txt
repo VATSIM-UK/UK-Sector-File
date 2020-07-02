@@ -4,7 +4,6 @@
 *Fiddlers Ferry Power Station:N053.22.18.390:W002.41.16.030
 *Frodsham Hill:N053.17.13.750:W002.43.29.270
 *Garston Docks:N053.21.09.960:W002.54.24.360
-*Haydock Park Racecourse:N053.28.42.000:W002.37.20.000
 *Helsby Hill:N053.16.24.310:W002.45.47.640
 *Jaguar Car Factory:N053.21.12.660:W002.50.08.800
 *Kirkby:N053.28.48.000:W002.52.54.000
@@ -18,3 +17,5 @@
 *Tarbock Island:N053.23.53.860:W002.48.30.410
 *Tarvin Roundabout:N053.11.41.960:W002.46.37.800
 *The Liver Building (Pier Head):N053.24.20.730:W002.59.45.190
+*Wigan Lakes:N053.31.17.000:W002.37.40.000
+*Winter Hills Mast:N053.37.32.000:W002.30.54.000

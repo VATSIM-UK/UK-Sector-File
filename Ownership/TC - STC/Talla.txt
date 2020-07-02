@@ -9,4 +9,11 @@ OWNER:STE:ST:SD:SWD:SS:S
 ALTOWNER:Observing Scottish FIR:O:SM:STE:ST:SD:SWD:SS:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):STE:ST:O:SM:SD:SWD:SS:S
 ALTOWNER:Observing STC_CTR:STE:O:SM:ST:SD:SWD:SS:S
-BORDER:Tal_TayE2a:Tal_TayE2b:TalSouth:Tal_Nor:Gal_Tal
+BORDER:Tal_TayE2a:Tal_TayE2b:Tal_TayE2c:TalSouth:Tal_Nor:Gal_Tal
+
+SECTOR:Talla 2 (195-255):19500:25500
+ALTOWNER:Observing Scottish FIR:O:SM:STE:ST:SD:SWD:SS:S
+OWNER:STE:ST:SD:SWD:SS:S
+ALTOWNER:Observing STC_CTR:STE:O:SM:ST:SD:SWD:SS:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):STE:ST:O:SM:SD:SWD:SS:S
+BORDER:Tal_TayE2b:Tal_TayDelegated
