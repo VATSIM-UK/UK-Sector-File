@@ -49,6 +49,7 @@
 49. Procedure Change - Added IoM <-> Rathlin agreements - thanks to itsbenny99 (Benjamin Matthews)
 50. Procedure Change - Added S29->Deancross MTMA & EGCN outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
 51. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+52. Enhancement - Created EGKR SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
@@ -1192,4 +1193,3 @@
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
-36. Enhancement - Created EGKR SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
