@@ -5,4 +5,4 @@ COPX:*:*:MAMUL:EGNT:*:London S28:East:*:28000:MAMUL25
 COPX:*:*:MAMUL:EGNV:*:London S28:East:*:28000:MAMUL25
 
 COPX:*:*:*:EGNT:*:London S28:East:*:28000:POL45
-COPX:*:*:*:EGNV:*:London S28:East:*:28000:POL45s
+COPX:*:*:*:EGNV:*:London S28:East:*:28000:POL45
