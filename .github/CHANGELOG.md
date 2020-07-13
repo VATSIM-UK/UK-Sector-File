@@ -1,5 +1,5 @@
 # Changes from release 2020/07 to 2020/08
-1. Procedure Change - Changed Essex Clutch and EGMC inbounds to FL200 form S27 to TC COWLY - thanks to @luketp (Luke Peters0
+1. Procedure Change - Changed Essex Clutch and EGMC inbounds to FL200 form S27 to TC COWLY - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
