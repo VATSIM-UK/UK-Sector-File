@@ -1,3 +1,4 @@
+# Changes from release 2020/07 to 2020/08
 X. Bug - Fixed Various Missing Danger Areas - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/06 to 2020/07
