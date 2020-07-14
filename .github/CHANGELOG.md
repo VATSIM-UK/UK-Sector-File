@@ -15,6 +15,7 @@
 14. Enhancement - Updated agreements from S28 -> Trent - thanks to @luketp (Luke Peters)
 15. Bug - Corrected Stavanger positions and updated ownership orders - thanks to @luketp (Luke Peters)
 16. Enhancement - Remove unnecessary agreements into EGNV/EGNT - thanks to @kye-taylor (Kye Taylor)
+17. Bug - Amended Clacton (S14) -> TC East (SABER) agreements for EGKK inbounds - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
