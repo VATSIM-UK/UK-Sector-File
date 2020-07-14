@@ -28,6 +28,7 @@
 27. Enhancement - Update EGDY Yoevilton - thanks to @robbo599 (Lee Roberts)
 28. Enhancement - Add EGOS Shawbury MATZ and runway - thanks to @robbo599 (Lee Roberts)
 29. Enhancement - Update EGUB Benson MATZ and add runway - thanks to @robbo500 (Lee Roberts)
+30. Enhancement - Add EGXE Leeming - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
