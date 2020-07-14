@@ -1,5 +1,5 @@
 # Changes from release 2020/07 to 2020/08
-X. Enhancement - Created EGAB SMR
+X. Enhancement - Created EGAB SMR - thanks to @belfastcontroller (Matthew Loughlin)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
