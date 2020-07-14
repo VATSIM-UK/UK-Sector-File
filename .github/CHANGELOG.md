@@ -24,6 +24,7 @@
 23. Enhancement - Add EGXT Wittering - thanks to @robbo599 (Lee Roberts)
 24. Enhancement - Add EGDO Predannark - thanks to @robbo599 (Lee Roberts)
 25. Enhancement - Update of EGDI Merryfield MATZ - thanks to @robbo599 (Lee Roberts)
+26. Enhancement - Add EGDR Culdrose MATZ & Runways - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
