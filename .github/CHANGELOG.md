@@ -1,5 +1,21 @@
 # Changes from release 2020/07 to 2020/08
-x. Enhancement - Added new SMR for EGNV - thanks to @scottdaniels292 (Scott Daniels) (And Charlie Watson for drawing it)
+1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
+3. AIRAC (2008) - Updated EGPR Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. AIRAC (2008) - Updated EGSC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2008) - Updated EGMC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Bug - Fixed Dupe airspace base labels - thanks to @scottdaniels292 (Scott Daniels)
+7. Bug - Updated AC Dover static boundary (missed eastern portion taken from AC Clacton) - thanks to @ArvidHansson (Arvid Hansson)
+8. Bug - Fixed Various Missing Danger Areas - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. Bug - Fixed auto-handoff for PC East (Stafa) -> AC Daventry (S27) MTMA outbounds when TC Midlands online - thanks to @hsugden (Harry Sugden)
+10. Procedure Change - Removed S12 -> S10 - EGLL/WU outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
+11. Bug - Fixed missing waypoint on ROGAG2A SID from EGCN - thanks to @robbo599 (Lee Roberts)
+12. Procedure Change (2007) - Added PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
+13. Enhancement - Added EGKB SDRs - thanks to @lennycolton (Lenny Colton)
+14. Enhancement - Updated agreements from S28 -> Trent - thanks to @luketp (Luke Peters)
+15. Bug - Corrected Stavanger positions and updated ownership orders - thanks to @luketp (Luke Peters)
+16. Enhancement - Remove unnecessary agreements into EGNV/EGNT - thanks to @kye-taylor (Kye Taylor)
+17. Enhancement - Added new SMR for EGNV - thanks to @scottdaniels292 (Scott Daniels) (And Charlie Watson for drawing it)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
@@ -49,6 +65,9 @@ x. Enhancement - Added new SMR for EGNV - thanks to @scottdaniels292 (Scott Dani
 46. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - thanks to @itsbenny99 (Benjamin Matthews)
 47. Procedure Change (2007) - Amended Thames RMA and associated COPX - thanks to @hsugden (Harry Sugden)
 48. Procedure Change (2007) - Altered delegated airspace in the ERKIT area from ScAC East (Montrose) to PC East - thanks to @hsugden (Harry Sugden)
+49. Procedure Change - Added IoM <-> Rathlin agreements - thanks to itsbenny99 (Benjamin Matthews)
+50. Procedure Change - Added S29->Deancross MTMA & EGCN outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
+51. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/05 to 2020/06
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
