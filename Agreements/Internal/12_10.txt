@@ -1,2 +1,0 @@
-COPX:EGLL:*:LEDBO:*:*:London S12:London S10:29000:*:^LEDBO
-COPX:EGWU:*:LEDBO:*:*:London S12:London S10:29000:*:^LEDBO
