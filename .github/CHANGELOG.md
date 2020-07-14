@@ -3,6 +3,7 @@
 2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
 3. AIRAC (2008) - Updated EGPR Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 4. AIRAC (2008) - Updated EGSC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2008) - Updated EGMC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
