@@ -12,6 +12,7 @@
 11. Bug - Fixed missing waypoint on ROGAG2A SID from EGCN - thanks to @robbo599 (Lee Roberts)
 12. Procedure Change (2007) - Added PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
 13. Enhancement - Added EGKB SDRs - thanks to @lennycolton (Lenny Colton)
+14. Enhancement - Updated agreements from S28 -> Trent - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
