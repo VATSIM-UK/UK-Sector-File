@@ -10,6 +10,7 @@
 9. Bug - Fixed auto-handoff for PC East (Stafa) -> AC Daventry (S27) MTMA outbounds when TC Midlands online - thanks to @hsugden (Harry Sugden)
 10. Procedure Change - Removed S12 -> S10 - EGLL/WU outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
 11. Bug - Fixed missing waypoint on ROGAG2A SID from EGCN - thanks to @robbo599 (Lee Roberts)
+12. Procedure Change (2007) - Added PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
