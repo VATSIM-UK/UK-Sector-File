@@ -5,6 +5,7 @@
 4. AIRAC (2008) - Updated EGSC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2008) - Updated EGMC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. Bug - Fixed Dupe airspace base labels - thanks to @scottdaniels292 (Scott Daniels)
+7. Bug - Updated AC Dover static boundary (missed eastern portion taken from AC Clacton) - thanks to @ArvidHansson (Arvid Hansson)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
