@@ -1,4 +1,3 @@
-;St Angelo EGAB
 "A" N054.23.40.789 W007.38.41.679 standHold
 "B" N054.23.44.99 W007.38.48.59 standHold
 "C1" N054.23.51.295 W007.38.57.115 standHold
@@ -8,4 +7,3 @@
 "D3" N054.24.03.412 W007.39.20.306 standHold
 "D4" N054.24.08.631 W007.39.28.869 standHold
 "F" N054.23.38.61 W007.38.45.65 standHold
-;end St Angelo EGAB
