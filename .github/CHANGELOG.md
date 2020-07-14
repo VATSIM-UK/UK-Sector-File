@@ -1,4 +1,4 @@
-# Changes from release 2020/06 to 2020/07
+# Changes from release 2020/07 to 2020/08
 x. Enhancement - Add EGDO Predannark - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/05 to 2020/06
