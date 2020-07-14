@@ -4,6 +4,7 @@
 3. AIRAC (2008) - Updated EGPR Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 4. AIRAC (2008) - Updated EGSC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2008) - Updated EGMC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Bug - Fixed Dupe airspace base labels - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
