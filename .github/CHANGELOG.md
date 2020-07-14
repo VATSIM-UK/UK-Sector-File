@@ -18,6 +18,7 @@
 17. Bug - Amended Clacton (S14) -> TC East (SABER) agreements for EGKK inbounds - thanks to @hsugden (Harry Sugden)
 18. Bug - Improved COPX display for TC SW -> AC Worthing EGLL outbounds via MID - thanks to @hsugden (Harry Sugden)
 19. Bug - Fixed Worthing -> Dover COPX for Midlands Inbounds - thanks to @hsugden (Harry Sugden)
+20. Procedure Change - Changed Essex Clutch and EGMC inbounds to FL200 form S27 to TC COWLY - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
