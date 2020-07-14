@@ -42,6 +42,17 @@ COPX:EGLF:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
 COPX:EGLK:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
 COPX:EGTF:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
 COPX:EGHL:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
+COPX:EGVO:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
+COPX:EGTD:*:DIKVU:*:*:London AC Worthing:London AC Dover:21000:*:DIKVU
+
+COPX:EGHH:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGHI:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGLF:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGLK:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGTF:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGHL:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGVO:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
+COPX:EGTD:*:KONAN:*:*:London AC Worthing:London AC Dover:19000:*:KONAN
 
 COPX:EGHH:*:SFD:*:*:London AC Worthing:London AC Dover:17000:*:^SFD
 COPX:EGHI:*:SFD:*:*:London AC Worthing:London AC Dover:17000:*:^SFD
