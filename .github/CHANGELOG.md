@@ -1,3 +1,4 @@
+# Changes from release 2020/07 to 2020/08
 X. Enhancement - Created EGKR SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 
 # Changes from release 2020/06 to 2020/07
