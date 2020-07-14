@@ -23,3 +23,4 @@ Belfast/Aldergrove  EGAA    1813    Yes                     Yes - need updating 
 Prestwick           EGPK    1904    Yes                     Yes - need updating     No
 London Heathrow     EGLL    1905    Yes                     Yes - need updating     Yes
 Cambridge           EGSC    2008    Yes                     Yes - need updating     No
+London Gatwick      EGKK    2008    Yes                     Yes - need updating     Yes
