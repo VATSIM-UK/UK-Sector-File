@@ -30,6 +30,7 @@
 29. Enhancement - Update EGUB Benson MATZ and add runway - thanks to @robbo500 (Lee Roberts)
 30. Enhancement - Add EGXE Leeming - thanks to @robbo599 (Lee Roberts)
 31. Enhancement - Add EGUL Lakenheath MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
+32. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
