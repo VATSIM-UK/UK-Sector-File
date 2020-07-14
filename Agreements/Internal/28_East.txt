@@ -1,9 +1,6 @@
 COPX:*:*:BETAX:EGNT:*:London S28:East:*:28000:BETAX
 COPX:*:*:BETAX:EGNV:*:London S28:East:*:28000:BETAX
 
-COPX:*:*:TNT:EGNT:*:London S28:East:*:28000:TNT
-COPX:*:*:TNT:EGNV:*:London S28:East:*:28000:TNT
-
 COPX:*:*:MAMUL:EGNT:*:London S28:East:*:28000:MAMUL25
 COPX:*:*:MAMUL:EGNV:*:London S28:East:*:28000:MAMUL25
 
