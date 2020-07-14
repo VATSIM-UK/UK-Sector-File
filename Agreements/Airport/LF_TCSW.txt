@@ -1,0 +1,1 @@
+COPX:EGLF:*:HAZEL:*:*:LFAPP:London TC SW:5000:*:^HAZEL
