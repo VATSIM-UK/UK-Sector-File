@@ -8,6 +8,7 @@
 7. Bug - Updated AC Dover static boundary (missed eastern portion taken from AC Clacton) - thanks to @ArvidHansson (Arvid Hansson)
 8. Bug - Fixed Various Missing Danger Areas - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. Bug - Fixed auto-handoff for PC East (Stafa) -> AC Daventry (S27) MTMA outbounds when TC Midlands online - thanks to @hsugden (Harry Sugden)
+10. Procedure Change - Removed S12 -> S10 - EGLL/WU outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
