@@ -1,4 +1,5 @@
 # Changes from release 2020/07 to 2020/08
+
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
 3. AIRAC (2008) - Updated EGPR Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -6,6 +7,8 @@
 5. AIRAC (2008) - Updated EGMC Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. Bug - Fixed Dupe airspace base labels - thanks to @scottdaniels292 (Scott Daniels)
 7. Bug - Updated AC Dover static boundary (missed eastern portion taken from AC Clacton) - thanks to @ArvidHansson (Arvid Hansson)
+8. Bug - Fixed Various Missing Danger Areas - thanks to @AleksMax (Aleks Nieszczerzewski)
+
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
