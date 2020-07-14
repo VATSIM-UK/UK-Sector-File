@@ -21,6 +21,7 @@
 20. Procedure Change - Changed Essex Clutch and EGMC inbounds to FL200 form S27 to TC COWLY - thanks to @luketp (Luke Peters)
 21. Enhancement - Created EGKR SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 22. Enhancement - Add EGUN Mildenhall MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
+23. Enhancement - Add EGXT Wittering - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
