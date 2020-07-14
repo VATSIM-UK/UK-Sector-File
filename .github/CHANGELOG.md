@@ -1,4 +1,4 @@
-# Changes from release 2020/06 to 2020/07
+# Changes from release 2020/07 to 2020/08
 x. Enhancement - Add EGUL Lakenheath MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/06 to 2020/07
