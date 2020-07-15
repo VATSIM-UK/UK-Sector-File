@@ -1,4 +1,3 @@
-X. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
@@ -33,6 +32,7 @@ X. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-t
 31. Enhancement - Add EGUL Lakenheath MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
 32. AIRAC (2008) Severn group inbound agreement - thanks to @kye-taylor (Kye Taylor)
 33. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
+34. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
