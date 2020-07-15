@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-=======
-x. Airac (2007) - Updated EGPH SMR - thanks to @SamLefevre (Samuel Lefevre)
->>>>>>> Stashed changes
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
@@ -36,6 +32,7 @@ x. Airac (2007) - Updated EGPH SMR - thanks to @SamLefevre (Samuel Lefevre)
 31. Enhancement - Add EGUL Lakenheath MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
 32. AIRAC (2008) Severn group inbound agreement - thanks to @kye-taylor (Kye Taylor)
 33. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
+34. Airac (2007) - Updated EGPH SMR - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
