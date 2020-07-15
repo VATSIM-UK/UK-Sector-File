@@ -40,6 +40,7 @@
 39. Procedure Change (2007) - Inverness (EGPE) inbound and outbound agreement amendments - thanks to @hsugden (Harry Sugden)
 40. Bug - Added Rathlin->PK Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 41. Procedure Change (2007) - Added agreements for ScTMA inbounds via N610/N560 between ScAC East N & S  -  thanks to @hsugden (Harry Sugden)
+42. AIRAC (NOTAM) - Removed EGLL WIP area around A(S) - thanks to @aeroniemi (Alex Beavil)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
