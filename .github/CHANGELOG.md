@@ -44,6 +44,7 @@
 43. Enhancement - Add EGVN Brize Norton SIDs and STARs - Thanks to @robbo599 (Lee Roberts)
 44. Enhancement - EGNR Hawarden SMR Change - thanks to @scottdaniels292 (Scott Daniels)
 45. Enhancement - Added new SMR for EGNV - thanks to @scottdaniels292 (Scott Daniels) (And Charlie Watson for drawing it)
+46. Procedure Change -TC SW - LS for EGLF & Wessex outbounds - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
