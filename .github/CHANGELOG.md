@@ -32,6 +32,7 @@
 31. Enhancement - Add EGUL Lakenheath MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
 32. AIRAC (2008) Severn group inbound agreement - thanks to @kye-taylor (Kye Taylor)
 33. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
+
 34. AIRAC (2008) - Updated EGMC SMR - thanks to @Bucklerz (Reece Buckley)
 35. Enhancement - Added Various EGBB Outbound Agreements - thanks to @luke11brown (Luke Brown)
 36. Enhancement - Added Altimeter Setting Regions - thanks to @robbo599 (Lee Roberts)
@@ -48,6 +49,7 @@
 47. AIRAC (2008) - LS -> LD - Solent/LF/Wessex outbound agreements- thanks to @Bucklerz (Reece Buckley)
 48. AIRAC (2008) - LS -> TC SW - Wessex Group inbound agreements - thanks to @Bucklerz (Reece Buckley)
 49. AIRAC (2008) - Added the Northern Apron to EGTE - thanks to @Bucklerz (Reece Buckley)
+50. AIRAC (2008) - Added K to Gatwick (EGKK) - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
