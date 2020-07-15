@@ -50,6 +50,7 @@
 49. AIRAC (2008) - Added the Northern Apron to EGTE - thanks to @Bucklerz (Reece Buckley)
 50. AIRAC (2008) - Added K to Gatwick (EGKK) - thanks to @kye-taylor (Kye Taylor)
 51. AIRAC (2008) - Updated EGSC SMR to include L1 and edited Y1 and Y2 positions - thanks to @Bucklerz (Reece Buckley)
+52. Airac (2007) - Updated EGPH SMR - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
