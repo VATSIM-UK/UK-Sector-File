@@ -34,6 +34,7 @@
 33. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
 34. AIRAC (2008) - Updated EGMC SMR - thanks to @Bucklerz (Reece Buckley)
 35. Enhancement - Added Various EGBB Outbound Agreements - thanks to @luke11brown (Luke Brown)
+36. Enhancement - Added Altimeter Setting Regions - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
