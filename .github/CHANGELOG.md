@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+x. Airac (2007) - Updated EGPH SMR - thanks to @SamLefevre (Samuel Lefevre)
+>>>>>>> Stashed changes
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
