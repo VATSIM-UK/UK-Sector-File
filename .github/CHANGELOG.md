@@ -38,6 +38,7 @@
 37. AIRAC (2006) - EGGP SMR added Link L and Associated Hangar - thanks to @luke11brown (Luke Brown)
 38. Enhancement - Add EGXW Waddington - thanks to @robbo599 (Lee Roberts)
 39. Procedure Change (2007) - Inverness (EGPE) inbound and outbound agreement amendments - thanks to @hsugden (Harry Sugden)
+40. Bug - Added Rathlin->PK Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
