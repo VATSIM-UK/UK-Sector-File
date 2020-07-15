@@ -36,6 +36,7 @@
 35. Enhancement - Added Various EGBB Outbound Agreements - thanks to @luke11brown (Luke Brown)
 36. Enhancement - Added Altimeter Setting Regions - thanks to @robbo599 (Lee Roberts)
 37. AIRAC (2006) - EGGP SMR added Link L and Associated Hangar - thanks to @luke11brown (Luke Brown)
+38. Enhancement - Add EGXW Waddington - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
