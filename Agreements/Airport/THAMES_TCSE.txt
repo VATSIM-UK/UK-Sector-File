@@ -1,7 +1,9 @@
 ;London City EKNIV, DVR, LYD and SAM Departures
-COPX:EGLC:*:EKNIV:*:*:Thames:London TC SE:7000:*:Gate
-COPX:EGLC:*:DET:*:*:Thames:London TC SE:7000:*:Gate
+COPX:EGLC:*:EKNIV:*:*:Thames:London TC SE:8000:*:EKNIV
+COPX:EGLC:*:DET:*:*:Thames:London TC SE:8000:*:Gate
+
 ;Biggin Hill Departures
-COPX:EGKB:*:DET:*:*:Thames:London TC SE:4000:*:DET
+COPX:EGKB:*:DET:*:*:Thames:London TC SE:4000:*:^DET
+
 ;Southend Departures
-COPX:EGMC:*:DET:*:*:Thames:London TC SE:6000:*:Gate
+COPX:EGMC:*:DET:*:*:Thames:London TC SE:5000:*:^Gate
