@@ -1,6 +1,6 @@
-COPX:EGCC:*:HON:*:*:Stafa:London S27:19000:*:HON10
-COPX:EGGP:*:HON:*:*:Stafa:London S27:19000:*:HON10
-COPX:EGNR:*:HON:*:*:Stafa:London S27:19000:*:HON10
+COPX:EGCC:*:*:HON:*:Stafa:London S27:19000:*:HON10
+COPX:EGGP:*:*:HON:*:Stafa:London S27:19000:*:HON10
+COPX:EGNR:*:*:HON:*:Stafa:London S27:19000:*:HON10
 
 COPX:EGGP:*:*:PEPUL:*:Stafa:London S27:19000:*:VIDOK
 COPX:EGNR:*:*:PEPUL:*:Stafa:London S27:19000:*:VIDOK
