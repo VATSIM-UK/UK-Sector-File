@@ -1,5 +1,3 @@
-[REGIONS]
-;backround
 REGIONNAME North Weald
 blueBackground N051.42.15.509 E000.11.34.185
 N051.44.23.165 E000.11.59.350
