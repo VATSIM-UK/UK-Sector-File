@@ -32,6 +32,7 @@
 31. Enhancement - Add EGUL Lakenheath MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
 32. AIRAC (2008) Severn group inbound agreement - thanks to @kye-taylor (Kye Taylor)
 33. AIRAC (2008) LD -> LS - Brize Group/EGTK inbound agreement - thanks to @kye-taylor (Kye Taylor)
+34. AIRAC (2008) - Updated EGSC SMR to include L1 and edited Y1 and Y2 positions - thanks to @Bucklerz (Reece Buckley)
 
 34. AIRAC (2008) - Updated EGMC SMR - thanks to @Bucklerz (Reece Buckley)
 35. Enhancement - Added Various EGBB Outbound Agreements - thanks to @luke11brown (Luke Brown)
