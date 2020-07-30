@@ -1,0 +1,1 @@
+COPX:*:*:*:EGPK:*:Antrim:PKAPP:*:8000:COORD
