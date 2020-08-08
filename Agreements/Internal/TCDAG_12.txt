@@ -1,0 +1,15 @@
+;COPX for LL/WU/GW
+COPX:BRAIN:*:*:*:*:London TC DAGGA:London S12:23000:*:^BRAIN
+
+;COPX for LL 
+COPX:MATCH:*:*:*:*:London TC DAGGA:London S12:23000:*:^MATCH
+
+;COPX for KK/KB
+COPX:DAGGA:*:*:*:*:London TC DAGGA:London S12:23000:*:^DAGGA
+
+;Pre AIRAC 1813 Routings/Agreements
+COPX:EGLL:*:*:CLN:*:London TC DAGGA:London S12:23000:*:^CLN
+COPX:EGWU:*:*:CLN:*:London TC DAGGA:London S12:23000:*:^CLN
+COPX:EGKK:*:*:CLN:*:London TC DAGGA:London S12:23000:*:^CLN
+COPX:EGKB:*:*:CLN:*:London TC DAGGA:London S12:23000:*:^CLN
+COPX:EGGW:*:*:CLN:*:London TC DAGGA:London S12:23000:*:^CLN

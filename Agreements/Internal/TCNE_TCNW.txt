@@ -1,0 +1,4 @@
+COPX:EGLC:*:BPK:*:*:London TC NE:London TC NW:7000:*:BPK
+COPX:EGKB:*:BPK:*:*:London TC NE:London TC NW:7000:*:BPK
+COPX:EGTO:*:BPK:*:*:London TC NE:London TC NW:7000:*:BPK
+COPX:EGMC:*:BPK:*:*:London TC NE:London TC NW:7000:*:BPK

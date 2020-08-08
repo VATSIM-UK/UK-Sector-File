@@ -1,11 +1,12 @@
 COPX:EGHI:*:NORRY:*:*:London TC SW:London TC NW:10000:*:NORRY
 COPX:EGHH:*:NORRY:*:*:London TC SW:London TC NW:10000:*:NORRY
 
-COPX:EGLF:*:CPT:*:*:London TC SW:London TC NW:10000:*:CPT
+COPX:EGLF:*:CPT:DTY:*:London TC SW:London TC NW:10000:*:CPT
+
 COPX:EGLK:*:CPT:*:*:London TC SW:London TC NW:10000:*:CPT
 COPX:EGTF:*:CPT:*:*:London TC SW:London TC NW:10000:*:CPT
 COPX:EGHL:*:CPT:*:*:London TC SW:London TC NW:10000:*:CPT
 
-COPX:*:*:WOD:EGSS:*:London TC SW:London TC NW:*:13000:LOREL1B
-COPX:*:*:WOD:EGSC:*:London TC SW:London TC NW:*:13000:LOREL1B
-COPX:*:*:WOD:EGGW:*:London TC SW:London TC NW:*:13000:LOREL1B
+COPX:*:*:WOD:EGSS:*:London TC SW:London TC NW:*:13000:|WOD
+COPX:*:*:WOD:EGSC:*:London TC SW:London TC NW:*:13000:|WOD
+COPX:*:*:WOD:EGGW:*:London TC SW:London TC NW:*:13000:|WOD

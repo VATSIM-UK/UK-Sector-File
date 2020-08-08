@@ -1,0 +1,6 @@
+COPX:EGKK:*:DAGGA:*:*:London TC LAM:London TC DAGGA:17000:*:^DAGGA
+COPX:EGKB:*:DAGGA:*:*:London TC LAM:London TC DAGGA:17000:*:^DAGGA
+
+;Pre AIRAC 1813 Routings/Agreements
+COPX:EGKK:*:*:CLN:*:London TC LAM:London TC DAGGA:17000:*:^CLN
+COPX:EGKB:*:*:CLN:*:London TC LAM:London TC DAGGA:17000:*:^CLN

@@ -1,3 +1,0 @@
-FIR_COPX:*:*:GIVPO:*:*:London S10:Humber:*:*:GIVPO
-
-FIR_COPX:*:*:AKOKO:*:*:London S10:Humber:*:*:AKOKO
