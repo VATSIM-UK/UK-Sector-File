@@ -1,3 +1,4 @@
+x. AIRAC (2009) - Updated EGLL Runway Headings - thanks to @GeekPro101 (Thomas Mills)
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 
