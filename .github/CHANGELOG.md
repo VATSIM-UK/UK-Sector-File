@@ -1,4 +1,6 @@
+# Changes from release 2020/08 to 2020/09
 x. AIRAC (2009) - Added G1 and G2 holds to EGLF SMR as well as repositioning A2 - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Bug - LOREL 2D arrival still in sector file. Updates made to SS, SC and GW Stars.txt files to reflect its removal - thanks to @theobearman (Theo Bearman)
