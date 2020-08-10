@@ -1,4 +1,4 @@
-# Changes from release 2020/07 to 2020/08
+# Changes from release 2020/08 to 2020/09
 2. Enhancement - Implement dynamic sectors for Warton (EGNO), top down ownership of Blackpool (EGNH) by EGNO_R_APP, and update Warton (EGNO) details - thanks to @lennycolton (Lenny Colton)
 3. Bug - Corrected Warton (EGNO) MATZ boundaires - thanks to @cbyworth (Chad Byworth)
 
