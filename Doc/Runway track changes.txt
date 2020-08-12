@@ -6,7 +6,6 @@
 Airport             ICAO    AIRAC   Runway Tracks updated?  Extended centrelines?   Conventional SIDs?
 
 Glasgow             EGPF    1702    Yes                     Yes - need updating     Yes - updated 1808
-Inverness           EGPE    1711    Yes                     Yes - need updating     No
 Stansted            EGSS    1801    Yes                     Yes - need updating     Yes - updated 1808
 Doncaster           EGCN    1801    Yes                     Yes - need updating     Yes - updated 1808
 Durham              EGNV    1801    Yes                     Yes - need updating     No
@@ -21,8 +20,11 @@ Sumburgh            EGPB    1809    Yes                     Yes - need updating 
 Newquay             EGHQ    1811    Yes                     Yes - need updating     No
 Belfast/Aldergrove  EGAA    1813    Yes                     Yes - need updating     No
 Prestwick           EGPK    1904    Yes                     Yes - need updating     No
-London Heathrow     EGLL    1905    Yes                     Yes - need updating     Yes
 Cambridge           EGSC    2008    Yes                     Yes - need updating     No
 London Gatwick      EGKK    2008    Yes                     Yes - need updating     Yes
 Southend            EGMC    2008    Yes                     Yes - need updating     No
+London Heathrow     EGLL    2009    Yes                     Yes - need updating     Yes
+Bournemouth         EGHH    2009    Yes                     Yes - need updating     No
+Leeds               EGNM    2009    Yes                     Yes - need updating     No
+Inverness           EGPE    2009    Yes                     Yes - need updating     No
 Aberdeen            EGPD    2009    Yes                     Yes - need updating     No
