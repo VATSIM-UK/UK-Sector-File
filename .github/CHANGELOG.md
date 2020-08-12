@@ -12,6 +12,7 @@
 11. Bug - EGHH UMBUR STAR had not been changed to its new designation UMBUR1S > UMBUR2S - thanks to @TheoBearman (Theo Bearman)
 12. Bug - Added handoff prediction between Thames and City Director - thanks to @Bucklerz (Reece Buckley) and @kye-taylor (Kye Taylor)
 13. Procedure Change - PC East -> S10 - LIBSO agreement - thanks to @robbo599 (Lee Roberts)
+14. Enhancement - Updated Solent Outboud Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
