@@ -1,0 +1,3 @@
+COPX:EGNS:*:KELLY:*:*:NSAPP:Isle of Man:*:9000:^KELLY
+
+COPX:EGNS:*:INKOB:*:*:NSAPP:Isle of Man:*:9000:^INKOB

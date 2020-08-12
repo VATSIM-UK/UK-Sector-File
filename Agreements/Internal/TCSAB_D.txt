@@ -1,5 +1,9 @@
-COPX:EGSS:*:ABTUM:*:*:London TC SABER:London AC Dover:19000:*:^ABTUM
-COPX:EGSC:*:ABTUM:*:*:London TC SABER:London AC Dover:19000:*:^ABTUM
+COPX:EGSS:*:ABTUM:*:*:London TC SABER:London AC Dover:20000:*:^ABTUM
+COPX:EGSC:*:ABTUM:*:*:London TC SABER:London AC Dover:20000:*:^ABTUM
 
-COPX:EGGW:*:ABTUM:*:*:London TC SABER:London AC Dover:23000:*:^ABTUM
-COPX:EGWU:*:ABTUM:*:*:London TC SABER:London AC Dover:23000:*:^ABTUM
+;For EGGW/EGWU via M85
+COPX:DAGGA:*:*:*:*:London TC SABER:London AC Dover:20000:*:^ITVIP
+
+;For EGGW/EGWU via M84
+COPX:EGGW:*:ABTUM:*:*:London TC SABER:London AC Dover:20000:*:^ABTUM
+COPX:EGWU:*:ABTUM:*:*:London TC SABER:London AC Dover:20000:*:^ABTUM
