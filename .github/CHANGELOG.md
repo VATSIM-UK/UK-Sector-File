@@ -19,6 +19,7 @@
 18. AIRAC(2009) - Removed NY4 hold at Heathrow - thanks to @Bucklerz (Reece Buckley)
 19. Procedure Change - Updated S13 -> LD Severn Group Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Procedure Change - Updated TC SABER->LD SS/GW Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+21Enhancement - Created EGSX SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
