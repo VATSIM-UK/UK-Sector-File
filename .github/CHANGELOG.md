@@ -9,6 +9,7 @@
 8. AIRAC (2009) - Updated EGPD Runway headings - thanks to @Bucklerz (Reece Buckley)
 9. Enhancement - Gatwick WIP removed - thanks to @kye-taylor (Kye Taylor)
 10. Bug - Corrected London AC Clacton static boundary - thanks to @hsugden (Harry Sugden)
+11. Bug - EGHH UMBUR STAR had not been changed to its new designation UMBUR1S > UMBUR2S - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
