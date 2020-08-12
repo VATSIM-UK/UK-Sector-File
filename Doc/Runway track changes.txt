@@ -24,5 +24,6 @@ London Heathrow     EGLL    1905    Yes                     Yes - need updating 
 Cambridge           EGSC    2008    Yes                     Yes - need updating     No
 London Gatwick      EGKK    2008    Yes                     Yes - need updating     Yes
 Southend            EGMC    2008    Yes                     Yes - need updating     No
+Bournemouth         EGHH    2009    Yes                     Yes - need updating     No
 Leeds               EGNM    2009    Yes                     Yes - need updating     No
 Inverness           EGPE    2009    Yes                     Yes - need updating     No
