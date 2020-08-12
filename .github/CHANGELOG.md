@@ -1,4 +1,3 @@
-x. AIRAC (2009) - Updated EGPD Runway headings - thanks to @Bucklerz (Reece Buckley)
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 2. AIRAC (2009) - Updated EGJJ SMR so that J extends beyond J3 - thanks to @Bucklerz (Reece Buckley)
@@ -7,6 +6,7 @@ x. AIRAC (2009) - Updated EGPD Runway headings - thanks to @Bucklerz (Reece Buck
 5. AIRAC (2009) - Updated EGHH Runway headings - thanks to @Bucklerz (Reece Buckley)
 6. AIRAC (2009) - Update EGPD SMR - thanks to @Bucklerz (Reece Buckley)
 7. AIRAC (2009) - Updated EGLL Runway Headings - thanks to @GeekPro101 (Thomas Mills)
+8. AIRAC (2009) - Updated EGPD Runway headings - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
