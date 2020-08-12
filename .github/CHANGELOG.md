@@ -21,6 +21,7 @@
 20. Procedure Change - Updated TC SABER->LD SS/GW Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Enhancement - Created EGSX SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 22. AIRAC (2008) LD -> TC SW - Solent/LF/Wessex inbound agreements - thanks to @kye-taylor (Kye Taylor)
+23. Enhancement - Added splitting function for PC East - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
