@@ -14,6 +14,7 @@
 13. Procedure Change - PC East -> S10 - LIBSO agreement - thanks to @robbo599 (Lee Roberts)
 14. Enhancement - Updated Solent Outboud Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 15. Enhancement - Updated EGTF SMR - thanks to @GeekPro101 (Thomas Mills) and @Bucklers (Reece Buckley) 
+16. Enhancement - Remade the Bournemouth (EGHH) Extended centerline - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
