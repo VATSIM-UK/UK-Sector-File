@@ -1,4 +1,5 @@
-1. Procedure CHange - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
+# Changes from release 2020/09 to 2020/10
+1. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
