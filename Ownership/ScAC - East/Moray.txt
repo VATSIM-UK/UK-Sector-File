@@ -3,11 +3,6 @@ OWNER:SN:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SN:SE:S
 
-SECTOR:Moray (DB-255):0:25500
-OWNER:SN:SE:S
-ALTOWNER:Observing Scottish FIR:O:SM:SN:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SN:SE:S
-
 SECTOR:Moray 1 (DB-255):0:25500
 OWNER:SN:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SN:SE:S
