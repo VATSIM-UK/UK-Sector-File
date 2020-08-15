@@ -9,10 +9,6 @@ COPX:*:*:HAZEL:EGGW:*:London AC Worthing:London TC SW:*:13000:HAZEL
 
 COPX:*:*:GWC:EGKK:*:London AC Worthing:London TC SW:*:13000:GWC
 
-COPX:*:*:BEGTO:EGLK:*:London AC Worthing:London TC SW:*:11000:BEGTO
-COPX:*:*:BEGTO:EGTF:*:London AC Worthing:London TC SW:*:11000:BEGTO
-COPX:*:*:BEGTO:EGHL:*:London AC Worthing:London TC SW:*:11000:BEGTO
-
 COPX:*:*:BIDVA:EGLC:*:London AC Worthing:London TC SW:*:13000:BIDVA
 COPX:*:*:BIDVA:EGKB:*:London AC Worthing:London TC SW:*:13000:BIDVA
 COPX:*:*:BIDVA:EGTO:*:London AC Worthing:London TC SW:*:13000:BIDVA
@@ -21,7 +17,17 @@ COPX:*:*:BIDVA:EGMC:*:London AC Worthing:London TC SW:*:13000:BIDVA
 COPX:*:*:TELTU:EGKK:*:London AC Worthing:London TC SW:*:13000:TELTU
 
 COPX:*:*:ABSAV:EGLF:*:London AC Worthing:London TC SW:*:11000:ABSAV
+COPX:*:*:ABSAV:EGHL:*:London AC Worthing:London TC SW:*:11000:ABSAV
+COPX:*:*:ABSAV:EGTF:*:London AC Worthing:London TC SW:*:11000:ABSAV
+COPX:*:*:ABSAV:EGVO:*:London AC Worthing:London TC SW:*:11000:ABSAV
+COPX:*:*:ABSAV:EGLK:*:London AC Worthing:London TC SW:*:11000:ABSAV
+COPX:*:*:ABSAV:EGTD:*:London AC Worthing:London TC SW:*:11000:ABSAV
 
 COPX:*:*:RUDMO:EGLF:*:London AC Worthing:London TC SW:*:11000:RUDMO10
+COPX:*:*:RUDMO:EGHL:*:London AC Worthing:London TC SW:*:11000:RUDMO10
+COPX:*:*:RUDMO:EGTF:*:London AC Worthing:London TC SW:*:11000:RUDMO10
+COPX:*:*:RUDMO:EGVO:*:London AC Worthing:London TC SW:*:11000:RUDMO10
+COPX:*:*:RUDMO:EGLK:*:London AC Worthing:London TC SW:*:11000:RUDMO10
+COPX:*:*:RUDMO:EGTD:*:London AC Worthing:London TC SW:*:11000:RUDMO10
 
 COPX:*:*:CPT:EGLF:*:London AC Worthing:London TC SW:*:16000:CPT
