@@ -1,0 +1,54 @@
+{
+  "ese_header": [
+  ],
+  "ese_preamble": [
+  ],
+  "ese_airspace": {
+    "coordination": [
+    ],
+    "sector": [
+    ],
+    "sectorline": [
+    ]
+  },
+  "ese_positions": [
+  ],
+  "ese_freetext": [
+  ],
+  "ese_sidsstars": [
+  ],
+  "sct_header" : [
+  ],
+  "sct_info" : [
+  ],
+  "sct_colour_defs": [
+  ],
+  "sct_airport": [
+  ],
+  "sct_fixes": [
+  ],
+  "sct_ndb": [
+  ],
+  "sct_vor": [
+  ],
+  "sct_artcc": [
+  ],
+  "sct_artcc_low": [
+  ],
+  "sct_artcc_high": [
+  ],
+  "sct_low_airway": [
+  ],
+  "sct_high_airway": [
+  ],
+  "sct_sid": [
+  ],
+  "sct_star": [
+  ],
+  "sct_geo": [
+  ],
+  "sct_labels": [
+  ],
+  "sct_regions": [
+  ]
+}
