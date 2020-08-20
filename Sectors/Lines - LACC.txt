@@ -567,7 +567,7 @@ SECTORLINE:LC10
 DISPLAY:London S27:London S27:London AC Dover
 DISPLAY:London AC Worthing:London AC Worthing:London AC Dover
 DISPLAY:London AC Dover:London AC Dover:London S27
-DISPLAY:London TC COWLY::London S27:London AC Dover
+DISPLAY:London TC COWLY:London S27:London AC Dover
 COORD:N051.54.21.000:W001.02.57.000
 COORD:N052.00.00.000:W001.12.26.000
 
