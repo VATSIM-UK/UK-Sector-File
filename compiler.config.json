@@ -1056,7 +1056,12 @@
         "ARTCC/Danger Areas/LF R10.txt",
         "ARTCC/Danger Areas/Masts.txt"
     ],
-    "sct_artcc_low": [],
+    "sct_artcc_low": [
+        "ARTCC/Low/Channel Islands CTA.txt",
+        "ARTCC/Low/French Airspace.txt",
+        "ARTCC/Low/Misc.txt",
+        "ARTCC/Low/Solent CTA.txt"
+    ],
     "sct_artcc_high": [],
     "sct_low_airway": [],
     "sct_high_airway": [],
