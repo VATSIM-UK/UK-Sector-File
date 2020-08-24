@@ -895,7 +895,10 @@
     "sct_ndb": [
         "Navaids/NDB_All.txt"
     ],
-    "sct_vor": [],
+    "sct_vor": [
+        "Navaids/VOR_UK.txt",
+        "Navaids/VOR_Non-UK.txt"
+    ],
     "sct_artcc": [],
     "sct_artcc_low": [],
     "sct_artcc_high": [],
