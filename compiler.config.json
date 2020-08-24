@@ -892,7 +892,9 @@
         "Navaids/FIXES_UK.txt",
         "Navaids/FIXES_Virtual.txt"
     ],
-    "sct_ndb": [],
+    "sct_ndb": [
+        "Navaids/NDB_All.txt"
+    ],
     "sct_vor": [],
     "sct_artcc": [],
     "sct_artcc_low": [],
