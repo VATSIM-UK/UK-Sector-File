@@ -706,7 +706,9 @@
     "sct_info": [
         "Info.txt"
     ],
-    "sct_colour_defs": [],
+    "sct_colour_defs": [
+        "Colours.txt"
+      ],
     "sct_airport": [],
     "sct_fixes": [],
     "sct_ndb": [],
