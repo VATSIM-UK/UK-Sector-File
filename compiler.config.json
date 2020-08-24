@@ -700,7 +700,9 @@
         "Airports/EGWU/Sids.txt ",
         "Airports/EGWU/Stars.txt"
     ],
-    "sct_header": [],
+    "sct_header": [
+        "Comments.txt"
+    ],
     "sct_info": [],
     "sct_colour_defs": [],
     "sct_airport": [],
