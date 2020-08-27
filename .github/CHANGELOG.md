@@ -1,3 +1,5 @@
+# Changes from release 2020/09 to 2020/10
+X. Procedure Change - Added Inverness Radar Delegated airspace - thanks to @GeekPro101 (Thomas Mills) and @hsugden (Harry Sugden)
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 2. AIRAC (2009) - Updated EGJJ SMR so that J extends beyond J3 - thanks to @Bucklerz (Reece Buckley)
