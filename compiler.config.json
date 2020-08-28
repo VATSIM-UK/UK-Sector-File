@@ -638,7 +638,15 @@
         "Misc/Positions_Area Positions 2 External.txt",
         "Misc/Positions_Area Positions 3 UK.txt"
     ],
-    "ese_freetext": [],
+    "ese_freetext": [
+        "Airports/EGBJ/Freetext.txt",
+        "Airports/EGGP/Freetext.txt",
+        "Airports/EGKK/Freetext.txt",
+        "Airports/EGLC/Freetext.txt",
+        "Airports/EGLL/Freetext.txt",
+        "Misc/Freetext_Airspace Bases.txt",
+        "Misc/Freetext_Solent Airspace Bases.txt"
+    ],
     "ese_sidsstars": [
         "Airports/EGBB/Sids.txt ",
         "Airports/EGBB/Stars.txt",
