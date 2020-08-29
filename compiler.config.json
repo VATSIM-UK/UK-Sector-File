@@ -1007,6 +1007,7 @@
         "Airports/Other/LFAC.txt"
     ],
     "sct_fixes": [
+        "_data/Old/Runway Fixes.txt",
         "Airports/EGAA/Fixes.txt",
         "Airports/EGAE/Fixes.txt",
         "Airports/EGBB/Fixes.txt",
