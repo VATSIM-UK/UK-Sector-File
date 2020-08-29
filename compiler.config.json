@@ -501,6 +501,7 @@
         ]
     },
     "ese_positions": [
+        "Misc/Pre-Positions.txt",
         "Airports/EGAA/Positions.txt",
         "Airports/EGAA/Positions_Mentor.txt",
         "Airports/EGAC/Positions.txt",
