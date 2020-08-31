@@ -1,1 +1,0 @@
-FIR_COPX:EIDW:*:BAKUR:*:*:DS:London S8:23000:*:^BAKUR
