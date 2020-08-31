@@ -495,7 +495,8 @@
             "Sectors/Lines - LTC.txt",
             "Sectors/Lines - Misc.txt",
             "Sectors/Lines - MPC.txt",
-            "Sectors/Lines - PACC.txt"
+            "Sectors/Lines - PACC.txt",
+            "_data/Old/Lines.txt"
         ]
     },
     "ese_positions": [
