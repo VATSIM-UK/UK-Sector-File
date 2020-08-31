@@ -1,5 +1,5 @@
 FIR_COPX:*:*:RINTI:*:*:LFFF Low:London AC Dover:*:*:RINTI
-FIR_COPX:*:*:L15FIR:*:*:LFFF Low:London AC Dover:*:*:L15FIR
+FIR_COPX:*:*:MOTOX:*:*:LFFF Low:London AC Dover:*:*:MOTOX
 FIR_COPX:*:*:BNE:*:*:LFFF Low:London AC Dover:*:*:BNE
 FIR_COPX:*:*:ABB:*:*:LFFF Low:London AC Dover:*:*:ABB
 
