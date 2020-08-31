@@ -161,7 +161,7 @@ COORD:N052.54.23.000:W003.18.39.500
 SECTORLINE:LWN3
 DISPLAY:London S5:London S5:Wallasey
 DISPLAY:Wallasey:Wallasey:London S5
-DISPLAY:London S5:Lonson S5:Sector 29
+DISPLAY:London S5:London S5:Sector 29
 DISPLAY:Sector 29:Sector 29:London S5
 DISPLAY:London S35:London S35:London S4
 DISPLAY:London S5:London S5:London S7
@@ -784,7 +784,7 @@ SECTORLINE:LCSD1
 DISPLAY:London TC NW:London TC NW:London TC VATON
 DISPLAY:London TC NW:London TC NW:London TC WELIN
 DISPLAY:London TC WELIN:London TC WELIN:London AC Dover
-DISPLAY:London TC WELIN:London TC WELIN:TC VATON
+DISPLAY:London TC WELIN:London TC WELIN:London TC VATON
 DISPLAY:London AC Dover:London AC Dover:London TC WELIN
 DISPLAY:London TC VATON:London TC VATON:London TC WELIN
 COORD:N051.42.55.900:W000.33.54.000
