@@ -1,5 +1,5 @@
 # Changes from release 2020/09 to 2020/10
-1. Enhancement - Added Newquay SMAA - thanks to @danielbutton17 (Daniel Button)
+1. Enhancement - Added Newquay SMAA - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
