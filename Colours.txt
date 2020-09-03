@@ -104,7 +104,6 @@
 #define smrVABuilding 9142113
 #define smrVADisused 6908265
 #define smrVAGrass 4551749
-#define smrVAHolds 65535
 #define smrVAPerimeter 7237230
 #define smrVARunway 4934475
 #define smrVATaxiway 9474192
