@@ -1,5 +1,6 @@
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2010) - Removed Birmingham (EGBB) M40 Junction 15 (Warwick) VRP - thanks to @TheoBearman (Theo Bearman)
+2. Bug - Changed Wick (EGPO) ATIS frequency to avoid conflicts with the STN VOR - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
