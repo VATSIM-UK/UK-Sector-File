@@ -1,6 +1,7 @@
 [REGIONS]
 ; Start Fairford EGVA Regions
-;	FFA_Background
+;	- FFA_Background
+REGIONNAME Fairford
 smrVABackground N051.43.20.673 W001.54.02.396
 N051.43.28.758 W001.41.10.101
 N051.38.34.030 W001.41.00.318
