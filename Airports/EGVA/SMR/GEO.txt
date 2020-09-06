@@ -1,4 +1,3 @@
-; Start Fairford (EGVA) GEO
 ; - Hold_A_09
 N051.41.04.343 W001.47.46.921 N051.41.03.469 W001.47.44.498 smrYellow
 ; - Hold_A_27
