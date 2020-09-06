@@ -1,4 +1,3 @@
-; Start Yeovilton EGDY Regions
 ; - VLN_Background
 REGIONNAME Yeovilton
 smrVABackground N050.58.40.143 W002.33.17.972
