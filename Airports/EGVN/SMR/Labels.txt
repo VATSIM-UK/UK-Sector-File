@@ -1,0 +1,2 @@
+;Holding Points
+"A1" N053.20.45.376 W002.17.34.241 standHold
