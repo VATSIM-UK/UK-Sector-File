@@ -1,3 +1,6 @@
+# Changes from release 2020/09 to 2020/10
+1. Enhancement - Add EGOE Ternhill - thanks to @scottdaniels292 (Scott Daniels)
+
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 2. AIRAC (2009) - Updated EGJJ SMR so that J extends beyond J3 - thanks to @Bucklerz (Reece Buckley)
