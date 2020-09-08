@@ -110,3 +110,12 @@
 #define blackBackground 0
 #define blueBackground 3932160
 #define smrGDbackground 328965
+
+;Mil SMR
+#define smrmilgrass 4551749
+#define smrmilboundary 6579300
+#define smrmilRoad 6908265
+#define smrmilapron 11908533
+#define smrmilrunway 4934475
+#define smrmiltaxiway 9474192
+#define smrmilbuilding 9142113
