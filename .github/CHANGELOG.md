@@ -28,6 +28,7 @@
 27. Enhancement - Added EGXU Linton - thanks to @scottdaniels292 (Scott Daniels)
 28. Enhancement - Added EGOQ Mona - thanks to @scottdaniels292 (Scott Daniels)
 29. Enhancement - Add EGOE Ternhill - thanks to @scottdaniels292 (Scott Daniels)
+30. Enhancement - Updated Lands End (EGHC) SMR to new style - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
