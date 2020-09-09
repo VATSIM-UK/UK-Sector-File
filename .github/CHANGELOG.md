@@ -15,6 +15,7 @@
 14. Procedure Change (2007) - Introduced AC West to Bristol agreements when Cardiff is offline - thanks to @hsugden (Harry Sugden)
 15. Enhancement - Added Newquay SMAA - thanks to @danielbutton (Daniel Button)
 16. AIRAC (2010) - Removed Birmingham (EGBB) M40 Junction 15 (Warwick) VRP - thanks to @TheoBearman (Theo Bearman)
+17. AIRAC (2010) - Tresco Heliport added to AIP - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
@@ -31,7 +32,7 @@
 12. Bug - Added handoff prediction between Thames and City Director - thanks to @Bucklerz (Reece Buckley) and @kye-taylor (Kye Taylor)
 13. Procedure Change - PC East -> S10 - LIBSO agreement - thanks to @robbo599 (Lee Roberts)
 14. Enhancement - Updated Solent Outboud Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-15. Enhancement - Updated EGTF SMR - thanks to @GeekPro101 (Thomas Mills) and @Bucklers (Reece Buckley) 
+15. Enhancement - Updated EGTF SMR - thanks to @GeekPro101 (Thomas Mills) and @Bucklers (Reece Buckley)
 16. Enhancement - Remade the Bournemouth (EGHH) Extended centerline - thanks to @Bucklerz (Reece Buckley)
 17. AIRAC (2009) - Added G1 and G2 holds to EGLF SMR as well as repositioning A2 - thanks to @Bucklerz (Reece Buckley)
 18. AIRAC(2009) - Removed NY4 hold at Heathrow - thanks to @Bucklerz (Reece Buckley)
