@@ -2,6 +2,7 @@
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden (Harry Sugden)
+4. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
