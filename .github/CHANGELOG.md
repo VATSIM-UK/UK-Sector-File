@@ -7,6 +7,7 @@
 6. AIRAC (2009) - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
 7. Enhancement - Updated PC Wallasey->Liverpool APC Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. Enhancement - Added AC Worthing/TC SW->Solent Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. Enhancement - Updated PC Trent/Daventry->NXAPP inbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
