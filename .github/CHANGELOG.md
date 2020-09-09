@@ -4,6 +4,7 @@
 3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden (Harry Sugden)
 4. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
 5. Bug - Corrected Stornoway (EGPO) ground map geo formatting - thanks to @hsugden (Harry Sugden)
+6. AIRAC (2009) - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
