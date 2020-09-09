@@ -1,3 +1,5 @@
+x. AIRAC (2009) - Added G1 and G2 holds to EGLF SMR as well as repositioning A2 - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 2. AIRAC (2009) - Updated EGJJ SMR so that J extends beyond J3 - thanks to @Bucklerz (Reece Buckley)
