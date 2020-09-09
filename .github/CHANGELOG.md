@@ -8,6 +8,7 @@
 7. Enhancement - Updated PC Wallasey->Liverpool APC Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. Enhancement - Added AC Worthing/TC SW->Solent Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. Enhancement - Updated PC Trent/Daventry->NXAPP inbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Enhancement - Reoder to EGGP STARs - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
