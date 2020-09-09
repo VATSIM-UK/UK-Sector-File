@@ -1,4 +1,4 @@
-;Available London FIR (London/Scottish ACC/TCC) frequencies, mostly not presently in use for anything
+;Available London FIR (London/Scottish ACC/TCC) frequencies
 ;North
 London Control S7:London Control:135.570:LNW:L:LON:CTR:-:-:0301:0377::
 London Control S7:London Control:135.570:LNW:L:LON-NW:CTR:-:-:0301:0377::
@@ -61,10 +61,11 @@ London Control:London Control:135.800:TCC:L:LTC:CTR:-:-:: ;TC Bandbox
 London Control:London Control:127.950:TCV:L:LTC:CTR:-:-::
 ;Prestwick W2 LAG (MAN)
 North:Scottish Control:128.670:PCN:M:MAN:CTR:-:-:0501:0577:N053.49.11.974:W002.18.59.167
-Isle of Man:Scottish Control:133.050:PCI:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
+Isle of Man:Scottish Control:133.050:IOM:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
+Sector 29:Scottish Control:133.200:S29:M:MAN:CTR:-:-:0501:0577:N053.31.33.436:W002.32.36.984
 SE Trent:Scottish Control:119.520:PCT:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
 SE Stafa:Scottish Control:134.420:PCS:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
-Wallasey:Scottish Control:125.950:PCWAL:M:MAN:CTR:-:-:0501:0577:N053.23.30.998:W003.08.03.998
+Wallasey:Scottish Control:125.950:WAL:M:MAN:CTR:-:-:0501:0577:N053.23.30.998:W003.08.03.998
 ;Scottish
 SCO_N_CTR:Scottish Control:129.220:SN:W:SCO:CTR:-:-:3601:3632:N059.02.05.447:W002.55.24.968
 SCO_S_CTR:Scottish Control:134.770:SS:W:SCO:CTR:-:-:3601:3632:N055.17.24.521:E000.32.49.087
