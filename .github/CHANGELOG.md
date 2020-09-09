@@ -1,5 +1,5 @@
 # Changes from release 2020/09 to 2020/10
-X. AIRAC (1009) - EGTE Frequancy noted - thanks to @kye-taylor (Kye Taylor)
+1. AIRAC (1009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
