@@ -99,14 +99,6 @@
 #define smrTETaxiway 7106162
 #define smrTFGrass 4487739
 #define smrTFTaxiway 3498623
-#define smrVAApron 11908532
-#define smrVABackground 7629899
-#define smrVABuilding 9142113
-#define smrVADisused 6908265
-#define smrVAGrass 4551749
-#define smrVAPerimeter 7237230
-#define smrVARunway 4934475
-#define smrVATaxiway 9474192
 #define smrWhite 13494510
 #define smrYellow 65535
 
