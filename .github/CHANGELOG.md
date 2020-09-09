@@ -1,5 +1,17 @@
 # Changes from release 2020/09 to 2020/10
-X. Enhancement - AC W -> PC S29 Severn Group outbounds COPX added - thanks to @GeekPro101 (Thomas Mills)
+1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
+2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden (Harry Sugden)
+4. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
+5. Bug - Corrected Stornoway (EGPO) ground map geo formatting - thanks to @hsugden (Harry Sugden)
+6. AIRAC (2009) - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
+7. Enhancement - Updated PC Wallasey->Liverpool APC Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. Enhancement - Added AC Worthing/TC SW->Solent Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. Enhancement - Updated PC Trent/Daventry->NXAPP inbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Enhancement - Reoder to EGGP STARs - thanks to @robbo599 (Lee Roberts)
+11. Enhancement - Updated S29 -> Stafa BB inbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
+12. Enhancement - AC W -> PC S29 Severn Group outbounds COPX added - thanks to @GeekPro101 (Thomas Mills)
+
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 2. AIRAC (2009) - Updated EGJJ SMR so that J extends beyond J3 - thanks to @Bucklerz (Reece Buckley)
@@ -23,7 +35,6 @@ X. Enhancement - AC W -> PC S29 Severn Group outbounds COPX added - thanks to @G
 20. Procedure Change - Updated TC SABER->LD SS/GW Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Enhancement - Created EGSX SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 22. AIRAC (2008) LD -> TC SW - Solent/LF/Wessex inbound agreements - thanks to @kye-taylor (Kye Taylor)
-23. Enhancement - Added splitting function for PC East - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
