@@ -22,6 +22,7 @@
 21. Enhancement - Added EGXP Scampton - thanks to @scottdaniels292 (Scott Daniels)
 22. Enhancement - Added Yeovil Westland (EGHG) Runways and Positions - thanks to @danielbutton (Daniel Button)
 23. Bug - Changed Stornoway (EGPO) ATIS frequency to avoid conflicts with the STN VOR - thanks to @TheoBearman (Theo Bearman)
+24. Enhancement - Added EGVP Middle Wallop - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
