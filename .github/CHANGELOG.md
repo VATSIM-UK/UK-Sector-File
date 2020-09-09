@@ -10,6 +10,7 @@
 9. Enhancement - Updated PC Trent/Daventry->NXAPP inbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Enhancement - Reoder to EGGP STARs - thanks to @robbo599 (Lee Roberts)
 11. Enhancement - Updated S29 -> Stafa BB inbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
+12. Enhancement - AC W -> PC S29 Severn Group outbounds COPX added - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
