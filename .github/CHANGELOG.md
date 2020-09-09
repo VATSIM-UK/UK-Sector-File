@@ -25,6 +25,7 @@
 24. Enhancement - Added EGVP Middle Wallop - thanks to @scottdaniels292 (Scott Daniels)
 25. Enhancement - Added EGYE Barkston Heath - thanks to @scottdaniels292 (Scott Daniels)
 26. Enhancement - Added EGXZ Topcliffe - thanks to @scottdaniels292 (Scott Daniels)
+27. Enhancement - Added EGXU Linton - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
