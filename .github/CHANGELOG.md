@@ -1,5 +1,8 @@
 # Changes from release 2020/09 to 2020/10
-1. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
+1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
+2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden (Harry Sugden)
+4. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
@@ -24,7 +27,6 @@
 20. Procedure Change - Updated TC SABER->LD SS/GW Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Enhancement - Created EGSX SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 22. AIRAC (2008) LD -> TC SW - Solent/LF/Wessex inbound agreements - thanks to @kye-taylor (Kye Taylor)
-23. Enhancement - Added splitting function for PC East - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
