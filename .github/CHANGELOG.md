@@ -18,6 +18,7 @@
 17. AIRAC (2010) - Tresco Heliport added to AIP - thanks to @Bucklerz (Reece Buckley)
 18. Bug - Changed Wick (EGPO) ATIS frequency to avoid conflicts with the WIK VOR - thanks to @TheoBearman (Theo Bearman)
 19. Enhancement - Improved depiction of NIMAT-ROTEV Buffer - thanks to @hsugden (Harry Sugden)
+20. Bug - Fixed AoR for PH FIN not showing for PH INT (24 Operations) - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
