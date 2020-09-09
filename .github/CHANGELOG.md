@@ -20,6 +20,7 @@
 19. Enhancement - Improved depiction of NIMAT-ROTEV Buffer - thanks to @hsugden (Harry Sugden)
 20. Bug - Fixed AoR for PH FIN not showing for PH INT (24 Operations) - thanks to @Bucklerz (Reece Buckley)
 21. Enhancement - Added EGXP Scampton - thanks to @scottdaniels292 (Scott Daniels)
+22. Enhancement - Added Yeovil Westland (EGHG) Runways and Positions - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
