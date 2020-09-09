@@ -13,6 +13,7 @@
 12. Enhancement - AC W -> PC S29 Severn Group outbounds COPX added - thanks to @GeekPro101 (Thomas Mills)
 13. Procedure Change - Added Inverness Radar Delegated airspace - thanks to @GeekPro101 (Thomas Mills) and @hsugden (Harry Sugden)
 14. Procedure Change (2007) - Introduced AC West to Bristol agreements when Cardiff is offline - thanks to @hsugden (Harry Sugden)
+15. Enhancement - Added Newquay SMAA - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
