@@ -1,5 +1,5 @@
 # Changes from release 2020/10 to 2020/11
-X. Bug/Enhancement - Corrected EGPH SMAA and added FAVA
+X. Bug/Enhancement - Corrected EGPH SMAA and added FAVA - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
