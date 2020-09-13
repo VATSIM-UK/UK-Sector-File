@@ -1,4 +1,4 @@
-# Changes from release 2020/09 to 2020/10
+# Changes from release 2020/10 to 2020/11
 1. Enhancement - Update EGXC Coningsby SMR - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/08 to 2020/09
