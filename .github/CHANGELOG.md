@@ -1,3 +1,6 @@
+# Changes from release 2020/10 to 2020/11
+x. Enhancement - Added FAVAs to EGPF SMAA - thanks to @1adamf (Adam Farquharson)
+
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
