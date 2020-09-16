@@ -102,6 +102,9 @@
 #define smrTFTaxiway 3498623
 #define smrWhite 13494510
 #define smrYellow 65535
+#define smrmilgrass 6919785
+#define smrmilapron 4613190
+#define smrmilbuilding 10534048
 
 ;Stand & Hold Labels
 #define smrBBlabel 13814651
