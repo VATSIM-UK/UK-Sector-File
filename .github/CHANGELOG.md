@@ -1,3 +1,6 @@
+# Changes from release 2020/10 to 2020/11
+1. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
