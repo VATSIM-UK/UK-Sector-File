@@ -1,3 +1,4 @@
+x. Bug - Fixes S29 -> 5 EGNM CN outbounds agreement error - thanks to @Bucklerz (Reece Buckley)
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
