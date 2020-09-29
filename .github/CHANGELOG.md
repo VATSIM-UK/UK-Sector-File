@@ -1,4 +1,7 @@
 # Changes from release 2020/09 to 2020/10
+x. Enhancement - Added FAVAs to EGPD SMAA - thanks to @SamLefevre (Samuel Lefevre)
+
+# Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden (Harry Sugden)
