@@ -1,4 +1,4 @@
-# Changes from release 2020/09 to 2020/10
+# Changes from release 2020/10 to 2020/11
 x. Enhancement - Added FAVAs to EGPD SMAA - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2020/09 to 2020/10
