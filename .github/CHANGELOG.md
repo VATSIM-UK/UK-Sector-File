@@ -1,4 +1,4 @@
-# Changes from release 2020/09 to 2020/10
+# Changes from release 2020/10 to 2020/11
 X. Enhancement - Changed land mass region colour - thanks to @hsugden (Harry Sugden) and Thomas Greer
 
 # Changes from release 2020/09 to 2020/10
