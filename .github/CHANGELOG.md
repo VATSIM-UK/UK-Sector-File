@@ -1,4 +1,4 @@
-# Changes from release 2020/09 to 2020/10
+# Changes from release 2020/10 to 2020/11
 X. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/08 to 2020/09
