@@ -1,0 +1,1 @@
+COPX:EGGD:*:EXMOR:*:*:GDAPP:London S6:9000:*:^EXMOR
