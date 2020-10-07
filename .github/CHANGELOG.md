@@ -15,6 +15,7 @@
 14. Bug - Fixed (remove climbing arrow) S29 (PC East) -> 5 (AC West) agreement for EGNM/CN outbounds - thanks to @hsugden (Harry Sugden)
 15. Enhancement - Define Bristol Delivery - thanks to @Bucklerz (Reece Buckley)
 16. Enhancement - Added FAVAs to EGPD SMAA - thanks to @SamLefevre (Samuel Lefevre)
+17. Enhancement - Changed land mass region colour - thanks to @hsugden (Harry Sugden) and Thomas Greer
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
