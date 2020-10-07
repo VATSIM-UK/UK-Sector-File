@@ -5,6 +5,7 @@
 4. Bug/Enhancement - Corrected EGPH SMAA and added FAVA - thanks to @cbyworth (Chad Byworth)
 5. Bug - Removed duplicated airport info - thanks to @scottdaniels292 (Scott Daniels)
 6. Enhancement - Added FAVAs to EGPF SMAA - thanks to @1adamf (Adam Farquharson)
+7. Enhancement - Added St Athan (EGSY) SMR - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
