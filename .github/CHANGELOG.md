@@ -31,6 +31,8 @@
 30. AIRAC (2009) - Added G1 and G2 holds to EGLF SMR as well as repositioning A2 - thanks to @Bucklerz (Reece Buckley)
 31. Enhancement - Added EGVA Fairford - thanks to @danielbutton (Daniel Button)
 32. Enhancement - Sector Title Changes to separate titles from levels - thanks to @luketp (Luke Peters)
+33. Enhancement - Add missing ATZs in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
+34. Bug - Changes for various small aerodromes in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
@@ -304,8 +306,9 @@
 7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
 8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
-10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
-11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - EGHC Lands End ATZ Added - thanks to @gdonohoe (Gregg Donohoe)
+11. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+12. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
