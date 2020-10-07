@@ -27,6 +27,7 @@
 26. Enhancement - Create EGFH SMR and Entries  - thanks to @trevorhannant (Trevor Hannant)
 27. Enhancement - Add EGVN Brize Norton SMR - thanks to @scottdaniels292 (Scott Daniels)
 28. Enhancement - Update EGXC Coningsby SMR - thanks to @scottdaniels292 (Scott Daniels)
+29. Enhancement - New Yeovilton (EGDY) SMR and Positions - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
