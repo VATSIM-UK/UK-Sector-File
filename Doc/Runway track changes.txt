@@ -21,7 +21,7 @@ Newquay             EGHQ    1811    Yes                     Yes - need updating 
 Belfast/Aldergrove  EGAA    1813    Yes                     Yes - need updating     No
 Prestwick           EGPK    1904    Yes                     Yes - need updating     No
 Cambridge           EGSC    2008    Yes                     Yes - need updating     No
-London Gatwick      EGKK    2008    Yes                     Yes - need updating     Yes
+London Gatwick      EGKK    2008    Yes                     Yes - need updating     Yes - updated 2009
 Southend            EGMC    2008    Yes                     Yes - need updating     No
 London Heathrow     EGLL    2009    Yes                     Yes - need updating     Yes
 Bournemouth         EGHH    2009    Yes                     Yes - need updating     No
