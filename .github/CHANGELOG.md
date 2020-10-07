@@ -1,5 +1,18 @@
 # Changes from release 2020/10 to 2020/11
-X. Bug - Fixed (remove climbing arrow) S29 (PC East) -> 5 (AC West) agreement for EGNM/CN outbounds - thanks to @hsugden (Harry Sugden)
+1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
+2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
+3. Bug - PHTWR's sector circle now displays for PH FIN - thanks to @GeekPro101 (Thomas Mills)
+4. Bug/Enhancement - Corrected EGPH SMAA and added FAVA - thanks to @cbyworth (Chad Byworth)
+5. Bug - Removed duplicated airport info - thanks to @scottdaniels292 (Scott Daniels)
+6. Enhancement - Added FAVAs to EGPF SMAA - thanks to @1adamf (Adam Farquharson)
+7. Enhancement - Added St Athan (EGSY) SMR - thanks to @danielbutton (Daniel Button)
+8. Enhancement - Create EGPC SMR - thanks to @trevorhannant (Trevor Hannant)
+9. Enhancement - Added various X marking on Gatwick SMR to show unused taxiways - thanks to @Bucklerz (Reece Buckley)
+10. Enhancement - Adjusted swquawk ranges for LL/LC positions - thanks to @TheoBearman (Theo Bearman)
+11. Enhancement - Updated PC East > PC North Agreements - thanks to @robbo599 (Lee Roberts)
+12. Bug - Added SLP Fix (TUFOZ) to BEDEK 1G STAR - thanks to @AleksMax (Aleks Nieszczerzewski)
+13. AIRAC (2010) - Updated Aldergrove City (EGAC) SMR - thanks to @kye-taylor (Kye Taylor)
+14. Bug - Fixed (remove climbing arrow) S29 (PC East) -> 5 (AC West) agreement for EGNM/CN outbounds - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
