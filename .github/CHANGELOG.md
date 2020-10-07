@@ -10,6 +10,7 @@
 9. Enhancement - Added various X marking on Gatwick SMR to show unused taxiways - thanks to @Bucklerz (Reece Buckley)
 10. Enhancement - Adjusted swquawk ranges for LL/LC positions - thanks to @TheoBearman (Theo Bearman)
 11. Enhancement - Updated PC East > PC North Agreements - thanks to @robbo599 (Lee Roberts)
+12. Bug - Added SLP Fix (TUFOZ) to BEDEK 1G STAR - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
