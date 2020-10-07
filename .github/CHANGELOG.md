@@ -1,5 +1,7 @@
 # Changes from release 2020/10 to 2020/11
-X. Bug - PHTWR's sector circle now displays for PH FIN - thanks to @GeekPro101 (Thomas Mills)
+1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
+2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
+3. Bug - PHTWR's sector circle now displays for PH FIN - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
