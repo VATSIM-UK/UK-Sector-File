@@ -19,6 +19,7 @@
 18. Bug - Fixed Sector 29/Isle of Man border over AMPIT - thanks to @hsugden (Harry Sugden)
 19. Enhancement - Added additional Uncontrolled airspace region definition in grey to fit NERC colour scheme - thanks to @hsugden (Harry Sugden)
 20. Enhancement - Added Bristol -> AC West Agreements when Cardiff Radar is offline - thanks to @danielbutton (Daniel Button)
+21. Enhancement - Added Bristol Director functionality - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
