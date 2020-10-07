@@ -32,7 +32,7 @@
 31. Enhancement - Added EGVA Fairford - thanks to @danielbutton (Daniel Button)
 32. Enhancement - Sector Title Changes to separate titles from levels - thanks to @luketp (Luke Peters)
 33. Enhancement - Add missing ATZs in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
-11. Bug - Changes for various small aerodromes in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
+34. Bug - Changes for various small aerodromes in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
