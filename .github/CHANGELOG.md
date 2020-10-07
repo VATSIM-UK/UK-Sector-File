@@ -23,6 +23,7 @@
 22. Enhancement - Updated Thames identifier to TMS (previously THA) and associated ownership changes - thanks to @hsugden (Harry Sugden)
 23. Bug - Improved S23 -> GD Agreements - thanks to @danielbutton (Daniel Button)
 24. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
+25. Bug - Fixed KK inbound via RAPIX Agreement not displaying - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
