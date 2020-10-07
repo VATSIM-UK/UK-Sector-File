@@ -1,4 +1,5 @@
-X. Bug - Fixed KK inbound via RAPIX Agreement not displaying - thanks to @AleksMax (Aleks Nieszczerzewski)
+# Changes from release 2020/10 to 2020/11
+1. Bug - Fixed KK inbound via RAPIX Agreement not displaying - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
