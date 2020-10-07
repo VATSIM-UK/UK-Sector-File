@@ -8,6 +8,7 @@
 7. Enhancement - Added St Athan (EGSY) SMR - thanks to @danielbutton (Daniel Button)
 8. Enhancement - Create EGPC SMR - thanks to @trevorhannant (Trevor Hannant)
 9. Enhancement - Added various X marking on Gatwick SMR to show unused taxiways - thanks to @Bucklerz (Reece Buckley)
+10. Enhancement - Adjusted swquawk ranges for LL/LC positions - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
