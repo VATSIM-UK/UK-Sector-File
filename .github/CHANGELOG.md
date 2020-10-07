@@ -11,6 +11,7 @@
 10. Enhancement - Adjusted swquawk ranges for LL/LC positions - thanks to @TheoBearman (Theo Bearman)
 11. Enhancement - Updated PC East > PC North Agreements - thanks to @robbo599 (Lee Roberts)
 12. Bug - Added SLP Fix (TUFOZ) to BEDEK 1G STAR - thanks to @AleksMax (Aleks Nieszczerzewski)
+13. AIRAC (2010) - Updated Aldergrove City (EGAC) SMR - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
