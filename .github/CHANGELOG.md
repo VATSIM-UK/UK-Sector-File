@@ -1,5 +1,10 @@
 # Changes from release 2020/10 to 2020/11
-x. Enhancement - Added FAVAs to EGPF SMAA - thanks to @1adamf (Adam Farquharson)
+1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
+2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
+3. Bug - PHTWR's sector circle now displays for PH FIN - thanks to @GeekPro101 (Thomas Mills)
+4. Bug/Enhancement - Corrected EGPH SMAA and added FAVA - thanks to @cbyworth (Chad Byworth)
+5. Bug - Removed duplicated airport info - thanks to @scottdaniels292 (Scott Daniels)
+6. Enhancement - Added FAVAs to EGPF SMAA - thanks to @1adamf (Adam Farquharson)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
