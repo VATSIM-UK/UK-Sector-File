@@ -12,6 +12,7 @@
 11. Enhancement - Updated PC East > PC North Agreements - thanks to @robbo599 (Lee Roberts)
 12. Bug - Added SLP Fix (TUFOZ) to BEDEK 1G STAR - thanks to @AleksMax (Aleks Nieszczerzewski)
 13. AIRAC (2010) - Updated Aldergrove City (EGAC) SMR - thanks to @kye-taylor (Kye Taylor)
+14. Bug - Fixed (remove climbing arrow) S29 (PC East) -> 5 (AC West) agreement for EGNM/CN outbounds - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
