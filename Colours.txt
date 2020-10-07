@@ -11,10 +11,11 @@
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
-#define land 1973790
+#define land 8158332
 #define LTMACAS 4915200
 #define motorway 2631720
 #define OCASregion 0
+#define OCASregionGrey 3749687
 #define rangering 4227200
 #define river 4915200
 #define road 6908265
@@ -97,6 +98,8 @@
 #define smrTERunway 4934475
 #define smrTEStand 59107
 #define smrTETaxiway 7106162
+#define smrTFGrass 4487739
+#define smrTFTaxiway 3498623
 #define smrWhite 13494510
 #define smrYellow 65535
 

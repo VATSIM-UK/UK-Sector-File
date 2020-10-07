@@ -1,6 +1,11 @@
+COPX:*:*:TRIPO:EGGD:*:London S13:London AC Dover:*:30000:TRIPO
+COPX:*:*:TRIPO:EGFF:*:London S13:London AC Dover:*:30000:TRIPO
+COPX:*:*:TRIPO:EGSY:*:London S13:London AC Dover:*:30000:TRIPO
+
 COPX:*:*:LAM:EGBB:*:London S13:London AC Dover:*:27000:LAM35
 COPX:*:*:LAM:EGBE:*:London S13:London AC Dover:*:27000:LAM35
 COPX:*:*:LAM:EGNX:*:London S13:London AC Dover:*:27000:LAM35
+
 COPX:*:*:LAM:EGGD:*:London S13:London AC Dover:*:30000:LAM35
 COPX:*:*:LAM:EGFF:*:London S13:London AC Dover:*:30000:LAM35
 COPX:*:*:LAM:EGSY:*:London S13:London AC Dover:*:30000:LAM35
