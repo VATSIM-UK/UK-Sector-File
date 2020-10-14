@@ -1,0 +1,2 @@
+SECTOR:Swanwick Mil QQ:0:66000
+OWNER:QQ:VV
