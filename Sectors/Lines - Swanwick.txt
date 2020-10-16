@@ -1,0 +1,160 @@
+SECTORLINE:Swanwick North West - North
+DISPLAY:Swanwick Mil North West:Swanwick Mil North West:Swanwick Mil North
+DISPLAY:Swanwick Mil North:Swanwick Mil North West:Swanwick Mil North
+COORD:N061.00.00:W001.51.00 ; P1
+COORD:N058.27.32:W003.05.35
+COORD:N057.42.30:W003.20.36
+COORD:N055.57.00:W003.22.31
+COORD:N055.27.40:W002.59.47 ; P2
+
+SECTORLINE:Swanwick North West - West
+DISPLAY:Swanwick Mil North West:Swanwick Mil North West:Swanwick Mil West
+DISPLAY:Swanwick Mil West:Swanwick Mil North West:Swanwick Mil West
+COORD:N055.27.40:W002.59.47 ; P2
+COORD:N055.06.03:W004.14.19
+COORD:N055.02.84:W004.51.30
+COORD:N053.55.00:W005.30.00 ; P3
+
+SECTORLINE:Swanwick North - West
+DISPLAY:Swanwick Mil North:Swanwick Mil North:Swanwick Mil West
+DISPLAY:Swanwick Mil West:Swanwick Mil North:Swanwick Mil West
+COORD:N055.27.40:W002.59.47 ; P2
+COORD:N055.06.02:W001.53.22 ; P15
+
+SECTORLINE:Swanwick North East - North
+DISPLAY:Swanwick Mil North East:Swanwick Mil North East:Swanwick Mil North
+DISPLAY:Swanwick Mil North:Swanwick Mil North East:Swanwick Mil North
+COORD:N055.06.02:W001.53.22 ; P15
+COORD:N055.02.18:W001.41.54 ; P5
+COORD:N055.35.13:E000.50.31
+COORD:N054.51.50:E004.09.12
+COORD:N054.43.40:E004.44.48 ; P4
+
+SECTORLINE:Swanwick North East - East
+DISPLAY:Swanwick Mil North East:Swanwick Mil North East:Swanwick Mil East
+DISPLAY:Swanwick Mil East:Swanwick Mil North East:Swanwick Mil East
+COORD:N053.50.37:E003.56.55 ; P9
+COORD:N053.28.12:E002.42.68
+COORD:N053.38.07:E000.38.07
+COORD:N053.22.08:E000.04.53
+COORD:N053.41.21:W001.02.13
+COORD:N053.43.15:W001.16.26 ; P7
+
+SECTORLINE:Swanwick North East - Central
+DISPLAY:Swanwick Mil North East:Swanwick Mil North East:Swanwick Mil Central
+DISPLAY:Swanwick Mil Central:Swanwick Mil North East:Swanwick Mil Central
+COORD:N053.43.15:W001.16.26 ; P7
+COORD:N054.15.00:W001.48.93
+COORD:N054.15.00:W002.10.02 ; P6
+
+SECTORLINE:Swanwick North East - West
+DISPLAY:Swanwick Mil North East:Swanwick Mil North East:Swanwick Mil West
+DISPLAY:Swanwick Mil West:Swanwick Mil North East:Swanwick Mil West
+COORD:N054.15.00:W002.10.02 ; P6
+COORD:N055.06.02:W001.53.22 ; P15
+
+SECTORLINE:Swanwick South West - West
+DISPLAY:Swanwick Mil South West:Swanwick Mil South West:Swanwick Mil West
+DISPLAY:Swanwick Mil West:Swanwick Mil South West:Swanwick Mil West
+COORD:N051.39.76:W003.24.54 ; P13
+COORD:N051.54.66:W005.03.15
+COORD:N051.51.74:W006.24.65 ; P14
+
+SECTORLINE:Swanwick West - Central
+DISPLAY:Swanwick Mil West:Swanwick Mil West:Swanwick Mil Central
+DISPLAY:Swanwick Mil Central:Swanwick Mil West:Swanwick Mil Central
+COORD:N054.15.00:W002.10.02 ; P6
+COORD:N054.15.00:W003.33.08
+COORD:N053.23.31:W003.24.81
+COORD:N053.12.43:W003.25.60
+COORD:N053.03.79:W003.17.93
+COORD:N051.39.76:W003.24.54 ; P13
+
+SECTORLINE:Swanwick East - Central
+DISPLAY:Swanwick Mil East:Swanwick Mil East:Swanwick Mil Central
+DISPLAY:Swanwick Mil Central:Swanwick Mil East:Swanwick Mil Central
+COORD:N053.43.15:W001.16.26 ; P7
+COORD:N053.18.61:W000.57.41
+COORD:N052.26.43:W000.10.20
+COORD:N052.26.11:E000.27.05 ; P8
+
+SECTORLINE:Swanwick South East - Central
+DISPLAY:Swanwick Mil South East:Swanwick Mil South East:Swanwick Mil Central
+DISPLAY:Swanwick Mil Central:Swanwick Mil South East:Swanwick Mil Central
+COORD:N052.26.11:E000.27.05 ; P8
+COORD:N052.02.46:E000.15.39
+COORD:N051.48.03:W000.38.47
+COORD:N051.16.00:W001.21.00 ; P11
+
+SECTORLINE:Swanwick South East - East
+DISPLAY:Swanwick Mil South East:Swanwick Mil South East:Swanwick Mil East
+DISPLAY:Swanwick Mil East:Swanwick Mil South East:Swanwick Mil East
+COORD:N052.28.32:E002.46.73 ; P10
+COORD:N052.28.70:E002.34.23
+COORD:N052.34.20:E001.54.18
+COORD:N052.25.17:E001.28.27
+COORD:N052.26.11:E000.27.05 ; P8
+
+SECTORLINE:Swanwick South West - Central
+DISPLAY:Swanwick Mil South West:Swanwick Mil South West:Swanwick Mil Central
+DISPLAY:Swanwick Mil Central:Swanwick Mil South West:Swanwick Mil Central
+COORD:N051.39.76:W003.24.54 ; P13
+COORD:N051.27.20:W003.26.73
+COORD:N051.19.58:W001.43.33
+COORD:N051.16.00:W001.21.00 ; P11
+
+SECTORLINE:Swanwick South West - South East
+DISPLAY:Swanwick Mil South West:Swanwick Mil South West:Swanwick Mil South East
+DISPLAY:Swanwick Mil South East:Swanwick Mil South West:Swanwick Mil South East
+COORD:N049.58.00:W002.10.00 ; P12
+COORD:N050.32.00:W001.47.00
+COORD:N050.59.00:W001.28.00
+COORD:N051.01.00:W001.27.00
+COORD:N051.16.00:W001.21.00 ; P11
+
+SECTORLINE:Swanwick South West Outer
+COORD:N049.58.00:W002.10.00 ; P12
+COORD:N048.50.00:W008.00.00
+COORD:N051.00.00:W008.00.00
+COORD:N051.51.74:W006.24.65 ; P14
+
+SECTORLINE:Swanwick North West Outer
+COORD:N053.55.00:W005.30.00 ; P3
+COORD:N054.25.00:W008.10.00
+COORD:N055.20.00:W006.55.00
+COORD:N055.25.00:W007.20.00
+COORD:N055.20.00:W008.15.00
+COORD:N054.45.00:W009.00.00
+COORD:N054.34.00:W010.00.00
+COORD:N061.00.00:W010.00.00
+COORD:N061.00.00:W001.51.00 ; P1
+
+SECTORLINE:Swanwick East Outer
+COORD:N053.50.37:E003.56.55 ; P9
+COORD:N052.28.32:E002.46.73 ; P10
+
+SECTORLINE:Swanwick South East Outer
+COORD:N052.28.32:E002.46.73 ; P10
+COORD:N051.30.00:E002.00.00
+COORD:N051.07.85:E002.00.00
+COORD:N051.00.00:E001.28.00
+COORD:N050.40.00:E001.28.00
+COORD:N050.00.00:W000.15.00
+COORD:N049.58.00:W002.10.00 ; P12
+
+SECTORLINE:Swanwick West Outer
+COORD:N051.51.74:W006.24.65 ; P14
+COORD:N052.20.00:W005.30.00
+COORD:N053.55.00:W005.30.00 ; P3
+
+SECTORLINE:Swanwick North East Outer
+COORD:N054.43.40:E004.44.48 ; P4
+COORD:N053.50.37:E003.56.55 ; P9
+
+SECTORLINE:Swanwick North Outer
+COORD:N054.43.40:E004.44.48 ; P4
+COORD:N055.00.00:E005.00.00
+COORD:N057.00.00:E005.00.00
+COORD:N060.00.00:E000.00.00
+COORD:N061.00.00:E000.00.00
+COORD:N061.00.00:W001.51.00 ; P1
