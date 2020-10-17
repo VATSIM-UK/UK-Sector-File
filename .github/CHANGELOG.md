@@ -1,3 +1,6 @@
+# Changes from release 2020/11 to 2020/12
+1. Enhancement - Military Ownership, Positions and Sectorisation added - thanks to @jackedwards815 (Jack Edwards)
+
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
 2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
