@@ -1,3 +1,5 @@
+X. Enhancement - N601D) CDR1 now selectable - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
 2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
