@@ -1,7 +1,7 @@
 X. Enhancement - P18 between ADN-NATEB (CDR1) now selectable - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/10 to 2020/11
-
+1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
 2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
 3. Bug - PHTWR's sector circle now displays for PH FIN - thanks to @GeekPro101 (Thomas Mills)
 4. Bug/Enhancement - Corrected EGPH SMAA and added FAVA - thanks to @cbyworth (Chad Byworth)
