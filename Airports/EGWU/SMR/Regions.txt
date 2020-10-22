@@ -1,4 +1,3 @@
-
 ;Background
 REGIONNAME Northolt
 smrmilgrass N051.32.55.544 W000.24.39.300
