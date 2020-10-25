@@ -1,5 +1,5 @@
 # Changes from release 2020/11 to 2020/12
-X. Moved ARTCC Low Miscellaneous Lines -> STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. Enhancement - Moved ARTCC Low Miscellaneous Lines -> STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
