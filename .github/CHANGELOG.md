@@ -1,3 +1,6 @@
+# Changes from release 2020/11 to 2020/12
+1. Add Channel Islands to Coastline Geo - thanks to @trevorhannant (Trevor Hannant)
+
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
 2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
