@@ -160,14 +160,14 @@ Daventry CTA                N052.32.53.000 W002.30.11.000 N052.50.46.000 W002.45
 Daventry CTA                N052.50.46.000 W002.45.29.000 N052.53.34.000 W002.45.39.000
 Daventry CTA                N052.53.34.000 W002.45.39.000 N053.00.06.000 W002.45.04.000
 
-;Daventry CTA 20 Class A FL85-FL195
+;Daventry CTA 20 Class A FL85-FL195 - coordinates differ from AIP to ensure lines match up with other airspace
 Daventry CTA                N053.03.14.000 W002.49.35.000 N053.06.26.000 W002.43.49.000
 Daventry CTA                N053.06.26.000 W002.43.49.000 N053.04.43.000 W002.40.01.000
 Daventry CTA                N053.04.43.000 W002.40.01.000 N052.58.58.000 W002.33.14.000 ;Extra Point to align with neighbouring airspace
 Daventry CTA                N052.58.58.000 W002.33.14.000 N052.42.16.000 W002.13.43.000 ;Extra Point to align with neighbouring airspace
 Daventry CTA                N052.42.16.000 W002.13.43.000 N052.18.56.000 W001.47.05.000 ;Extra Point to align with neighbouring airspace
-Daventry CTA                N052.18.56.000 W001.47.05.000 N053.00.06.000 W002.45.04.000 - coordinates differ from AIP to ensure lines match up with other airspace
-Daventry CTA                N053.00.06.000 W002.45.04.000 N053.03.14.000 W002.49.35.000 - coordinates differ from AIP to ensure lines match up with other airspace
+Daventry CTA                N052.18.56.000 W001.47.05.000 N053.00.06.000 W002.45.04.000
+Daventry CTA                N053.00.06.000 W002.45.04.000 N053.03.14.000 W002.49.35.000
 
 ;Daventry CTA 21 Class C FL115-FL155
 Daventry CTA                N052.26.32.000 W000.37.02.000 N052.26.30.000 W000.27.32.000
