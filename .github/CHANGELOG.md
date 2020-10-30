@@ -1,5 +1,5 @@
 # Changes from release 2020/11 to 2020/12
-1. Enhancement - Fixed Inverness (EGPE) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+1. Bug - Fixed Inverness (EGPE) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
