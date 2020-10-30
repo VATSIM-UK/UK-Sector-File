@@ -1,0 +1,1 @@
+FIR_COPX:EHAM:*:LONAM:*:*:EHAA:Humber:30000:*:^LONAM
