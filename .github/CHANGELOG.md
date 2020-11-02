@@ -37,7 +37,6 @@ x. AIRAC (2012) - Update EGMD runway heading - thanks to @ArvidHansson (Arvid Ha
 33. Enhancement - Add missing ATZs in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
 34. Bug - Changes for various small aerodromes in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
 
-
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
