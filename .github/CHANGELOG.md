@@ -1,5 +1,4 @@
 # Changes from release 2020/11 to 2020/12
-x. AIRAC (2012) - Update EGMD runway heading - thanks to @ArvidHansson (Arvid Hansson)
 x. ARIAC (2012) - Updated EGPU runway headings, removed disused runway 17/35 - Thanks to @ArvidHansson (Arvid Hansson)
 
 # Changes from release 2020/10 to 2020/11
