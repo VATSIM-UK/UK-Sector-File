@@ -1,3 +1,6 @@
+# Changes from release 2020/11 to 2020/12
+x. AIRAC (2012) - Update EGMD runway heading - thanks to @ArvidHansson (Arvid Hansson)
+
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
 2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
@@ -33,6 +36,7 @@
 32. Enhancement - Sector Title Changes to separate titles from levels - thanks to @luketp (Luke Peters)
 33. Enhancement - Add missing ATZs in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
 34. Bug - Changes for various small aerodromes in Scotland/Northern Ireland - thanks to @gdonohoe (Gregg Donohoe)
+
 
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
