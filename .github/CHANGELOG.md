@@ -32,6 +32,7 @@
 31. Enhancement - Added Culdrose (EGDR) SMR - thanks to @danielbutton (Daniel Button)
 32. Bug - Fixed Cardiff (EGFF) SMAA - thanks to @danielbutton (Daniel Button)
 33. Enhancement - Added Line Draw version of Bristol Buffer Zone - thanks to @danielbutton (Daniel Button)
+34. Bug - Fixed Jersey (EGJJ) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
