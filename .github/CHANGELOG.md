@@ -1,5 +1,22 @@
 # Changes from release 2020/11 to 2020/12
-1. Bug - Restored functionality to AC West -> GD APP POMAX Agreement - thanks to @danielbutton (Daniel Button)
+1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
+2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - Restore INS VOR - thanks to @trevorhannant (Trevor Hannant)
+4. Procedure Change - Added Talla-Galloway Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. Add Channel Islands to Coastline Geo - thanks to @trevorhannant (Trevor Hannant)
+6. Enhancement - N864 Weekend Airspace Selectable by user - thanks to @luke11brown (Luke Brown)
+7. Enhancement - N601D) CDR1 now selectable - thanks to @luke11brown (Luke Brown)
+8. Enhancement - Added Newcastle (EGNT) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+9. Bug - Added Isle of Man (EGNS) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+10. Bug - Fixed Liverpool (EGGP) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+11. Bug - Remove duplicate lines in Daventry CTA - thanks to @luke11brown (Luke Brown)
+12. Bug - EGSY - Update Basic Info - thanks to @trevorhannant (Trevor Hannant)
+13. Enhancement - P18 between ADN-NATEB (CDR1) now selectable - thanks to @luke11brown (Luke Brown)
+14. Enhancement - Renamed Norway FIR to Polaris FIR (includes updated callsigns) - thanks to @AleksMax (Aleks Nieszczerzewski)
+15. Bug - Fixed Thames airspace line display - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Added the RAMOX Buffer (PC West / DUBN) as a display item under Stars - thanks to @hsugden (Harry Sugden)
+17. Bug - Restored functionality to AC West -> GD APP POMAX Agreement - thanks to @danielbutton (Daniel Button)
+
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
