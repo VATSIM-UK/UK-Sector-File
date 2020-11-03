@@ -1,7 +1,4 @@
 # Changes from release 2020/11 to 2020/12
-x. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector splits - thanks to @robbo599 (Lee Roberts)
-
-# Changes from release 2020/11 to 2020/12
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Restore INS VOR - thanks to @trevorhannant (Trevor Hannant)
@@ -50,7 +47,8 @@ x. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector spl
 46. AIRAC (2011) - Updated EGPT Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
-
+49. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector splits - thanks to @robbo599 (Lee Roberts)
+50. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
@@ -360,8 +358,9 @@ x. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector spl
 7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
 8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
-10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
-11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - EGHC Lands End ATZ Added - thanks to @gdonohoe (Gregg Donohoe)
+11. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+12. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)
