@@ -21,6 +21,7 @@
 20. AIRAC (2011) Updated EGHG Runways headings - thanks to @itsbenny99 (Benjamin Matthews)
 21. Enhancement - Updated Farnborough (EGLF) sector/airspace lines and add RMA - thanks to @cbyworth (Chad Byworth)
 22. Enhancement - Update EGYM Marham to SMR - thanks to @scottdaniels292 (Scott Daniels)
+23. Bug - Conditional Airspace Bases not asterisk'd - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
