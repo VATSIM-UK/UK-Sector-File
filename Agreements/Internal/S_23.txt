@@ -6,7 +6,6 @@ COPX:*:*:CPT:EGFH:*:London AC Worthing:London S23:*:26000:CPT
 COPX:*:*:CPT:EGSY:*:London AC Worthing:London S23:*:26000:CPT
 
 COPX:*:*:CPT:EGGD:*:London AC Worthing:London S23:*:22000:CPT
-COPX:*:*:CPT:EGTG:*:London AC Worthing:London S23:*:22000:CPT
 
 COPX:EGBB:*:KENET:*:*:London AC Worthing:London S23:21000:*:^KENET
 COPX:EGBE:*:KENET:*:*:London AC Worthing:London S23:21000:*:^KENET

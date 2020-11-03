@@ -4,15 +4,18 @@
 #define building 10534048
 #define centrelinecolour 15790135
 #define col_gate 3953980
-#define edge 6589540
+#define coast 32896
+#define Edge 6589540
 #define Filled 6316128
 #define fire 2894694
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
+#define land 8158332
 #define LTMACAS 4915200
 #define motorway 2631720
 #define OCASregion 0
+#define OCASregionGrey 3749687
 #define rangering 4227200
 #define river 4915200
 #define road 6908265
@@ -21,6 +24,7 @@
 #define taxiway3 820613
 #define terminal 2108486
 #define water 9204580
+#define geoDefault 5787205
 
 ;SMR Colours
 #define smrACapron 10526880
@@ -64,10 +68,9 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
-#define smrKKtaxiway 8224000
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
-#define smrMCyellow 52428
+#define smrMCYellow 52428
 #define smrMDapron 8816261
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262
@@ -81,7 +84,7 @@
 #define smrSCORunway 5329233
 #define smrSCOTaxiway 9474192
 #define smrSCOGrass 18944
-#define smrSSwhite 13421772
+#define smrSSWhite 13421772
 #define smrTaxiway 0
 #define smrTaxiwayLine 8313850
 #define smrTEAVGAS 6488184
@@ -95,6 +98,8 @@
 #define smrTERunway 4934475
 #define smrTEStand 59107
 #define smrTETaxiway 7106162
+#define smrTFGrass 4487739
+#define smrTFTaxiway 3498623
 #define smrWhite 13494510
 #define smrYellow 65535
 
@@ -106,3 +111,12 @@
 #define blackBackground 0
 #define blueBackground 3932160
 #define smrGDbackground 328965
+
+;Mil SMR
+#define smrmilgrass 4551749
+#define smrmilboundary 6579300
+#define smrmilRoad 6908265
+#define smrmilapron 11908533
+#define smrmilrunway 4934475
+#define smrmiltaxiway 9474192
+#define smrmilbuilding 9142113

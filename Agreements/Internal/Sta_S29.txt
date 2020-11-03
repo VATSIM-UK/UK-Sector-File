@@ -1,2 +1,0 @@
-COPX:EGBB:*:WHI:*:*:Stafa:Sector 29:19000:*:WHI10
-COPX:EGNX:*:WHI:*:*:Stafa:Sector 29:19000:*:WHI10
