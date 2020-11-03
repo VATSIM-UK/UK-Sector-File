@@ -42,6 +42,7 @@
 41. AIRAC (2012) - Update EGMD runway heading - thanks to @ArvidHansson (Arvid Hansson)
 42. AIRAC (2012) - Removed EGKK Holding Point 'K' - thanks to @AleksMax (Aleks Nieszczerzewski)
 43. ARIAC (2012) - Updated EGPU runway headings, removed disused runway 17/35 - Thanks to @ArvidHansson (Arvid Hansson)
+44. AIRAC (2012) - Updated EGAE Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
