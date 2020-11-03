@@ -39,6 +39,7 @@
 38. Enhancement - Added Bournemouth (EGHH) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 39. Enhancement - Added Southampton (EGHI) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 40. AIRAC (2012) - Removed EGPU (Tiree) Runway 17/35 (Disused) - thanks to @AleksMax (Aleks Nieszczerzewski)
+41. AIRAC (2012) - Update EGMD runway heading - thanks to @ArvidHansson (Arvid Hansson)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
