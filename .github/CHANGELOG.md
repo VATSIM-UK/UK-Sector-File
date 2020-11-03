@@ -1,7 +1,8 @@
 # Changes from release 2020/11 to 2020/12
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
-=======
+3. Bug - Restore INS VOR - thanks to @trevorhannant (Trevor Hannant)
+
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
 2. AIRAC (2010) - Updated EGKB runway 03 Coordinates - thanks to @Bucklerz (Reece Buckley)
