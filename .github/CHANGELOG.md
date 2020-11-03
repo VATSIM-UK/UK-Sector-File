@@ -18,6 +18,7 @@
 17. Bug - Restored functionality to AC West -> GD APP POMAX Agreement - thanks to @danielbutton (Daniel Button)
 18. Procedure Change - Updated PC East (Stafa/Trent) <-> PC West (S29) Midlands inbounds/outbounds agreements - thanks to @hsugden (Harry Sugden)
 19. Bug - Fixed Inverness (EGPE) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+20. AIRAC (2011) Updated EGHG Runways headings - thanks to @itsbenny99 (Benjamin Matthews) 
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
