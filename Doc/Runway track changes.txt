@@ -28,4 +28,4 @@ Bournemouth         EGHH    2009    Yes                     Yes - need updating 
 Leeds               EGNM    2009    Yes                     Yes - need updating     No
 Inverness           EGPE    2009    Yes                     Yes - need updating     No
 Aberdeen            EGPD    2009    Yes                     Yes - need updating     No
-Yeovil/Wesland      EGHG    2011    YES                     Yes - need updating     No 
+Yeovil/Wesland      EGHG    2011    Yes                     Yes - need updating     No 
