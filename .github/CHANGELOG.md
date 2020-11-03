@@ -9,7 +9,9 @@
 8. Enhancement - Added Newcastle (EGNT) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 9. Bug - Added Isle of Man (EGNS) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 10. Bug - Fixed Liverpool (EGGP) SMAA - thanks to @scottdaniels292 (Scott Daniels)
-11. Enhancement - P18 between ADN-NATEB (CDR1) now selectable - thanks to @luke11brown (Luke Brown)
+11. Bug - Remove duplicate lines in Daventry CTA - thanks to @luke11brown (Luke Brown)
+12. Bug - EGSY - Update Basic Info - thanks to @trevorhannant (Trevor Hannant)
+13. Enhancement - P18 between ADN-NATEB (CDR1) now selectable - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
