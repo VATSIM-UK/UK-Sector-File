@@ -1,4 +1,4 @@
-SECTOR:Moray:0:25500
+SECTOR:Moray:0:0
 OWNER:SN:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SN:SE:S
