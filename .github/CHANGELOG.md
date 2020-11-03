@@ -20,6 +20,7 @@
 19. Bug - Fixed Inverness (EGPE) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 20. AIRAC (2011) Updated EGHG Runways headings - thanks to @itsbenny99 (Benjamin Matthews)
 21. Enhancement - Updated Farnborough (EGLF) sector/airspace lines and add RMA - thanks to @cbyworth (Chad Byworth)
+22. Enhancement - Update EGYM Marham to SMR - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
