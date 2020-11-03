@@ -28,6 +28,7 @@
 27. Enhancement - Create EGOS Shawbury SMR - thanks to @scottdaniels292 (Scott Daniels)
 28. Enhancement - Create Leeming SMR - thanks to @scottdaniels292 (Scott Daniels)
 29. Bug - EGCC SMAA updated - thanks to @scottdaniels292 (Scott Daniels)
+30. Enhancement - Added new Northolt (EGWU) SMR - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
