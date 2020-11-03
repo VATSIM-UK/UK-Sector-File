@@ -37,6 +37,7 @@
 36. Bug - Removed Blackpool (EGNH) SMAA - thanks to @AleksMax (Aleks Nieszczerzewski)
 37. Enhancement - Moved ARTCC Low Miscellaneous Lines -> STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
 38. Enhancement - Added Bournemouth (EGHH) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+39. Enhancement - Added Southampton (EGHI) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
