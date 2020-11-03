@@ -1,4 +1,7 @@
 # Changes from release 2020/11 to 2020/12
+x. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector splits - thanks to @robbo599 (Lee Roberts)
+
+# Changes from release 2020/11 to 2020/12
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Restore INS VOR - thanks to @trevorhannant (Trevor Hannant)
@@ -47,7 +50,7 @@
 46. AIRAC (2011) - Updated EGPT Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
-x. Enhancement - Updated Irish agreements IAW new LOA - thanks to @robbo599 (Lee Roberts)
+
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
