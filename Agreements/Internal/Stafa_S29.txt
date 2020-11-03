@@ -1,0 +1,4 @@
+COPX:EGBB:*:NANTI:*:*:Stafa:Sector 29:19000:*:NANTI5
+COPX:EGBE:*:NANTI:*:*:Stafa:Sector 29:19000:*:NANTI5
+
+COPX:EGNX:*:*:VABKA:*:Stafa:Sector 29:19000:*:WHI10
