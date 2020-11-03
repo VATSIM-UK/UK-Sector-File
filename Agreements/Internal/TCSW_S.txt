@@ -1,9 +1,16 @@
 COPX:EGHI:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
 COPX:EGHH:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
-
-COPX:EGLF:*:OCK:*:*:London TC SW:London AC Worthing:21000:*:OCK
+COPX:EGLF:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
+COPX:EGTF:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
+COPX:EGVO:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
+COPX:EGLK:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
+COPX:EGTD:*:OCK:*:*:London TC SW:London AC Worthing:17000:*:OCK
 
 COPX:EGLF:*:OTSID:*:*:London TC SW:London AC Worthing:17000:*:OTSID
+COPX:EGTF:*:OTSID:*:*:London TC SW:London AC Worthing:17000:*:OTSID
+COPX:EGVO:*:OTSID:*:*:London TC SW:London AC Worthing:17000:*:OTSID
+COPX:EGLK:*:OTSID:*:*:London TC SW:London AC Worthing:17000:*:OTSID
+COPX:EGTD:*:OTSID:*:*:London TC SW:London AC Worthing:17000:*:OTSID
 
 COPX:EGLL:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
 COPX:EGKK:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
@@ -17,11 +24,12 @@ COPX:EGHL:*:SAM:*:*:London TC SW:London AC Worthing:15000:*:^SAM
 
 COPX:EGLL:*:EXARO:*:*:London TC SW:London AC Worthing:15000:*:^EXARO
 
-COPX:EGLL:*:MID:*:*:London TC SW:London AC Worthing:17000:*:^MID
+COPX:EGLL:*:*:BENBO:*:London TC SW:London AC Worthing:17000:*:^MID
+COPX:EGLL:*:*:DRAKE:*:London TC SW:London AC Worthing:17000:*:^MID
 
 COPX:EGKK:*:*:BENBO:*:London TC SW:London AC Worthing:17000:*:^BENBO
 COPX:EGKK:*:*:WAFFU:*:London TC SW:London AC Worthing:17000:*:^WAFFU
-COPX:EGKK:*:SFD:*:*:London TC SW:London AC Worthing:17000:*:^SFD 
+COPX:EGKK:*:SFD:*:*:London TC SW:London AC Worthing:17000:*:^SFD
 
 COPX:EGKK:*:BOGNA:*:*:London TC SW:London AC Worthing:17000:*:^BOGNA
 
