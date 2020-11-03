@@ -7,6 +7,8 @@
 6. Enhancement - N864 Weekend Airspace Selectable by user - thanks to @luke11brown (Luke Brown)
 7. Enhancement - N601D) CDR1 now selectable - thanks to @luke11brown (Luke Brown)
 8. Enhancement - Added Newcastle (EGNT) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+9. Bug - Added Isle of Man (EGNS) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
