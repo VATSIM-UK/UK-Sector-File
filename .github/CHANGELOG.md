@@ -38,6 +38,7 @@
 37. Enhancement - Moved ARTCC Low Miscellaneous Lines -> STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
 38. Enhancement - Added Bournemouth (EGHH) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 39. Enhancement - Added Southampton (EGHI) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+40. AIRAC (2012) - Removed EGPU (Tiree) Runway 17/35 (Disused) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
