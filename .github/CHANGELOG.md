@@ -1,4 +1,5 @@
 x. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2020/11 to 2020/12
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -42,11 +43,11 @@ x. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buck
 40. AIRAC (2012) - Removed EGPU (Tiree) Runway 17/35 (Disused) - thanks to @AleksMax (Aleks Nieszczerzewski)
 41. AIRAC (2012) - Update EGMD runway heading - thanks to @ArvidHansson (Arvid Hansson)
 42. AIRAC (2012) - Removed EGKK Holding Point 'K' - thanks to @AleksMax (Aleks Nieszczerzewski)
-43. ARIAC (2012) - Updated EGPU runway headings, removed disused runway 17/35 - Thanks to @ArvidHansson (Arvid Hansson)
+43. AIRAC (2012) - Updated EGPU runway headings, removed disused runway 17/35 - Thanks to @ArvidHansson (Arvid Hansson)
 44. AIRAC (2012) - Updated EGAE Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 45. AIRAC (2012) - Updated EGHC Runway Heading and Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 46. AIRAC (2011) - Updated EGPT Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
-47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
+47. AIRAC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
 49. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 
