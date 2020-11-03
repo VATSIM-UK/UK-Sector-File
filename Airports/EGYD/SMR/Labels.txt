@@ -1,4 +1,4 @@
-;Holding Points
+;Taxiway Names
 "A" N053.01.53.000 W000.29.37.717 standHold
 "A" N053.01.45.988 W000.30.20.505 standHold
 "B" N053.01.56.861 W000.28.47.055 standHold
