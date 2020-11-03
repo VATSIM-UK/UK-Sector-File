@@ -23,6 +23,7 @@
 22. Enhancement - Update EGYM Marham to SMR - thanks to @scottdaniels292 (Scott Daniels)
 23. Bug - Conditional Airspace Bases not asterisk'd - thanks to @luke11brown (Luke Brown)
 24. Enhancement - Valley EGOV SMR added - thanks to @scottdaniels292 (Scott Daniels)
+25. Enhancement - Add Waddington SMR - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
