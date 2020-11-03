@@ -34,4 +34,5 @@ Yeovil/Westland     EGHG    2012    Yes                     Yes - need updating 
 Tiree               EGPU    2012    Yes                     No                      No
 Londonderry         EGAE    2012    Yes                     No                      No
 Lands End           EGHC    2012    Yes                     No                      No
-Perth/Scone         EGPT    2011    Yes                     No                      No
+Perth/Scone         EGPT    2012    Yes                     No                      No
+Enniskillen         EGAB    2012    YES                     No                      No
