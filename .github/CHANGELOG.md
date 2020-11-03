@@ -35,6 +35,7 @@
 34. Bug - Fixed Jersey (EGJJ) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 35. Bug - Updated Contributing Guide to remove references to Core and Slack (Replaced with Discord references) - thanks to @AleksMax (Aleks Nieszczerzewski)
 36. Bug - Removed Blackpool (EGNH) SMAA - thanks to @AleksMax (Aleks Nieszczerzewski)
+37. Enhancement - Moved ARTCC Low Miscellaneous Lines -> STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
