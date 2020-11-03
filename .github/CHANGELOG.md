@@ -2,7 +2,8 @@
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Restore INS VOR - thanks to @trevorhannant (Trevor Hannant)
-4. Add Channel Islands to Coastline Geo - thanks to @trevorhannant (Trevor Hannant)
+4. Procedure Change - Added Talla-Galloway Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. Add Channel Islands to Coastline Geo - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
