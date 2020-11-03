@@ -10,7 +10,7 @@
 9. Bug - Added Isle of Man (EGNS) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 10. Bug - Fixed Liverpool (EGGP) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 11. Bug - Remove duplicate lines in Daventry CTA - thanks to @luke11brown (Luke Brown)
-
+12. Bug - EGSY - Update Basic Info - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
