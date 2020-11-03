@@ -1,4 +1,16 @@
-1. Bug - Remove duplicate lines in Daventry CTA - thanks to @luke11brown (Luke Brown)
+# Changes from release 2020/11 to 2020/12
+1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
+2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - Restore INS VOR - thanks to @trevorhannant (Trevor Hannant)
+4. Procedure Change - Added Talla-Galloway Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. Add Channel Islands to Coastline Geo - thanks to @trevorhannant (Trevor Hannant)
+6. Enhancement - N864 Weekend Airspace Selectable by user - thanks to @luke11brown (Luke Brown)
+7. Enhancement - N601D) CDR1 now selectable - thanks to @luke11brown (Luke Brown)
+8. Enhancement - Added Newcastle (EGNT) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+9. Bug - Added Isle of Man (EGNS) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+10. Bug - Fixed Liverpool (EGGP) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+11. Bug - Remove duplicate lines in Daventry CTA - thanks to @luke11brown (Luke Brown)
+
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
