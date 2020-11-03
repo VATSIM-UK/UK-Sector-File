@@ -13,7 +13,7 @@
 12. Bug - EGSY - Update Basic Info - thanks to @trevorhannant (Trevor Hannant)
 13. Enhancement - P18 between ADN-NATEB (CDR1) now selectable - thanks to @luke11brown (Luke Brown)
 14. Enhancement - Renamed Norway FIR to Polaris FIR (includes updated callsigns) - thanks to @AleksMax (Aleks Nieszczerzewski)
-
+15. Bug - Fixed Thames airspace line display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
