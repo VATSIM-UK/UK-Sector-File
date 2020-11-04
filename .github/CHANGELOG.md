@@ -54,6 +54,7 @@
 53. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
 54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
 55. Enhancement - Optimised Sectorisation for AC West - thanks to @cpawley (Chris Pawley)
+56. AIRAC (2012) - Updated EGTB Positions and Frequencies (ATC -> AGCS) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
