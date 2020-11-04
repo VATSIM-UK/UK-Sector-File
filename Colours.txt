@@ -113,10 +113,10 @@
 #define smrGDbackground 328965
 
 ;Mil SMR
-#define smrmilgrass 4551749
-#define smrmilboundary 6579300
-#define smrmilRoad 6908265
-#define smrmilapron 11908533
-#define smrmilrunway 4934475
-#define smrmiltaxiway 9474192
-#define smrmilbuilding 9142113
+#define smrMilGrass 4551749
+#define smrMilBoundary 6579300
+#define smrMilRoad 6908265
+#define smrMilApron 11908533
+#define smrMilRunway 4934475
+#define smrMilTaxiway 9474192
+#define smrMilBuilding 9142113
