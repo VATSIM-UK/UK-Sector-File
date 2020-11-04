@@ -11,23 +11,13 @@ London Control S10:London Control:128.120:LNE:L:LON-10:CTR:-:-:0301:0377::
 London Control S10:London Control:128.120:LNE:L:LON-11:CTR:-:-:0301:0377::
 London Control:London Control:126.770:LWN:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N051.18.21.496:W004.09.51.334
 ;West
-London Control S5:London Control:133.600:L35:L:LON:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-WU:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-WN:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-W5:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-35:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-WN:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-WW:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-W5:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-W8:CTR:-:-:0301:0377::
-London Control S23:London Control:134.750:L23:L:LON:CTR:-:-::
-London Control S23:London Control:134.750:L23:L:LON-WL:CTR:-:-::
-London Control S23:London Control:134.750:L23:L:LON-WE:CTR:-:-::
-London Control S23:London Control:134.750:L23:L:LON-23:CTR:-:-::
-London Control S9:London Control:132.950:L6:L:LON:CTR:-:-::
-London Control S9:London Control:132.950:L6:L:LON-WS:CTR:-:-::
-London Control S9:London Control:132.950:L6:L:LON-W6:CTR:-:-::
+LON_WR_CTR:London Control:134.750:LWR:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WB_CTR:London Control:133.600:LWB:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WT_CTR:London Control:129.370:LWT:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WP_CTR:London Control:133.220:LWP:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WL_CTR:London Control:132.950:LWL:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WH_CTR:London Control:127.700:LWH:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WX_CTR:London Control:128.820:LWX:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
 ;Central
 LON_CW_CTR:London Control:134.400:LCW:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
 LON_CE_CTR:London Control:127.870:LCE:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581

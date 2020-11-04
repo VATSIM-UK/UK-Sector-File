@@ -52,6 +52,8 @@
 51. Bug - Added Belfast City (EGAC) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 52. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 53. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
+54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
+55. Enhancement - Optimised Sectorisation for AC West - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
