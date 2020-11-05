@@ -1,5 +1,6 @@
-# Changes from release 2020/12 to 2020/13
+# Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
+2. Bug - Corrected missing Region data (Compiler change) - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/11 to 2020/12
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
