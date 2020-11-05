@@ -1,15 +1,15 @@
-FIR_COPX:*:*:NIMAT:EIDW:*:Antrim:DUBN:*:16000:|NIMAT
-FIR_COPX:*:*:NIMAT:EIWT:*:Antrim:DUBN:*:16000:|NIMAT
-FIR_COPX:*:*:NIMAT:EIME:*:Antrim:DUBN:*:16000:|NIMAT
+FIR_COPX:*:*:NIMAT:EIDW:*:Antrim:Dublin North High:*:16000:|NIMAT
+FIR_COPX:*:*:NIMAT:EIWT:*:Antrim:Dublin North High:*:16000:|NIMAT
+FIR_COPX:*:*:NIMAT:EIME:*:Antrim:Dublin North High:*:16000:|NIMAT
 
-FIR_COPX:EGAA:*:NIMAT:*:*:Antrim:DUBN:24000:*:^NIMAT
-FIR_COPX:EGAC:*:NIMAT:*:*:Antrim:DUBN:24000:*:^NIMAT
-FIR_COPX:EGAE:*:NIMAT:*:*:Antrim:DUBN:24000:*:^NIMAT
-FIR_COPX:EGAD:*:NIMAT:*:*:Antrim:DUBN:24000:*:^NIMAT
-FIR_COPX:EGAL:*:NIMAT:*:*:Antrim:DUBN:24000:*:^NIMAT
+FIR_COPX:EGAA:*:NIMAT:*:*:Antrim:Dublin North High:24000:*:^NIMAT
+FIR_COPX:EGAC:*:NIMAT:*:*:Antrim:Dublin North High:24000:*:^NIMAT
+FIR_COPX:EGAE:*:NIMAT:*:*:Antrim:Dublin North High:24000:*:^NIMAT
+FIR_COPX:EGAD:*:NIMAT:*:*:Antrim:Dublin North High:24000:*:^NIMAT
+FIR_COPX:EGAL:*:NIMAT:*:*:Antrim:Dublin North High:24000:*:^NIMAT
 
-FIR_COPX:*:*:BOYNE:EIDW:*:Antrim:DUBN:*:14000:|BOYNE
-FIR_COPX:*:*:BOYNE:EIWT:*:Antrim:DUBN:*:14000:|BOYNE
-FIR_COPX:*:*:BOYNE:EIME:*:Antrim:DUBN:*:14000:|BOYNE
+FIR_COPX:*:*:BOYNE:EIDW:*:Antrim:Dublin North High:*:14000:|BOYNE
+FIR_COPX:*:*:BOYNE:EIWT:*:Antrim:Dublin North High:*:14000:|BOYNE
+FIR_COPX:*:*:BOYNE:EIME:*:Antrim:Dublin North High:*:14000:|BOYNE
 
-FIR_COPX:EGNS:*:BOYNE:*:*:Antrim:DUBN:14000:*:^BOYNE
+FIR_COPX:EGNS:*:BOYNE:*:*:Antrim:Dublin North High:14000:*:^BOYNE
