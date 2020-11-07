@@ -1,3 +1,5 @@
+x. AIRAC (2013) - Added Bristol (EGGD) stand 7N - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2020/11 to 2020/12
 1. Enhancement - Removed Duplicate Coastline Files - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Procedure Change - Added REMSI Buffer - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -45,7 +47,7 @@
 44. AIRAC (2012) - Updated EGAE Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 45. AIRAC (2012) - Updated EGHC Runway Heading and Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 46. AIRAC (2011) - Updated EGPT Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
-47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
+47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
 49. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 
