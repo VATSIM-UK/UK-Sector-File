@@ -1,3 +1,6 @@
+# Changes from release 2020/12 to 2020/13
+x. AIRAC - added new London City and Biggin Hill STARs - thanks to @robbo599 (Lee Roberts)
+
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
 2. Bug - Corrected missing Region data (Compiler change) - thanks to @jackedwards815 (Jack Edwards)
