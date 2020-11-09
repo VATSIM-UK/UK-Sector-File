@@ -1,8 +1,8 @@
 ;Shanwick
-EGGX_FSS:Shanwick Oceanic:131.800:GXO:GXO:EGGX:FSS::
+EGGX_FSS:Shanwick Oceanic:131.800:GXO:GXO:EGGX:FSS:-:-::::::
 
 ;Gander
-CZQX_FSS:Gander Oceanic:131.700:QXO:QXO:CZQX:FSS::
+CZQX_FSS:Gander Oceanic:131.700:QXO:QXO:CZQX:FSS::::::::
 
 ;Amsterdam and Maastricht
 EHAA_W_CTR:Amsterdam Radar:125.750:A:C:EHAA:CTR:AMS:RDR:2700:2777
