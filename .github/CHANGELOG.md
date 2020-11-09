@@ -1,3 +1,5 @@
+X. Bug - Corrected OCAS Region coordinates adjacent to Berry Head CTA2/4 - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
 2. Bug - Corrected missing Region data (Compiler change) - thanks to @jackedwards815 (Jack Edwards)
