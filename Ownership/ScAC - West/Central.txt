@@ -1,4 +1,9 @@
-SECTOR:Central:0:66000
+SECTOR:Central:0:0
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+
+SECTOR:Central (DB-660):0:66000
 OWNER:SC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
