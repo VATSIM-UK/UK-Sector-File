@@ -3,7 +3,7 @@
 2. Bug - Fixed KB TWR online ring displaying erroneously - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - EISN main sector ID serror fixed - thanks to @robbo599 (Lee Roberts)
 4. Bug - Removed Duplicated Aberporth File - thanks to @danielbutton (Daniel Button)
-
+5. Bug - Fixed EISN_N_CTR frequency error - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
