@@ -1,6 +1,8 @@
-# Changes from release 2020/12b to 2020/13
+# Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
-x. Bug - EISN main sector ID serror fixed - thanks to @robbo599 (Lee Roberts)
+2. Bug - Fixed KB TWR online ring displaying erroneously - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - EISN main sector ID serror fixed - thanks to @robbo599 (Lee Roberts)
+
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
