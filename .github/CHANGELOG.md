@@ -1,5 +1,5 @@
 # Changes from release 2020/12c to 2020/13
-X. Bug - Updated 8 -> 23 BB Inbound Agreement Error - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. Bug - Corrected 8 -> 23 BB Inbound Agreement Error - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
