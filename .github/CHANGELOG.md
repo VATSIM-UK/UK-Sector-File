@@ -1,5 +1,4 @@
 # Changes from release 2020/12c to 2020/13
-X. Procedure Change - Changed ScAC South frequency to 129.925 - thanks to @hsugden (Harry Sugden)
 X. Enhancement - Added further splitting options in ScAC East for events - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
