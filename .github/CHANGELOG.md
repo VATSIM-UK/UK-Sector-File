@@ -1,3 +1,5 @@
+X. Bug - Fixed Portsmouth CTA 12 Airspace Base - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
 2. Bug - Fixed KB TWR online ring displaying erroneously - thanks to @AleksMax (Aleks Nieszczerzewski)
