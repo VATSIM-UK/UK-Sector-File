@@ -1,6 +1,0 @@
-FIR_COPX:*:*:RINTI:*:*:LFFF low:London AC Dover:*:*:RINTI
-FIR_COPX:*:*:L15FIR:*:*:LFFF low:London AC Dover:*:*:L15FIR
-FIR_COPX:*:*:BNE:*:*:LFFF low:London AC Dover:*:*:BNE
-FIR_COPX:*:*:ABB:*:*:LFFF low:London AC Dover:*:*:ABB
-
-FIR_COPX:*:*:KESAX:EGKA:*:LFFF low:London AC Dover:*:20000:KESAX
