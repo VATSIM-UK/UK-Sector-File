@@ -2,6 +2,6 @@
 ; *** when observing. This will allow you to use the alternate sector       ***
 ; *** ownership features even when logged in with your observer's callsign. ***
 
-EXAMPLE_OBS::199.998:O:O:EXAMPLE:OBS:-:-:
+EXAMPLE_OBS::199.998:O:O:EXAMPLE:OBS:-:-::
 
 ; *** Edit the line above ***
