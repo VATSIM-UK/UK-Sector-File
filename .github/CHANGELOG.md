@@ -9,7 +9,8 @@
 8. Airac (2013) - EGFE A/G Frequency Change - thanks to @TheoBearman (Theo Bearman)
 9. Procedure Change - Update Scottish West + Deancross frequency - thanks to @itsbenny99 (Benjamin Matthews)
 10. AIRAC (2013) - Added and Updated new East Midlands STARs - thanks to @robbo599 (Lee Roberts)
-X. Procedure Change - Airspace in the Jersey Zone - thanks to @GeekPro101 (Thomas Mills)
+11. Procedure Change - Airspace in the Jersey Zone - thanks to @GeekPro101 (Thomas Mills)
+12. AIRAC (2013) - EGKK STARs Amended - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
