@@ -1,4 +1,3 @@
-
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
 2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
@@ -7,6 +6,7 @@
 5. AIRAC (2013) - Added Bristol (EGGD) stand 7N - thanks to @Bucklerz (Reece Buckley)
 6. AIRAC (2013) - Southend Director Frequency Change - thanks to @TheoBearman (Theo Bearman)
 7. AIRAC (2013) - Changes to fixes - thanks to @TheoBearman (Theo Bearman)
+8. Airac (2013) - EGFE A/G Frequency Change - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
