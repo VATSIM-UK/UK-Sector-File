@@ -1,11 +1,11 @@
-COPX:*:RUGID:*:EGPH:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:RUGID:*:EGPF:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:RUGID:*:EGPK:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:RUGID:*:EGPN:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:RUGID:*:EGPG:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:RUGID:*:EGQL:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGPH:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGPF:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGPK:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGPN:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGPG:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGQL:*:Hebrides:Montrose:*:26000:STN+50
 
-COPX:*:ORSUM:*:EGPK:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:ORSUM:EGPK:*:Hebrides:Montrose:*:26000:STN+50
 
 COPX:STN:*:*:EGPH:*:Hebrides:Montrose:*:26000:STN+50
 COPX:STN:*:*:EGPF:*:Hebrides:Montrose:*:26000:STN+50
