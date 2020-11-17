@@ -1,0 +1,47 @@
+FIR_COPX:*:*:LUGIS:*:*:LFRR Low (245-295):London AC Worthing:*:*:LUGIS
+FIR_COPX:*:*:LUGIS:*:*:LFRR Low (DB-245):London AC Worthing:*:*:LUGIS
+
+FIR_COPX:*:*:KOTEM:EGLF:*:LFRR Low (245-295):London AC Worthing:*:28000:DIKRO
+FIR_COPX:*:*:KOTEM:EGLK:*:LFRR Low (245-295):London AC Worthing:*:28000:DIKRO
+FIR_COPX:*:*:KOTEM:EGTF:*:LFRR Low (245-295):London AC Worthing:*:28000:DIKRO
+FIR_COPX:*:*:KOTEM:EGVO:*:LFRR Low (245-295):London AC Worthing:*:28000:DIKRO
+FIR_COPX:*:*:KOTEM:EGTD:*:LFRR Low (245-295):London AC Worthing:*:28000:DIKRO
+FIR_COPX:*:*:KOTEM:EGHL:*:LFRR Low (245-295):London AC Worthing:*:28000:DIKRO
+
+FIR_COPX:*:*:KOTEM:*:*:LFRR Low (245-295):London AC Worthing:*:*:KOTEM
+FIR_COPX:*:*:KOTEM:*:*:LFRR Low (DB-245):London AC Worthing:*:*:KOTEM
+
+FIR_COPX:*:*:GARMI:EGLF:*:LFRR Low (245-295):London AC Worthing:*:28000:AKIKI
+FIR_COPX:*:*:GARMI:EGLK:*:LFRR Low (245-295):London AC Worthing:*:28000:AKIKI
+FIR_COPX:*:*:GARMI:EGTF:*:LFRR Low (245-295):London AC Worthing:*:28000:AKIKI
+FIR_COPX:*:*:GARMI:EGVO:*:LFRR Low (245-295):London AC Worthing:*:28000:AKIKI
+FIR_COPX:*:*:GARMI:EGTD:*:LFRR Low (245-295):London AC Worthing:*:28000:AKIKI
+FIR_COPX:*:*:GARMI:EGHL:*:LFRR Low (245-295):London AC Worthing:*:28000:AKIKI
+
+FIR_COPX:*:*:GARMI:*:*:LFRR Low (245-295):London AC Worthing:*:*:GARMI
+FIR_COPX:*:*:GARMI:*:*:LFRR Low (245-295):London AC Worthing:*:*:GARMI
+
+FIR_COPX:*:*:ODREP:*:*:LFRR Low (245-295):London AC Worthing:*:*:ODREP
+FIR_COPX:*:*:ODREP:*:*:LFRR Low (DB-245):London AC Worthing:*:*:ODREP
+
+FIR_COPX:*:*:BOLRO:EGLF:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:BOLRO:EGLK:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:BOLRO:EGTF:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:BOLRO:EGVO:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:BOLRO:EGTD:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:BOLRO:EGHL:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+
+FIR_COPX:*:*:BOLRO:*:*:LFRR Low (245-295):London AC Worthing:*:*:BOLRO
+FIR_COPX:*:*:BOLRO:*:*:LFRR Low (DB-245):London AC Worthing:*:*:BOLRO
+
+FIR_COPX:*:*:ORIST:EGLF:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:ORIST:EGLK:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:ORIST:EGTF:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:ORIST:EGVO:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:ORIST:EGTD:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+FIR_COPX:*:*:ORIST:EGHL:*:LFRR Low (245-295):London AC Worthing:*:28000:REVTU
+
+FIR_COPX:*:*:ORIST:EGHI:*:LFRR Low (DB-245):London AC Worthing:*:22000:REVTU
+
+FIR_COPX:*:*:ORIST:*:*:LFRR Low (245-295):London AC Worthing:*:*:ORIST
+FIR_COPX:*:*:ORIST:*:*:LFRR Low (DB-245):London AC Worthing:*:*:ORIST
