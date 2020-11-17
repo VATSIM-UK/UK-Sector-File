@@ -1,5 +1,6 @@
 # Changes from release 2020/12c to 2020/13
-1. Airac (2013) - EGBB STAR Changes - thanks to @TheoBearman (Theo Bearman)
+1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
+2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
