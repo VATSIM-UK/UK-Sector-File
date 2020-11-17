@@ -1,5 +1,5 @@
 # Changes from release 2020/12 to 2020/13
-x. AIRAC - Updated and Added new Heathrow STARs - thanks to @robbo599 (Lee Roberts)
+x. AIRAC - Updated and Added new Heathrow (EGLL) STARs - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
