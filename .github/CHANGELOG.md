@@ -1,3 +1,4 @@
+x. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
 2. Bug - Corrected missing Region data (Compiler change) - thanks to @jackedwards815 (Jack Edwards)
