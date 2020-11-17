@@ -1,3 +1,6 @@
+# Changes from release 2020/12c to 2020/13
+1. Airac (2013) - EGBB STAR Changes - thanks to @TheoBearman (Theo Bearman)
+
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
 2. Bug - Fixed KB TWR online ring displaying erroneously - thanks to @AleksMax (Aleks Nieszczerzewski)
