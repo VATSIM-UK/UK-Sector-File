@@ -2,6 +2,7 @@
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
 2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
 3. AIRAC (2013) - Essex STARs Amended - thanks to @TheoBearman (Theo Bearman)
+4. AIRAC (2013) - EGMC STARs Amended - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
@@ -11,7 +12,6 @@
 5. Bug - Fixed EISN_N_CTR frequency error - thanks to @TheoBearman (Theo Bearman)
 6. Bug - Correct ownership within the Channel Islands - thanks to @itsbenny99 (Benjamin Matthews)
 7. Bug/Procedure Change - Added new French (Paris, Brest and Reims) sectorisation - thanks to @hsugden (Harry Sugden)
-
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
