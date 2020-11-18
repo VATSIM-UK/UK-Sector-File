@@ -12,6 +12,7 @@
 11. Procedure Change - Airspace in the Jersey Zone - thanks to @GeekPro101 (Thomas Mills)
 12. AIRAC (2013) - EGKK STARs Amended - thanks to @robbo599 (Lee Roberts)
 13. AIRAC (2013) - EGLL STARs Amended - thanks to @robbo599 (Lee Roberts)
+14. Enhancement - Military Ownership, Positions and Sectorisation added - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
