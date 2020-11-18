@@ -1,1 +1,1 @@
-COPX:*:*:*:EGPK:*:Antrim:PKPLA:*:8000:COORD
+COPX:*:*:*:EGPK:*:Antrim:PKAPP:*:8000:COORD
