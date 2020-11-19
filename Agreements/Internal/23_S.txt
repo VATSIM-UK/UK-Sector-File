@@ -17,6 +17,6 @@ COPX:EGFF:*:CPT:*:*:London S23:London AC Worthing:23000:*:^CPT
 COPX:EGFH:*:CPT:*:*:London S23:London AC Worthing:23000:*:^CPT
 COPX:EGSY:*:CPT:*:*:London S23:London AC Worthing:23000:*:^CPT
 
-COPX:EGFF:*:GAVGO:*:*:London S23:London AC Worthing:23000:*:GAVGO
-COPX:EGFH:*:GAVGO:*:*:London S23:London AC Worthing:23000:*:GAVGO
-COPX:EGSY:*:GAVGO:*:*:London S23:London AC Worthing:23000:*:GAVGO
+COPX:EGFF:*:GAVGO:*:*:London S23:London AC Worthing:23000:*:^GAVGO
+COPX:EGFH:*:GAVGO:*:*:London S23:London AC Worthing:23000:*:^GAVGO
+COPX:EGSY:*:GAVGO:*:*:London S23:London AC Worthing:23000:*:^GAVGO

@@ -1,7 +1,35 @@
-# Changes from release 2020/12b to 2020/13
-1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
+# Changes from release 2020/12c to 2020/13
+1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
+2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
+3. AIRAC (2013) - Essex STARs Amended - thanks to @TheoBearman (Theo Bearman)
+4. AIRAC (2013) - EGMC STARs Amended - thanks to @robbo599 (Lee Roberts)
+5. AIRAC (2013) - Added Bristol (EGGD) stand 7N - thanks to @Bucklerz (Reece Buckley)
+6. AIRAC (2013) - Southend Director Frequency Change - thanks to @TheoBearman (Theo Bearman)
+7. AIRAC (2013) - Changes to fixes - thanks to @TheoBearman (Theo Bearman)
+8. Airac (2013) - EGFE A/G Frequency Change - thanks to @TheoBearman (Theo Bearman)
+9. Procedure Change - Update Scottish West + Deancross frequency - thanks to @itsbenny99 (Benjamin Matthews)
+10. AIRAC (2013) - Added and Updated new East Midlands STARs - thanks to @robbo599 (Lee Roberts)
+11. Procedure Change - Airspace in the Jersey Zone - thanks to @GeekPro101 (Thomas Mills)
+12. AIRAC (2013) - EGKK STARs Amended - thanks to @robbo599 (Lee Roberts)
+13. AIRAC (2013) - EGLL STARs Amended - thanks to @robbo599 (Lee Roberts)
+14. Enhancement - Military Ownership, Positions and Sectorisation added - thanks to @jackedwards815 (Jack Edwards)
+15. Procedure Change - Updated PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
+16. Enhancement - Portsmouth CTA Conditional Airspace made selectable - thanks to @luke11brown (Luke Brown)
+17. Enhancement - Made NITON CTA 2 Selectable - thanks to @luke11brown (Luke Brown)
+18. Bug - Fixed Portsmouth CTA 12 Airspace Base - thanks to @luke11brown (Luke Brown)
+19. Enhancement - Added further splitting options in ScAC East for events - thanks to @hsugden (Harry Sugden)
+20. Bug - Added 23 -> LS FF/FH/SY Outbound Agreement Missing Arrow - thanks to @AleksMax (Aleks Nieszczerzewski)
+21. Bug - Corrected 8 -> 23 BB Inbound Agreement Error - thanks to @AleksMax (Aleks Nieszczerzewski)
+22. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 
-X. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
+# Changes from release 2020/12b to 2020/12c
+1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
+2. Bug - Fixed KB TWR online ring displaying erroneously - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - EISN main sector ID serror fixed - thanks to @robbo599 (Lee Roberts)
+4. Bug - Removed Duplicated Aberporth File - thanks to @danielbutton (Daniel Button)
+5. Bug - Fixed EISN_N_CTR frequency error - thanks to @TheoBearman (Theo Bearman)
+6. Bug - Correct ownership within the Channel Islands - thanks to @itsbenny99 (Benjamin Matthews)
+7. Bug/Procedure Change - Added new French (Paris, Brest and Reims) sectorisation - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
@@ -54,7 +82,7 @@ X. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks t
 44. AIRAC (2012) - Updated EGAE Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 45. AIRAC (2012) - Updated EGHC Runway Heading and Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 46. AIRAC (2011) - Updated EGPT Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
-47. AIRAC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
+47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
 49. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector splits - thanks to @robbo599 (Lee Roberts)
 50. Bug - Adjust smrmil Colour Names - thanks to @scottdaniels292 (Scott Daniels)
@@ -133,6 +161,7 @@ X. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks t
 29. Enhancement - Add EGOE Ternhill - thanks to @scottdaniels292 (Scott Daniels)
 30. Enhancement - Updated Lands End (EGHC) SMR to new style - thanks to @danielbutton (Daniel Button)
 31. Enhancement - Updated EGHQ positions - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2020/08 to 2020/09
 1. Enhancement - New Coastline detail added - thanks to @scotflieger (Andrew Gransden)
 2. AIRAC (2009) - Updated EGJJ SMR so that J extends beyond J3 - thanks to @Bucklerz (Reece Buckley)
@@ -148,13 +177,14 @@ X. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks t
 12. Bug - Added handoff prediction between Thames and City Director - thanks to @Bucklerz (Reece Buckley) and @kye-taylor (Kye Taylor)
 13. Procedure Change - PC East -> S10 - LIBSO agreement - thanks to @robbo599 (Lee Roberts)
 14. Enhancement - Updated Solent Outboud Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-15. Enhancement - Updated EGTF SMR - thanks to @GeekPro101 (Thomas Mills) and @Bucklers (Reece Buckley) 
+15. Enhancement - Updated EGTF SMR - thanks to @GeekPro101 (Thomas Mills) and @Bucklers (Reece Buckley)
 16. Enhancement - Remade the Bournemouth (EGHH) Extended centerline - thanks to @Bucklerz (Reece Buckley)
 17. AIRAC (2009) - Added G1 and G2 holds to EGLF SMR as well as repositioning A2 - thanks to @Bucklerz (Reece Buckley)
 18. AIRAC(2009) - Removed NY4 hold at Heathrow - thanks to @Bucklerz (Reece Buckley)
 19. Procedure Change - Updated S13 -> LD Severn Group Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Procedure Change - Updated TC SABER->LD SS/GW Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-21Enhancement - Created EGSX SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
+21. Enhancement - Created EGSX SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
+22. AIRAC (2008) LD -> TC SW - Solent/LF/Wessex inbound agreements - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2020/07 to 2020/08
 1. AIRAC (2008) - Updated EGKK Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -371,8 +401,9 @@ X. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks t
 7. Enhancement - Add Northolt SMAA - thanks to @cbyworth (Chad Byworth)
 8. Enhancement - Adding Airport files for EGBP - thanks to @1adamf (Adam Farquharson)
 9. Enhancement - New EGBP SMR - thanks to @RussWragg (Russ Wragg)
-10. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
-11. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - EGHC Lands End ATZ Added - thanks to @gdonohoe (Gregg Donohoe)
+11. AIRAC (2004) - Edinburgh Delivery Added - thanks to @nathaninnes (Nathan Innes)
+12. AIRAC (2004) - EGBK RNAV Approaches Added - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/02 to 2020/03
 1. AIRAC (2003) - Doncaster CTA 13 Added - thanks to @AleksMax (Aleks Nieszczerzewski)

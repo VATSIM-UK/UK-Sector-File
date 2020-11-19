@@ -1,5 +1,3 @@
-; REGIONS GB Landmass (Medium Detail) start
-
 REGIONNAME A-SouthWest 
 land N50.47.16.5984 E000.00.0.0000
 N50.47.16.3998 W000.00.18.0000
@@ -24381,6 +24379,4 @@ N057.57.38.930 W005.30.15.161
 N057.57.38.930 W005.29.51.226
 N057.57.24.151 W005.29.44.997
 
-; end of ScottishIslands
-
-; REGIONS GB Landmass (Medium Detail) end
+; end of Scottish Islands
