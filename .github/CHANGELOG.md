@@ -18,6 +18,7 @@
 17. Enhancement - Made NITON CTA 2 Selectable - thanks to @luke11brown (Luke Brown)
 18. Bug - Fixed Portsmouth CTA 12 Airspace Base - thanks to @luke11brown (Luke Brown)
 19. Enhancement - Added further splitting options in ScAC East for events - thanks to @hsugden (Harry Sugden)
+20. Bug - Added 23 -> LS FF/FH/SY Outbound Agreement Missing Arrow - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
