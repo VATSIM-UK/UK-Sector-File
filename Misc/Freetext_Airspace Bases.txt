@@ -267,7 +267,7 @@ N050.51.00.532:W001.25.13.308:Airspace Bases:5500
 ;Portsmouth CTA 11 FL65-FL195
 N051.08.43.676:W001.28.15.645:Airspace Bases:FL65*
 ;Portsmouth CTA 12 FL65-FL195                    
-N051.17.25.187:W001.15.29.807:Airspace Bases:FL65*
+N051.17.25.187:W001.15.29.807:Airspace Bases:FL65
 ;Portsmouth CTA 13 FL65-FL195                    
 N050.59.02.167:W001.35.15.383:Airspace Bases:FL65*
 ;Portsmouth CTA 15 FL65-FL195                    
