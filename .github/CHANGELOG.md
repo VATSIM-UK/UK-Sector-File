@@ -1,7 +1,4 @@
 # Changes from release 2020/12c to 2020/13
-
-x. Procedure Change - Updated PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
-
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
 2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
 3. AIRAC (2013) - Essex STARs Amended - thanks to @TheoBearman (Theo Bearman)
@@ -16,6 +13,8 @@ x. Procedure Change - Updated PB <-> Moray agreements - thanks to @robbo599 (Lee
 12. AIRAC (2013) - EGKK STARs Amended - thanks to @robbo599 (Lee Roberts)
 13. AIRAC (2013) - EGLL STARs Amended - thanks to @robbo599 (Lee Roberts)
 14. Enhancement - Military Ownership, Positions and Sectorisation added - thanks to @jackedwards815 (Jack Edwards)
+15. Procedure Change - Updated PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
+16. Enhancement - Portsmouth CTA Conditional Airspace made selectable - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
