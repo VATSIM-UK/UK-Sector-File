@@ -20,6 +20,7 @@
 19. Enhancement - Added further splitting options in ScAC East for events - thanks to @hsugden (Harry Sugden)
 20. Bug - Added 23 -> LS FF/FH/SY Outbound Agreement Missing Arrow - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Bug - Corrected 8 -> 23 BB Inbound Agreement Error - thanks to @AleksMax (Aleks Nieszczerzewski)
+22. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
@@ -84,14 +85,13 @@
 47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
 49. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector splits - thanks to @robbo599 (Lee Roberts)
-50. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
+50. Bug - Adjust smrmil Colour Names - thanks to @scottdaniels292 (Scott Daniels)
 51. Bug - Added Belfast City (EGAC) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 52. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 53. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
 54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
 55. Enhancement - Optimised Sectorisation for AC West - thanks to @cpawley (Chris Pawley)
 56. AIRAC (2012) - Updated EGTB Positions and Frequencies (ATC -> AGCS) - thanks to @AleksMax (Aleks Nieszczerzewski)
-57. Bug - Adjust smrmil Colour Names - thanks to @scottdaniels292 (Scott Daniels)
 
 # Changes from release 2020/10 to 2020/11
 1. Enhancement - AARA (Air-to-Air Refueling Areas) added - thanks to @scottdaniels292 (Scott Daniels)
