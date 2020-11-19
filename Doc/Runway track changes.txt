@@ -28,3 +28,11 @@ Bournemouth         EGHH    2009    Yes                     Yes - need updating 
 Leeds               EGNM    2009    Yes                     Yes - need updating     No
 Inverness           EGPE    2009    Yes                     Yes - need updating     No
 Aberdeen            EGPD    2009    Yes                     Yes - need updating     No
+Wycombe             EGTB    2012    Yes                     No                      No
+Lydd                EGMD    2012    Yes                     Yes - need updating     No
+Yeovil/Westland     EGHG    2012    Yes                     Yes - need updating     No 
+Tiree               EGPU    2012    Yes                     No                      No
+Londonderry         EGAE    2012    Yes                     No                      No
+Lands End           EGHC    2012    Yes                     No                      No
+Perth/Scone         EGPT    2012    Yes                     No                      No
+Enniskillen         EGAB    2012    YES                     No                      No

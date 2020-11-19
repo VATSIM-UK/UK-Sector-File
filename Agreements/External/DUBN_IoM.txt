@@ -1,4 +1,4 @@
-FIR_COPX:EIDW:*:BAVUD:*:*:DUBN:Isle of Man:23000:*:^BAVUD
-FIR_COPX:EIDW:*:GINIS:*:*:DUBN:Isle of Man:23000:*:^GINIS
-FIR_COPX:EIDW:*:ABGEP:*:*:DUBN:Isle of Man:23000:*:^ABGEP
-FIR_COPX:EIDW:*:*:*:*:DUBN:Isle of Man:23000:*:^GINIS
+FIR_COPX:EIDW:*:BAVUD:*:*:Dublin North High:Isle of Man:23000:*:^BAVUD
+FIR_COPX:EIDW:*:GINIS:*:*:Dublin North High:Isle of Man:23000:*:^GINIS
+FIR_COPX:EIDW:*:ABGEP:*:*:Dublin North High:Isle of Man:23000:*:^ABGEP
+FIR_COPX:EIDW:*:*:*:*:Dublin North High:Isle of Man:23000:*:^GINIS
