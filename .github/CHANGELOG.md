@@ -31,6 +31,7 @@
 30. Procedure Change - Scottish sector boundaries updated in the area where Westcoast meets Galloway - thanks to @hsugden (Harry Sugden)
 31. Procedure Change - Amended agreements from Scottish to EGPF for inbounds via FOYLE/LOMON - thanks to @hsugden (Harry Sugden)
 32. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
+33. Enhancement - Added EHAA high -> Humber agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
