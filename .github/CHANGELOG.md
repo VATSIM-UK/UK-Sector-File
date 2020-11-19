@@ -15,6 +15,7 @@
 14. Enhancement - Military Ownership, Positions and Sectorisation added - thanks to @jackedwards815 (Jack Edwards)
 15. Procedure Change - Updated PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
 16. Enhancement - Portsmouth CTA Conditional Airspace made selectable - thanks to @luke11brown (Luke Brown)
+17. Enhancement - Made NITON CTA 2 Selectable - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
