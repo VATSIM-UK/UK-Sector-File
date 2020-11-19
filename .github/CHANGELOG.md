@@ -25,7 +25,12 @@
 24. Procedure Change - PC Bandbox frequency changed to 133.875 - thanks to @hsugden (Harry Sugden)
 25. Procedure Change - Updated splitting functionality for MPC sectors - thanks to @hsugden (Harry Sugden)
 26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills)
-x. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
+27. Procedure Change - Updated Stafa -> S29 Midlands outbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+28. Procedure Change - Updated S29 -> 7 EGNT NV outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
+29. Procedure Change - Updated S29 -> 7 Severn Group & TE outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
+30. Procedure Change - Scottish sector boundaries updated in the area where Westcoast meets Galloway - thanks to @hsugden (Harry Sugden)
+31. Procedure Change - Amended agreements from Scottish to EGPF for inbounds via FOYLE/LOMON - thanks to @hsugden (Harry Sugden)
+32. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
