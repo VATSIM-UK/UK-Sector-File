@@ -24,6 +24,7 @@
 23. Bug - Corrected OCAS Region coordinates adjacent to Berry Head CTA2/4 - thanks to @luke11brown (Luke Brown)
 24. Procedure Change - PC Bandbox frequency changed to 133.875 - thanks to @hsugden (Harry Sugden)
 25. Procedure Change - Updated splitting functionality for MPC sectors - thanks to @hsugden (Harry Sugden)
+26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
