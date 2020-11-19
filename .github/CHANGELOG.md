@@ -1,6 +1,6 @@
 # Changes from release 2020/12b to 2020/13
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
-X. Enhancement - Added Humber <-> EHAA high agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. Enhancement - Added EHAA high -> Humber agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
