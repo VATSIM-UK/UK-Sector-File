@@ -1,0 +1,7 @@
+FIR_COPX:*:*:MIMVA:*:*:London S10:EDYY Delta:*:*:MIMVA
+FIR_COPX:*:*:KOLAG:*:*:London S10:EDYY Delta:*:*:KOLAG
+FIR_COPX:*:*:RAVLO:*:*:London S10:EDYY Delta:*:*:RAVLO
+FIR_COPX:*:*:MOLIX:*:*:London S10:EDYY Delta:*:*:MOLIX
+
+FIR_COPX:*:*:LAMSO:*:*:London S10:EDYY Delta:*:*:LAMSO
+FIR_COPX:*:*:NAVPI:*:*:London S10:EDYY Delta:*:*:NAVPI
