@@ -1,5 +1,6 @@
 ;Available London FIR (London/Scottish ACC/TCC) frequencies
 ;North
+London Control S4:London Control:132.870:LNU:L:LON:CTR:-:-:0301:0377:N053.28.53.949:W003.04.30.713
 London Control S7:London Control:135.570:LNW:L:LON:CTR:-:-:0301:0377::
 London Control S7:London Control:135.570:LNW:L:LON-NW:CTR:-:-:0301:0377::
 London Control S7:London Control:135.570:LNW:L:LON-NU:CTR:-:-:0301:0377::
