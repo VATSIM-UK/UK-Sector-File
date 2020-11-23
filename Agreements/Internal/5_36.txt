@@ -1,0 +1,6 @@
+COPX:EGCC:*:LAMAT:*:*:London S5:London S36:31000:*:^LAMAT
+COPX:EGCD:*:LAMAT:*:*:London S5:London S36:31000:*:^LAMAT
+COPX:EGGP:*:LAMAT:*:*:London S5:London S36:31000:*:^LAMAT
+COPX:EGNH:*:LAMAT:*:*:London S5:London S36:31000:*:^LAMAT
+COPX:EGNO:*:LAMAT:*:*:London S5:London S36:31000:*:^LAMAT
+COPX:EGNR:*:LAMAT:*:*:London S5:London S36:31000:*:^LAMAT
