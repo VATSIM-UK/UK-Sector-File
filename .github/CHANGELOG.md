@@ -1,6 +1,4 @@
 # Changes from release 2020/12c to 2020/13
-x. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
-
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
 2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
 3. AIRAC (2013) - Essex STARs Amended - thanks to @TheoBearman (Theo Bearman)
@@ -35,6 +33,8 @@ x. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Robe
 32. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
 33. Enhancement - Added EHAA high -> Humber agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 34. Procedure Change - Amended Shannon East Frequency - thanks to @TheoBearman (Theo Bearman)
+35. Bug - Improved EBBU/EDYY_K Sectorisation and line display thanks to @luke11brown (Luke Brown)
+36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
