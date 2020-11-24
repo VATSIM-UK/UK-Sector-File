@@ -11,23 +11,13 @@ London Control S10:London Control:128.120:LNE:L:LON-10:CTR:-:-:0301:0377::
 London Control S10:London Control:128.120:LNE:L:LON-11:CTR:-:-:0301:0377::
 London Control:London Control:126.770:LWN:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N051.18.21.496:W004.09.51.334
 ;West
-London Control S5:London Control:133.600:L35:L:LON:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-WU:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-WN:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-W5:CTR:-:-:0301:0377::
-London Control S5:London Control:133.600:L35:L:LON-35:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-WN:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-WW:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-W5:CTR:-:-:0301:0377::
-London Control S8:London Control:129.370:L5:L:LON-W8:CTR:-:-:0301:0377::
-London Control S23:London Control:134.750:L23:L:LON:CTR:-:-::
-London Control S23:London Control:134.750:L23:L:LON-WL:CTR:-:-::
-London Control S23:London Control:134.750:L23:L:LON-WE:CTR:-:-::
-London Control S23:London Control:134.750:L23:L:LON-23:CTR:-:-::
-London Control S9:London Control:132.950:L6:L:LON:CTR:-:-::
-London Control S9:London Control:132.950:L6:L:LON-WS:CTR:-:-::
-London Control S9:London Control:132.950:L6:L:LON-W6:CTR:-:-::
+LON_WR_CTR:London Control:134.750:LWR:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WB_CTR:London Control:133.600:LWB:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WT_CTR:London Control:129.370:LWT:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WP_CTR:London Control:133.220:LWP:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WL_CTR:London Control:132.950:LWL:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WH_CTR:London Control:127.700:LWH:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
+LON_WX_CTR:London Control:128.820:LWX:L:LON:CTR:-:-:0301:0377:N051.37.36.130:W003.28.16.642
 ;Central
 LON_CW_CTR:London Control:134.400:LCW:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
 LON_CE_CTR:London Control:127.870:LCE:L:LON:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
@@ -60,18 +50,19 @@ London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051
 London Control:London Control:135.800:TCC:L:LTC:CTR:-:-:: ;TC Bandbox
 London Control:London Control:127.950:TCV:L:LTC:CTR:-:-::
 ;Prestwick W2 LAG (MAN)
-North:Scottish Control:128.670:PCN:M:MAN:CTR:-:-:0501:0577:N053.49.11.974:W002.18.59.167
+Penil:Scottish Control:126.870:PCP:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
+NorthEast:Scottish Control:135.700:PCNE:M:MAN:CTR:-:-:0501:0577:N053.49.11.974:W002.18.59.167
 Isle of Man:Scottish Control:133.050:IOM:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
-Sector 29:Scottish Control:133.200:S29:M:MAN:CTR:-:-:0501:0577:N053.31.33.436:W002.32.36.984
-SE Trent:Scottish Control:119.520:PCT:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
-SE Stafa:Scottish Control:134.420:PCS:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
+Sector 29:Scottish Control:118.770:S29:M:MAN:CTR:-:-:0501:0577:N053.31.33.436:W002.32.36.984
+SE Trent:Scottish Control:119.520:TNT:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
+SE Stafa:Scottish Control:134.420:PCSE:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
 Wallasey:Scottish Control:125.950:WAL:M:MAN:CTR:-:-:0501:0577:N053.23.30.998:W003.08.03.998
 ;Scottish
 SCO_N_CTR:Scottish Control:129.220:SN:W:SCO:CTR:-:-:3601:3632:N059.02.05.447:W002.55.24.968
 SCO_S_CTR:Scottish Control:134.770:SS:W:SCO:CTR:-:-:3601:3632:N055.17.24.521:E000.32.49.087
 SCO_C_CTR:Scottish Control:127.270:SC:W:SCO:CTR:-:-:3601:3632:N057.05.05.587:W007.19.49.513
+SCO_H_CTR:Scottish Control:129.920:SH:W:SCO:CTR:-:-:3601:3632:N055.22.49.001:E001.57.21.828
 Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose:Scottish Control:129.920:SEW:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Rathlin E:Scottish Control:125.670:SRE:W:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
 ;London Info
