@@ -35,6 +35,7 @@
 34. Procedure Change - Amended Shannon East Frequency - thanks to @TheoBearman (Theo Bearman)
 35. Bug - Improved EBBU/EDYY_K Sectorisation and line display thanks to @luke11brown (Luke Brown)
 36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
+37. Bug - Added EMPAS fix to EGGD RNP09 - thanks to @compunutter (George Complin)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
