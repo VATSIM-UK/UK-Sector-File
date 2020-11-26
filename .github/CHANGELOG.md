@@ -1,3 +1,5 @@
+x. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
 2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
@@ -103,7 +105,7 @@
 51. Bug - Added Belfast City (EGAC) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 52. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 53. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
-54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
+54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 55. Enhancement - Optimised Sectorisation for AC West - thanks to @cpawley (Chris Pawley)
 56. AIRAC (2012) - Updated EGTB Positions and Frequencies (ATC -> AGCS) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
