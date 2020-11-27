@@ -36,6 +36,7 @@
 35. Bug - Improved EBBU/EDYY_K Sectorisation and line display thanks to @luke11brown (Luke Brown)
 36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
 X. Enhancement - Added Maastricht Radar Delta & Jever sector split ownership - thanks to @hsugden (Harry Sugden)
+X. Procedure Change - Removed EBAW from Humber <-> Amsterdam ACC agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
