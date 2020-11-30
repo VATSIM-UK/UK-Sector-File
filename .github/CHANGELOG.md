@@ -54,6 +54,7 @@
 53. Procedure Change - Added Edinburgh-Glasgow 3NM Buffer Zone - thanks to @itsbenny99 (Benjamin Matthews)
 54. Bug - Fixed JJ Ownership to reflect the new West splits - thanks to @hsugden (Harry Sugden)
 55. AIRAC (2013) - New London City (EGLC) VRPs - thanks to @cbyworth (Chad Byworth)
+56. AIRAC (2013) - New Heathrow (EGLL) VRPs - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
