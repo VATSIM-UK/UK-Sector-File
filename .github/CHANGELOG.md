@@ -32,7 +32,13 @@
 31. Procedure Change - Amended agreements from Scottish to EGPF for inbounds via FOYLE/LOMON - thanks to @hsugden (Harry Sugden)
 32. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
 33. Enhancement - Added EHAA high -> Humber agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
-X. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - thanks to @hsugden (Harry Sugden)
+34. Procedure Change - Amended Shannon East Frequency - thanks to @TheoBearman (Theo Bearman)
+35. Bug - Improved EBBU/EDYY_K Sectorisation and line display thanks to @luke11brown (Luke Brown)
+36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
+37. Bug - Correct Military ownership levels and vis points - thanks to @jackedwards815 (Jack Edwards)
+38. Bug - Fixed missing holding point at Thruxton (EGHO) - thanks to @Bucklerz (Reece Buckley)
+39. Procedure Change - Added BB APP -> Sector 23 BB outbound (via MOSUN/N92) agreement - thanks to @hsugden (Harry Sugden)
+40. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
@@ -101,7 +107,7 @@ X. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - th
 51. Bug - Added Belfast City (EGAC) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 52. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 53. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
-54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews) 
+54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 55. Enhancement - Optimised Sectorisation for AC West - thanks to @cpawley (Chris Pawley)
 56. AIRAC (2012) - Updated EGTB Positions and Frequencies (ATC -> AGCS) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
