@@ -1,0 +1,10 @@
+*Ascot:N051.25.00.570:W000.39.33.070 ;Coordinates differ from the AIP for display clarity
+*Bagshot:N051.20.45.000:W000.42.30.000 ;Coordinates differ from the AIP for display clarity
+*Brent Reservoir:N051.34.01.070:W000.15.21.930
+*Byfleet Bridge:N051.20.23.470:W000.29.06.690
+*Burnham:N051.31.25.450:W000.40.37.870 ;Coordinates differ from the AIP for display clarity
+*Grim's Tower:N051.37.22.450:W000.21.23.570
+*M25 J13:N051.26.39.890:W000.31.45.820
+*M3 J3:N051.21.21.060:W000.40.50.400
+*M40 J2:N051.35.39.700:W000.37.39.120
+*Wembley:N051.33.21.850:W000.16.46.420
