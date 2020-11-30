@@ -24,7 +24,7 @@
 23. Bug - Corrected OCAS Region coordinates adjacent to Berry Head CTA2/4 - thanks to @luke11brown (Luke Brown)
 24. Procedure Change - PC Bandbox frequency changed to 133.875 - thanks to @hsugden (Harry Sugden)
 25. Procedure Change - Updated splitting functionality for MPC sectors - thanks to @hsugden (Harry Sugden)
-26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills)
+26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills) and @hsugden (Harry Sugden)
 27. Procedure Change - Updated Stafa -> S29 Midlands outbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 28. Procedure Change - Updated S29 -> 7 EGNT NV outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 29. Procedure Change - Updated S29 -> 7 Severn Group & TE outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -37,7 +37,12 @@
 36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
 37. Bug - Correct Military ownership levels and vis points - thanks to @jackedwards815 (Jack Edwards)
 38. Bug - Fixed missing holding point at Thruxton (EGHO) - thanks to @Bucklerz (Reece Buckley)
-39. Bug - Fixed EGPE posioning order to allow for ownership to work - thanks to @TheoBearman (Theo Bearman)
+39. Procedure Change - Added BB APP -> Sector 23 BB outbound (via MOSUN/N92) agreement - thanks to @hsugden (Harry Sugden)
+40. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - thanks to @hsugden (Harry Sugden)
+41. Enhancement - Updated Birmingham (EGBB) Approach airspace and sector ownership - thanks to @hsugden (Harry Sugden)
+42. Procedure Change - Added Rathlin -> PC IOM COPX level capping - thanks to @AleksMax (Aleks Nieszczerzewski)
+43. Enhancement - Reformat of Cardiff Outbound Agreements - thanks to @danielbutton (Daniel Button)
+44. Bug - Fixed EGPE posioning order to allow for ownership to work - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
