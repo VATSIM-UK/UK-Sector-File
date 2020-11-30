@@ -51,7 +51,15 @@
 50. Procedure Change - Removed EBAW from Humber <-> Amsterdam ACC agreements - thanks to @hsugden (Harry Sugden)
 51. Bug - Added EMPAS fix to EGGD RNP09 - thanks to @compunutter (George Complin)
 52. Procedure Change - Removed Humber -> East agreement via ROVNI for MTMA/Midlands inbounds - thanks to @hsugden (Harry Sugden)
-X. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden (Harry Sugden)
+53. Procedure Change - Added Edinburgh-Glasgow 3NM Buffer Zone - thanks to @itsbenny99 (Benjamin Matthews)
+54. Bug - Fixed JJ Ownership to reflect the new West splits - thanks to @hsugden (Harry Sugden)
+55. AIRAC (2013) - New London City (EGLC) VRPs - thanks to @cbyworth (Chad Byworth)
+56. AIRAC (2013) - New Heathrow (EGLL) VRPs - thanks to @cbyworth (Chad Byworth)
+57. AIRAC (2013) - London Helicopter Route Update - thanks to @cbyworth (Chad Byworth)
+58. Procedure Change - Updated S10 -> East Agreement - thanks to @jamest00 (James Thomas)
+59. Enhancement - Added AC North (Sector 4) Splitting functionality - thanks to @hsugden (Harry Sugden)
+60. Enhancement - TC Mids now covers TC NW top-down - thanks to @khardern (Kieran Hardern) and @hsugden (Harry Sugden)
+61. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
