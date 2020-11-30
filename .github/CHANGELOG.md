@@ -24,7 +24,7 @@
 23. Bug - Corrected OCAS Region coordinates adjacent to Berry Head CTA2/4 - thanks to @luke11brown (Luke Brown)
 24. Procedure Change - PC Bandbox frequency changed to 133.875 - thanks to @hsugden (Harry Sugden)
 25. Procedure Change - Updated splitting functionality for MPC sectors - thanks to @hsugden (Harry Sugden)
-26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills)
+26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills) and @hsugden (Harry Sugden)
 27. Procedure Change - Updated Stafa -> S29 Midlands outbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 28. Procedure Change - Updated S29 -> 7 EGNT NV outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 29. Procedure Change - Updated S29 -> 7 Severn Group & TE outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
