@@ -52,6 +52,7 @@
 51. Bug - Added EMPAS fix to EGGD RNP09 - thanks to @compunutter (George Complin)
 52. Procedure Change - Removed Humber -> East agreement via ROVNI for MTMA/Midlands inbounds - thanks to @hsugden (Harry Sugden)
 53. Procedure Change - Added Edinburgh-Glasgow 3NM Buffer Zone - thanks to @itsbenny99 (Benjamin Matthews)
+54. Bug - Fixed JJ Ownership to reflect the new West splits - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
