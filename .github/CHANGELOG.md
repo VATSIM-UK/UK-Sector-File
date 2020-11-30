@@ -51,6 +51,7 @@
 50. Procedure Change - Removed EBAW from Humber <-> Amsterdam ACC agreements - thanks to @hsugden (Harry Sugden)
 51. Bug - Added EMPAS fix to EGGD RNP09 - thanks to @compunutter (George Complin)
 52. Procedure Change - Removed Humber -> East agreement via ROVNI for MTMA/Midlands inbounds - thanks to @hsugden (Harry Sugden)
+X. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
