@@ -59,6 +59,7 @@
 58. Procedure Change - Updated S10 -> East Agreement - thanks to @jamest00 (James Thomas)
 59. Enhancement - Added AC North (Sector 4) Splitting functionality - thanks to @hsugden (Harry Sugden)
 60. Enhancement - TC Mids now covers TC NW top-down - thanks to @khardern (Kieran Hardern) and @hsugden (Harry Sugden)
+61. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
