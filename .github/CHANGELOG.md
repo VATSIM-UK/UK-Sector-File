@@ -40,6 +40,7 @@
 39. Procedure Change - Added BB APP -> Sector 23 BB outbound (via MOSUN/N92) agreement - thanks to @hsugden (Harry Sugden)
 40. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - thanks to @hsugden (Harry Sugden)
 41. Enhancement - Updated Birmingham (EGBB) Approach airspace and sector ownership - thanks to @hsugden (Harry Sugden)
+42. Procedure Change - Added Rathlin -> PC IOM COPX level capping - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
