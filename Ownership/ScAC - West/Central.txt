@@ -1,5 +1,21 @@
-SECTOR:Central:0:66000
+SECTOR:Central:0:0
 OWNER:SC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
-BORDER:Wes-Cen_EGGX:Cen_EISN:Cen_RatW:Cen_DCS-S:Cen_DCS-N:Cen_Mon:Cen_Heb
+
+SECTOR:Central (DB-660):0:66000
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+
+SECTOR:Central 1 (DB-660):0:66000
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+BORDER:Cen_EGGX:Cen_EISN:Cen_RatW:Cen_DCS-N:Cen_Mon:Cen_Heb
+
+SECTOR:Central 2 (DB-255):0:25500
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+BORDER:Cen_DCS-N:WCoast-Mon_WCoast-Cen:WCoast-Cen_Gal:WCoast-Cen_WCoast-RatW
