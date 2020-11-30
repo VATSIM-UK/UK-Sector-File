@@ -53,6 +53,7 @@
 52. Procedure Change - Removed Humber -> East agreement via ROVNI for MTMA/Midlands inbounds - thanks to @hsugden (Harry Sugden)
 53. Procedure Change - Added Edinburgh-Glasgow 3NM Buffer Zone - thanks to @itsbenny99 (Benjamin Matthews)
 54. Bug - Fixed JJ Ownership to reflect the new West splits - thanks to @hsugden (Harry Sugden)
+55. AIRAC (2013) - New London City (EGLC) VRPs - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
@@ -62,7 +63,6 @@
 5. Bug - Fixed EISN_N_CTR frequency error - thanks to @TheoBearman (Theo Bearman)
 6. Bug - Correct ownership within the Channel Islands - thanks to @itsbenny99 (Benjamin Matthews)
 7. Bug/Procedure Change - Added new French (Paris, Brest and Reims) sectorisation - thanks to @hsugden (Harry Sugden)
-
 
 # Changes from release 2020/12 to 2020/12b
 1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
