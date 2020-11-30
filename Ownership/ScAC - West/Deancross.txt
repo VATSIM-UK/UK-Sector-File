@@ -19,10 +19,10 @@ SECTOR:Deancross North (255-660):25500:66000
 OWNER:SD:SWD:SS:S
 ALTOWNER:Observing Scottish FIR:O:SM:SD:SWD:SS:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SD:SWD:SS:S
-BORDER:Cen_DCS-N:Mon_Wes-Cen 1:Mon_DCS-N Area E1 Inner:Mon_Gal:Mon_DCS-N Area E2a Inner:Mon_DCS-N Area E2b Inner:DCS-N_DCS-S Split
+BORDER:RatW_DCS-N:Cen_DCS-N:Mon_WCoast 1:Mon_DCS-N Area E1 Inner:Mon_Gal:Mon_DCS-N Area E2a Inner:Mon_DCS-N Area E2b Inner:DCS-N_DCS-S Split
 
 SECTOR:Deancross South (255-660):25500:66000
 OWNER:SD:SWD:SS:S
 ALTOWNER:Observing Scottish FIR:O:SM:SD:SWD:SS:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SD:SWD:SS:S
-BORDER:Cen_DCS-S:DCS-S_RatW:DCS-S_RatE:SWLN4:DCS-S 285-660 Inner 1:DCS-S 285-660 Inner 2:DCS-S_Mon Tri B:DCS-S 285_Mon Area C:DCS-S_Mon:Mon_DCS-S Area E2 Inner:DCS-N_DCS-S Split
+BORDER:DCS-S_RatW:DCS-S_RatE:SWLN4:DCS-S 285-660 Inner 1:DCS-S 285-660 Inner 2:DCS-S_Mon Tri B:DCS-S 285_Mon Area C:DCS-S_Mon:Mon_DCS-S Area E2 Inner:DCS-N_DCS-S Split
