@@ -61,6 +61,7 @@
 60. Enhancement - TC Mids now covers TC NW top-down - thanks to @khardern (Kieran Hardern) and @hsugden (Harry Sugden)
 61. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden (Harry Sugden)
 62. Bug - Fixed TC NE top-down ownership by TC SABER - thanks to @hsugden (Harry Sugden)
+63. Bug - Removed unused sectors from JJ - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
