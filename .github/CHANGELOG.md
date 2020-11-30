@@ -44,6 +44,7 @@
 43. Enhancement - Reformat of Cardiff Outbound Agreements - thanks to @danielbutton (Daniel Button)
 44. Bug - Fixed EGPE positioning order to allow for ownership to work - thanks to @TheoBearman (Theo Bearman)
 45. Bug - Added runways for Boscombe Down (EGDM) - thanks to @danielbutton (Daniel Button)
+46. Procedure Change - Added COPX level capping for flights via DCS, Deancross -> London S3 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
