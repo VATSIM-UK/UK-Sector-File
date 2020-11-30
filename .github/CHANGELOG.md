@@ -47,6 +47,8 @@
 46. Procedure Change - Added COPX level capping for flights via DCS, Deancross -> London S3 - thanks to @hsugden (Harry Sugden)
 47. Procedure Change - Further updates to French sectorisation, including removal of France Control (LFUP) - thanks to @hsugden (Harry Sugden)
 48. Bug - Added PEMAK Triangle ownership for London Sector 9 DB-FL245 - thanks to @hsugden (Harry Sugden)
+49. Enhancement - Added Maastricht Radar Delta & Jever sector split ownership - thanks to @hsugden (Harry Sugden)
+50. Procedure Change - Removed EBAW from Humber <-> Amsterdam ACC agreements - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
