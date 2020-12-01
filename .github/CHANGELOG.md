@@ -1,4 +1,6 @@
 # Changes from release 2020/12c to 2020/13
+x. Bug - Added Hawarden (EGNR) Ownership - thanks to @robbo599 (Lee Roberts)
+
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
 2. AIRAC (2013) - EGLC/EGKB STARs Amended - thanks to @robbo599 (Lee Roberts)
 3. AIRAC (2013) - Essex STARs Amended - thanks to @TheoBearman (Theo Bearman)
