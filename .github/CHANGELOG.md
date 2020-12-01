@@ -1,4 +1,3 @@
-x. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
@@ -8,7 +7,7 @@ x. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Buckler
 5. AIRAC (2013) - Added Bristol (EGGD) stand 7N - thanks to @Bucklerz (Reece Buckley)
 6. AIRAC (2013) - Southend Director Frequency Change - thanks to @TheoBearman (Theo Bearman)
 7. AIRAC (2013) - Changes to fixes - thanks to @TheoBearman (Theo Bearman)
-8. Airac (2013) - EGFE A/G Frequency Change - thanks to @TheoBearman (Theo Bearman)
+8. AIRAC (2013) - EGFE A/G Frequency Change - thanks to @TheoBearman (Theo Bearman)
 9. Procedure Change - Update Scottish West + Deancross frequency - thanks to @itsbenny99 (Benjamin Matthews)
 10. AIRAC (2013) - Added and Updated new East Midlands STARs - thanks to @robbo599 (Lee Roberts)
 11. Procedure Change - Airspace in the Jersey Zone - thanks to @GeekPro101 (Thomas Mills)
@@ -37,6 +36,7 @@ x. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Buckler
 34. Procedure Change - Amended Shannon East Frequency - thanks to @TheoBearman (Theo Bearman)
 35. Bug - Improved EBBU/EDYY_K Sectorisation and line display thanks to @luke11brown (Luke Brown)
 36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
+37. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Bucklerz (Reece Buckley) and @GeekPro101 (Thomas Mills)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
@@ -98,14 +98,14 @@ x. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Buckler
 44. AIRAC (2012) - Updated EGAE Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
 45. AIRAC (2012) - Updated EGHC Runway Heading and Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 46. AIRAC (2011) - Updated EGPT Runway Heading - thanks to @AleksMax (Aleks Nieszczerzewski)
-47. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
+47. AIRAC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 48. Enhancement - Update Cranwell to SMR - thanks to @scottdaniels292 (Scott Daniels)
 49. Enhancement - Updated Irish agreements and sectors IAW new LOA and sector splits - thanks to @robbo599 (Lee Roberts)
 50. Bug - Adjust smrmil Colour Names - thanks to @scottdaniels292 (Scott Daniels)
 51. Bug - Added Belfast City (EGAC) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 52. Bug - Fixed Belfast Aldergrove (EGAA) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 53. AIRAC (2012) - Changed EGMD Stand numbering - thanks to @Bucklerz (Reece Buckley)
-54. AIRC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
+54. AIRAC (2012) - Updated EGAB runway headings - thanks to @itsbenny99 (Benjamin Matthews)
 55. Enhancement - Optimised Sectorisation for AC West - thanks to @cpawley (Chris Pawley)
 56. AIRAC (2012) - Updated EGTB Positions and Frequencies (ATC -> AGCS) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
