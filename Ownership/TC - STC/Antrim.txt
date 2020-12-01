@@ -9,4 +9,4 @@ OWNER:STA:SRE:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:STA:SRE:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:STA:SRE:SR:SW:SWD:S
 ALTOWNER:Observing STC_A_CTR:O:SM:STA:SRE:SR:SW:SWD:S
-BORDER:Ant_Wes-Rat:Ant_EIDW:MWSA2:MWSA1:Gal_Ant:Wes-Cen_Ant:Wes-Rat_Ant
+BORDER:Ant_WCoast-Rat:Ant_EIDW:MWSA2:MWSA1:Gal_Ant:WCoast-RatW_Ant:WCoast-Rat_Ant

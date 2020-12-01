@@ -1,5 +1,6 @@
 ;Available London FIR (London/Scottish ACC/TCC) frequencies
 ;North
+London Control S4:London Control:132.870:LNU:L:LON:CTR:-:-:0301:0377:N053.28.53.949:W003.04.30.713
 London Control S7:London Control:135.570:LNW:L:LON:CTR:-:-:0301:0377::
 London Control S7:London Control:135.570:LNW:L:LON-NW:CTR:-:-:0301:0377::
 London Control S7:London Control:135.570:LNW:L:LON-NU:CTR:-:-:0301:0377::
@@ -32,9 +33,9 @@ London Control S19:London Control:135.050:LWS:L:LON:CTR:-:-:0301:0377:N051.18.21
 London Control S16:London Control:136.600:L16:L:LON:CTR:-:-:0301:0377::
 London Control S17:London Control:128.420:L:L:LON:CTR:-:-:0301:0377:N051.32.26.870:W002.43.29.830
 ;TC Midlands
-LTC_M_CTR:London Control:121.020:TCM:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
-LTC_MW_CTR:London Control:130.920:WELIN:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
-LTC_MC_CTR:London Control:133.070:COWLY:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LTC_C_CTR:London Control:121.020:TCM:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LTC_CW_CTR:London Control:130.920:WELIN:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
+LTC_CO_CTR:London Control:133.070:COWLY:L:LTC:CTR:-:-:0301:0377:N052.07.30.663:W000.03.23.581
 London Control:London Control:128.470:TCW:L:LTC:CTR:-:-::
 ;TC North
 TC Lorel:London Control:129.270:LOREL:L:LTC:CTR:-:-:0301:0377:N052.01.45.029:E000.06.46.622
@@ -50,18 +51,19 @@ London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051
 London Control:London Control:135.800:TCC:L:LTC:CTR:-:-:: ;TC Bandbox
 London Control:London Control:127.950:TCV:L:LTC:CTR:-:-::
 ;Prestwick W2 LAG (MAN)
-North:Scottish Control:128.670:PCN:M:MAN:CTR:-:-:0501:0577:N053.49.11.974:W002.18.59.167
+Penil:Scottish Control:126.870:PCP:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
+NorthEast:Scottish Control:135.700:PCNE:M:MAN:CTR:-:-:0501:0577:N053.49.11.974:W002.18.59.167
 Isle of Man:Scottish Control:133.050:IOM:M:MAN:CTR:-:-:0501:0577:N053.28.48.603:W003.58.46.843
-Sector 29:Scottish Control:133.200:S29:M:MAN:CTR:-:-:0501:0577:N053.31.33.436:W002.32.36.984
-SE Trent:Scottish Control:119.520:PCT:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
-SE Stafa:Scottish Control:134.420:PCS:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
+Sector 29:Scottish Control:118.770:S29:M:MAN:CTR:-:-:0501:0577:N053.31.33.436:W002.32.36.984
+SE Trent:Scottish Control:119.520:TNT:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
+SE Stafa:Scottish Control:134.420:PCSE:M:MAN:CTR:-:-:0501:0577:N052.54.06.268:W001.52.38.334
 Wallasey:Scottish Control:125.950:WAL:M:MAN:CTR:-:-:0501:0577:N053.23.30.998:W003.08.03.998
 ;Scottish
 SCO_N_CTR:Scottish Control:129.220:SN:W:SCO:CTR:-:-:3601:3632:N059.02.05.447:W002.55.24.968
 SCO_S_CTR:Scottish Control:134.770:SS:W:SCO:CTR:-:-:3601:3632:N055.17.24.521:E000.32.49.087
 SCO_C_CTR:Scottish Control:127.270:SC:W:SCO:CTR:-:-:3601:3632:N057.05.05.587:W007.19.49.513
+SCO_H_CTR:Scottish Control:129.920:SH:W:SCO:CTR:-:-:3601:3632:N055.22.49.001:E001.57.21.828
 Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose:Scottish Control:129.920:SEW:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Rathlin E:Scottish Control:125.670:SRE:W:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
 ;London Info
