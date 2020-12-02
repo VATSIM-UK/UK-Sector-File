@@ -65,6 +65,7 @@
 63. Bug - Removed unused sectors from JJ - thanks to @GeekPro101 (Thomas Mills)
 64. Procedure Change - Added Scottish TMA local areas and Glasgow Designated Area - thanks to @AleksMax (Aleks Nieszczerzewski)
 65. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Bucklerz (Reece Buckley) and @GeekPro101 (Thomas Mills)
+66. Enhancement - Added EGNM airspace delegation lines - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2020/12b to 2020/12c
 1. Enhancement/Bug - Various fixes prior to the introduction of the new compiler - thanks to @AndyTWF (Andy Ford)
