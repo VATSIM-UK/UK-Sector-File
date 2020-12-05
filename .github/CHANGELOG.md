@@ -34,7 +34,7 @@
 32. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
 33. Enhancement - Added EHAA high -> Humber agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 34. Procedure Change - Amended Shannon East Frequency - thanks to @TheoBearman (Theo Bearman)
-35. Bug - Improved EBBU/EDYY_K Sectorisation and line display thanks to @luke11brown (Luke Brown)
+35. Bug - Improved EBBU/EDYY_K Sectorisation and line display - thanks to @luke11brown (Luke Brown)
 36. Bug - Updated S14 -> TC Saber Agreement error - thanks to @robbo599 (Lee Roberts)
 37. Bug - Correct Military ownership levels and vis points - thanks to @jackedwards815 (Jack Edwards)
 38. Bug - Fixed missing holding point at Thruxton (EGHO) - thanks to @Bucklerz (Reece Buckley)
