@@ -35,4 +35,5 @@ Tiree               EGPU    2012    Yes                     No                  
 Londonderry         EGAE    2012    Yes                     No                      No
 Lands End           EGHC    2012    Yes                     No                      No
 Perth/Scone         EGPT    2012    Yes                     No                      No
-Enniskillen         EGAB    2012    YES                     No                      No
+Enniskillen         EGAB    2012    Yes                     No                      No
+London Stansted     EGSS    2014    Yes                     Yes - need updating     Yes
