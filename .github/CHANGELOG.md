@@ -1,3 +1,5 @@
+# Changes from release 2020/13 to 2020/14
+X. AIRAC (2014) - Updated EGPO (Stornoway) Runway and NDB Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
