@@ -1,3 +1,5 @@
+# Changes from release 2020/13 to 2020/14
+X. Enhancement - Added EGBB/EGNX Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
