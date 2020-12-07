@@ -19,7 +19,7 @@
                 "type": "files",
                 "files": [
                     "Basic.txt"
-                ],
+                ]
             },
             "centrelines": {
                 "type": "files",
