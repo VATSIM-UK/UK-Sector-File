@@ -181,6 +181,10 @@
             },
             {
                 "type": "folder",
+                "folder": "Ownership/Swanwick Mil"
+            },
+            {
+                "type": "folder",
                 "folder": "Ownership/Alternate",
                 "recursive": true
             },
