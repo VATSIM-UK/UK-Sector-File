@@ -21,13 +21,6 @@
                     "Basic.txt"
                 ]
             },
-            "centrelines": {
-                "type": "files",
-                "files": [
-                    "Centreline.txt"
-                ],
-                "ignore_missing": true
-            },
             "fixes": {
                 "type": "files",
                 "files": [
@@ -122,21 +115,24 @@
                     "files": [
                         "Ground Map/Geo.txt"
                     ],
-                    "ignore_missing": true
+                    "ignore_missing": true,
+                    "except_where_exists": "SMR/Geo.txt"
                 },
                 "regions": {
                     "type": "files",
                     "files": [
                         "Ground Map/Regions.txt"
                     ],
-                    "ignore_missing": true
+                    "ignore_missing": true,
+                    "except_where_exists": "SMR/Regions.txt"
                 },
                 "labels": {
                     "type": "files",
                     "files": [
                         "Ground Map/Labels.txt"
                     ],
-                    "ignore_missing": true
+                    "ignore_missing": true,
+                    "except_where_exists": "SMR/Labels.txt"
                 }
             }
         }
@@ -313,7 +309,7 @@
             {
                 "type": "files",
                 "files": [
-                    "Misc/STAR_Altimeter Setting Regions.txt",
+                    "Misc/STAR_ASR.txt",
                     "Misc/STAR_CPT Gate.txt",
                     "Misc/STAR_EXMOR Burnham Line.txt",
                     "Misc/STAR_HON Gate.txt",
@@ -329,7 +325,8 @@
             "type": "files",
             "files": [
                 "Misc/Geo_City Transition Tracks.txt",
-                "Misc/Geo_Coastline Low Detail.txt",
+                "Misc/Geo_GB_Coastline Medium Detail.txt",
+                "Misc/Geo_Coastline High Detail.txt",
                 "Misc/Geo_Merseyside Coastline.txt",
                 "Misc/Geo_Motorways.txt",
                 "Misc/Geo_MSA.txt",
@@ -340,7 +337,6 @@
             "type": "files",
             "files": [
                 "Misc/Regions_LTMA Airfield CAS.txt",
-                "Misc/Regions_Park Air MAN.txt",
                 "Misc/Regions_Severn Buffers.txt",
                 "Misc/Regions_Uncontrolled airspace.txt"
             ]
