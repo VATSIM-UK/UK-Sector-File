@@ -134,6 +134,13 @@
                     "ignore_missing": true,
                     "except_where_exists": "SMR/Labels.txt"
                 }
+            },
+            "vrps": {
+                "type": "files",
+                "files": [
+                    "VRPs.txt"
+                ],
+                "ignore_missing": true
             }
         }
     },
