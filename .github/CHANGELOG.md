@@ -2,6 +2,7 @@
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated EGHE Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Enhancement - Added EGBB/EGNX Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. Bug - Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
