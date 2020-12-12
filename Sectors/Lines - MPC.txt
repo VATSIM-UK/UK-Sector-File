@@ -55,8 +55,8 @@ COORD:N053.23.53.000:W005.30.00.000
 COORD:N053.22.40.000:W004.51.46.000
 
 SECTORLINE:MW1
-DISPLAY:Isle of Man:Isle of Man:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:Isle of Man
+DISPLAY:Isle of Man:Isle of Man:Rathlin
+DISPLAY:Rathlin:Rathlin:Isle of Man
 COORD:N053.47.35.000:W004.49.37.000
 COORD:N053.46.58.500:W004.30.25.000
 
@@ -68,12 +68,12 @@ COORD:N053.54.19.000:W004.21.50.000
 COORD:N053.54.20.000:W004.07.37.000
 
 SECTORLINE:MW3
-DISPLAY:Isle of Man:Isle of Man:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:Isle of Man
-DISPLAY:London S4:London S4:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:London S4
-DISPLAY:London S7:London S7:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:London S7
+DISPLAY:Isle of Man:Isle of Man:Rathlin
+DISPLAY:Rathlin:Rathlin:Isle of Man
+DISPLAY:London S4:London S4:Rathlin
+DISPLAY:Rathlin:Rathlin:London S4
+DISPLAY:London S7:London S7:Rathlin
+DISPLAY:Rathlin:Rathlin:London S7
 COORD:N053.54.20.000:W004.07.37.000
 COORD:N053.41.49.000:W003.36.49.000
 COORD:N053.41.25.000:W003.27.34.000

@@ -239,8 +239,8 @@ COORD:N055.34.19.000:W005.41.33.000
 COORD:N055.09.48.000:W005.04.41.000
 
 SECTORLINE:DCS-S_RatE
-DISPLAY:Deancross:Deancross:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:Deancross
+DISPLAY:Deancross:Deancross:Rathlin
+DISPLAY:Rathlin:Rathlin:Deancross
 COORD:N055.09.48.000:W005.04.41.000
 COORD:N055.05.40.000:W004.58.34.000
 COORD:N054.20.24.000:W003.33.58.000
@@ -334,28 +334,28 @@ COORD:N054.03.16.000:W006.12.12.000
 COORD:N054.25.00.000:W008.10.00.000
 
 SECTORLINE:RatW_RatE
-DISPLAY:Rathlin:Rathlin:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:Rathlin
+DISPLAY:Rathlin:Rathlin:Rathlin
+DISPLAY:Rathlin:Rathlin:Rathlin
 COORD:N055.09.48.000:W005.04.41.000
 COORD:N054.55.48.000:W005.16.49.810
 COORD:N054.38.58.000:W005.42.23.400
 COORD:N054.03.16.000:W006.12.12.000
 
 SECTORLINE:Rat-E_EISN 1
-DISPLAY:Rathlin East:Rathlin East:Shannon East
+DISPLAY:Rathlin:Rathlin:Shannon East
 COORD:N054.03.16.000:W006.12.12.000
 COORD:N053.55.00.000:W005.30.00.000
 
 SECTORLINE:Rat-E_EISN 2
-DISPLAY:Rathlin East:Rathlin East:Shannon East
+DISPLAY:Rathlin:Rathlin:Shannon East
 COORD:N053.55.00.000:W005.30.00.000
 COORD:N053.48.17.000:W005.30.00.000
 
 SECTORLINE:SWLN1
-DISPLAY:Rathlin East:Rathlin East:London S4
-DISPLAY:Rathlin East:Rathlin East:London S7
-DISPLAY:London S4:London S4:Rathlin East
-DISPLAY:London S7:London S7:Rathlin East
+DISPLAY:Rathlin:Rathlin:London S4
+DISPLAY:Rathlin:Rathlin:London S7
+DISPLAY:London S4:London S4:Rathlin
+DISPLAY:London S7:London S7:Rathlin
 COORD:N053.48.17.000:W005.30.00.000
 COORD:N053.46.17.000:W004.31.12.000
 COORD:N053.54.19.000:W004.21.51.000
@@ -364,28 +364,28 @@ COORD:N053.41.49.000:W003.36.49.000
 COORD:N053.41.25.000:W003.27.34.000
 
 SECTORLINE:SWLN2
-DISPLAY:Sector 29:Sector 29:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:Sector 29
-DISPLAY:London S3:London S3:Rathlin East
-DISPLAY:Rathlin East:Rathlin East:London S3
-DISPLAY:Rathlin East:Rathlin East:London S4
-DISPLAY:London S4:London S4:Rathlin East
+DISPLAY:Sector 29:Sector 29:Rathlin
+DISPLAY:Rathlin:Rathlin:Sector 29
+DISPLAY:London S3:London S3:Rathlin
+DISPLAY:Rathlin:Rathlin:London S3
+DISPLAY:Rathlin:Rathlin:London S4
+DISPLAY:London S4:London S4:Rathlin
 DISPLAY:Isle of Man:Sector 29:Sector 29
 DISPLAY:Sector 29:Isle of Man:Isle of Man
 COORD:N054.15.00.000:W003.33.05.000
 COORD:N053.41.25.000:W003.27.34.000
 
 SECTORLINE:SWLN3
-DISPLAY:Deancross:Deancross:Rathlin East
+DISPLAY:Deancross:Deancross:Rathlin
 DISPLAY:Deancross:Deancross:London S3
 DISPLAY:Deancross:Deancross:London S4
-DISPLAY:Rathlin East:Rathlin East:Deancross
-DISPLAY:Rathlin East:Rathlin East:London S3
-DISPLAY:Rathlin East:Rathlin East:London S4
+DISPLAY:Rathlin:Rathlin:Deancross
+DISPLAY:Rathlin:Rathlin:London S3
+DISPLAY:Rathlin:Rathlin:London S4
 DISPLAY:London S3:London S3:Deancross
-DISPLAY:London S3:London S3:Rathlin East
+DISPLAY:London S3:London S3:Rathlin
 DISPLAY:London S4:London S4:Deancross
-DISPLAY:London S4:London S4:Rathlin East
+DISPLAY:London S4:London S4:Rathlin
 COORD:N054.20.24.000:W003.33.58.000
 COORD:N054.15.00.000:W003.33.05.000
 
@@ -758,17 +758,17 @@ COORD:N055.09.48.000:W005.04.41.000
 
 SECTORLINE:WCoast-Rat_Ant
 DISPLAY:Antrim:Antrim:Rathlin
-DISPLAY:Antrim:Antrim:Rathlin East
+DISPLAY:Antrim:Antrim:Rathlin
 DISPLAY:Rathlin:Rathlin:Antrim
-DISPLAY:Rathlin East:Rathlin East:Antrim
+DISPLAY:Rathlin:Rathlin:Antrim
 COORD:N055.09.48.000:W005.04.41.000
 COORD:N055.07.49.000:W005.06.23.000
 
 SECTORLINE:Ant_WCoast-Rat
 DISPLAY:Antrim:Antrim:Rathlin
-DISPLAY:Antrim:Antrim:Rathlin East
+DISPLAY:Antrim:Antrim:Rathlin
 DISPLAY:Rathlin:Rathlin:Antrim
-DISPLAY:Rathlin East:Rathlin East:Antrim
+DISPLAY:Rathlin:Rathlin:Antrim
 COORD:N055.07.49.000:W005.06.23.000
 COORD:N054.57.15.000:W005.15.30.000
 COORD:N054.54.17.000:W005.29.59.000
