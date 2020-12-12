@@ -186,7 +186,10 @@
             },
             {
                 "type": "folder",
-                "folder": "Ownership/Non-UK"
+                "folder": "Ownership/Non-UK",
+                "exclude": [
+                    "EUR Islands.txt"
+                ]
             }
         ],
         "positions": {
