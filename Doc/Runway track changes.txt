@@ -37,3 +37,4 @@ Lands End           EGHC    2012    Yes                     No                  
 Perth/Scone         EGPT    2012    Yes                     No                      No
 Enniskillen         EGAB    2012    YES                     No                      No
 Stornoway           EGPO    2014    Yes                     No                      No
+Lands End           EGHC    2014    Yes                     No                      No
