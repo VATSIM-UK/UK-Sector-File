@@ -5,6 +5,7 @@
 4. Bug - Corrected Gatwick (EGKK) Stands - thanks to @WillShaw1100 (William Shaw)
 5. AIRAC (2014) - Updated Stornoway (EGPO) Runway and NDB Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. AIRAC (2014) - Blackpool (EGNH) Runway Headings Amended - thanks to @WillShaw1100 (William Shaw)
+7. Enhancement - Added Channel Islands Landmass Region - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
