@@ -7,7 +7,7 @@
 6. AIRAC (2014) - Blackpool (EGNH) Runway Headings Amended - thanks to @WillShaw1100 (William Shaw)
 7. Enhancement - Added Channel Islands Landmass Region - thanks to @PLM1995 (Peter Mooney)
 8. AIRAC (2014) - Updated EGSS Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
-
+x. Bug - Fixed Culdrose (EGDR) and Lands End (EGHC) GEO being excluded from build - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
