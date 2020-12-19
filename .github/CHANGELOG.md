@@ -6,8 +6,9 @@
 5. AIRAC (2014) - Updated Stornoway (EGPO) Runway and NDB Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. AIRAC (2014) - Blackpool (EGNH) Runway Headings Amended - thanks to @WillShaw1100 (William Shaw)
 7. Enhancement - Added Channel Islands Landmass Region - thanks to @PLM1995 (Peter Mooney)
-8. AIRAC (2014) - Updated EGSS Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. AIRAC (2014) - Updated Stansted (EGSS) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. Enhancement - Added Thames-Southend Radar Buffer - thanks to @cbyworth (Chad Byworth)
+10. Enhancement - Added Jersey (EGJJ) Approach AoR Static Boundaries - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
