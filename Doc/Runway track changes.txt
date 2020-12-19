@@ -33,8 +33,9 @@ Lydd                EGMD    2012    Yes                     Yes - need updating 
 Yeovil/Westland     EGHG    2012    Yes                     Yes - need updating     No 
 Tiree               EGPU    2012    Yes                     No                      No
 Londonderry         EGAE    2012    Yes                     No                      No
-Lands End           EGHC    2012    Yes                     No                      No
 Perth/Scone         EGPT    2012    Yes                     No                      No
-Enniskillen         EGAB    2012    YES                     No                      No
+Enniskillen         EGAB    2012    Yes                     No                      No
 Stornoway           EGPO    2014    Yes                     No                      No
+Blackpool           EGNH    2014    Yes                     Yes                     No
 Lands End           EGHC    2014    Yes                     No                      No
+London Stansted     EGSS    2014    Yes                     Yes                     Yes
