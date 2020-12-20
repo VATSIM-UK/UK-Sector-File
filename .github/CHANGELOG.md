@@ -1,5 +1,18 @@
 # Changes from release 2020/13 to 2020/14
-X. Bug - Fixed Warton + Blackpool Sector Display Error - thanks to @AleksMax (Aleks Nieszczerzewski)
+1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
+2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Enhancement - Added EGBB/EGNX Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. Bug - Corrected Gatwick (EGKK) Stands - thanks to @WillShaw1100 (William Shaw)
+5. AIRAC (2014) - Updated Stornoway (EGPO) Runway and NDB Data - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. AIRAC (2014) - Blackpool (EGNH) Runway Headings Amended - thanks to @WillShaw1100 (William Shaw)
+7. Enhancement - Added Channel Islands Landmass Region - thanks to @PLM1995 (Peter Mooney)
+8. AIRAC (2014) - Updated Stansted (EGSS) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. Enhancement - Added Thames-Southend Radar Buffer - thanks to @cbyworth (Chad Byworth)
+10. Enhancement - Added Jersey (EGJJ) Approach AoR Static Boundaries - thanks to @danielbutton (Daniel Button)
+11. Bug - N57(A) Not Marked As Conditional - thanks to @chssn (Chris Parkinson)
+12. Procedure Change - Updated Guernsey (EGJB) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
+13. Bug - Corrected Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
+14. Bug - Fixed Warton + Blackpool Sector Display Error - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
