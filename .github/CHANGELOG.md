@@ -3,7 +3,7 @@
 2. AIRAC (2014) - Updated EGHE Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Enhancement - Added EGBB/EGNX Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
 4. Bug - Corrected Gatwick (EGKK) Stands - thanks to @WillShaw1100 (William Shaw)
-Procedure Change - Fixes #3261 - Amended EGJB Positions
+5. Procedure Change - Fixes #3261 - Amended EGJB Positions @chssn (Chris Parkinson)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
