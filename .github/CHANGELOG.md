@@ -9,6 +9,7 @@
 8. AIRAC (2014) - Updated Stansted (EGSS) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. Enhancement - Added Thames-Southend Radar Buffer - thanks to @cbyworth (Chad Byworth)
 10. Enhancement - Added Jersey (EGJJ) Approach AoR Static Boundaries - thanks to @danielbutton (Daniel Button)
+11. Bug - N57(A) Not Marked As Conditional - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
