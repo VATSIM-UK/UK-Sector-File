@@ -11,7 +11,8 @@
 10. Enhancement - Added Jersey (EGJJ) Approach AoR Static Boundaries - thanks to @danielbutton (Daniel Button)
 11. Bug - N57(A) Not Marked As Conditional - thanks to @chssn (Chris Parkinson)
 12. Procedure Change - Updated Guernsey (EGJB) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
-13. Bug - Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
+13. Bug - Corrected Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
+14. Bug - Fixed Warton + Blackpool Sector Display Error - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
