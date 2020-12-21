@@ -1,4 +1,3 @@
-x. Documentation - Added real-world SMR reference images - thanks to @PLM1995 (Peter Mooney)
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -16,6 +15,7 @@ x. Documentation - Added real-world SMR reference images - thanks to @PLM1995 (P
 14. Bug - Fixed Warton + Blackpool Sector Display Error - thanks to @AleksMax (Aleks Nieszczerzewski)
 15. Enhancement - Updated positioning of the Midlands Radar Gate - thanks to @hsugden (Harry Sugden)
 16. Bug - Fixed Culdrose (EGDR) and Lands End (EGHC) GEO being excluded from build - thanks to @PLM1995 (Peter Mooney)
+17. Documentation - Added real-world SMR reference images - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
