@@ -13,6 +13,7 @@
 12. Procedure Change - Updated Guernsey (EGJB) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
 13. Bug - Corrected Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
 14. Bug - Fixed Warton + Blackpool Sector Display Error - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. Enhancement - Updated positioning of the Midlands Radar Gate - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
