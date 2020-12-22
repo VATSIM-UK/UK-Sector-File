@@ -3,6 +3,16 @@ OWNER:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
 
+SECTOR:Rathlin West:0:0
+OWNER:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
+
+SECTOR:Rathlin East:0:0
+OWNER:SRE:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
+
 SECTOR:Rathlin West (DB-660):0:66000
 OWNER:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
