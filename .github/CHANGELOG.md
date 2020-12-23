@@ -20,6 +20,7 @@
 19. Bug - Fixed EGNS Runway 08 Position and Extended Centreline - thanks to @jackedwards815 (Jack Edwards)
 20. Bug - Fixed Inaccurate EGGP Centrelines - thanks to @jackedwards815 (Jack Edwards)
 21. Enhancement - Added Observing LTC_CTR Alternative Ownership Functionality - thanks to @AleksMax (Aleks Nieszczerzewski)
+22. Procedure Change - Copenhagen Ownership Update - thanks to @TheoBearman (Theo Bearman)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
