@@ -11,7 +11,17 @@
 10. Enhancement - Added Jersey (EGJJ) Approach AoR Static Boundaries - thanks to @danielbutton (Daniel Button)
 11. Bug - N57(A) Not Marked As Conditional - thanks to @chssn (Chris Parkinson)
 12. Procedure Change - Updated Guernsey (EGJB) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
-13. Procedure Change - Updated Cardiff (EGFF) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
+13. Bug - Corrected Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
+14. Bug - Fixed Warton + Blackpool Sector Display Error - thanks to @AleksMax (Aleks Nieszczerzewski)
+15. Enhancement - Updated positioning of the Midlands Radar Gate - thanks to @hsugden (Harry Sugden)
+16. Bug - Fixed Culdrose (EGDR) and Lands End (EGHC) GEO being excluded from build - thanks to @PLM1995 (Peter Mooney)
+17. Documentation - Added real-world SMR reference images - thanks to @PLM1995 (Peter Mooney)
+18. Bug - Fixed Inaccurate EGCC Centrelines - thanks to @jackedwards815 (Jack Edwards)
+19. Bug - Fixed EGNS Runway 08 Position and Extended Centreline - thanks to @jackedwards815 (Jack Edwards)
+20. Bug - Fixed Inaccurate EGGP Centrelines - thanks to @jackedwards815 (Jack Edwards)
+21. Enhancement - Added Observing LTC_CTR Alternative Ownership Functionality - thanks to @AleksMax (Aleks Nieszczerzewski)
+22. AIRAC (2014) - Blackpool (EGNH) frequency changes and noted in 8.33kHz doc file - thanks to @TheoBearman (Theo Bearman)
+23. Procedure Change - Updated Cardiff (EGFF) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
