@@ -22,6 +22,7 @@
 21. Enhancement - Added Observing LTC_CTR Alternative Ownership Functionality - thanks to @AleksMax (Aleks Nieszczerzewski)
 22. AIRAC (2014) - Blackpool (EGNH) frequency changes and noted in 8.33kHz doc file - thanks to @TheoBearman (Theo Bearman)
 23. Procedure Change - Updated Cardiff (EGFF) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
+24. Bug - Fix PC STAFA ownerships for MAN_S_CTR - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
