@@ -25,6 +25,7 @@
 24. Procedure Change - Copenhagen Ownership Update - thanks to @TheoBearman (Theo Bearman)
 25. Bug - Fix PC STAFA ownerships for MAN_S_CTR - thanks to @cpawley (Chris Pawley)
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
+X. Enhancement - Separate Berry Head CTA 2/4 (Conditional) from permanent airspace - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
