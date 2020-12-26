@@ -1,5 +1,3 @@
-x. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
-CONFLICT
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -26,6 +24,7 @@ CONFLICT
 23. Procedure Change - Updated Cardiff (EGFF) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
 24. Procedure Change - Copenhagen Ownership Update - thanks to @TheoBearman (Theo Bearman)
 25. Bug - Fix PC STAFA ownerships for MAN_S_CTR - thanks to @cpawley (Chris Pawley)
+26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
