@@ -25,6 +25,7 @@
 24. Procedure Change - Copenhagen Ownership Update - thanks to @TheoBearman (Theo Bearman)
 25. Bug - Fix PC STAFA ownerships for MAN_S_CTR - thanks to @cpawley (Chris Pawley)
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
+27. AIRAC (2014) - Added Bournemouth (EGHH) 8.33kHz frequencies to doc file - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
