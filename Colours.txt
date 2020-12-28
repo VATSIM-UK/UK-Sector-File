@@ -81,6 +81,7 @@
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
+#define smrRunway 0
 #define smrSCGrass 29440
 #define smrSCORunway 5329233
 #define smrSCOTaxiway 9474192
