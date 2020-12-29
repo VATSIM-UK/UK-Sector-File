@@ -1,0 +1,4 @@
+;Thames-Southend Buffer
+Thames-Southend Buffer    N051.35.28.527 E000.20.02.498 N051.33.38.143 E000.19.36.594
+Thames-Southend Buffer    N051.33.38.143 E000.19.36.594 N051.19.00.032 E000.32.27.723
+Thames-Southend Buffer    N051.34.12.870 E000.24.35.481 N051.20.51.657 E000.36.16.871
