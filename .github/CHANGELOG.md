@@ -27,6 +27,7 @@
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
 27. AIRAC (2014) - Added Bournemouth (EGHH) 8.33kHz frequencies to doc file - thanks to @PLM1995 (Peter Mooney)
 28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @lennycolton (Lenny Colton)
+xx. Bug - Added LL mentor to Northolt EGWU ownership - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
