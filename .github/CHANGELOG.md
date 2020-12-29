@@ -1,3 +1,7 @@
+.x Enhancement - Added Lee-on-Solent (EGHF) Runway Data - thanks to @stuart5250 (Stuart Keaney)
+.x Enhancement - Added Lee-on-Solent (EGHF) SMR Labels - thanks to @stuart5250 (Stuart Keaney)
+.x Enhancement - Added Lee-on-Solent (EGHF) SMR Regions - thanks to @stuart5250 (Stuart Keaney)
+.x Enhancement - Added Lee-on-Solent (EGHF) SMR Geo - thanks to @stuart5250 (Stuart Keaney)
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
