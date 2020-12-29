@@ -1,5 +1,4 @@
-x. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
-x. Enhancement - Improved and updated Southend (EGMC) SMR - thanks to @PLM1995 (Peter Mooney)
+x. Bug - Fixed Southend (EGMC) SMR errors - thanks to @PLM1995 (Peter Mooney)
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated EGHE Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
