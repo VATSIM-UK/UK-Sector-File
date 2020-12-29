@@ -19,8 +19,8 @@
 "24" N051.30.14.520 E000.03.10.010 smrWhite
 "25" N051.30.14.480 E000.03.12.850 smrWhite
 "26" N051.30.14.400 E000.03.15.320 smrWhite
-"27" N051.30.14.330 E000.03.17.890 smrWhite ;Estimated (Satellite only to 2020/04)
-"28" N051.30.14.240 E000.03.20.340 smrWhite ;Estimated (Satellite only to 2020/04)
+"27" N051.30.14.330 E000.03.17.890 smrWhite
+"28" N051.30.14.240 E000.03.20.340 smrWhite
 
 ;Holds
 "A" N051.30.18.071 E000.02.41.049 standHold
