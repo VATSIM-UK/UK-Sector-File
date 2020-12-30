@@ -41,6 +41,7 @@
 39. Enhancement - Added Bembridge (EGHJ) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
 40. Bug - Corrected Goodwood (EGHR) runway positions in runway data and SMR - thanks to @PLM1995 (Peter Mooney)
 41. Enhancement - Added Lee-on-Solent (EGHF) SMR and Runway Data - thanks to @stuart5250 (Stuart Keaney)
+42. Enhancement - Added Sandown (EGHN) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
