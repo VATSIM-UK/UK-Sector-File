@@ -1,4 +1,4 @@
-.x Enhancement - Added Lee-on-Solent (EGHF) SMR and Runway Data - thanks to @stuart5250 (Stuart Keaney)
+
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -28,6 +28,7 @@
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
 27. AIRAC (2014) - Added Bournemouth (EGHH) 8.33kHz frequencies to doc file - thanks to @PLM1995 (Peter Mooney)
 28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @lennycolton (Lenny Colton)
+.x Enhancement - Added Lee-on-Solent (EGHF) SMR and Runway Data - thanks to @stuart5250 (Stuart Keaney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
