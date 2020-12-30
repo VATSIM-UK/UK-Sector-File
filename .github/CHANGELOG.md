@@ -38,6 +38,7 @@
 37. Bug - Updated Dublin (EIDW) Runway 10R/28L - thanks to @Robbo599 (Lee Roberts)
 38. Bug - Added LL mentor to Northolt EGWU ownership - thanks to @robbo599 (Lee Roberts)
 39. Enhancement - Added Bembridge (EGHJ) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
+x. Bug - Corrected Goodwood (EGHR) runway positions in runway data and SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
