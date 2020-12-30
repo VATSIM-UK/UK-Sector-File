@@ -1,3 +1,4 @@
+
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -27,7 +28,20 @@
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
 27. AIRAC (2014) - Added Bournemouth (EGHH) 8.33kHz frequencies to doc file - thanks to @PLM1995 (Peter Mooney)
 28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @lennycolton (Lenny Colton)
-x. Enhancement - Added Sandown (EGHN) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
+29. AIRAC (2006) - Updated and improved Manchester (EGCC) SMR - thanks to @PLM1995 (Peter Mooney)
+30. Enhancement - Newquay (EGHQ) Standard Routings Added - thanks to @danielbutton (Daniel Button)
+31. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
+32. Enhancement - Added Bembridge (EGHJ) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+33. Bug - Fixed Southend (EGMC) SMR errors - thanks to @PLM1995 (Peter Mooney)
+34. Enhancement - Added Lee-On-Solent (EGHF) Information Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+35. Enhancement - Added Sandown (EGHN) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+36. Enhancement - Added Goodwood (EGHR) Information Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+37. Bug - Updated Dublin (EIDW) Runway 10R/28L - thanks to @Robbo599 (Lee Roberts)
+38. Bug - Added LL mentor to Northolt EGWU ownership - thanks to @robbo599 (Lee Roberts)
+39. Enhancement - Added Bembridge (EGHJ) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
+40. Bug - Corrected Goodwood (EGHR) runway positions in runway data and SMR - thanks to @PLM1995 (Peter Mooney)
+41. Enhancement - Added Lee-on-Solent (EGHF) SMR and Runway Data - thanks to @stuart5250 (Stuart Keaney)
+42. Enhancement - Added Sandown (EGHN) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
