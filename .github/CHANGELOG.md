@@ -32,6 +32,7 @@
 31. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
 32. Enhancement - Added Bembridge (EGHJ) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
 33. Bug - Fixed Southend (EGMC) SMR errors - thanks to @PLM1995 (Peter Mooney)
+34. Enhancement - Added Lee-On-Solent (EGHF) Information Position - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
