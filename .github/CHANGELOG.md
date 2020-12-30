@@ -1,4 +1,3 @@
-x. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -30,6 +29,8 @@ x. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to
 28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @lennycolton (Lenny Colton)
 29. AIRAC (2006) - Updated and improved Manchester (EGCC) SMR - thanks to @PLM1995 (Peter Mooney)
 30. Enhancement - Newquay (EGHQ) Standard Routings Added - thanks to @danielbutton (Daniel Button)
+31. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
+32. Enhancement - Added Bembridge (EGHJ) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
