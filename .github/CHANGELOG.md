@@ -1,3 +1,4 @@
+x. Bug - Corrected Goodwood (EGHR) runway positions in runway data and SMR - thanks to @PLM1995 (Peter Mooney)
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
