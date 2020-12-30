@@ -36,6 +36,7 @@
 35. Enhancement - Added Sandown (EGHN) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
 36. Enhancement - Added Goodwood (EGHR) Information Position - thanks to @AleksMax (Aleks Nieszczerzewski)
 37. Bug - Updated Dublin (EIDW) Runway 10R/28L - thanks to @Robbo599 (Lee Roberts)
+38. Bug - Added LL mentor to Northolt EGWU ownership - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
