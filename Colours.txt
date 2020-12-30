@@ -41,6 +41,7 @@
 #define smrCCborder 996663
 #define smrCCdisused 1652176
 #define smrCCgrass 3178798
+#define smrCCpurple 7031632
 #define smrCCrwhpts 4973039
 #define smrCCstand 9830399
 #define smrCCtaxiway 13290186
@@ -81,6 +82,7 @@
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
+#define smrRunway 0
 #define smrSCGrass 29440
 #define smrSCORunway 5329233
 #define smrSCOTaxiway 9474192
