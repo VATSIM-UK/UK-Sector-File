@@ -8,6 +8,8 @@
 "23"      N050.26.49.625 W005.00.20.115 standHold
 "24"      N050.26.50.888 W005.00.22.498 standHold
 "GA"      N050.26.39.599 W004.59.49.976 standHold
+"H"       N050.25.59.330 W004.59.01.475 standHold
+"SAR"     N050.26.37.999 W004.59.38.342 standHold
 
 ; Holding Points
 "A1"      N050.26.51.647 W005.00.42.544 standHold
