@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Heathrow SMR Helper</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>EGLL_T1-T2_Parking_Chart_20-09</name>
+		<color>b5ffffff</color>
+		<Icon>
+			<href>EGLL_T1-T2_Parking_Chart_20-09.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>51.47584099621721</north>
+			<south>51.46686233230234</south>
+			<east>-0.4399093371395058</east>
+			<west>-0.4527208217800482</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>
