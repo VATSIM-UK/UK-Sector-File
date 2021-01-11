@@ -1,6 +1,5 @@
-# Changes from release 2020/14 to 2021/01
-1. Enhancement - Added Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
-
+x. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
+x. Enhancement - Added Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
