@@ -1,5 +1,6 @@
 # Changes from release 2020/14 to 2021/01
 x. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
+x. Enhancement - Remove/ rename 'Ground Map' folders from airports - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
