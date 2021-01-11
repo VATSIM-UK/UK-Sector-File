@@ -73,7 +73,7 @@
 #define smrLLConstruction 80
 #define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
-#define smrLLLabel 7895040
+#define smrLLLabel 11842560
 #define smrLLLightGrey 5921370
 #define smrLLMidGrey 3947580
 #define smrLLOutline 6579300
