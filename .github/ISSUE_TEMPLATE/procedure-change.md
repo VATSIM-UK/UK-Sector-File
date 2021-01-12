@@ -2,7 +2,7 @@
 name: Procedure change
 about: For VATSIM/ non-AIP procedure changes.
 title: ''
-labels: up-for-grabs, procedure-change
+labels: procedure-change, up-for-grabs
 assignees: ''
 
 ---
