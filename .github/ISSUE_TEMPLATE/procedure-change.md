@@ -1,6 +1,6 @@
 ---
 name: Procedure change
-about: For VATSIM/ non-AIP procedure changes.
+about: A template for VATSIM/ non-AIP procedure changes.
 title: ''
 labels: procedure-change, up-for-grabs
 assignees: ''
