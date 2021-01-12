@@ -1,5 +1,5 @@
 # Changes from release 2020/14 to 2021/01
-x. AIRAC (2101) - EGCB ATZ Update - thanks to @Tinbum (Nick Szewciw)
+x. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
