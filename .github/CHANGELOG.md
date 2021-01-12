@@ -1,5 +1,11 @@
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
+3. AIRAC (2101) - Blackbushe (EGLK) ATZ Co-ordinates Updated - thanks to @Tinbum (Nick Szewciw)
+4. Enhancement - Complete redraw of Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2101) - Updated Oxford (EGTK) taxiway B and holding point C - thanks to @Bucklerz (Reece Buckley)
+6. AIRAC (2101) - Updated Lee-on-Solent (EGHF) SMR - thanks to @stuart5250 (Stuart Keaney)
+7. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
 x. Enhancement - Changed Heathrow (EGLL) SMR style to match Indra's new A-SMGCS - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/13 to 2020/14
