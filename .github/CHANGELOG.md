@@ -6,7 +6,7 @@
 5. AIRAC (2101) - Updated Oxford (EGTK) taxiway B and holding point C - thanks to @Bucklerz (Reece Buckley)
 6. AIRAC (2101) - Updated Lee-on-Solent (EGHF) SMR - thanks to @stuart5250 (Stuart Keaney)
 7. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
-4. Enhancement - Create new SMR of (EGQS) Lossiemouth - thanks to @scottdaniels292 (Scott Daniels)
+x. Enhancement - Added New Lossiemouth (EGQS) SMR - thanks to @ScottDaniels292 (Scott Daniels)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
