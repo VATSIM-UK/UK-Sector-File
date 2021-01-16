@@ -6,7 +6,9 @@
 5. AIRAC (2101) - Updated Oxford (EGTK) taxiway B and holding point C - thanks to @Bucklerz (Reece Buckley)
 6. AIRAC (2101) - Updated Lee-on-Solent (EGHF) SMR - thanks to @stuart5250 (Stuart Keaney)
 7. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
-X. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. Enhancement - Separate Berry Head CTA 2/4 (Conditional) from permanent airspace - thanks to @luke11brown (Luke Brown)
+9. Enhancement - Separate Cotswold CTA flexible use airspace from permanent airspace - thanks to @luke11brown (Luke Brown)
+9. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
