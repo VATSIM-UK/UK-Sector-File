@@ -8,7 +8,7 @@
 7. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
 8. Enhancement - Separate Berry Head CTA 2/4 (Conditional) from permanent airspace - thanks to @luke11brown (Luke Brown)
 9. Enhancement - Separate Cotswold CTA flexible use airspace from permanent airspace - thanks to @luke11brown (Luke Brown)
-9. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
