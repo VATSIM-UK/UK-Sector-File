@@ -27,4 +27,4 @@ Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
 
 ;London Info
-EGTT_INFO:London Information:125.470:LI:C:EGTT:CTR:-:-:::N051.28.39.000:W000.27.41.000
+London Information:London Information:125.470:LI:C:EGTT:CTR:-:-:::N051.28.39.000:W000.27.41.000
