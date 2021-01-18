@@ -10,6 +10,7 @@
 9. Enhancement - Separate Cotswold CTA flexible use airspace from permanent airspace - thanks to @luke11brown (Luke Brown)
 10. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
 11. Enhancement - Create Coningsby (EGXC) SMAA - thanks to @robbo599 (Lee Roberts)
+12. Enhancement - Unify Controller ID use for RAD/FIN/INT Positions - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
