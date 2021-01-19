@@ -1,5 +1,16 @@
-x. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
-x. Enhancement - Added Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
+# Changes from release 2020/14 to 2021/01
+x. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
+x. AIRAC (2101) - Blackbushe (EGLK) ATZ Co-ordinates Updated - thanks to @Tinbum (Nick Szewciw)
+x. Enhancement - Complete redraw of Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
+x. AIRAC (2101) - Updated Oxford (EGTK) taxiway B and holding point C - thanks to @Bucklerz (Reece Buckley)
+x. AIRAC (2101) - Updated Lee-on-Solent (EGHF) SMR - thanks to @stuart5250 (Stuart Keaney)
+x. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
+x. Enhancement - Separate Berry Head CTA 2/4 (Conditional) from permanent airspace - thanks to @luke11brown (Luke Brown)
+x. Enhancement - Separate Cotswold CTA flexible use airspace from permanent airspace - thanks to @luke11brown (Luke Brown)
+x. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
+x. Enhancement - Create Coningsby (EGXC) SMAA - thanks to @robbo599 (Lee Roberts)
+x. Enhancement - Unify Controller ID use for RAD/FIN/INT Positions - thanks to @robbo599 (Lee Roberts)
+
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
