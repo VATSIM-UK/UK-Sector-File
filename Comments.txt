@@ -1,6 +1,6 @@
-; EuroScope sector file for VATSIM UK
-; Any corrections or amendments in this file should be directed to the EuroScope department of the helpdesk
-; helpdesk.vatsim.uk or euroscope@vatsim.uk
-;
-; Copyright VATSIM UK 2010-{YEAR}. All rights reserved.
-; UK (EGTT and EGPX) {VERSION} build date {BUILD}
+; @preserveComment EuroScope sector file for VATSIM UK
+; @preserveComment Any corrections or amendments in this file should be directed to the EuroScope department of the helpdesk
+; @preserveComment helpdesk.vatsim.uk or euroscope@vatsim.uk
+; @preserveComment
+; @preserveComment Copyright VATSIM UK 2010-{YEAR}. All rights reserved.
+; @preserveComment UK (EGTT and EGPX) {VERSION} build date {BUILD}
