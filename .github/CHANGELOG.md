@@ -1,6 +1,19 @@
-X. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Edwards)
-
-# Changes from release 2020/13 to 2020/14
+# Changes from release 2020/14 to 2021/01
+1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
+3. AIRAC (2101) - Blackbushe (EGLK) ATZ Co-ordinates Updated - thanks to @Tinbum (Nick Szewciw)
+4. Enhancement - Complete redraw of Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2101) - Updated Oxford (EGTK) taxiway B and holding point C - thanks to @Bucklerz (Reece Buckley)
+6. AIRAC (2101) - Updated Lee-on-Solent (EGHF) SMR - thanks to @stuart5250 (Stuart Keaney)
+7. AIRAC (2101) - Barton (EGCB) ATZ Update - thanks to @Tinbum (Nick Szewciw)
+8. Enhancement - Separate Berry Head CTA 2/4 (Conditional) from permanent airspace - thanks to @luke11brown (Luke Brown)
+9. Enhancement - Separate Cotswold CTA flexible use airspace from permanent airspace - thanks to @luke11brown (Luke Brown)
+10. Bug - Corrected Misaligned EGPD (Aberdeen) Sectorline - thanks to @AleksMax (Aleks Nieszczerzewski)
+11. Enhancement - Create Coningsby (EGXC) SMAA - thanks to @robbo599 (Lee Roberts)
+12. Enhancement - Unify Controller ID use for RAD/FIN/INT Positions - thanks to @robbo599 (Lee Roberts)
+13. Enhancement - Create Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
+14. Enhancement - Added ATIS positions for EGXC,EGQS,EGYM - thanks to @robbo599 (Lee Roberts)
+15. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
@@ -31,6 +44,20 @@ X. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Ed
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
 27. AIRAC (2014) - Added Bournemouth (EGHH) 8.33kHz frequencies to doc file - thanks to @PLM1995 (Peter Mooney)
 28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @lennycolton (Lenny Colton)
+29. AIRAC (2006) - Updated and improved Manchester (EGCC) SMR - thanks to @PLM1995 (Peter Mooney)
+30. Enhancement - Newquay (EGHQ) Standard Routings Added - thanks to @danielbutton (Daniel Button)
+31. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
+32. Enhancement - Added Bembridge (EGHJ) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+33. Bug - Fixed Southend (EGMC) SMR errors - thanks to @PLM1995 (Peter Mooney)
+34. Enhancement - Added Lee-On-Solent (EGHF) Information Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+35. Enhancement - Added Sandown (EGHN) Radio Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+36. Enhancement - Added Goodwood (EGHR) Information Position - thanks to @AleksMax (Aleks Nieszczerzewski)
+37. Bug - Updated Dublin (EIDW) Runway 10R/28L - thanks to @Robbo599 (Lee Roberts)
+38. Bug - Added LL mentor to Northolt EGWU ownership - thanks to @robbo599 (Lee Roberts)
+39. Enhancement - Added Bembridge (EGHJ) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
+40. Bug - Corrected Goodwood (EGHR) runway positions in runway data and SMR - thanks to @PLM1995 (Peter Mooney)
+41. Enhancement - Added Lee-on-Solent (EGHF) SMR and Runway Data - thanks to @stuart5250 (Stuart Keaney)
+42. Enhancement - Added Sandown (EGHN) SMR and runway data - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
