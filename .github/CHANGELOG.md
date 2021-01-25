@@ -13,6 +13,7 @@
 12. Enhancement - Unify Controller ID use for RAD/FIN/INT Positions - thanks to @robbo599 (Lee Roberts)
 13. Enhancement - Create Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
 14. Enhancement - Added ATIS positions for EGXC,EGQS,EGYM - thanks to @robbo599 (Lee Roberts)
+15. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
