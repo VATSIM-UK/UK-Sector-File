@@ -1,5 +1,3 @@
-X. Bug - Standardisation of Approach Unit Logon Conventions - thanks to @jackedwards815 (Jack Edwards)
-
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
@@ -17,6 +15,7 @@ X. Bug - Standardisation of Approach Unit Logon Conventions - thanks to @jackedw
 14. Enhancement - Added ATIS positions for EGXC,EGQS,EGYM - thanks to @robbo599 (Lee Roberts)
 15. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Edwards)
 16. Enhancement - Added New Lossiemouth (EGQS) SMR - thanks to @ScottDaniels292 (Scott Daniels)
+17. Bug - Standardisation of Approach Unit Logon Conventions - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
