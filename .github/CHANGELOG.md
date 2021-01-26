@@ -13,15 +13,9 @@
 12. Enhancement - Unify Controller ID use for RAD/FIN/INT Positions - thanks to @robbo599 (Lee Roberts)
 13. Enhancement - Create Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
 14. Enhancement - Added ATIS positions for EGXC,EGQS,EGYM - thanks to @robbo599 (Lee Roberts)
-<<<<<<< Updated upstream
-
-=======
-15. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Edwards)
-16. Enhancement - Added New Lossiemouth (EGQS) SMR - thanks to @ScottDaniels292 (Scott Daniels)
-17. Bug - Standardisation of Approach Unit Logon Conventions - thanks to @jackedwards815 (Jack Edwards)
 X. Bug - East Midlands Mentor Frequency Update - thanks to @bbrushfield (William Brushfield)
 X. Enhancement - East Midlands SMR Update - thanks to @bbrushfield (William Brushfield)
->>>>>>> Stashed changes
+
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
 2. AIRAC (2014) - Updated Scilly (EGHE) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
