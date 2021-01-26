@@ -17,6 +17,7 @@
 16. Enhancement - Added New Lossiemouth (EGQS) SMR - thanks to @ScottDaniels292 (Scott Daniels)
 17. Bug - Standardisation of Approach Unit Logon Conventions - thanks to @jackedwards815 (Jack Edwards)
 18. Bug - East Midlands (EGNX) Mentor Frequency Update - thanks to @bbrushfield (William Brushfield)
+19. Procedure Change - Added Brussels Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
