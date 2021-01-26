@@ -1,5 +1,19 @@
 ;UK Area Control Positions (Event Only)
 
+;Coordinators
+LON_GS_CTR:London Control:199.998:LGS:L:LON:CTR:-:-::
+LON-GS_CTR:London Control:199.998:LGS:L:LON-GS:CTR:-:-::
+LTC_GS_CTR:London Control:199.998:TCGS:L:LTC:CTR:-:-::
+LTC-GS_CTR:London Control:199.998:TCGS:L:LTC-GS:CTR:-:-::
+
+MAN_GS_CTR:Scottish Control:199.998:PCGS:L:MAN:CTR:-:-::
+MAN-GS_CTR:Scottish Control:199.998:PCGS:L:MAN-GS:CTR:-:-::
+
+SCO_GS_CTR:Scottish Control:199.998:SGS:L:SCO:CTR:-:-::
+SCO-GS_CTR:Scottish Control:199.998:SGS:L:SCO-GS:CTR:-:-::
+STC_GS_CTR:London Control:199.998:STGS:L:SCO:CTR:-:-::
+STC-GS_CTR:London Control:199.998:STGS:L:SCO-GS:CTR:-:-::
+
 ;North
 LON_NU_CTR:London Control:132.870:LNU:L:LON:CTR:-:-:0301:0377:N053.28.53.949:W003.04.30.713
 LON-NU_CTR:London Control:132.870:LNU:L:LON-NU:CTR:-:-:0301:0377:N053.28.53.949:W003.04.30.713
