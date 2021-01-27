@@ -19,6 +19,7 @@
 18. Bug - East Midlands (EGNX) Mentor Frequency Update - thanks to @bbrushfield (William Brushfield)
 19. Procedure Change - Added Brussels Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Enhancement - Improved Southend (EGMC) SMR style - thanks to @PLM1995 (Peter Mooney)
+21. Enhancement - Added Coningsby (EGXC) MIDS - thanks to @ScottDaniels292 (Scott Daniels)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
