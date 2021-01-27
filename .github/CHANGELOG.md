@@ -1,3 +1,5 @@
+x. Bug - Mousa and Gloup Holm Islands (Shetland) Have No Colour Defintion - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2020/14 to 2021/01
 x. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
 
