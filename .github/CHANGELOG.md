@@ -25,6 +25,7 @@
 24. Procedure Change - Updated COPX in line with new Dutch LoA - thanks to @hsugden (Harry Sugden)
 25. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden (Harry Sugden)
 26. Enhancement - Added Area GS positions and Alt Ownership functionality - thanks to @hsugden (Harry Sugden)
+27. Enhancement - Add Aberdeen HELS/REBOS position and sectors - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
