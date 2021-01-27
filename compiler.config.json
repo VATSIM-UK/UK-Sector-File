@@ -43,6 +43,13 @@
                         "Basic.txt"
                     ]
                 },
+                "centrelines": {
+                    "type": "files",
+                    "files": [
+                        "Centreline.txt"
+                    ],
+                    "ignore_missing": true
+                },
                 "fixes": {
                     "type": "files",
                     "files": [
@@ -54,6 +61,13 @@
                     "type": "files",
                     "files": [
                         "Freetext.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "geo": {
+                    "type": "files",
+                    "files": [
+                        "Range_Rings.txt"
                     ],
                     "ignore_missing": true
                 },
