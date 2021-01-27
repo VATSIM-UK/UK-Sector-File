@@ -20,7 +20,10 @@
 19. Procedure Change - Added Brussels Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Enhancement - Improved Southend (EGMC) SMR style - thanks to @PLM1995 (Peter Mooney)
 21. Enhancement - Added Coningsby (EGXC) MIDS - thanks to @ScottDaniels292 (Scott Daniels)
-X. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden (Harry Sugden)
+22. Enhancement - Added Backgrounds to Cardiff (EGFF) and St Athan (EGSY) SMRs - thanks to @danielbutton (Daniel Button)
+23. Procedure Change - Added KOKSY Gate and Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
+24. Procedure Change - Updated COPX in line with new Dutch LoA - thanks to @hsugden (Harry Sugden)
+25. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
