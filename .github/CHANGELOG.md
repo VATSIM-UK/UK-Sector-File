@@ -20,6 +20,7 @@
 19. Procedure Change - Added Brussels Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Enhancement - Improved Southend (EGMC) SMR style - thanks to @PLM1995 (Peter Mooney)
 21. Enhancement - Added Coningsby (EGXC) MIDS - thanks to @ScottDaniels292 (Scott Daniels)
+X. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
