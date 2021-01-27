@@ -21,7 +21,7 @@
 20. Enhancement - Improved Southend (EGMC) SMR style - thanks to @PLM1995 (Peter Mooney)
 21. Enhancement - Added Coningsby (EGXC) MIDS - thanks to @ScottDaniels292 (Scott Daniels)
 22. Enhancement - Added Backgrounds to Cardiff (EGFF) and St Athan (EGSY) SMRs - thanks to @danielbutton (Daniel Button)
-X. Procedure Change - Added KOKSY Gate and Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
+23. Procedure Change - Added KOKSY Gate and Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
