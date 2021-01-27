@@ -1,0 +1,31 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    name: ".sct & .ese"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Configure PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 7.4
+
+      - name: Compile SCT
+        run: php .build/sct.php > .build/bin/UK-DEV.sct
+
+      - name: Compile ESE
+        run: php .build/ese.php > .build/bin/UK-DEV.ese
+
+      - name: Upload Build As Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Build
+          path: ".build/bin/"
