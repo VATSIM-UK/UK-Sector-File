@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# What is the bug?
+# What is the bug/ error?
 (when does it happen - e.g. what circumstances; where is it - for line drawing errors, etc.)
 
 # What is the expected functionality?
