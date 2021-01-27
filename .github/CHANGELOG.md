@@ -1,5 +1,3 @@
-X. Enhancement - Resectorised Brest FIR - thanks to @jackedwards815 (Jack Edwards)
-
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
@@ -28,6 +26,7 @@ X. Enhancement - Resectorised Brest FIR - thanks to @jackedwards815 (Jack Edward
 25. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden (Harry Sugden)
 26. Enhancement - Added Area GS positions and Alt Ownership functionality - thanks to @hsugden (Harry Sugden)
 27. Enhancement - Add Aberdeen HELS/REBOS position and sectors - thanks to @robbo599 (Lee Roberts)
+28. Enhancement - Resectorised Brest FIR - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
