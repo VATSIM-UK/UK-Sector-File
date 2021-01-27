@@ -1,0 +1,1 @@
+FIR_COPX:EHAM:*:LONAM:*:*:EDYY Delta:Humber:30000:*:^LONAM
