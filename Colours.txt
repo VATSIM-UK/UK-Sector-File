@@ -73,7 +73,6 @@
 #define smrLLDarkGrey 2960940
 #define smrLLHold 9895936
 #define smrLLOutline 6579300
-#define smrMCYellow 52428
 #define smrMDapron 8816261
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262

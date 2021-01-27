@@ -12,8 +12,15 @@
 11. Enhancement - Create Coningsby (EGXC) SMAA - thanks to @robbo599 (Lee Roberts)
 12. Enhancement - Unify Controller ID use for RAD/FIN/INT Positions - thanks to @robbo599 (Lee Roberts)
 13. Enhancement - Create Wolverhampton (EGBO) SMR - thanks to @danlovett (Daniel Lovett)
-x. Enhancement - Amend Jersey (EGJJ) Approach Positions - thanks to @danielbutton (Daniel Button)
-x1. Enhancement - Added Backgrounds to Cardiff (EGFF) and St Athan (EGSY) SMRs - thanks to @danielbutton (Daniel Button)
+14. Enhancement - Added ATIS positions for EGXC,EGQS,EGYM - thanks to @robbo599 (Lee Roberts)
+15. Enhancement - Area Logon Standardisation - thanks to @jackedwards815 (Jack Edwards)
+16. Enhancement - Added New Lossiemouth (EGQS) SMR - thanks to @ScottDaniels292 (Scott Daniels)
+17. Bug - Standardisation of Approach Unit Logon Conventions - thanks to @jackedwards815 (Jack Edwards)
+18. Bug - East Midlands (EGNX) Mentor Frequency Update - thanks to @bbrushfield (William Brushfield)
+19. Procedure Change - Added Brussels Release Line - thanks to @AleksMax (Aleks Nieszczerzewski)
+20. Enhancement - Improved Southend (EGMC) SMR style - thanks to @PLM1995 (Peter Mooney)
+21. Enhancement - Added Coningsby (EGXC) MIDS - thanks to @ScottDaniels292 (Scott Daniels)
+22. Enhancement - Added Backgrounds to Cardiff (EGFF) and St Athan (EGSY) SMRs - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/13 to 2020/14
 1. Bug - Corrected Birmingham (EGBB) Holding Labels - thanks to @stuart5250 (Stuart Keaney)
