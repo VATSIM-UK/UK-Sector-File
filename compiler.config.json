@@ -53,7 +53,8 @@
                 "freetext": {
                     "type": "files",
                     "files": [
-                        "Freetext.txt"
+                        "Freetext.txt",
+                        "Airpsace_Bases.txt"
                     ],
                     "ignore_missing": true
                 },
