@@ -1,8 +1,8 @@
 {
     "options": {
-        "sct_output": "UK.sct",
-        "ese_output": "UK.ese",
-        "rwy_output": "UK.rwy",
+        "sct_output": ".build/bin/UK.sct",
+        "ese_output": ".build/bin/UK.ese",
+        "rwy_output": ".build/bin/UK.rwy",
         "replace": [
             {
                 "token": "{YEAR}",
@@ -23,13 +23,6 @@
     "includes": {
         "airports": {
             "Airports": {
-                "active_runways": {
-                    "type": "files",
-                    "files": [
-                        "Active_Runway.txt"
-                    ],
-                    "ignore_missing": true
-                },
                 "airspace": {
                     "type": "files",
                     "files": [
@@ -397,6 +390,12 @@
                     "Misc/Regions_LTMA Airfield CAS.txt",
                     "Misc/Regions_Severn Buffers.txt",
                     "Misc/Regions_Uncontrolled airspace.txt"
+                ]
+            },
+            "active_runways": {
+                "type": "files",
+                "files": [
+                    "UK.rwy"
                 ]
             }
         }
