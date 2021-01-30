@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: "Sectorfile"
+    name: "Compile Sectorfile"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -16,7 +16,7 @@ jobs:
 
       - name: Download Compiler
         run: |
-          curl -O compiler https://github.com/AndyTWF/sector-file-compiler/releases/latest/cli-linux-x64
+          curl -O compiler https://github.com/AndyTWF/sector-file-compiler/releases/latest/download/cli-linux-x64
           unzip compiler
           ls -la
           chmod +x ./CompilerCli
