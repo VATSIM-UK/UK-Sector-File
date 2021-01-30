@@ -16,8 +16,8 @@ jobs:
 
       - name: Download Compiler
         run: |
-          curl -O compiler https://github.com/AndyTWF/sector-file-compiler/releases/latest/download/cli-linux-x64
-          unzip compiler
+          curl --output compiler.zip https://github.com/AndyTWF/sector-file-compiler/releases/latest/download/cli-linux-x64
+          unzip compiler.zip
           ls -la
           chmod +x ./CompilerCli
 
