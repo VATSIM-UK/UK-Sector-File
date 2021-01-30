@@ -1,0 +1,30 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    name: "Sectorfile"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Download Compiler
+        run: |
+        curl -O compiler https://github.com/AndyTWF/sector-file-compiler/releases/latest/cli-linux-x64
+        unzip compiler
+        ls -la
+        chmod +x ./CompilerCli
+
+      - name: Compile
+        run: ./CompilerCli --config-file compiler.config.json --no-wait
+
+      - name: Upload Build As Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Build
+          path: ".build/bin/"
