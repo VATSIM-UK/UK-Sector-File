@@ -1,9 +1,10 @@
-name: Build
+name: Compile
 
 on:
   push:
     branches:
       - '*'
+  pull_request:
 
 jobs:
   build:
@@ -15,10 +16,10 @@ jobs:
 
       - name: Download Compiler
         run: |
-        curl -O compiler https://github.com/AndyTWF/sector-file-compiler/releases/latest/cli-linux-x64
-        unzip compiler
-        ls -la
-        chmod +x ./CompilerCli
+          curl -O compiler https://github.com/AndyTWF/sector-file-compiler/releases/latest/cli-linux-x64
+          unzip compiler
+          ls -la
+          chmod +x ./CompilerCli
 
       - name: Compile
         run: ./CompilerCli --config-file compiler.config.json --no-wait
