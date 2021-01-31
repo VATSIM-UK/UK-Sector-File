@@ -1,3 +1,6 @@
+# Changes from release 2021/01 to 2021/02
+X. Bug - Fixed BBTWR Ring not displaying to MPC without Daventry - thanks to @AleksMax (Aleks Nieszczerzewski)
+
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
