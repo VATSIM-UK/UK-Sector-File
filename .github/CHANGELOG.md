@@ -1,3 +1,5 @@
+X. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
+
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2101) - Added Yeovil/Westland (EGHG) ATZ - thanks to @danielbutton (Daniel Button)
