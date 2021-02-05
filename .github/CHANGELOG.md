@@ -1,4 +1,6 @@
-X. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
+# Changes from release 2021/01 to 2021/02
+1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
+2. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
