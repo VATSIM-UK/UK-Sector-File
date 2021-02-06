@@ -1,5 +1,8 @@
 # Changes from release 2021/01 to 2021/02
-X. AIRAC (2102) - Added ENDEQ Fix and rerouted Q36 - thanks to @AleksMax (Aleks Nieszczerzewski)
+1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
+2. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
+3. AIRAC (2102) - Added BOFUM Fix and rerouted Q37 - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. AIRAC (2102) - Added ENDEQ Fix and rerouted Q36 - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
