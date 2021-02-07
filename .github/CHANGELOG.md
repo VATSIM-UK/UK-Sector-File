@@ -4,6 +4,7 @@
 3. AIRAC (2102) - Added BOFUM Fix and rerouted Q37 - thanks to @AleksMax (Aleks Nieszczerzewski)
 4. AIRAC (2102) - Added ENDEQ Fix and rerouted Q36 - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. Bug - Fixed BBTWR Ring not displaying to MPC without Daventry - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Bug - Corrected Warton/Blackpool Incorrect Line Display - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
