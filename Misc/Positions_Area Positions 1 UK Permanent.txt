@@ -73,13 +73,13 @@ EGPX_I_CTR:Scottish Information:119.870:SI:A:EGPX:CTR:-:-:7401:7401:N057.49.02.1
 EGPX-I_CTR:Scottish Information:119.870:SI:A:EGPX-I:CTR:-:-:7401:7401:N057.49.02.179:W006.31.35.051:N057.26.35.155:W000.01.23.964:N058.51.25.413:W002.04.29.971
 
 ;Mentor
-LON_M_CTR:London Control:199.998:LM:L:LON:CTR:-:-::
-LON-M_CTR:London Control:199.998:LM:L:LON-M:CTR:-:-::
-LTC_M_CTR:London Control:199.998:LM:L:LTC:CTR:-:-::
-LTC-M_CTR:London Control:199.998:LM:L:LTC-M:CTR:-:-::
+LON_M_CTR:London Control:199.998:LMEN:L:LON:CTR:-:-::
+LON-M_CTR:London Control:199.998:LMEN:L:LON-M:CTR:-:-::
+LTC_M_CTR:London Control:199.998:LMEN:L:LTC:CTR:-:-::
+LTC-M_CTR:London Control:199.998:LMEN:L:LTC-M:CTR:-:-::
 
-MAN_M_CTR:Scottish Control:199.998:LM:L:MAN:CTR:-:-::
-MAN-M_CTR:Scottish Control:199.998:LM:L:MAN-M:CTR:-:-::
+MAN_M_CTR:Scottish Control:199.998:LMEN:L:MAN:CTR:-:-::
+MAN-M_CTR:Scottish Control:199.998:LMEN:L:MAN-M:CTR:-:-::
 
 SCO_M_CTR:Scottish Control:199.998:SM:L:SCO:CTR:-:-::
 SCO-M_CTR:Scottish Control:199.998:SM:L:SCO-M:CTR:-:-::
