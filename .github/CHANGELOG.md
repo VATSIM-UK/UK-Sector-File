@@ -9,7 +9,13 @@
 8. Bug - Mousa and Gloup Holm Islands (Shetland) Have No Colour Defintion - thanks to @Bucklerz (Reece Buckley)
 9. Bug - Added Oxford (EGTK) ATZ - thanks to @zyriantdt-x (Ellis Delgado)
 10. Enhancement - Changed Heathrow (EGLL) SMR style to match Indra's new A-SMGCS - thanks to @PLM1995 (Peter Mooney)
-x. Bug - Updated Tacan Routes - Thanks to @robbo599 (Lee Roberts)
+11. Bug - Fixed wonky FAVA and Centreline at Edinburgh (EGPH) - thanks to @robbo599 (Lee Roberts)
+12. Enhancement - Add Gamston (EGNE) Basic info and Runways - thanks to @ScottDaniels292 (Scott Daniels)
+13. AIRAC (2102) - Rerouted Y312 and implemented Gatwick (EGKK) "Route 4" SID Removals/Truncations - thanks to @AleksMax (Aleks Nieszczerzewski)
+14. Bug - Corrected the sector indicators for all AFIS/AGO airfields - thanks to @zyriantdt-x (Ellis Delgado)
+15. Enhancement - Remove Unused Data for Closed Airfields  - @ScottDaniels292 (Scott Daniels)
+16. Bug - Corrected Perth A/G Frequency - thanks to @danielbutton (Daniel Button)
+17. Bug - Updated Tacan Routes - Thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
