@@ -10,6 +10,7 @@
 9. Bug - Added Oxford (EGTK) ATZ - thanks to @zyriantdt-x (Ellis Delgado)
 10. Enhancement - Changed Heathrow (EGLL) SMR style to match Indra's new A-SMGCS - thanks to @PLM1995 (Peter Mooney)
 11. Bug - Fixed wonky FAVA and Centreline at Edinburgh (EGPH) - thanks to @robbo599 (Lee Roberts)
+12. Enhancement - Add Gamston (EGNE) Basic info and Runways - thanks to @ScottDaniels292 (Scott Daniels)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
