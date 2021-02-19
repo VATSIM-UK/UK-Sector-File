@@ -13,6 +13,7 @@
 12. Enhancement - Add Gamston (EGNE) Basic info and Runways - thanks to @ScottDaniels292 (Scott Daniels)
 13. AIRAC (2102) - Rerouted Y312 and implemented Gatwick (EGKK) "Route 4" SID Removals/Truncations - thanks to @AleksMax (Aleks Nieszczerzewski)
 14. Bug - Corrected the sector indicators for all AFIS/AGO airfields - thanks to @zyriantdt-x (Ellis Delgado)
+15. Enhancement - Remove Unused Data for Closed Airfields  - @ScottDaniels292 (Scott Daniels)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
