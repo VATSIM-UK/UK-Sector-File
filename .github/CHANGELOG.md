@@ -11,6 +11,7 @@
 10. Enhancement - Changed Heathrow (EGLL) SMR style to match Indra's new A-SMGCS - thanks to @PLM1995 (Peter Mooney)
 11. Bug - Fixed wonky FAVA and Centreline at Edinburgh (EGPH) - thanks to @robbo599 (Lee Roberts)
 12. Enhancement - Add Gamston (EGNE) Basic info and Runways - thanks to @ScottDaniels292 (Scott Daniels)
+13. AIRAC (2102) - Rerouted Y312 and implemented Gatwick (EGKK) "Route 4" SID Removals/Truncations - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
