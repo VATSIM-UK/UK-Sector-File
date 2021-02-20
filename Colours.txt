@@ -70,9 +70,15 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
-#define smrLLDarkGrey 2960940
+#define smrLLConstruction 80
+#define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
+#define smrLLLabel 11842560
+#define smrLLLightGrey 5921370
+#define smrLLMidGrey 3947580
 #define smrLLOutline 6579300
+#define smrLLTaxiway 17219
+#define smrMCYellow 52428
 #define smrMDapron 8816261
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262

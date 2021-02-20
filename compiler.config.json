@@ -298,7 +298,8 @@
                     "Navaids/FIXES_PHONETIC.txt",
                     "Navaids/FIXES_SIDS-STARS.txt",
                     "Navaids/FIXES_UK.txt",
-                    "Navaids/FIXES_Virtual.txt"
+                    "Navaids/FIXES_Virtual.txt",
+                    "Navaids/FIXES_Tacan_Routes.txt"
                 ]
             },
             "ndbs": {
