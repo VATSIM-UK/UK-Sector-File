@@ -33,7 +33,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Build
-          path: |
-            ".build/bin/UK.ese"
-            ".build/bin/UK.rwy"
-            ".build/bin/UK.sct"
+          path: ".build/bin/UK.*"
