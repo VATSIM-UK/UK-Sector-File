@@ -32,5 +32,5 @@ jobs:
       - name: Upload Build As Artifact
         uses: actions/upload-artifact@v2
         with:
-          name: Build
+          name: UK Sector File
           path: ".build/bin/UK.*"
