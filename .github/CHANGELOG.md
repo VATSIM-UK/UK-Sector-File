@@ -6,6 +6,7 @@
 5. Bug - Fixed BBTWR Ring not displaying to MPC without Daventry - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. Bug - Corrected Warton/Blackpool Incorrect Line Display - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Procedure Change - Added HH/HI/LF Worthing -> Dover agreements via KOBBI - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. Procedure Change - Updated London <-> Ireland agreements and Shannon sector names - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
