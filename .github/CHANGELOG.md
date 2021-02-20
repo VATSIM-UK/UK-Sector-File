@@ -17,6 +17,7 @@
 16. Bug - Corrected Perth A/G Frequency - thanks to @danielbutton (Daniel Button)
 17. Bug - Updated Tacan Routes - Thanks to @robbo599 (Lee Roberts)
 18. Bug - Amended COPX build order to fix TC REDFA -> EHAA agreement display - thanks to @hsugden (Harry Sugden)
+19. AIRAC (2102) - Added Borders CTAs - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
