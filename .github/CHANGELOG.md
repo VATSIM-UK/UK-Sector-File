@@ -1,4 +1,4 @@
-x. AIRAC(2102) - Add SODVU Box - thanks to @Bucklerz (Reece Buckley)
+x. Procedure Change - Add SODVU Box - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
