@@ -27,7 +27,6 @@ jobs:
 
       - name: Compile
         run: |
-          echo "Building version $SECTORFILE_BUILD_VERSION"
           ./compiler --config-file compiler.config.json --no-wait --build-version $SECTORFILE_BUILD_VERSION
 
       - name: Upload Build As Artifact
@@ -35,6 +34,6 @@ jobs:
         with:
           name: Build
           path: |
-            "./.build/bin/UK.ese"
-            "./.build/bin/UK.rwy"
-            "./.build/bin/UK.sct"
+            ".build/bin/UK.ese"
+            ".build/bin/UK.rwy"
+            ".build/bin/UK.sct"
