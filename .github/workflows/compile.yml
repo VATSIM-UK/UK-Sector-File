@@ -27,7 +27,7 @@ jobs:
 
       - name: Compile
         run: |
-          ./compiler --config-file compiler.config.json --no-wait --build-version $SECTORFILE_BUILD_VERSION
+          ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION
 
       - name: Upload Build As Artifact
         uses: actions/upload-artifact@v2
