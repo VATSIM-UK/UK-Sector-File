@@ -1,3 +1,4 @@
+X. Bug - Removed Doncaster (EGCN) Thorpe Marsh VRP - thanks to @P057code (Unknown) and @hsugden (Harry Sugden)
 
 # Changes from release 2020/12c to 2020/13
 1. AIRAC (2013) - EGBB STARs Amended - thanks to @TheoBearman (Theo Bearman)
