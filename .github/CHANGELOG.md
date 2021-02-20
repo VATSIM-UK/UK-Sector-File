@@ -1,5 +1,3 @@
-
-
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
 2. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
@@ -23,6 +21,7 @@
 20. AIRAC (2102) - Added Northern CTAs - thanks to @robbo599 (Lee Roberts)
 21. AIRAC (2102) - Added Yorkshire CTAs - thanks to @robbo599 (Lee Roberts)
 22. Enhancement - Added BIGHDG SID for KK -> LL/WU flights - thanks to @GeekPro101 (Thomas Mills)
+23. Procedure Change - Add SODVU Box - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
