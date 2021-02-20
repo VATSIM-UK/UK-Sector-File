@@ -29,6 +29,6 @@ jobs:
         with:
           name: Build
           path: |
-            ".build/bin/UK.ese"
-            ".build/bin/UK.rwy"
-            ".build/bin/UK.sct"
+            "./.build/bin/UK.ese"
+            "./.build/bin/UK.rwy"
+            "./.build/bin/UK.sct"
