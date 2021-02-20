@@ -1,10 +1,9 @@
-name: Compile
+name: Compile and Validate
 
 on:
   push:
     branches:
-      - '*'
-  pull_request:
+      - 'main'
   release:
     types:
       - published
