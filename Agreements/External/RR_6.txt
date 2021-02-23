@@ -1,0 +1,5 @@
+FIR_COPX:*:*:SKESO:EGTE:*:LFRR Low:London S6:*:23000:SKESO
+
+FIR_COPX:*:*:SKESO:*:*:LFRR Low:London S6:*:*:SKESO
+FIR_COPX:*:*:SALCO:*:*:LFRR Low:London S6:*:*:SALCO
+FIR_COPX:*:*:ANNET:*:*:LFRR Low:London S6:*:*:ANNET

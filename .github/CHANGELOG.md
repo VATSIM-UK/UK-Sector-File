@@ -23,6 +23,7 @@
 22. Enhancement - Added BIGHDG SID for KK -> LL/WU flights - thanks to @GeekPro101 (Thomas Mills)
 23. Procedure Change - Add SODVU Box - thanks to @Bucklerz (Reece Buckley)
 24. Bug - Removed unnecessary GD FIN -> GD TWR COPX Agreement - thanks to @danielbutton (Daniel Button)
+X. Procedure Change - Updated London <-> France agreements to reflect the new LoA - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
