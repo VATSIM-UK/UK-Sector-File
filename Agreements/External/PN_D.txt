@@ -25,6 +25,6 @@ FIR_COPX:*:*:ABNUR:EGLL:*:LFFF Low (245-295):London AC Dover:*:28000:ABNUR
 FIR_COPX:*:*:ABNUR:EGWU:*:LFFF Low (245-295):London AC Dover:*:28000:ABNUR
 
 FIR_COPX:*:*:RINTI:*:*:LFFF Low (DB-245):London AC Dover:*:*:RINTI
-FIR_COPX:*:*:L15FIR:*:*:LFFF Low (DB-245):London AC Dover:*:*:L15FIR
+FIR_COPX:*:*:MOTOX:*:*:LFFF Low (DB-245):London AC Dover:*:*:MOTOX
 FIR_COPX:*:*:BNE:*:*:LFFF Low (DB-245):London AC Dover:*:*:BNE
 FIR_COPX:*:*:ABB:*:*:LFFF Low (DB-245):London AC Dover:*:*:ABB
