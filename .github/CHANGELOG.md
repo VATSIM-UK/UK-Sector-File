@@ -26,6 +26,7 @@
 25. Procedure Change - Added new BAKUR RFC Area - thanks to @hsugden (Harry Sugden)
 26. Enhancement - Added SODVU Box ownership to ensure agreements for LC Deps -> TC SE function correctly - thanks to @hsugden (Harry Sugden)
 27. Procedure Change - Added Thames -> TC SE EGLC EKNIV Departure Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+28. Procedure Change - Added Jersey RFC Line - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
