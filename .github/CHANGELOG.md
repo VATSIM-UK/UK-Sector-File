@@ -1,3 +1,5 @@
+x. Procedure Change - Add DIKRO Box - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
 2. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
@@ -22,7 +24,12 @@
 21. AIRAC (2102) - Added Yorkshire CTAs - thanks to @robbo599 (Lee Roberts)
 22. Enhancement - Added BIGHDG SID for KK -> LL/WU flights - thanks to @GeekPro101 (Thomas Mills)
 23. Procedure Change - Add SODVU Box - thanks to @Bucklerz (Reece Buckley)
-24. AIRAC (2102) - N601(D) Conditional Airspace becomes Borders CTA 5 - thanks to @luke11brown (Luke Brown)
+24. Bug - Removed unnecessary GD FIN -> GD TWR COPX Agreement - thanks to @danielbutton (Daniel Button)
+25. Procedure Change - Added new BAKUR RFC Area - thanks to @hsugden (Harry Sugden)
+26. Enhancement - Added SODVU Box ownership to ensure agreements for LC Deps -> TC SE function correctly - thanks to @hsugden (Harry Sugden)
+27. Procedure Change - Added Thames -> TC SE EGLC EKNIV Departure Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
+28. Procedure Change - Added Jersey RFC Line - thanks to @danielbutton (Daniel Button)
+29. AIRAC (2102) - N601(D) Conditional Airspace becomes Borders CTA 5 - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
