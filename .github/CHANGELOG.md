@@ -29,6 +29,7 @@
 28. Procedure Change - Added Jersey RFC Line - thanks to @danielbutton (Daniel Button)
 29. Procedure Change - Updated London <-> Ireland agreements and Shannon sector names - thanks to @hsugden (Harry Sugden)
 30. Procedure Change - Add DIKRO Box - thanks to @Bucklerz (Reece Buckley)
+31. AIRAC (2102) - N601(D) Conditional Airspace becomes Borders CTA 5 - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
