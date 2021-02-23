@@ -1,5 +1,3 @@
-x. Procedure Change - Add DIKRO Box - thanks to @Bucklerz (Reece Buckley)
-
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
 2. AIRAC (2102) - Remove Bitteswell VRP from Coventry (EGBE) - thanks to @Rajputusman (Usman Khalid)
@@ -29,6 +27,8 @@ x. Procedure Change - Add DIKRO Box - thanks to @Bucklerz (Reece Buckley)
 26. Enhancement - Added SODVU Box ownership to ensure agreements for LC Deps -> TC SE function correctly - thanks to @hsugden (Harry Sugden)
 27. Procedure Change - Added Thames -> TC SE EGLC EKNIV Departure Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 28. Procedure Change - Added Jersey RFC Line - thanks to @danielbutton (Daniel Button)
+29. Procedure Change - Updated London <-> Ireland agreements and Shannon sector names - thanks to @hsugden (Harry Sugden)
+30. Procedure Change - Add DIKRO Box - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
