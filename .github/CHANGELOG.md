@@ -33,6 +33,7 @@
 32. Bug - Fixed TC South East Static Line Boundary - thanks to @danielbutton (Daniel Button)
 33. Bug - Remove all instances of LWC in ownership - thanks to @bbrushfield (William Brushfield)
 34. Bug - Corrected Gatwick (EGKK) APP ownership and COPX for inbounds - thanks to @hsugden (Harry Sugden)
+35. Bug - Fixed errors in French sector ownership - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
