@@ -9,6 +9,7 @@
 8. Bug - Mousa and Gloup Holm Islands (Shetland) Have No Colour Defintion - thanks to @Bucklerz (Reece Buckley)
 9. Bug - Added Oxford (EGTK) ATZ - thanks to @zyriantdt-x (Ellis Delgado)
 10. Enhancement - Changed Heathrow (EGLL) SMR style to match Indra's new A-SMGCS - thanks to @PLM1995 (Peter Mooney)
+11. Procedure Change - Added new London position - Daventry Standalone (LON_M_CTR) - thanks to @aeroniemi (Alex Beavil)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
