@@ -43,6 +43,7 @@
 42. Procedure Change - Added Reims Release Area - thanks to @hsugden (Harry Sugden)
 43. Bug - Fixed Line Display to AC Worthing between SITET-XIDIL for Brest/Paris' online presence - thanks to @hsugden (Harry Sugden)
 44. Enhancement - Landmass colour adjusted. Alternative colours added as comment - thanks to @luke11brown (Luke Brown)
+45. Bug - Fix ESE git artifacts following London Daventry Standalone - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
