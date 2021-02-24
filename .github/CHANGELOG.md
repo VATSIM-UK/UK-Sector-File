@@ -40,6 +40,7 @@
 39. Procedure Change - Added new London position - Daventry Standalone (LON_M_CTR) - thanks to @aeroniemi (Alex Beavil)
 40. Bug - Fixed Bristol (EGGD) APP ownership to ensure correct function of COPX - thanks to @hsugden (Harry Sugden)
 41. Bug - Improved line display to Clacton sectors of TC - thanks to @hsugden (Harry Sugden)
+42. Procedure Change - Added Reims Release Area - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
