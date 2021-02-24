@@ -37,6 +37,10 @@
 36. Secret Enhancement - Added Backup TC Gatwick (SPT) Frequency - thanks to @lennycolton (Lenny Colton)
 37. Bug - Removed Doncaster (EGCN) Thorpe Marsh VRP - thanks to @P057code (Unknown) and @hsugden (Harry Sugden)
 38. Procedure Change - Updated London <-> France agreements to reflect the new LoA - thanks to @hsugden (Harry Sugden)
+39. Procedure Change - Added new London position - Daventry Standalone (LON_M_CTR) - thanks to @aeroniemi (Alex Beavil)
+40. Bug - Fixed Bristol (EGGD) APP ownership to ensure correct function of COPX - thanks to @hsugden (Harry Sugden)
+41. Bug - Improved line display to Clacton sectors of TC - thanks to @hsugden (Harry Sugden)
+42. Procedure Change - Added Reims Release Area - thanks to @hsugden (Harry Sugden)
 X. Bug - Fixed Line Display to AC Worthing between SITET-XIDIL for Brest/Paris' online presence - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/14 to 2021/01
