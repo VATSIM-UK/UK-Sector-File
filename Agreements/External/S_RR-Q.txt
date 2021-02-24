@@ -1,0 +1,3 @@
+FIR_COPX:*:*:XAMAB:*:*:London AC Worthing:LFRR Q:*:*:XAMAB
+
+FIR_COPX:*:*:SITET:*:*:London AC Worthing:LFRR Q:*:*:SITET

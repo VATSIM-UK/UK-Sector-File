@@ -36,6 +36,7 @@
 35. Bug - Fixed errors in French sector ownership - thanks to @hsugden (Harry Sugden)
 36. Secret Enhancement - Added Backup TC Gatwick (SPT) Frequency - thanks to @lennycolton (Lenny Colton)
 37. Bug - Removed Doncaster (EGCN) Thorpe Marsh VRP - thanks to @P057code (Unknown) and @hsugden (Harry Sugden)
+38. Procedure Change - Updated London <-> France agreements to reflect the new LoA - thanks to @hsugden (Harry Sugden)
 X. Bug - Improved line display to Clacton sectors of TC - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2020/14 to 2021/01
