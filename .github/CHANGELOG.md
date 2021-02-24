@@ -41,7 +41,8 @@
 40. Bug - Fixed Bristol (EGGD) APP ownership to ensure correct function of COPX - thanks to @hsugden (Harry Sugden)
 41. Bug - Improved line display to Clacton sectors of TC - thanks to @hsugden (Harry Sugden)
 42. Procedure Change - Added Reims Release Area - thanks to @hsugden (Harry Sugden)
-X. Bug - Fixed Line Display to AC Worthing between SITET-XIDIL for Brest/Paris' online presence - thanks to @hsugden (Harry Sugden)
+43. Bug - Fixed Line Display to AC Worthing between SITET-XIDIL for Brest/Paris' online presence - thanks to @hsugden (Harry Sugden)
+44. Enhancement - Landmass colour adjusted. Alternative colours added as comment - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2020/14 to 2021/01
 1. AIRAC (1904) - Updated Heathrow (EGLL) SMR around T1-T2 area - thanks to @PLM1995 (Peter Mooney)
