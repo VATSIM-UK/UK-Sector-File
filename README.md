@@ -7,5 +7,3 @@ A new sector file will be released in line with each AIRAC cycle (as long as sig
 If you wish to contribute, [take a look at our contribution guide](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/Contributing.md). [The Wiki](https://github.com/VATSIM-UK/UK-Sector-File/wiki) (a work in progress) also contains more in-depth information about the contents of the sector file.
 
 Note: past AIRAC amendments are stored [here](https://drive.google.com/open?id=0B-vBWgjwDAzqcThza1lIaHJDbEU).
-
-pog
