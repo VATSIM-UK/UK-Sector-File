@@ -1,4 +1,5 @@
 # Changes from release 2021/02 to 2021/03
+1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
