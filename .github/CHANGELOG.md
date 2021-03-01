@@ -1,5 +1,6 @@
 # Changes from release 2021/02 to 2021/03
-X. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
+1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
+2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
