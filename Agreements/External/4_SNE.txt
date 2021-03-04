@@ -1,0 +1,1 @@
+FIR_COPX:*:*:BAGSO:*:*:London S4:Shannon LIFFY:*:*:BAGSO
