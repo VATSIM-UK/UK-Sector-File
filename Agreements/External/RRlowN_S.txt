@@ -1,8 +1,0 @@
-FIR_COPX:*:*:LUGIS:*:*:LFRR Low (DB-245):London AC Worthing:*:*:LUGIS
-FIR_COPX:*:*:KOTEM:*:*:LFRR Low (DB-245):London AC Worthing:*:*:KOTEM
-FIR_COPX:*:*:ODREP:*:*:LFRR Low (DB-245):London AC Worthing:*:*:ODREP
-FIR_COPX:*:*:BOLRO:*:*:LFRR Low (DB-245):London AC Worthing:*:*:BOLRO
-FIR_COPX:*:*:GARMI:*:*:LFRR Low (DB-245):London AC Worthing:*:*:GARMI
-FIR_COPX:*:*:ORIST:*:*:LFRR Low (DB-245):London AC Worthing:*:*:ORIST
-
-FIR_COPX:*:*:ORIST:EGHI:*:LFRR Low (DB-245):London AC Worthing:*:22000:REVTU

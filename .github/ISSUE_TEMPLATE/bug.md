@@ -1,6 +1,7 @@
 ---
 name: Bug
-about: A template for bugs - errors in sector file functionality.
+about: A template for bugs - where ES doesn't work correctly when using data from
+  the SF.
 title: ''
 labels: bug, up-for-grabs
 assignees: ''
