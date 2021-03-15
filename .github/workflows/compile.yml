@@ -28,6 +28,7 @@ jobs:
 
 
       - name: Set Strip Comments
+        if: github.ref == 'refs/heads/main'
         run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
 
       - name: Compile
