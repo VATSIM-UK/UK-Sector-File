@@ -28,7 +28,7 @@ jobs:
 
 
       - name: Set Strip Comments
-         run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
+        run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
 
       - name: Compile
         run: |
