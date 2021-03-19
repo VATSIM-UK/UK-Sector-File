@@ -1,0 +1,2 @@
+FIR_COPX:*:*:RINTI:*:*:London S15:LFEE N:*:*:ELTEG
+FIR_COPX:*:*:MOTOX:*:*:London S15:LFEE N:*:*:ING

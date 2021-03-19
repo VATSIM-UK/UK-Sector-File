@@ -1,0 +1,2 @@
+FIR_COPX:*:*:VABIK:*:*:London S2:EBBU:*:*:VABIK
+FIR_COPX:*:*:KONAN:*:*:London S2:EBBU:*:*:KONAN
