@@ -1,11 +1,3 @@
 FIR_COPX:*:*:LUGIS:*:*:LFRR Low:London S19:*:*:LUGIS
 
 FIR_COPX:*:*:KOTEM:*:*:LFRR Low:London S19:*:*:KOTEM
-
-FIR_COPX:*:*:GARMI:*:*:LFRR Low:London S19:*:*:GARMI
-
-FIR_COPX:*:*:ODREP:*:*:LFRR Low:London S19:*:*:ODREP
-
-FIR_COPX:*:*:BOLRO:*:*:LFRR Low:London S19:*:*:BOLRO
-
-FIR_COPX:*:*:ORIST:*:*:LFRR Low:London S19:*:*:ORIST
