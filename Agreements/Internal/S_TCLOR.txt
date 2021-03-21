@@ -1,3 +1,0 @@
-COPX:*:*:BPK:EGSS:*:London AC Worthing:London TC LOREL:*:16000:|VATON
-COPX:*:*:BPK:EGSC:*:London AC Worthing:London TC LOREL:*:16000:|VATON
-COPX:*:*:BPK:EGGW:*:London AC Worthing:London TC LOREL:*:16000:|VATON

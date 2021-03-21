@@ -1,0 +1,10 @@
+COPX:EGFF:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGFH:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGSY:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGGD:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGVN:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGBJ:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGDL:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+COPX:EGVA:*:BPK:*:*:London S26:London S12:29000:*:^BPK
+
+COPX:EGLF:*:BRAIN:*:*:London S26:London S12:23000:*:CLN

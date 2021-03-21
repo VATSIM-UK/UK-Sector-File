@@ -1,0 +1,45 @@
+COPX:EGBB:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+COPX:EGBE:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+COPX:EGNX:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+
+COPX:EGBB:*:*:*:*:London S25:London S26:23000:*:^
+COPX:EGBE:*:*:*:*:London S25:London S26:23000:*:^
+COPX:EGNX:*:*:*:*:London S25:London S26:23000:*:^
+
+COPX:EGGD:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+COPX:EGVN:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+COPX:EGBJ:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+COPX:EGDL:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+COPX:EGVA:*:*:BIG:*:London S25:London S26:23000:*:^BIG
+
+COPX:EGGD:*:*:BPK:*:London S25:London S26:23000:*:^BPK
+COPX:EGVN:*:*:BPK:*:London S25:London S26:23000:*:^BPK
+COPX:EGBJ:*:*:BPK:*:London S25:London S26:23000:*:^BPK
+COPX:EGDL:*:*:BPK:*:London S25:London S26:23000:*:^BPK
+COPX:EGVA:*:*:BPK:*:London S25:London S26:23000:*:^BPK
+
+COPX:EGGD:*:*:*:*:London S25:London S26:23000:*:^
+COPX:EGVN:*:*:*:*:London S25:London S26:23000:*:^
+COPX:EGBJ:*:*:*:*:London S25:London S26:23000:*:^
+COPX:EGDL:*:*:*:*:London S25:London S26:23000:*:^
+COPX:EGVA:*:*:*:*:London S25:London S26:23000:*:^
+
+COPX:EGFF:*:*:BIG:*:London S25:London S26:29000:*:^BIG
+COPX:EGFH:*:*:BIG:*:London S25:London S26:29000:*:^BIG
+COPX:EGSY:*:*:BIG:*:London S25:London S26:29000:*:^BIG
+
+COPX:EGFF:*:*:BPK:*:London S25:London S26:29000:*:^BPK
+COPX:EGFH:*:*:BPK:*:London S25:London S26:29000:*:^BPK
+COPX:EGSY:*:*:BPK:*:London S25:London S26:29000:*:^BPK
+
+COPX:EGFF:*:*:*:*:London S25:London S26:29000:*:^
+COPX:EGFH:*:*:*:*:London S25:London S26:29000:*:^
+COPX:EGSY:*:*:*:*:London S25:London S26:29000:*:^
+
+COPX:*:*:OCK:EGBB:*:London S25:London S26:*:25000:|OCK
+COPX:*:*:OCK:EGBE:*:London S25:London S26:*:25000:|OCK
+COPX:*:*:OCK:EGNX:*:London S25:London S26:*:25000:|OCK
+
+COPX:AVANT:*:*:EGBB:*:London S25:London S26:*:25000:|HEMEL20
+COPX:AVANT:*:*:EGBE:*:London S25:London S26:*:25000:|HEMEL20
+COPX:AVANT:*:*:EGNX:*:London S25:London S26:*:25000:|HEMEL20

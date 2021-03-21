@@ -1,8 +1,0 @@
-COPX:EGBB:*:COWLY:*:*:London TC COWLY:London AC Worthing:19000:*:^COWLY
-COPX:EGBE:*:COWLY:*:*:London TC COWLY:London AC Worthing:19000:*:^COWLY
-
-COPX:EGBB:*:CPT:*:*:London TC COWLY:London AC Worthing:19000:*:^CPT
-COPX:EGBE:*:CPT:*:*:London TC COWLY:London AC Worthing:19000:*:^CPT
-COPX:EGNX:*:CPT:*:*:London TC COWLY:London AC Worthing:22000:*:^CPT
-
-COPX:EGNX:*:SILVA:*:*:London TC COWLY:London AC Worthing:22000:*:^SILVA

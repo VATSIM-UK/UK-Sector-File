@@ -1,0 +1,11 @@
+COPX:EGGW:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGTK:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGWU:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGLF:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGLK:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGTF:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGVO:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGTD:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGHL:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGHI:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC
+COPX:EGHH:*:GWC:*:*:London TC SW:London TC CPT:17000:*:^GWC

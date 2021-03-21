@@ -1,7 +1,0 @@
-COPX:EGCC:*:DTY:*:*:London S27:London AC Dover:31000:*:^DTY
-COPX:EGGP:*:DTY:*:*:London S27:London AC Dover:31000:*:^DTY
-COPX:EGNR:*:DTY:*:*:London S27:London AC Dover:31000:*:^DTY
-
-COPX:EGCC:*:FINMA:*:*:London S27:London AC Dover:31000:*:^FINMA
-COPX:EGGP:*:FINMA:*:*:London S27:London AC Dover:31000:*:^FINMA
-COPX:EGNR:*:FINMA:*:*:London S27:London AC Dover:31000:*:^FINMA

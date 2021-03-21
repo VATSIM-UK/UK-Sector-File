@@ -1,0 +1,8 @@
+COPX:EGLL:*:*:BENBO:*:London TC SW:London S18:17000:*:^MID
+COPX:EGLL:*:*:DRAKE:*:London TC SW:London S18:17000:*:^MID
+
+COPX:EGKK:*:*:BENBO:*:London TC SW:London S18:17000:*:^BENBO
+COPX:EGKK:*:*:WAFFU:*:London TC SW:London S18:17000:*:^WAFFU
+COPX:EGKK:*:SFD:*:*:London TC SW:London S18:17000:*:^SFD
+
+COPX:EGKK:*:BOGNA:*:*:London TC SW:London S18:17000:*:^BOGNA

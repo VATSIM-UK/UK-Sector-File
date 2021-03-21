@@ -1,3 +1,0 @@
-COPX:EGHI:*:NEDUL:THRED:*:SOLENT:London AC Worthing:10000:*:^NEDUL
-
-COPX:EGHH:*:*:THRED:*:SOLENT:London AC Worthing:10000:*:^THRED
