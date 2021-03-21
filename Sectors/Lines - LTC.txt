@@ -42,9 +42,9 @@ DISPLAY:London TC CPT:London S28:London S12
 DISPLAY:London TC CPT:London S34:London S12
 DISPLAY:London AC Dover:London S28:London S12
 DISPLAY:London AC Dover:London S34:London S12
-DISPLAY:London TC DAGGA:LONDON TC DAGGA:London S28
-DISPLAY:London TC DAGGA:LONDON TC DAGGA:London S34
-DISPLAY:London TC DAGGA:LONDON TC DAGGA:London TC WELIN
+DISPLAY:London TC DAGGA:London TC DAGGA:London S28
+DISPLAY:London TC DAGGA:London TC DAGGA:London S34
+DISPLAY:London TC DAGGA:London TC DAGGA:London TC WELIN
 DISPLAY:London TC WELIN:London TC NW:London TC LOREL
 DISPLAY:London TC WELIN:London TC WELIN:London TC DAGGA
 DISPLAY:London S28:London S28:London TC DAGGA
@@ -176,7 +176,7 @@ DISPLAY:London AC Worthing:London AC Worthing:London TC SE
 DISPLAY:London AC Dover:London AC Dover:London AC Worthing
 DISPLAY:London AC Dover:London AC Dover:London TC SW
 DISPLAY:London AC Dover:London AC Dover:London TC SE
-DISPLAY:London TC SE:London TC SE:London TC SW
+DISPLAY:London TC SE:London TC SE:London AC Worthing
 COORD:N050.33.30.000:E000.34.16.000
 COORD:N050.24.05.000:E000.46.11.000
 
@@ -284,7 +284,7 @@ DISPLAY:London AC Dover:London AC Dover:London AC Worthing
 DISPLAY:London TC SW:London TC SW:London TC SE
 DISPLAY:London TC SW:London TC VATON:London TC SW
 DISPLAY:London TC SE:London TC SE:London TC SW
-DISPLAY:London TC SE:London TC SE:London AC VATON
+DISPLAY:London TC SE:London TC SE:London TC VATON
 COORD:N051.29.04.000:W000.27.53.000
 COORD:N051.18.17.000:W000.26.47.000
 
@@ -441,10 +441,10 @@ COORD:N051.48.27.000:E001.36.43.000
 
 SECTORLINE:LTC33b
 DISPLAY:London TC JACKO:London TC JACKO:London S14
-DISPLAY:London TC JACKO:London TC JACKO:London AC SABER
+DISPLAY:London TC JACKO:London TC JACKO:London TC SABER
 DISPLAY:London AC Dover:London S14:London TC JACKO
 DISPLAY:London AC Dover:London S14:London TC SABER
-DISPLAY:London TC SABER:London TC SABER:London AC JACKO
+DISPLAY:London TC SABER:London TC SABER:London TC JACKO
 DISPLAY:London TC SABER:London TC SABER:London S14
 DISPLAY:London S14:London S14:London TC SABER
 DISPLAY:London S14:London S13:London S13
