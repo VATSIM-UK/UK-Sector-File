@@ -3,6 +3,7 @@
 2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Fixed Oxford (EGTK) ATZ circle sector size - thanks to @zyriantdt-x (Ellis Delgado)
 4. AIRAC (2103) - Updated Coordinates following Jersey Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2103) - Updated GUR VOR Coordiantes due to Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
