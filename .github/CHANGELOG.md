@@ -4,6 +4,7 @@
 3. Bug - Fixed Oxford (EGTK) ATZ circle sector size - thanks to @zyriantdt-x (Ellis Delgado)
 4. AIRAC (2103) - Updated Coordinates following Jersey Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2103) - Updated GUR VOR Coordiantes due to Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Enhancement - Added Option to Display Fictional Apron at Hawarden (EGNR) - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
