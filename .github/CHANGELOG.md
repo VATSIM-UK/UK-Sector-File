@@ -8,6 +8,7 @@
 7. Enhancement - Add Hawarden (EGNR) airways departures - thanks to @zyriantdt-x (Ellis Delgado)
 8. Procedure Change - Updated MUAC Delta/Koksy boundary in ownership and lines - thanks to @hsugden (Harry Sugden)
 9. Procedure Change - Removed all references to EURI - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Enhancement - Added St Athan (EGSY) Extended Centrelines - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
