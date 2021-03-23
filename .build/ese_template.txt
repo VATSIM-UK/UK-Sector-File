@@ -25,7 +25,7 @@ Ownership\TC - *\*.txt
 Ownership\AC - *\*.txt
 Ownership\ScAC - East\*.txt
 Ownership\ScAC - West\*.txt
-Ownership\Non-UK\*.txt;remove=EUR Islands.txt
+Ownership\Non-UK\*.txt
 Ownership\Swanwick Mil\*.txt
 Agreements\Airport\*.txt
 Agreements\Internal\*.txt

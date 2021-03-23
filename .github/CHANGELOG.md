@@ -2,7 +2,14 @@
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Fixed Oxford (EGTK) ATZ circle sector size - thanks to @zyriantdt-x (Ellis Delgado)
-4. x. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
+4. AIRAC (2103) - Updated Coordinates following Jersey Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2103) - Updated GUR VOR Coordiantes due to Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Enhancement - Added Option to Display Fictional Apron at Hawarden (EGNR) - thanks to @danielbutton (Daniel Button)
+7. Enhancement - Add Hawarden (EGNR) airways departures - thanks to @zyriantdt-x (Ellis Delgado)
+8. Procedure Change - Updated MUAC Delta/Koksy boundary in ownership and lines - thanks to @hsugden (Harry Sugden)
+9. Procedure Change - Removed all references to EURI - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Enhancement - Added St Athan (EGSY) Extended Centrelines - thanks to @danielbutton (Daniel Button)
+11. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
