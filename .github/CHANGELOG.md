@@ -10,6 +10,7 @@
 9. Procedure Change - Removed all references to EURI - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Enhancement - Added St Athan (EGSY) Extended Centrelines - thanks to @danielbutton (Daniel Button)
 11. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
+12. Enhancement - Improved Hawarden (EGNR) Centrelines - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
