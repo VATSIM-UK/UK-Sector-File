@@ -12,6 +12,7 @@
 11. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
 12. Enhancement - Improved Hawarden (EGNR) Centrelines - thanks to @danielbutton (Daniel Button)
 13. Bug - Fixed S5 -> DUB S - ABLIN/LIPGO Auto-Handoff - thanks to @AleksMax (Aleks Nieszczerzewski)
+x. Enhancement - Added EGBB Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
