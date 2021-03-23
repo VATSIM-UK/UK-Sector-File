@@ -29,4 +29,5 @@ Ownership\Non-UK\*.txt;remove=EUR Islands.txt
 Ownership\Swanwick Mil\*.txt
 Agreements\Airport\*.txt
 Agreements\Internal\*.txt
-Agreements\External\*.txt
+Agreements\External\*.txt;remove=12_AA.txt
+Agreements\External\12_AA.txt
