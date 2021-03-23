@@ -2,6 +2,7 @@
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Fixed Oxford (EGTK) ATZ circle sector size - thanks to @zyriantdt-x (Ellis Delgado)
+X. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
