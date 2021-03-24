@@ -31,3 +31,7 @@ Agreements\Airport\*.txt
 Agreements\Internal\*.txt
 Agreements\External\*.txt;remove=12_AA.txt
 Agreements\External\12_AA.txt
+
+[RADAR]
+Misc\Radar Sites.txt
+Misc\Radar Holes.txt
