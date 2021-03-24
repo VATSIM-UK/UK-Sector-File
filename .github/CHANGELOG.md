@@ -16,7 +16,7 @@
 15. Enhancement - NATS en-route radar sites and radar holes added - thanks to @luke11brown (Luke Brown)
 16. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden (Harry Sugden)
 17. Enhancement - Various minor changes/fixes to Scottish lines and ownership - thanks - thanks to @hsugden (Harry Sugden)
-X. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden (Harry Sugden)
+18. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
