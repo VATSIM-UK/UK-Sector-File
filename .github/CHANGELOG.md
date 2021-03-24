@@ -13,6 +13,7 @@
 12. Enhancement - Improved Hawarden (EGNR) Centrelines - thanks to @danielbutton (Daniel Button)
 13. Bug - Fixed S5 -> DUB S - ABLIN/LIPGO Auto-Handoff - thanks to @AleksMax (Aleks Nieszczerzewski)
 14. Bug - Reordered Gatwick (EGKK) FRANE1Z SID to correct behaviour - thanks to @GeekPro101 (Thomas Mills)
+15. Enhancement - NATS en-route radar sites and radar holes added - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
