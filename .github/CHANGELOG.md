@@ -17,6 +17,7 @@
 16. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden (Harry Sugden)
 17. Enhancement - Various minor changes/fixes to Scottish lines and ownership - thanks - thanks to @hsugden (Harry Sugden)
 18. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Separated the Bealine and maintenance at Heathrow (EGLL) so they may be displayed optionally - thanks to @MrSandyWilly (William Sandford)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
