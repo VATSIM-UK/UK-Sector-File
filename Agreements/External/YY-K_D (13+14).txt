@@ -1,3 +1,4 @@
+;Sector 14
 FIR_COPX:*:*:GALSO:EGKK:*:EDYY Delta:London S14:*:29000:GALSO
 
 FIR_COPX:*:*:NOGRO:EGSS:*:EDYY Delta:London S14:*:28000:NOGRO
@@ -14,3 +15,8 @@ FIR_COPX:*:*:GALSO:EGTO:*:EDYY Delta:London S14:*:26000:GALSO
 FIR_COPX:*:*:NOGRO:*:*:EDYY Delta:London S14:*:*:NOGRO
 FIR_COPX:*:*:ABNED:*:*:EDYY Delta:London S14:*:*:ABNED
 FIR_COPX:*:*:GALSO:*:*:EDYY Delta:London S14:*:*:GALSO
+
+;Sector 13
+FIR_COPX:*:*:NOGRO:*:*:EDYY Delta:London S13:*:*:NOGRO
+FIR_COPX:*:*:ABNED:*:*:EDYY Delta:London S13:*:*:ABNED
+FIR_COPX:*:*:GALSO:*:*:EDYY Delta:London S13:*:*:GALSO

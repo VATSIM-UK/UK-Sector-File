@@ -12,7 +12,15 @@
 11. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
 12. Enhancement - Improved Hawarden (EGNR) Centrelines - thanks to @danielbutton (Daniel Button)
 13. Bug - Fixed S5 -> DUB S - ABLIN/LIPGO Auto-Handoff - thanks to @AleksMax (Aleks Nieszczerzewski)
-x. Enhancement - Added EGBB Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
+14. Bug - Reordered Gatwick (EGKK) FRANE1Z SID to correct behaviour - thanks to @GeekPro101 (Thomas Mills)
+15. Enhancement - NATS en-route radar sites and radar holes added - thanks to @luke11brown (Luke Brown)
+16. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Various minor changes/fixes to Scottish lines and ownership - thanks - thanks to @hsugden (Harry Sugden)
+18. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Separated the Bealine and maintenance at Heathrow (EGLL) so they may be displayed optionally - thanks to @MrSandyWilly (William Sandford)
+20. Bug -  Fixed Erronous Shannon SOTA Defintion - thanks to @luke11brown (Luke Brown)
+21. Enhancement - Added EGBB Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor and Dean Benavidez)
+22. Enhancement - Added EGBB Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)
