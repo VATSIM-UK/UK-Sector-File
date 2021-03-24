@@ -1,2 +1,0 @@
-FIR_COPX:*:*:SASKI:*:*:EDYY Koksy:London S13:*:*:SASKI
-FIR_COPX:*:*:RAPIX:*:*:EDYY Koksy:London S13:*:*:RAPIX
