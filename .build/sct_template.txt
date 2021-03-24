@@ -1,0 +1,76 @@
+Comments.txt
+
+Colours.txt
+
+[INFO]
+Info.txt
+
+[AIRPORT]
+Airports\(Other/)?([A-Z]{4})(/Basic)?.txt;sort=[A-Z]{4}=0
+
+[RUNWAY]
+=00  00  000 000 S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000 000A Show adjacent departure airports
+Airports\*\Runway.txt;sort=[A-Z]{4}=0
+
+[VOR]
+=; UK VOR
+Navaids\VOR_UK.txt
+=; Non-UK VOR
+Navaids\VOR_Non-UK.txt
+
+[NDB]
+=; All NDB
+Navaids\NDB_All.txt
+
+[FIXES]
+Airports\*\Fixes.txt;sort=[A-Z]{4}=0
+Navaids\FIXES_*.txt;sort=FIXES_([A-Za-z0-9_ ]+)=1
+
+[GEO]
+_p1_0_Airports\*\SMR\Geo.txt
+_p1_1_Airports\*\Ground Map\Geo.txt
+
+Misc\Geo_*.txt;remove=Geo_Coastline High Detail.txt
+Airports\*\Range_Rings.txt;sort=[A-Z]{4}=0
+
+=Centrelines N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+Airports\*\Centreline.txt
+
+=Extended centrelines N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+Airports\*\Centreline.txt
+
+[LOW AIRWAY]
+Airways\Conventional\Lower\*.txt
+Airways\RNAV\Lower\*.txt
+
+[HIGH AIRWAY]
+Airways\Conventional\Upper\*.txt
+Airways\RNAV\Upper\*.txt
+
+[ARTCC]
+ARTCC\Danger Areas\*.txt
+
+[ARTCC HIGH]
+ARTCC\High\*.txt
+
+[ARTCC LOW]
+Airports\*\Airspace.txt
+ARTCC\Low\*.txt
+
+[SID]
+Misc\SID_*.txt
+Airports\*\SMAA.txt;sort=[A-Z]{4}=0
+Sectors\Static\*\*.txt
+
+[STAR]
+Sectors\Static\*\*.txt
+Airports\*\RMA.txt;sort=[A-Z]{4}=0
+Misc\STAR_*.txt
+
+[LABELS]
+_p2_1_Airports\*\SMR\Labels.txt
+_p2_2_Airports\*\Ground Map\Labels.txt
+
+[REGIONS]
+Airports*\SMR\Regions.txt;sort=[A-Z]{4}=0
+Misc\Regions_*.txt

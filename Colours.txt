@@ -11,7 +11,8 @@
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
-#define land 8158332
+#define land 5324604
+;Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
 #define OCASregion 0
@@ -25,6 +26,7 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
+#define smrDisused 0
 
 ;SMR Colours
 #define smrACapron 10526880
@@ -40,6 +42,7 @@
 #define smrCCborder 996663
 #define smrCCdisused 1652176
 #define smrCCgrass 3178798
+#define smrCCpurple 7031632
 #define smrCCrwhpts 4973039
 #define smrCCstand 9830399
 #define smrCCtaxiway 13290186
@@ -48,7 +51,7 @@
 #define smrDarkApron 3026478
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
-#define smrGDbuilding 9142113
+#define smrGDBuilding 9142113
 #define smrGDgrass 7058795
 #define smrGDrunway 5329233
 #define smrGDtaxiway 9474192
@@ -68,8 +71,14 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
+#define smrLLConstruction 80
+#define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
+#define smrLLLabel 11842560
+#define smrLLLightGrey 5921370
+#define smrLLMidGrey 3947580
 #define smrLLOutline 6579300
+#define smrLLTaxiway 17219
 #define smrMCYellow 52428
 #define smrMDapron 8816261
 #define smrMDhangar 9408399
@@ -80,6 +89,7 @@
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
+#define smrRunway 0
 #define smrSCGrass 29440
 #define smrSCORunway 5329233
 #define smrSCOTaxiway 9474192
@@ -113,10 +123,10 @@
 #define smrGDbackground 328965
 
 ;Mil SMR
-#define smrmilgrass 4551749
-#define smrmilboundary 6579300
-#define smrmilRoad 6908265
-#define smrmilapron 11908533
-#define smrmilrunway 4934475
-#define smrmiltaxiway 9474192
-#define smrmilbuilding 9142113
+#define smrMilGrass 4551749
+#define smrMilBoundary 6579300
+#define smrMilRoad 6908265
+#define smrMilApron 11908533
+#define smrMilRunway 4934475
+#define smrMilTaxiway 9474192
+#define smrMilBuilding 9142113
