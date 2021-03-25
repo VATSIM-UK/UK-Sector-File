@@ -58,6 +58,13 @@
                     ],
                     "ignore_missing": true
                 },
+                "ground_network": {
+                    "type": "files",
+                    "files": [
+                        "Ground_Network.txt"
+                    ],
+                    "ignore_missing": true
+                },
                 "geo": {
                     "type": "files",
                     "files": [
