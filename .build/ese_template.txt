@@ -11,6 +11,7 @@ Airports\[A-Z]{4}\Freetext.txt;sort=[A-Z]{4}=0
 Misc\Freetext_*.txt;sort=Freetext_([A-Za-z0-9_ ]+)=1
 Airports\[A-Z]{4}\Airspace_Bases.txt;sort=[A-Z]{4}=0
 Airports\[A-Z]{4}\VRPs.txt;sort=[A-Z]{4}=0
+Airports\[A-Z]{4}\SMAA_Bases.txt;sort=[A-Z]{4}=0
 
 [SIDSSTARS]
 Airports\*\Sids.txt;sort=[A-Z]{4}=0
