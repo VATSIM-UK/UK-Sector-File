@@ -65,6 +65,13 @@
                     ],
                     "ignore_missing": true
                 },
+                "ground_network": {
+                    "type": "files",
+                    "files": [
+                        "Ground_Network.txt"
+                    ],
+                    "ignore_missing": true
+                },
                 "ownership": {
                     "type": "files",
                     "files": [
