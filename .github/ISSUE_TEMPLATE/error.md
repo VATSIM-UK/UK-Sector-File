@@ -3,7 +3,7 @@ name: Error
 about: A template for errors - where data in the SF is incorrect (e.g. incorrect frequencies,
   wrongly positioned labels, etc.)
 title: ''
-labels: up-for-grabs, error
+labels: error, up-for-grabs
 assignees: ''
 
 ---
