@@ -326,6 +326,13 @@
                 "type": "folder",
                 "folder": "ARTCC/Danger Areas"
             },
+			"radar": {
+				"type": "files",
+				"files": [
+					"Misc/Radar Holes.txt",
+					"Misc/Radar Sites.txt"
+				]
+			},
             "artcc_low": {
                 "type": "folder",
                 "folder": "ARTCC/Low"
