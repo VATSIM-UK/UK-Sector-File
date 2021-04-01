@@ -3,6 +3,7 @@
 2. Enhancement - Added Ground Networks for SB files to Compiler Config - thanks to @GeekPro101 (Thomas Mills)
 3. Error - Corrected Edinburgh (EGPH) Air Network STIRA Fixes - thanks to @GeekPro101 (Thomas Mills) and (James Taylor)
 4. Bug - Added Missing Alternate Ownership for Warton (EGNO) - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. AIRAC (2104) - Removed Kirkwall (EGPA) W1 Holding Point - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
