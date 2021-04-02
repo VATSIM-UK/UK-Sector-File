@@ -1,1 +1,1 @@
-FIR_COPX:*:*:LIPGO:*:*:London S35:Shannon LIFFY:*:*:LIPGO
+FIR_COPX:*:*:LIPGO:*:*:London S35:SNL:*:*:LIPGO

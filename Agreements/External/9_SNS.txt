@@ -1,3 +1,3 @@
-FIR_COPX:*:*:GAPLI:*:*:London S9:Shannon SOTA:*:*:GAPLI
-FIR_COPX:*:*:LULOX:*:*:London S9:Shannon SOTA:*:*:LULOX
-FIR_COPX:*:*:LESLU:*:*:London S9:Shannon SOTA:*:*:LESLU
+FIR_COPX:*:*:GAPLI:*:*:London S9:SNS:*:*:GAPLI
+FIR_COPX:*:*:LULOX:*:*:London S9:SNS:*:*:LULOX
+FIR_COPX:*:*:LESLU:*:*:London S9:SNS:*:*:LESLU

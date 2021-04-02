@@ -1,1 +1,1 @@
-FIR_COPX:*:*:BAGSO:*:*:London S7:Shannon LIFFY:*:*:BAGSO
+FIR_COPX:*:*:BAGSO:*:*:London S7:SNE:*:*:BAGSO
