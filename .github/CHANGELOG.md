@@ -1,9 +1,32 @@
-x. Enhancement - Added SMAA Bases for various airports OCAS - thanks to @Bucklerz (Reece Buckley)
+# Changes from release 2021/03 to 2021/04
+1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
+2. Enhancement - Added Ground Networks for SB files to Compiler Config - thanks to @GeekPro101 (Thomas Mills)
+3. Error - Corrected Edinburgh (EGPH) Air Network STIRA Fixes - thanks to @GeekPro101 (Thomas Mills) and (James Taylor)
+4. Bug - Added Missing Alternate Ownership for Warton (EGNO) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Fixed Oxford (EGTK) ATZ circle sector size - thanks to @zyriantdt-x (Ellis Delgado)
+4. AIRAC (2103) - Updated Coordinates following Jersey Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2103) - Updated GUR VOR Coordiantes due to Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. Enhancement - Added Option to Display Fictional Apron at Hawarden (EGNR) - thanks to @danielbutton (Daniel Button)
+7. Enhancement - Add Hawarden (EGNR) airways departures - thanks to @zyriantdt-x (Ellis Delgado)
+8. Procedure Change - Updated MUAC Delta/Koksy boundary in ownership and lines - thanks to @hsugden (Harry Sugden)
+9. Procedure Change - Removed all references to EURI - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. Enhancement - Added St Athan (EGSY) Extended Centrelines - thanks to @danielbutton (Daniel Button)
+11. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
+12. Enhancement - Improved Hawarden (EGNR) Centrelines - thanks to @danielbutton (Daniel Button)
+13. Bug - Fixed S5 -> DUB S - ABLIN/LIPGO Auto-Handoff - thanks to @AleksMax (Aleks Nieszczerzewski)
+14. Bug - Reordered Gatwick (EGKK) FRANE1Z SID to correct behaviour - thanks to @GeekPro101 (Thomas Mills)
+15. Enhancement - NATS en-route radar sites and radar holes added - thanks to @luke11brown (Luke Brown)
+16. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Various minor changes/fixes to Scottish lines and ownership - thanks - thanks to @hsugden (Harry Sugden)
+18. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Separated the Bealine and maintenance at Heathrow (EGLL) so they may be displayed optionally - thanks to @MrSandyWilly (William Sandford)
+20. Bug -  Fixed Erronous Shannon SOTA Defintion - thanks to @luke11brown (Luke Brown)
+21. Enhancement - Added Birmingham (EGBB) Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor and Dean Benavidez)
+22. Enhancement - Added Edinburgh (EGPH) Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
 
 # Changes from release 2021/01 to 2021/02
 1. AIRAC (2102) - Manchester (EGCC) Runway Headings Update - thanks to @WillShaw1100 (William Shaw)

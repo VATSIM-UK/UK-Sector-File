@@ -1,3 +1,0 @@
-FIR_COPX:*:*:NOGRO:*:*:EDYY Delta:London S13:*:*:NOGRO
-FIR_COPX:*:*:ABNED:*:*:EDYY Delta:London S13:*:*:ABNED
-FIR_COPX:*:*:GALSO:*:*:EDYY Delta:London S13:*:*:GALSO
