@@ -1,0 +1,26 @@
+COPX:*:*:*:EBAW:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EBBR:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EBCI:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EBCV:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EBMB:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EBLG:*:London S2:London S26:*:23000:|
+
+COPX:*:*:*:EHAM:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHRD:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHEH:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHBK:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHWO:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHVK:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHGR:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHMZ:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHSE:*:London S2:London S26:*:23000:|
+COPX:*:*:*:EHBD:*:London S2:London S26:*:23000:|
+
+COPX:*:*:*:LFOK:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPB:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPC:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPG:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPN:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPO:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPT:*:London S2:London S26:*:23000:|
+COPX:*:*:*:LFPV:*:London S2:London S26:*:23000:|
