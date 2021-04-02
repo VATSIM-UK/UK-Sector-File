@@ -1,3 +1,5 @@
+x. Enhancement - Added Shannon LFUNC's - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
 2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
