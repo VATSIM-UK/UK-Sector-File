@@ -1,0 +1,34 @@
+COPX:*:*:SFD:LFPG:*:London S25:London S18:*:29000:SFD
+COPX:*:*:SFD:LFPB:*:London S25:London S18:*:29000:SFD
+COPX:*:*:SFD:LFPT:*:London S25:London S18:*:29000:SFD
+
+COPX:*:*:SFD:LFOB:*:London S25:London S18:*:29000:SFD
+COPX:*:*:SFD:LFOP:*:London S25:London S18:*:29000:SFD
+
+COPX:*:*:GWC:LFPO:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFPV:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFPN:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFPM:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFJR:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFRM:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOD:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOF:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOQ:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOR:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOT:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOU:*:London S25:London S18:*:27000:GWC
+COPX:*:*:GWC:LFOZ:*:London S25:London S18:*:27000:GWC
+
+COPX:*:*:MID:LFPO:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFPV:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFPN:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFPM:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFJR:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFRM:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOD:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOF:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOQ:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOR:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOT:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOU:*:London S25:London S18:*:27000:MID
+COPX:*:*:MID:LFOZ:*:London S25:London S18:*:27000:MID
