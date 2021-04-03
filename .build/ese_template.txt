@@ -1,0 +1,37 @@
+Comments.txt
+
+[POSITIONS]
+Misc\Pre-Positions.txt
+Airports\*\Positions.txt;sort=[A-Z]{4}=0
+Misc\Positions_*.txt;sort=Positions_([A-Za-z0-9_ ]+)=1
+Airports\*\Positions_Mentor.txt;sort=[A-Z]{4}=0
+
+[FREETEXT]
+Airports\[A-Z]{4}\Freetext.txt;sort=[A-Z]{4}=0
+Misc\Freetext_*.txt;sort=Freetext_([A-Za-z0-9_ ]+)=1
+Airports\[A-Z]{4}\Airspace_Bases.txt;sort=[A-Z]{4}=0
+Airports\[A-Z]{4}\VRPs.txt;sort=[A-Z]{4}=0
+
+[SIDSSTARS]
+Airports\*\Sids.txt;sort=[A-Z]{4}=0
+Airports\*\Stars.txt;sort=[A-Z]{4}=0
+
+[AIRSPACE]
+Airports\*\Sector.txt;sort=[A-Z]{4}=0
+Sectors\Lines - *.txt
+Ownership\Alternate\Airports - *\*.txt
+Airports\*\Ownership.txt;sort=[A-Z]{4}=0
+Ownership\TC - *\*.txt
+Ownership\AC - *\*.txt
+Ownership\ScAC - East\*.txt
+Ownership\ScAC - West\*.txt
+Ownership\Non-UK\*.txt
+Ownership\Swanwick Mil\*.txt
+Agreements\Airport\*.txt
+Agreements\Internal\*.txt
+Agreements\External\*.txt;remove=12_AA.txt
+Agreements\External\12_AA.txt
+
+[RADAR]
+Misc\Radar Sites.txt
+Misc\Radar Holes.txt
