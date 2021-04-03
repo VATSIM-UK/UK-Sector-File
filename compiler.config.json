@@ -279,7 +279,7 @@
                         "Agreements/External/12_AA.txt"
                     ]
                 }
-            },
+            ],
             "freetext": {
                 "type": "files",
                 "files": [
