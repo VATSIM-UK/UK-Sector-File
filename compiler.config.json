@@ -258,17 +258,17 @@
                 {
                     "type": "folder",
                     "folder": "Agreements/Airport",
-                    "recursive": true
+                    "recursive": true,
                 },
                 {
                     "type": "folder",
                     "folder": "Agreements/Internal",
-                    "recursive": true
+                    "recursive": true,
                 },
                 {
                     "type": "folder",
                     "folder": "Agreements/External",
-                    "recursive": true
+                    "recursive": true,
                     "exclude": [
                             "12_AA.txt"
                         ]
