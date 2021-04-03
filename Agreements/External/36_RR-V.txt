@@ -1,0 +1,4 @@
+FIR_COPX:*:*:ANNET:*:*:London S36:LFRR V:*:*:ANNET
+FIR_COPX:*:*:SALCO:*:*:London S36:LFRR V:*:*:SALCO
+FIR_COPX:*:*:MANIG:*:*:London S36:LFRR V:*:*:MANIG
+FIR_COPX:*:*:SKESO:*:*:London S36:LFRR V:*:*:SKESO
