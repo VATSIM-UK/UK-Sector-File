@@ -1,1 +1,1 @@
-FIR_COPX:*:*:BAGSO:*:*:London S7:SNE:*:*:BAGSO
+FIR_COPX:*:*:BAGSO:*:*:London S7:EISN 4AU:*:*:BAGSO
