@@ -387,7 +387,7 @@
                 {
                     "type": "folder",
                     "folder": "Misc",
-                    "recursive": true
+                    "recursive": true,
                     "pattern": "^STAR_*",
                 }
             ],
