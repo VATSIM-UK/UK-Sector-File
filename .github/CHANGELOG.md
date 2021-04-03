@@ -1,4 +1,5 @@
-x. Enhancement - Added Shannon LFUNC's - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
+x. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
+X. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
