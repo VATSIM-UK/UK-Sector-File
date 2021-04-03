@@ -1,4 +1,4 @@
-x. Enhancement - Added Shannon LFUNC's - thanks to @Bucklerz (Reece Buckley)
+x. Enhancement - Added Shannon LFUNC's - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
