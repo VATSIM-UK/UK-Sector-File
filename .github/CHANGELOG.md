@@ -1,4 +1,4 @@
-x. Enhancement - Added Shannon LFUNC's - thanks to @Bucklerz (Reece Buckley)
+x. Enhancement - Added Shannon LFUNC's - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
