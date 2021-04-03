@@ -274,7 +274,7 @@
                         ]
                 },
                 {
-                    "type": "file",
+                    "type": "files",
                     "files": [
                         "Agreements/External/12_AA.txt"
                     ]
