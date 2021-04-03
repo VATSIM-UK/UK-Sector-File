@@ -1,0 +1,7 @@
+FIR_COPX:*:*:KESAX:EGKK:*:LFEE N:London AC Dover:*:35000:KESAX
+
+FIR_COPX:*:*:MOTOX:*:*:LFEE N:London AC Dover:*:*:MOTOX
+FIR_COPX:*:*:RATUK:*:*:LFEE N:London AC Dover:*:*:RATUK
+FIR_COPX:*:*:ABNUR:*:*:LFEE N:London AC Dover:*:*:ABNUR
+FIR_COPX:*:*:KESAX:*:*:LFEE N:London AC Dover:*:*:KESAX
+FIR_COPX:*:*:SOSUN:*:*:LFEE N:London AC Dover:*:*:SOSUN
