@@ -35,7 +35,7 @@ London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-:0301:0377::
 Scottish Control Hebrides Low:Scottish Control:128.670:SHL:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose North:132.490:SMN:E:SCO:CTR:-:-:3601:3632:: ;8.33 kHz
+Scottish Control Montrose North:132.470:SMN:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose South:126.920:SMS:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Galloway North:Scottish Control:121.370:STGN:S:STC:CTR:-:-:3601:3632::
 
