@@ -1,0 +1,412 @@
+{
+    "options": {
+        "sct_output": ".build/bin/UK.sct",
+        "ese_output": ".build/bin/UK.ese",
+        "rwy_output": ".build/bin/UK.rwy",
+        "replace": [
+            {
+                "token": "{YEAR}",
+                "type": "date",
+                "format": "yyyy"
+            },
+            {
+                "token": "{BUILD}",
+                "type": "date",
+                "format": "yyyy-MM-dd HH:mm:ss"
+            },
+            {
+                "token": "{VERSION}",
+                "type": "version"
+            }
+        ]
+    },
+    "includes": {
+        "airports": {
+            "Airports": {
+                "airspace": {
+                    "type": "files",
+                    "files": [
+                        "Airspace.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "basic": {
+                    "type": "files",
+                    "files": [
+                        "Basic.txt"
+                    ]
+                },
+                "centrelines": {
+                    "type": "files",
+                    "files": [
+                        "Centreline.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "fixes": {
+                    "type": "files",
+                    "files": [
+                        "Fixes.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "freetext": {
+                    "type": "files",
+                    "files": [
+                        "Freetext.txt",
+                        "SMAA_Bases.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "geo": {
+                    "type": "files",
+                    "files": [
+                        "Range_Rings.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "ground_network": {
+                    "type": "files",
+                    "files": [
+                        "Ground_Network.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "ownership": {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "positions": {
+                    "type": "files",
+                    "files": [
+                        "Positions.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "positions_mentor": {
+                    "type": "files",
+                    "files": [
+                        "Positions_Mentor.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "sid_airspace": {
+                    "type": "files",
+                    "files": [
+                        "RMA.txt",
+                        "SMAA.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "runways": {
+                    "type": "files",
+                    "files": [
+                        "Runway.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "sectors": {
+                    "type": "files",
+                    "files": [
+                        "Sector.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "sids": {
+                    "type": "files",
+                    "files": [
+                        "Sids.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "stars": {
+                    "type": "files",
+                    "files": [
+                        "Stars.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "smr": {
+                    "geo": {
+                        "type": "files",
+                        "files": [
+                            "SMR/Geo.txt"
+                        ],
+                        "ignore_missing": true
+                    },
+                    "regions": {
+                        "type": "files",
+                        "files": [
+                            "SMR/Regions.txt"
+                        ],
+                        "ignore_missing": true
+                    },
+                    "labels": {
+                        "type": "files",
+                        "files": [
+                            "SMR/Labels.txt"
+                        ],
+                        "ignore_missing": true
+                    }
+                },
+                "ground_map": {
+                    "geo": {
+                        "type": "files",
+                        "files": [
+                            "Ground Map/Geo.txt"
+                        ],
+                        "ignore_missing": true,
+                        "except_where_exists": "SMR/Geo.txt"
+                    },
+                    "regions": {
+                        "type": "files",
+                        "files": [
+                            "Ground Map/Regions.txt"
+                        ],
+                        "ignore_missing": true,
+                        "except_where_exists": "SMR/Regions.txt"
+                    },
+                    "labels": {
+                        "type": "files",
+                        "files": [
+                            "Ground Map/Labels.txt"
+                        ],
+                        "ignore_missing": true,
+                        "except_where_exists": "SMR/Labels.txt"
+                    }
+                },
+                "vrps": {
+                    "type": "files",
+                    "files": [
+                        "VRPs.txt"
+                    ],
+                    "ignore_missing": true
+                }
+            }
+        },
+        "enroute": {
+            "sector_lines": {
+                "type": "folder",
+                "folder": "Sectors/"
+            },
+            "ownership": [
+                {
+                    "type": "folder",
+                    "folder": "Ownership/TC - LTC"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/TC - MPC"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/TC - STC"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/AC - Central"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/AC - North"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/AC - South"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/AC - West"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/ScAC - East"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/ScAC - West"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/Swanwick Mil"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/Alternate",
+                    "recursive": true
+                },
+                {
+                    "type": "folder",
+                    "folder": "Ownership/Non-UK",
+                    "exclude": [
+                        "EUR Islands.txt"
+                    ]
+                }
+            ],
+            "positions": {
+                "type": "files",
+                "files": [
+                    "Misc/Positions_Area Positions 1 UK Permanent.txt",
+                    "Misc/Positions_Area Positions 2 UK Event.txt",
+                    "Misc/Positions_Area Positions 3 UK Spares.txt",
+                    "Misc/Positions_Area Positions 3 UK.txt",
+                    "Misc/Positions_Area Positions 4 External.txt"
+                ]
+            }
+        },
+        "misc": {
+            "agreements": {
+                "type": "folder",
+                "folder": "Agreements",
+                "recursive": true
+            },
+            "freetext": {
+                "type": "files",
+                "files": [
+                    "Misc/Freetext_Airspace Bases.txt",
+                    "Misc/Freetext_Solent Airspace Bases.txt"
+                ]
+            },
+            "colours": {
+                "type": "files",
+                "files": [
+                    "Colours.txt"
+                ]
+            },
+            "info": {
+                "type": "files",
+                "files": [
+                    "Info.txt"
+                ]
+            },
+            "file_headers": {
+                "type": "files",
+                "files": [
+                    "Comments.txt"
+                ]
+            },
+            "pre_positions": {
+                "type": "files",
+                "files": [
+                    "Misc/Pre-Positions.txt"
+                ]
+            },
+            "fixes": {
+                "type": "files",
+                "files": [
+                    "_data/Old/Runway Fixes.txt",
+                    "Navaids/FIXES_CICZ.txt",
+                    "Navaids/FIXES_Lat Lon.txt",
+                    "Navaids/FIXES_Non-UK.txt",
+                    "Navaids/FIXES_Old.txt",
+                    "Navaids/FIXES_PHONETIC.txt",
+                    "Navaids/FIXES_SIDS-STARS.txt",
+                    "Navaids/FIXES_UK.txt",
+                    "Navaids/FIXES_Virtual.txt",
+                    "Navaids/FIXES_Tacan_Routes.txt"
+                ]
+            },
+            "ndbs": {
+                "type": "files",
+                "files": [
+                    "Navaids/NDB_All.txt"
+                ]
+            },
+            "vors": {
+                "type": "files",
+                "files": [
+                    "Navaids/VOR_UK.txt",
+                    "Navaids/VOR_Non-UK.txt"
+                ]
+            },
+            "danger_areas": {
+                "type": "folder",
+                "folder": "ARTCC/Danger Areas"
+            },
+            "artcc_low": {
+                "type": "folder",
+                "folder": "ARTCC/Low"
+            },
+            "artcc_high": {
+                "type": "folder",
+                "folder": "ARTCC/High"
+            },
+            "lower_airways": [
+                {
+                    "type": "folder",
+                    "folder": "Airways/Conventional/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/RNAV/Lower"
+                }
+            ],
+            "upper_airways": [
+                {
+                    "type": "folder",
+                    "folder": "Airways/Conventional/Upper"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/RNAV/Upper"
+                }
+            ],
+            "sid_airspace": {
+                "type": "files",
+                "files": [
+                    "Misc/SID_Military Corridors.txt"
+                ]
+            },
+            "star_airspace": [
+                {
+                    "type": "folder",
+                    "folder": "Sectors/Static",
+                    "recursive": true
+                },
+                {
+                    "type": "files",
+                    "files": [
+                        "Misc/STAR_ASR.txt",
+                        "Misc/STAR_CPT Gate.txt",
+                        "Misc/STAR_EXMOR Burnham Line.txt",
+                        "Misc/STAR_HON Gate.txt",
+                        "Misc/STAR_Lands End Transit Corridor.txt",
+                        "Misc/STAR_Midlands Gate.txt",
+                        "Misc/STAR_NIMAT-ROTEV Buffer.txt",
+                        "Misc/STAR_SOLENT Forest Gate.txt",
+                        "Misc/STAR_La Manche Release Area.txt"
+                    ]
+                }
+            ],
+            "geo": {
+                "type": "files",
+                "files": [
+                    "Misc/Geo_City Transition Tracks.txt",
+                    "Misc/Geo_GB_Coastline Medium Detail.txt",
+                    "Misc/Geo_Coastline High Detail.txt",
+                    "Misc/Geo_Merseyside Coastline.txt",
+                    "Misc/Geo_Motorways.txt",
+                    "Misc/Geo_MSA.txt",
+                    "Misc/Geo_Rivers.txt"
+                ]
+            },
+            "regions": {
+                "type": "files",
+                "files": [
+                    "Misc/Regions_LTMA Airfield CAS.txt",
+                    "Misc/Regions_Severn Buffers.txt",
+                    "Misc/Regions_Uncontrolled airspace.txt"
+                ]
+            },
+            "active_runways": {
+                "type": "files",
+                "files": [
+                    "UK.rwy"
+                ]
+            }
+        }
+    }
+}

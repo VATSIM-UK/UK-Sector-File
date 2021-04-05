@@ -1,0 +1,1 @@
+FIR_COPX:*:*:LELNA:LFRD:*:London AC Worthing:LFRR Low:*:25000:LELNA

@@ -1,13 +1,14 @@
 ---
 name: Bug
-about: A template for bugs - errors in sector file functionality.
+about: A template for bugs - where ES doesn't work correctly when using data from
+  the SF.
 title: ''
 labels: bug, up-for-grabs
 assignees: ''
 
 ---
 
-# What is the bug/ error?
+# What is the bug?
 (when does it happen - e.g. what circumstances; where is it - for line drawing errors, etc.)
 
 # What is the expected functionality?
