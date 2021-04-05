@@ -15,6 +15,7 @@
 ;Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
+#define MSAcones 11206655
 #define OCASregion 0
 #define OCASregionGrey 3749687
 #define rangering 4227200
