@@ -1,8 +1,44 @@
-;Shanwick
-EGGX_FSS:Shanwick Oceanic:131.800:GXO:GXO:EGGX:FSS:-:-::::::
+;Shanwick Oceanic
+EGGX_FSS:Shanwick Oceanic:131.800:GXO:GXO:EGGX:FSS:-:-:
+EGGX_CTR:Shanwick Oceanic:131.800:GXO:GXO:EGGX:CTR:-:-:
+EGGX_A_FSS:Shanwick Oceanic:131.550:GXA:GXA:EGGX:FSS:-:-:
+EGGX_A_CTR:Shanwick Oceanic:131.550:GXA:GXA:EGGX:CTR:-:-:
+EGGX_B_FSS:Shanwick Oceanic:131.520:GXB:GXB:EGGX:FSS:-:-:
+EGGX_B_CTR:Shanwick Oceanic:131.520:GXB:GXB:EGGX:CTR:-:-:
+EGGX_C_FSS:Shanwick Oceanic:131.650:GXC:GXC:EGGX:FSS:-:-:
+EGGX_C_CTR:Shanwick Oceanic:131.650:GXC:GXC:EGGX:CTR:-:-:
+EGGX_D_FSS:Shanwick Oceanic:131.750:GXD:GXD:EGGX:FSS:-:-:
+EGGX_D_CTR:Shanwick Oceanic:131.750:GXD:GXD:EGGX:CTR:-:-:
+EGGX_F_FSS:Shanwick Oceanic:131.850:GXF:GXF:EGGX:FSS:-:-:
+EGGX_F_CTR:Shanwick Oceanic:131.850:GXF:GXF:EGGX:CTR:-:-:
 
-;Gander
-CZQX_FSS:Gander Oceanic:131.700:QXO:QXO:CZQX:FSS::::::::
+EGGX_DEL:Shanwick Delivery:131.200:GXOD:GXO:EGGX:DEL:-:-:
+EGGX_A_DEL:Shanwick Delivery:131.520:GXAD:GXA:EGGX:DEL:-:-:
+EGGX_B_DEL:Shanwick Delivery:131.620:GXBD:GXB:EGGX:DEL:-:-:
+EGGX_C_DEL:Shanwick Delivery:131.720:GXCD:GXC:EGGX:DEL:-:-:
+EGGX_D_DEL:Shanwick Delivery:131.900:GXDD:GXD:EGGX:DEL:-:-:
+EGGX_F_DEL:Shanwick Delivery:131.600:GXFD:GXF:EGGX:DEL:-:-:
+
+;Gander Oceanic
+CZQX_FSS:Gander Oceanic:131.700:QXO:QXO:CZQX:FSS:-:-:
+CZQX_CTR:Gander Oceanic:131.700:QXO:QXO:CZQX:CTR:-:-:
+CZQX_A_FSS:Gander Oceanic:131.570:QXA:QXO:CZQX:FSS:-:-:
+CZQX_A_CTR:Gander Oceanic:131.570:QXA:QXO:CZQX:CTR:-:-:
+CZQX_B_FSS:Gander Oceanic:131.670:QXB:QXO:CZQX:FSS:-:-:
+CZQX_B_CTR:Gander Oceanic:131.670:QXB:QXO:CZQX:CTR:-:-:
+CZQX_C_FSS:Gander Oceanic:131.770:QXC:QXO:CZQX:FSS:-:-:
+CZQX_C_CTR:Gander Oceanic:131.770:QXC:QXO:CZQX:CTR:-:-:
+CZQX_D_FSS:Gander Oceanic:131.870:QXD:QXO:CZQX:FSS:-:-:
+CZQX_D_CTR:Gander Oceanic:131.870:QXD:QXO:CZQX:CTR:-:-:
+CZQX_F_FSS:Gander Oceanic:131.720:QXF:QXO:CZQX:FSS:-:-:
+CZQX_F_CTR:Gander Oceanic:131.720:QXF:QXO:CZQX:CTR:-:-:
+
+CZQX_DEL:Gander Delivery:131.000:QXOD:QXO:CZQX:DEL:-:-:
+CZQX_A_DEL:Gander Delivery:131.120:QXAD:QXA:CZQX:DEL:-:-:
+CZQX_B_DEL:Gander Delivery:131.220:QXBD:QXB:CZQX:DEL:-:-:
+CZQX_C_DEL:Gander Delivery:131.320:QXCD:QXC:CZQX:DEL:-:-:
+CZQX_D_DEL:Gander Delivery:131.400:QXDD:QXD:CZQX:DEL:-:-:
+CZQX_F_DEL:Gander Delivery:131.100:QXFD:QXF:CZQX:DEL:-:-:
 
 ;Amsterdam and Maastricht
 EHAA_W_CTR:Amsterdam Radar:125.750:A:C:EHAA:CTR:AMS:RDR:2700:2777

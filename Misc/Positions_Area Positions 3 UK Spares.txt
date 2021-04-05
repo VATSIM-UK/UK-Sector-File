@@ -1,30 +1,43 @@
-;Available London FIR (London/Scottish ACC/TCC) frequencies
+;Unallocated UK (London/Scottish ACC/TCC) frequencies
 
-;North-West Bandbox
-London Control:London Control:126.770:LWN:L:LON:CTR:-:-:::N053.39.29.755:W001.07.20.927:N051.18.21.496:W004.09.51.334
+;North
+London Control:London Control:126.770:LWN:L:LON:CTR:-:-:0301:0377:: ;S11
+London Control S7:London Control:135.570:L7:L:LON:CTR:-:-:0301:0377::
 
 ;Central
-London Control S27:London Control:129.200:L27:L:LON:CTR:-:-::
+London Control S27:London Control:129.200:L27:L:LON:CTR:-:-:0301:0377::
 
 ;South
-London Control S2:London Control:127.420:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
-London Control S18:London Control:135.320:L:L:LON:CTR:-:-:::N051.32.26.870:W002.43.29.830
-London Control S19:London Control:135.050:LWS:L:LON:CTR:-:-:0301:0377:N051.18.21.496:W004.09.51.334:N051.12.49.331:E000.03.49.130
-London Control S16:London Control:136.600:L16:L:LON:CTR:-:-:0301:0377::
-London Control S17:London Control:128.420:L:L:LON:CTR:-:-:0301:0377:N051.32.26.870:W002.43.29.830
+London Control S1:London Control:132.820:L1:L:LON:CTR:-:-:0301:0377::
+London Control S2:London Control:127.420:L2:L:LON:CTR:-:-:0301:0377::
+London Control S16:London Control:133.470:L16:L:LON:CTR:-:-:0301:0377::
+London Control S17:London Control:128.420:L17:L:LON:CTR:-:-:0301:0377::
+London Control S18:London Control:135.050:L18:L:LON:CTR:-:-:0301:0377::
+London Control S19:London Control:134.450:LWS:L:LON:CTR:-:-:0301:0377::
+London Control S24:London Control:134.450:L24:L:LON:CTR:-:-:0301:0377::
+London Control S25:London Control:132.170:L25:L:LON:CTR:-:-:0301:0377::
+
+;West
+London Control S35:London Control:135.250:L35:L:LON:CTR:-:-:0301:0377:: ;EURW_FSS
 
 ;TC Midlands
-London Control:London Control:128.470:TCW:L:LTC:CTR:-:-::
+London Control TC WELIN E:London Control:128.470:TCWE:L:LTC:CTR:-:-:0301:0377::
 
 ;TC South
-London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377:N051.03.50.110:E000.54.58.144
+London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377::
+London Control TC GODLU:London Control:135.320:TCSG:L:LTC:CTR:-:-:0301:0377::
+London Control TC OCK:London Control:129.070:TCSO:L:LTC:CTR:-:-:0301:0377::
 
 ;TC Capital
-London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-::
+London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-:0301:0377::
 
 ;Scottish
-Scottish Control Hebrides:Scottish Control:133.670:SEH:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Hebrides Low:Scottish Control:128.670:SHL:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Montrose North:132.490:SMN:E:SCO:CTR:-:-:3601:3632:: ;8.33 kHz
+Scottish Control Montrose South:126.920:SMS:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Galloway North:Scottish Control:121.370:STGN:S:STC:CTR:-:-:3601:3632::
 
 ;London Info
-London Information:London Information:125.470:LI:C:EGTT:CTR:-:-:::N051.28.39.000:W000.27.41.000
+London Information:London Information:125.470:LI:C:EGTT:CTR:-:-::
