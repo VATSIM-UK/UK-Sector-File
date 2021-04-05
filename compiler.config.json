@@ -54,7 +54,6 @@
                     "type": "files",
                     "files": [
                         "Freetext.txt",
-                        "Airspace_Bases.txt",
                         "SMAA_Bases.txt"
                     ],
                     "ignore_missing": true
