@@ -8,6 +8,7 @@
 6. AIRAC (2104) - Updated Kirkwall (EGPA) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Enhancement - Added Standard Airways Routings for Exeter (EGTE) - thanks to @danielbutton (Daniel Button)
 8. Enhancement - Added SMAA Bases for various OCAS airports - thanks to @Bucklerz (Reece Buckley)
+9. Procedure Change - Add DVR RFC Area - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
