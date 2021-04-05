@@ -2,6 +2,7 @@
 #define arrester 6914198
 #define buffercolour 7884373
 #define building 10534048
+#define CCFAVA 11206655
 #define centrelinecolour 15790135
 #define col_gate 3953980
 #define coast 32896
@@ -15,7 +16,6 @@
 ;Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
-#define MSAcones 11206655
 #define OCASregion 0
 #define OCASregionGrey 3749687
 #define rangering 4227200
