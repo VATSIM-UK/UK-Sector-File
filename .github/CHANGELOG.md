@@ -11,6 +11,7 @@
 9. Procedure Change - Add DVR RFC Area - thanks to @Bucklerz (Reece Buckley)
 10. Error - Removed duplicate ownership codes in EGGD, EGAE, EGLL, EGPK, and EGWU - thanks to @GeekPro101 (Thomas Mills)
 11. Enhancement - Added London Heliport (EGLW) ownership and runway - thanks to @hsugden (Harry Sugden)
+X. Error - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
