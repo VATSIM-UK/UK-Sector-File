@@ -14,6 +14,7 @@
 12. Enhancement - Added Hawarden RMZ - thanks to @cbyworth (Chad Byworth)
 13. Procedure Change - Added Manchester (EGCC) Planner position - thanks to @hsugden (Harry Sugden)
 14. Error - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden (Harry Sugden)
+15. Error - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
