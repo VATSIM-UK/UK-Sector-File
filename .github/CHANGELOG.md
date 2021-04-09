@@ -16,6 +16,7 @@
 14. Error - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden (Harry Sugden)
 15. Error - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 16. Bug - Corrected Erroneous MTMA Outbound Agreements via ARSAT - thanks to @AleksMax (Aleks Nieszczerzewski)
+17. Enhancement - Refactored airspace bases to be consistent with how they are compiled - thanks to @AndyTWF (Andy Ford)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
