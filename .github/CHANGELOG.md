@@ -8,8 +8,12 @@
 6. AIRAC (2104) - Updated Kirkwall (EGPA) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Enhancement - Added Standard Airways Routings for Exeter (EGTE) - thanks to @danielbutton (Daniel Button)
 8. Enhancement - Added SMAA Bases for various OCAS airports - thanks to @Bucklerz (Reece Buckley)
-X. Procedure Change - Added Manchester (EGCC) Planner position - thanks to @hsugden (Harry Sugden)
-X. Error - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden (Harry Sugden)
+9. Procedure Change - Add DVR RFC Area - thanks to @Bucklerz (Reece Buckley)
+10. Error - Removed duplicate ownership codes in EGGD, EGAE, EGLL, EGPK, and EGWU - thanks to @GeekPro101 (Thomas Mills)
+11. Enhancement - Added London Heliport (EGLW) ownership and runway - thanks to @hsugden (Harry Sugden)
+12. Enhancement - Added Hawarden RMZ - thanks to @cbyworth (Chad Byworth)
+13. Procedure Change - Added Manchester (EGCC) Planner position - thanks to @hsugden (Harry Sugden)
+14. Error - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
