@@ -326,13 +326,13 @@
             "radars": {
                 "type": "files",
                 "files": [
-                    "Radar Sites.txt"
+                    "Misc/Radar Sites.txt"
                 ]
             },
             "radar_holes": {
                 "type": "files",
                 "files": [
-                    "Radar Holes.txt"
+                    "Misc/Radar Holes.txt"
                 ]
             },
             "artcc_low": {
