@@ -1,4 +1,4 @@
 ; Holding Points
-"A"  N55.58.31.760   W3.58.8.99 standHold
+"A" N055.58.31.760 W003.58.8.990 standHold
 "B"  N55.58.29.820   W3.58.17.63 standHold
 "C"  N55.58.28.740  W3.58.23.57 standHold
