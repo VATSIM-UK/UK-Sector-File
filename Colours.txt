@@ -29,6 +29,10 @@
 #define smrDisused 0
 
 ;SMR Colours
+#define smrPGbackground 488718
+#define smrPGTaxiway 6383724
+#define smrPGtaxiline 61166
+#define smrPGdissued 11911865
 #define smrACapron 10526880
 #define smrApron 5197647
 #define smrBBbuilding 4823767
