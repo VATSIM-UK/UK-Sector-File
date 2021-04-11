@@ -1,4 +1,5 @@
-X. Enhancement - Add Cumbernauld SMR - thanks to @JackG2004 (Jack Gil)
+X. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
+
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
