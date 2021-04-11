@@ -1,5 +1,5 @@
 ; Start Cumbernauld (EGPG) Regions
-; - BG
+;BG
 REGIONNAME Cumbernauld
 488718 N055.58.26.189 W003.58.56.335
 N055.58.17.697 W003.58.51.722
