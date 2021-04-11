@@ -1,4 +1,3 @@
-; Start Cumbernauld (EGPG) Regions
 ; - BG
 REGIONNAME Cumbernauld
 smrPGbackground N055.58.26.189 W003.58.56.335
