@@ -86,6 +86,11 @@
 #define smrMDwhite 16711422
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
+#define smrPGbackground 488718
+#define smrPGTaxiway 6383724
+#define smrPGtaxiline 61166
+#define smrPGdissued 11911865
+#define smrPGbuildings 1973790
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
