@@ -12,6 +12,7 @@
 10. Error - Removed duplicate ownership codes in EGGD, EGAE, EGLL, EGPK, and EGWU - thanks to @GeekPro101 (Thomas Mills)
 11. Enhancement - Added London Heliport (EGLW) ownership and runway - thanks to @hsugden (Harry Sugden)
 12. Enhancement -  Added Cumbernauld (EGPG) SMR - Thanks to @JackG2004 (Jack Gil)
+13. Enhancement -  New Coventry (EGBE) SMR - Thanks to @JackG2004 (Jack Gil)
 
 
 # Changes from release 2021/02 to 2021/03
