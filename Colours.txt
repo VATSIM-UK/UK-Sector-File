@@ -86,7 +86,7 @@
 #define smrMDwhite 16711422
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
-#define smrPGDissued 11911865
+#define smrPGDisused 11911865
 #define smrPGBuildings 1973790
 #define smrRarea 125
 #define smrRed 255
