@@ -17,6 +17,7 @@
 15. Error - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 16. Bug - Corrected Erroneous MTMA Outbound Agreements via ARSAT - thanks to @AleksMax (Aleks Nieszczerzewski)
 X. Bug - Added Missing RADAR section to Compiler Config - thanks to @AleksMax (Aleks Nieszczerzewski)
+x. Error - Corrected EGBB air network fixes - thanks to @MrSandyWilly (William Sandford)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
