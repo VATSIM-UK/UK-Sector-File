@@ -1,6 +1,3 @@
-x. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
-X. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden (Harry Sugden)
-
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
 2. Enhancement - Added Ground Networks for SB files to Compiler Config - thanks to @GeekPro101 (Thomas Mills)
@@ -20,6 +17,9 @@ X. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - th
 15. Error - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 16. Bug - Corrected Erroneous MTMA Outbound Agreements via ARSAT - thanks to @AleksMax (Aleks Nieszczerzewski)
 17. Bug - Added Missing RADAR section to Compiler Config - thanks to @AleksMax (Aleks Nieszczerzewski)
+18. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
+19. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
