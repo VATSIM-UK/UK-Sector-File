@@ -1,6 +1,0 @@
-COPX:EGSS:*:LYD:*:*:London TC SE:London S17:19000:*:^LYD
-COPX:EGSC:*:LYD:*:*:London TC SE:London S17:19000:*:^LYD
-COPX:EGLC:*:LYD:*:*:London TC SE:London S17:19000:*:^LYD
-COPX:EGKB:*:LYD:*:*:London TC SE:London S17:19000:*:^LYD
-COPX:EGTO:*:LYD:*:*:London TC SE:London S17:19000:*:^LYD
-COPX:EGMC:*:LYD:*:*:London TC SE:London S17:19000:*:^LYD
