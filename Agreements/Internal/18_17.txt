@@ -1,15 +1,1 @@
-COPX:EGHH:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGHI:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGLF:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGLK:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGTF:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGHL:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGVO:*:LYD:*:*:London S18:London S17:19000:*:LYD15
-COPX:EGTD:*:LYD:*:*:London S18:London S17:19000:*:LYD15
 
-COPX:EGHH:*:SFD:*:*:London S18:London S17:17000:*:^SFD
-COPX:EGHI:*:SFD:*:*:London S18:London S17:17000:*:^SFD
-COPX:EGLF:*:SFD:*:*:London S18:London S17:17000:*:^SFD
-COPX:EGLK:*:SFD:*:*:London S18:London S17:17000:*:^SFD
-COPX:EGTF:*:SFD:*:*:London S18:London S17:17000:*:^SFD
-COPX:EGHL:*:SFD:*:*:London S18:London S17:17000:*:^SFD
