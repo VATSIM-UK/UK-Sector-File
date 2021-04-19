@@ -1,2 +1,0 @@
-FIR_COPX:*:*:MOTOX:*:*:LFEE N:London S2:*:*:MOTOX
-FIR_COPX:*:*:RATUK:*:*:LFEE N:London S2:*:*:RATUK

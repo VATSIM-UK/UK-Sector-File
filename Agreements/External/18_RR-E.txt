@@ -1,4 +1,3 @@
-;requires an LoA change
 FIR_COPX:EGLL:*:XAMAB:*:*:London S1:LFRR E:29000:*:^XAMAB
 FIR_COPX:EGWU:*:XAMAB:*:*:London S1:LFRR E:29000:*:^XAMAB
 FIR_COPX:EGGW:*:XAMAB:*:*:London S1:LFRR E:29000:*:^XAMAB
