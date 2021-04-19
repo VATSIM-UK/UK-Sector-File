@@ -1,4 +1,0 @@
-COPX:EGMC:*:GWC:*:*:London S18:London S20:20000:*:GWC
-COPX:EGLC:*:GWC:*:*:London S18:London S20:20000:*:GWC
-COPX:EGTO:*:GWC:*:*:London S18:London S20:20000:*:GWC
-COPX:EGKB:*:GWC:*:*:London S18:London S20:20000:*:GWC

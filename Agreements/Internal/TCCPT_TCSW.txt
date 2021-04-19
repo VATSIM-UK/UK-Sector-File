@@ -1,1 +1,0 @@
-COPX:*:*:CPT:EGLF:*:London TC CPT:London TC SW:*:16000:CPT
