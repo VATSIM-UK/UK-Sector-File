@@ -1,0 +1,11 @@
+FIR_COPX:*:*:EVRIN:EIDW:*:London S9:Shannon BANBA:*:28000:EVRIN
+FIR_COPX:*:*:EVRIN:EIWT:*:London S9:Shannon BANBA:*:28000:EVRIN
+FIR_COPX:*:*:EVRIN:EIME:*:London S9:Shannon BANBA:*:28000:EVRIN
+
+FIR_COPX:*:*:EVRIN:EICK:*:London S9:Shannon BANBA:*:30000:EVRIN
+
+FIR_COPX:*:*:LEDGO:*:*:London S9:Shannon BANBA:*:*:LEDGO
+
+FIR_COPX:*:*:MOPAT:*:*:London S9:Shannon BANBA:*:*:MOPAT20
+
+FIR_COPX:*:*:NORLA:*:*:London S9:Shannon BANBA:*:*:NORLA

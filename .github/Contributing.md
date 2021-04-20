@@ -22,6 +22,8 @@ If you're comfortable with contributing to Open Source projects on GitHub please
 
 **Please avoid** adding airac related commits until you've seen an issue created for them - anything else is fair game.
 
+Please have a thorough read of the 1st-time Contributor's Guide: https://github.com/VATSIM-UK/UK-Sector-File/wiki/First-Time-Contributor's-Guide.
+
 ## Testing the sector file
 
 At present there isn't a publicly accessible auto-generation tool for the data within the repository.  We're working hard to make our current tool stable enough to release into the public domain so that open source contributions can be made to that, too, and others can use (and test) the latest development version.

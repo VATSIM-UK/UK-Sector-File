@@ -39,3 +39,4 @@ Stornoway           EGPO    2014    Yes                     No                  
 Blackpool           EGNH    2014    Yes                     Yes                     No
 Lands End           EGHC    2014    Yes                     No                      No
 London Stansted     EGSS    2014    Yes                     Yes                     Yes
+Manchester          EGCC    2102    Yes                     Yes                     Yes
