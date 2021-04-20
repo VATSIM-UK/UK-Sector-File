@@ -16,7 +16,11 @@
 14. Error - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden (Harry Sugden)
 15. Error - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 16. Bug - Corrected Erroneous MTMA Outbound Agreements via ARSAT - thanks to @AleksMax (Aleks Nieszczerzewski)
-17. Enhancement - Updated Manchester MSA cones colour - thanks to @cbyworth (Chad Byworth)
+17. Bug - Added Missing RADAR section to Compiler Config - thanks to @AleksMax (Aleks Nieszczerzewski)
+18. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
+19. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
+21. Enhancement - Updated Manchester MSA cones colour - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
