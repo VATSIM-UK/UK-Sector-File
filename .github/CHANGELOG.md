@@ -22,7 +22,8 @@
 18. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
 19. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden (Harry Sugden)
 20. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
-21. Error - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
+21. Enhancement - Updated Manchester MSA cones colour - thanks to @cbyworth (Chad Byworth)
+22. Error - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
