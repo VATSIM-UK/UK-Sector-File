@@ -137,20 +137,6 @@ foreach($template as $lineNumber => $line){
         $file_contents = str_replace("{VERSION}", $version, $file_contents);
         $file_contents = str_replace("{BUILD}", gmdate("Y-m-d"), $file_contents);
 
-        if(preg_match("/Airspace_Bases.txt/", $fullPath) && $icao){
-            $file_contents = explode("\n", $file_contents);
-            foreach($file_contents as $fcl){
-                $fcl = explode(":", $fcl);
-
-                if(count($fcl) < 3){ continue; }
-
-                print $fcl[1].":".$fcl[2].":".$icao." Airspace Bases:".$fcl[0]."\n";
-            }
-
-            print "\n";
-            continue;
-        }
-
         if(preg_match("/VRPs.txt/", $fullPath) && $icao){
             $file_contents = explode("\n", $file_contents);
             foreach($file_contents as $fcl){
