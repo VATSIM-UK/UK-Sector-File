@@ -24,6 +24,7 @@
 22. Error - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
 23. Enhancement - Unifies airspace base formatting with airspace class/conditional airspace as required - thanks to @cbyworth (Chad Byworth)
 24. Enhancement - Refactored airspace bases to be consistent with how they are compiled - thanks to @AndyTWF (Andy Ford)
+X. Procedure Change (Temporary) - Reykjavik (BIRD) CTP sectorisation added to enable correct auto-handoff/sector prediction - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
