@@ -22,7 +22,11 @@
 20. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
 21. Enhancement - Updated Manchester MSA cones colour - thanks to @cbyworth (Chad Byworth)
 22. Error - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
-23. Enhancement - Added Splitting Functionality and COPX for Exeter Radar - thanks to @danielbutton (Daniel Button)
+23. Enhancement - Unifies airspace base formatting with airspace class/conditional airspace as required - thanks to @cbyworth (Chad Byworth)
+24. Enhancement - Refactored airspace bases to be consistent with how they are compiled - thanks to @AndyTWF (Andy Ford)
+25. Enhancement - Updated UK Area positions files and added Shanwick & Gander Oceanic frequencies - thanks to @hsugden (Harry Sugden)
+26. Error - Corrected Birmingham (EGBB) Air Network fixes - thanks to @MrSandyWilly (William Sandford)
+27. Enhancement - Added Splitting Functionality and COPX for Exeter Radar - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
