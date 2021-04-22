@@ -4,7 +4,7 @@ OWNER:MCR:MCT
 SECTOR:Only MCTWR 2:0:0
 OWNER:MCR:TCNW:LAM:TCNE:TCN:TCSW:TCSE:TCS:TC:LES:LEN:LE:LC:LDL:LD:LSF:LS:LWN:LSC:L:LMEN:O
 
-SECTOR:Only MCAPP:0:0
+SECTOR:Only MCRPP:0:0
 OWNER:MCR
 
 SECTOR:MCTWR:0:2000
@@ -20,4 +20,4 @@ BORDER:MCTWR
 DEPAPT:EGMC
 ARRAPT:EGMC
 
-;MCAPP sectors have to live with Thames sectors for display reasons in the ESE
+;MCRPP sectors have to live with Thames sectors for display reasons in the ESE
