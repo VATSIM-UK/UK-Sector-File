@@ -24,6 +24,7 @@
 22. Error - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
 23. Enhancement - Unifies airspace base formatting with airspace class/conditional airspace as required - thanks to @cbyworth (Chad Byworth)
 24. Enhancement - Refactored airspace bases to be consistent with how they are compiled - thanks to @AndyTWF (Andy Ford)
+25. Enhancement - Updated UK Area positions files and added Shanwick & Gander Oceanic frequencies - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
