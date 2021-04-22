@@ -22,6 +22,7 @@
 20. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
 21. Enhancement - Updated Manchester MSA cones colour - thanks to @cbyworth (Chad Byworth)
 22. Error - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
+23. Enhancement - Unifies airspace base formatting with airspace class/conditional airspace as required - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
