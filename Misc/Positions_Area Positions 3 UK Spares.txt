@@ -8,14 +8,7 @@ London Control S7:London Control:135.570:L7:L:LON:CTR:-:-:0301:0377::
 London Control S27:London Control:129.200:L27:L:LON:CTR:-:-:0301:0377::
 
 ;South
-London Control S1:London Control:132.820:L1:L:LON:CTR:-:-:0301:0377::
 London Control S2:London Control:127.420:L2:L:LON:CTR:-:-:0301:0377::
-London Control S16:London Control:133.470:L16:L:LON:CTR:-:-:0301:0377::
-London Control S17:London Control:128.420:L17:L:LON:CTR:-:-:0301:0377::
-London Control S18:London Control:135.050:L18:L:LON:CTR:-:-:0301:0377::
-London Control S19:London Control:134.450:LWS:L:LON:CTR:-:-:0301:0377::
-London Control S24:London Control:134.450:L24:L:LON:CTR:-:-:0301:0377::
-London Control S25:London Control:132.170:L25:L:LON:CTR:-:-:0301:0377::
 
 ;West
 London Control S35:London Control:135.250:L35:L:LON:CTR:-:-:0301:0377:: ;EURW_FSS
