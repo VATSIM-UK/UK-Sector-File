@@ -1,3 +1,8 @@
-FIR_COPX:*:*:GAPLI:*:*:London S9:Shannon SOTA:*:*:GAPLI
-FIR_COPX:*:*:LULOX:*:*:London S9:Shannon SOTA:*:*:LULOX
-FIR_COPX:*:*:LESLU:*:*:London S9:Shannon SOTA:*:*:LESLU
+FIR_COPX:*:*:LESLU:*:*:London S9:EISN 5AU:*:*:LESLU
+FIR_COPX:*:*:LESLU:*:*:London S9:EISN 5AS:*:*:LESLU
+
+FIR_COPX:*:*:LULOX:*:*:London S9:EISN 5BU:*:*:LULOX
+FIR_COPX:*:*:LULOX:*:*:London S9:EISN 5BS:*:*:LULOX
+
+FIR_COPX:*:*:GAPLI:*:*:London S9:EISN 5CU:*:*:GAPLI
+FIR_COPX:*:*:GAPLI:*:*:London S9:EISN 5CS:*:*:GAPLI

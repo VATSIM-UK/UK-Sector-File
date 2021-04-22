@@ -54,7 +54,7 @@
                     "type": "files",
                     "files": [
                         "Freetext.txt",
-                        "Airpsace_Bases.txt"
+                        "SMAA_Bases.txt"
                     ],
                     "ignore_missing": true
                 },
@@ -241,9 +241,6 @@
                 {
                     "type": "folder",
                     "folder": "Ownership/Non-UK",
-                    "exclude": [
-                        "EUR Islands.txt"
-                    ]
                 }
             ],
             "positions": {
@@ -326,6 +323,18 @@
                 "type": "folder",
                 "folder": "ARTCC/Danger Areas"
             },
+            "radars": {
+                "type": "files",
+                "files": [
+                    "Misc/Radar Sites.txt"
+                ]
+            },
+            "radar_holes": {
+                "type": "files",
+                "files": [
+                    "Misc/Radar Holes.txt"
+                ]
+            },
             "artcc_low": {
                 "type": "folder",
                 "folder": "ARTCC/Low"
@@ -377,7 +386,8 @@
                         "Misc/STAR_Midlands Gate.txt",
                         "Misc/STAR_NIMAT-ROTEV Buffer.txt",
                         "Misc/STAR_SOLENT Forest Gate.txt",
-                        "Misc/STAR_Worthing Paris Release Line.txt"
+                        "Misc/STAR_DVR RFC Area.txt",
+                        "Misc/STAR_La Manche Release Area.txt"
                     ]
                 }
             ],
@@ -389,7 +399,6 @@
                     "Misc/Geo_Coastline High Detail.txt",
                     "Misc/Geo_Merseyside Coastline.txt",
                     "Misc/Geo_Motorways.txt",
-                    "Misc/Geo_MSA.txt",
                     "Misc/Geo_Rivers.txt"
                 ]
             },

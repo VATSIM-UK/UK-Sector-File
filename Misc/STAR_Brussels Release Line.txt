@@ -1,2 +1,2 @@
 ;Brussels Release Line
-Brussels Release Line          N051.30.47.060 E003.02.21.200 N051.15.39.380 E002.48.16.800
+Brussels Release Line        N051.30.47.060 E003.02.21.200 N051.15.39.380 E002.48.16.800
