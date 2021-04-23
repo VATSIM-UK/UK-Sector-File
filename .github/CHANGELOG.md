@@ -28,6 +28,7 @@
 26. Error - Corrected Birmingham (EGBB) Air Network fixes - thanks to @MrSandyWilly (William Sandford)
 27. Enhancement - Added Splitting Functionality and COPX for Exeter Radar - thanks to @danielbutton (Daniel Button)
 28. Enhancement - Added new Coventry SMR (EGBE) - Thanks to @JackG2004 (Jack Gil)
+29. Procedure Change (Temporary) - Reykjavik (BIRD) CTP sectorisation added to enable correct auto-handoff/sector prediction - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
