@@ -1,6 +1,0 @@
-COPX:EGSS:*:CPT:*:*:London TC NW:London AC Worthing:16000:*:CPT11
-COPX:EGSS:*:COWLY:*:*:London TC NW:London AC Worthing:16000:*:CPT11
-COPX:EGSC:*:CPT:*:*:London TC NW:London AC Worthing:16000:*:CPT11
-COPX:EGSC:*:COWLY:*:*:London TC NW:London AC Worthing:16000:*:CPT11
-
-COPX:EGMC:*:CPT:*:*:London TC NW:London AC Worthing:16000:*:CPT11

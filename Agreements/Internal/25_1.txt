@@ -1,0 +1,36 @@
+COPX:EGBB:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGBE:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGNX:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGSS:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGSC:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGGD:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGDL:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGVN:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGFF:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGFH:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+COPX:EGSY:*:*:SITET:*:London S25:London S1:30000:*:^GWC
+
+
+COPX:EGBB:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGBE:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGNX:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGSS:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGSC:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGGD:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGDL:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGVN:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGFF:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGFH:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+COPX:EGSY:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
+
+COPX:EGBB:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGBE:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGNX:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGSS:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGSC:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGGD:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGDL:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGVN:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGFF:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGFH:*:*:*:*:London S25:London S1:30000:*:^
+COPX:EGSY:*:*:*:*:London S25:London S1:30000:*:^

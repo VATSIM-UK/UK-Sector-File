@@ -1,1 +1,2 @@
-FIR_COPX:*:*:LIPGO:*:*:London S35:Shannon LIFFY:*:*:LIPGO
+FIR_COPX:*:*:LIPGO:*:*:London S35:EISN 4AU:*:*:LIPGO
+FIR_COPX:*:*:LIPGO:*:*:London S35:EISN 4AS:*:*:LIPGO

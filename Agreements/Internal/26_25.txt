@@ -1,0 +1,3 @@
+COPX:*:*:CPT:EGGD:*:London S26:London S25:*:30000:|CPT
+COPX:*:*:CPT:EGFF:*:London S26:London S25:*:30000:|CPT
+COPX:*:*:CPT:EGSY:*:London S26:London S25:*:30000:|CPT
