@@ -54,7 +54,8 @@
                     "type": "files",
                     "files": [
                         "Freetext.txt",
-                        "SMAA_Bases.txt"
+                        "SMAA_Bases.txt",
+                        "Airspace_Bases,txt"
                     ],
                     "ignore_missing": true
                 },
@@ -249,7 +250,6 @@
                     "Misc/Positions_Area Positions 1 UK Permanent.txt",
                     "Misc/Positions_Area Positions 2 UK Event.txt",
                     "Misc/Positions_Area Positions 3 UK Spares.txt",
-                    "Misc/Positions_Area Positions 3 UK.txt",
                     "Misc/Positions_Area Positions 4 External.txt"
                 ]
             }
@@ -399,7 +399,6 @@
                     "Misc/Geo_Coastline High Detail.txt",
                     "Misc/Geo_Merseyside Coastline.txt",
                     "Misc/Geo_Motorways.txt",
-                    "Misc/Geo_MSA.txt",
                     "Misc/Geo_Rivers.txt"
                 ]
             },

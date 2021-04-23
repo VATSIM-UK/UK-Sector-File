@@ -2,6 +2,7 @@
 #define arrester 6914198
 #define buffercolour 7884373
 #define building 10534048
+#define CCFAVA 11206655
 #define centrelinecolour 15790135
 #define col_gate 3953980
 #define coast 32896
