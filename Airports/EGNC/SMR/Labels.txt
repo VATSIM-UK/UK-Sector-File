@@ -1,6 +1,6 @@
 ;Stands
-;1A To be surveyed
-;1B To be surveyed
+"1A" N054.56.29.554 W002.48.32.401 standHold
+"1B" N054.56.29.505 W002.48.30.707 standHold
 "1C" N054.56.28.690 W002.48.29.180 standHold
 "1D" N054.56.28.590 W002.48.28.180 standHold
 "1E" N054.56.28.070 W002.48.28.670 standHold
@@ -17,6 +17,7 @@
 ;Holding Points
 "A" N054.56.36.838 W002.48.37.282 standHold
 "B" N054.56.30.030 W002.48.37.265 standHold
-"C" N054.56.18.570 W002.48.34.825 standHold
-"D" N054.56.15.987 W002.48.38.846 standHold
+"C1" N054.56.18.043 W002.48.33.229 standHold
+"D1" N054.56.15.508 W002.48.38.994 standHold
 "E" N054.56.19.043 W002.48.43.066 standHold
+"F" N054.56.14.776 W002.48.24.734 standHold
