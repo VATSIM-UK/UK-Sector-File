@@ -1,4 +1,7 @@
 # Changes from release 2021/03 to 2021/04
+X. AIRAC (2105)- UEdinburgh (EGPH) Mag heading updates - thanks to @JackG2004 (Jack Gil)
+
+# Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
 2. Enhancement - Added Ground Networks for SB files to Compiler Config - thanks to @GeekPro101 (Thomas Mills)
 3. Error - Corrected Edinburgh (EGPH) Air Network STIRA Fixes - thanks to @GeekPro101 (Thomas Mills) and (James Taylor)
