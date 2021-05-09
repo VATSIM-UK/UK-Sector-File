@@ -1,3 +1,6 @@
+# Changes from release 2021/04 to 2021/05
+X. Enhancement - Removed Sumburgh Radar Standby and Updated Squawk Range - thanks to @AleksMax (Aleks Nieszczerzewski)
+
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
 2. Enhancement - Added Ground Networks for SB files to Compiler Config - thanks to @GeekPro101 (Thomas Mills)
