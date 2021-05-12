@@ -6,11 +6,8 @@
 5. AIRAC (2105) - Updated Swansea (EGFH) ARP - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. AIRAC (2105) - Updated Redhill (EGKR) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Bug - Corrected Sector 24 ownership - thanks to @hsugden (Harry Sugden)
-X. AIRAC (2105) - KW NDB coordinate changes and threshold updates for Kirkwall (EGPA) - thanks to @JackG2004 (Jack Gil)
-
-# Changes from release 2021/03 to 2021/04
-X. AIRAC (2105)- Updated Wellesbourne (EGBW) Runway tracks - thanks to @JackG2004 (Jack Gil)
-
+9. AIRAC (2105) - KW NDB coordinate changes and threshold updates for Kirkwall (EGPA) - thanks to @JackG2004 (Jack Gil)
+10. AIRAC (2105)- Updated Wellesbourne (EGBW) Runway mag tracks - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
