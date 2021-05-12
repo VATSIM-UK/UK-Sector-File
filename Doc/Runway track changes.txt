@@ -42,3 +42,4 @@ London Stansted     EGSS    2014    Yes                     Yes                 
 Manchester          EGCC    2102    Yes                     Yes                     Yes
 Kirkwall            EGPA    2104    Yes                     No                      No
 Redhill             EGKR    2105    Yes                     No                      No
+Wellesbourne        EGPA    2105    Yes                     No                      No
