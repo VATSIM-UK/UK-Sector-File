@@ -41,3 +41,4 @@ Lands End           EGHC    2014    Yes                     No                  
 London Stansted     EGSS    2014    Yes                     Yes                     Yes
 Manchester          EGCC    2102    Yes                     Yes                     Yes
 Kirkwall            EGPA    2104    Yes                     No                      No
+Redhill             EGKR    2105    Yes                     No                      No
