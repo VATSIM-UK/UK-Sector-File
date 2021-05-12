@@ -2,6 +2,7 @@
 1. AIRAC (2105) - Removed ASKEY, CASEY, and CLIPY Fixes - thanks to @JackG2004 (Jack Gil)
 2. AIRAC (2105) - Edinburgh (EGPH) Mag heading updates - thanks to @JackG2004 (Jack Gil)
 3. Enhancement - Removed Sumburgh Radar Standby and Updated Squawk Range - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. AIRAC (2105) - EGMC Southend STAR changes - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
