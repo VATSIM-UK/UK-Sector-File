@@ -8,6 +8,7 @@
 7. Bug - Corrected Sector 24 ownership - thanks to @hsugden (Harry Sugden)
 9. AIRAC (2105) - KW NDB coordinate changes and threshold updates for Kirkwall (EGPA) - thanks to @JackG2004 (Jack Gil)
 10. AIRAC (2105)- Updated Wellesbourne (EGBW) Runway mag tracks - thanks to @JackG2004 (Jack Gil)
+11. AIRAC (2105) - Updated Gloucestershire (EGBJ) Runway Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)

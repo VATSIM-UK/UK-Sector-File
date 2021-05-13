@@ -43,3 +43,4 @@ Manchester          EGCC    2102    Yes                     Yes                 
 Kirkwall            EGPA    2104    Yes                     No                      No
 Redhill             EGKR    2105    Yes                     No                      No
 Wellesbourne        EGPA    2105    Yes                     No                      No
+Gloucestershire     EGBJ    2105    Yes                     Yes                     No
