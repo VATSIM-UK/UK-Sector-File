@@ -10,6 +10,7 @@
 10. AIRAC (2105)- Updated Wellesbourne (EGBW) Runway mag tracks - thanks to @JackG2004 (Jack Gil)
 11. AIRAC (2105) - Updated Gloucestershire (EGBJ) Runway Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 12. Enhancement - New holding points added and magnetic runway heading updated for Blackbushe (EGLK) - thanks to @JackG2004 (Jack Gil)
+13. Procedure Change - Revert Reykjavik (BIRD) CTP sectorisation changes - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
