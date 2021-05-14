@@ -282,12 +282,10 @@
                 }
             ],
             "freetext": {
-                "type": "files",
-                "files": [
-                    "Misc/Freetext_AARA.txt",
-                    "Misc/Freetext_Airspace Bases.txt",
-                    "Misc/Freetext_Solent Airspace Bases.txt"
-                ]
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Freetext_"
             },
             "colours": {
                 "type": "files",
