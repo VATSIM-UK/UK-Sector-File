@@ -313,21 +313,20 @@
                     "Misc/Pre-Positions.txt"
                 ]
             },
-            "fixes": {
-                "type": "files",
-                "files": [
-                    "_data/Old/Runway Fixes.txt",
-                    "Navaids/FIXES_CICZ.txt",
-                    "Navaids/FIXES_Lat Lon.txt",
-                    "Navaids/FIXES_Non-UK.txt",
-                    "Navaids/FIXES_Old.txt",
-                    "Navaids/FIXES_PHONETIC.txt",
-                    "Navaids/FIXES_SIDS-STARS.txt",
-                    "Navaids/FIXES_UK.txt",
-                    "Navaids/FIXES_Virtual.txt",
-                    "Navaids/FIXES_Tacan_Routes.txt"
-                ]
-            },
+            "fixes": [
+                {
+                    "type": "folder",
+                    "folder": "Navaids",
+                    "recursive": true,
+                    "pattern": "FIXES_"
+                },
+                {
+                    "type": "files",
+                    "files": [
+                        "_data/Old/Runway Fixes.txt"
+                    ]
+                }
+            ],
             "ndbs": {
                 "type": "files",
                 "files": [
