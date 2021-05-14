@@ -401,13 +401,12 @@
                 }
             ],
             "geo": {
-                "type": "files",
-                "files": [
-                    "Misc/Geo_City Transition Tracks.txt",
-                    "Misc/Geo_GB_Coastline Medium Detail.txt",
-                    "Misc/Geo_Merseyside Coastline.txt",
-                    "Misc/Geo_Motorways.txt",
-                    "Misc/Geo_Rivers.txt"
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Geo_",
+                "exclude": [
+                    "Geo_Coastline High Detail.txt"
                 ]
             },
             "regions": {
