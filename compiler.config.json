@@ -379,10 +379,10 @@
                 }
             ],
             "sid_airspace": {
-                "type": "files",
-                "files": [
-                    "Misc/SID_Military Corridors.txt"
-                ]
+                "type": "folder",
+                "folder":"Misc",
+                "recursive": true,
+                "pattern": "SID_"
             },
             "star_airspace": [
                 {
