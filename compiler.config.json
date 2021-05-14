@@ -401,7 +401,7 @@
                     "type": "folder",
                     "folder": "Misc",
                     "recursive": true,
-                    "pattern": "^STAR_",
+                    "pattern": "STAR_",
                 }
             ],
             "geo": {
