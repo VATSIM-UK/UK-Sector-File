@@ -323,10 +323,10 @@
                 }
             ],
             "ndbs": {
-                "type": "files",
-                "files": [
-                    "Navaids/NDB_All.txt"
-                ]
+                "type": "folder",
+                "folder": "Navaids",
+                "recursive": true,
+                "pattern": "NDB_"
             },
             "vors": {
                 "type": "folder",
