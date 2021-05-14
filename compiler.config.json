@@ -332,11 +332,10 @@
                 ]
             },
             "vors": {
-                "type": "files",
-                "files": [
-                    "Navaids/VOR_UK.txt",
-                    "Navaids/VOR_Non-UK.txt"
-                ]
+                "type": "folder",
+                "folder": "Navaids",
+                "recursive": true,
+                "pattern": "VOR_"
             },
             "danger_areas": {
                 "type": "folder",
