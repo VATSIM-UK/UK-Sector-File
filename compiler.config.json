@@ -245,13 +245,10 @@
                 }
             ],
             "positions": {
-                "type": "files",
-                "files": [
-                    "Misc/Positions_Area Positions 1 UK Permanent.txt",
-                    "Misc/Positions_Area Positions 2 UK Event.txt",
-                    "Misc/Positions_Area Positions 3 UK Spares.txt",
-                    "Misc/Positions_Area Positions 4 External.txt"
-                ]
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Positions_"
             }
         },
         "misc": {
