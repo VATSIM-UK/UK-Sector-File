@@ -13,6 +13,7 @@
 13. Procedure Change - Revert Reykjavik (BIRD) CTP sectorisation changes - thanks to @hsugden (Harry Sugden)
 14. AIRAC (2105) - Added New Cambridge (EGSC) STARs - thanks to @robbo599 (Lee Roberts)
 15. AIRAC (2105) - Added New Luton (EGGW) STARs - thanks to @robbo599 (Lee Roberts)
+16. AIRAC (2105) - Added new Stansted (EGSS) STARs - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
