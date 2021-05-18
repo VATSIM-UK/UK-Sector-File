@@ -1,3 +1,21 @@
+# Changes from release 2021/04 to 2021/05
+1. AIRAC (2105) - Removed ASKEY, CASEY, and CLIPY Fixes - thanks to @JackG2004 (Jack Gil)
+2. AIRAC (2105) - Edinburgh (EGPH) Mag heading updates - thanks to @JackG2004 (Jack Gil)
+3. Enhancement - Removed Sumburgh Radar Standby and Updated Squawk Range - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. AIRAC (2105) - Updated Sleap (EGCV) ARP - thanks to @AleksMax (Aleks Nieszczerzewski)
+5. AIRAC (2105) - Updated Swansea (EGFH) ARP - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. AIRAC (2105) - Updated Redhill (EGKR) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+7. Bug - Corrected Sector 24 ownership - thanks to @hsugden (Harry Sugden)
+9. AIRAC (2105) - KW NDB coordinate changes and threshold updates for Kirkwall (EGPA) - thanks to @JackG2004 (Jack Gil)
+10. AIRAC (2105)- Updated Wellesbourne (EGBW) Runway mag tracks - thanks to @JackG2004 (Jack Gil)
+11. AIRAC (2105) - Updated Gloucestershire (EGBJ) Runway Data - thanks to @AleksMax (Aleks Nieszczerzewski)
+12. Enhancement - New holding points added and magnetic runway heading updated for Blackbushe (EGLK) - thanks to @JackG2004 (Jack Gil)
+13. Procedure Change - Revert Reykjavik (BIRD) CTP sectorisation changes - thanks to @hsugden (Harry Sugden)
+14. AIRAC (2105) - Added New Cambridge (EGSC) STARs - thanks to @robbo599 (Lee Roberts)
+15. AIRAC (2105) - Added New Luton (EGGW) STARs - thanks to @robbo599 (Lee Roberts)
+16. AIRAC (2105) - Added new Stansted (EGSS) STARs - thanks to @robbo599 (Lee Roberts)
+17. Enhancement - Renamed VRC-incompatible Ground Map folders to SMR - thanks to @MrSandyWilly (William Sandford)
+
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
 2. Enhancement - Added Ground Networks for SB files to Compiler Config - thanks to @GeekPro101 (Thomas Mills)
@@ -29,7 +47,7 @@
 27. Enhancement - Added Splitting Functionality and COPX for Exeter Radar - thanks to @danielbutton (Daniel Button)
 28. Enhancement - Added new Coventry SMR (EGBE) - Thanks to @JackG2004 (Jack Gil)
 29. Procedure Change (Temporary) - Reykjavik (BIRD) CTP sectorisation added to enable correct auto-handoff/sector prediction - thanks to @hsugden (Harry Sugden)
-x. Enhancement - Renamed VRC-incompatible Ground Map folders to SMR - thanks to @MrSandyWilly (William Sandford)
+30. Enhancement - Added FIR Flow Coordinator positions for CTP/events - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2021/02 to 2021/03
 1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
