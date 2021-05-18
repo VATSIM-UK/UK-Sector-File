@@ -16,7 +16,8 @@
 16. AIRAC (2105) - Added new Stansted (EGSS) STARs - thanks to @robbo599 (Lee Roberts)
 17. Enhancement - Renamed VRC-incompatible Ground Map folders to SMR - thanks to @MrSandyWilly (William Sandford)
 18. Enhancement - Added new SMR for Carlisle (EGNC) - Thanks to @JackG2004 (Jack Gil)
-19. AIRAC (2105) - EGMC Southend STAR changes - thanks to @robbo599 (Lee Roberts)
+19. AIRAC (2105) - Southend (EGMC) STAR changes - thanks to @robbo599 (Lee Roberts)
+20. Error - Corrected Luton (EGGW) STAR runways - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
