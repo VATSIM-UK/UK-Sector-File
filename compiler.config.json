@@ -241,17 +241,14 @@
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Non-UK",
+                    "folder": "Ownership/Non-UK"
                 }
             ],
             "positions": {
-                "type": "files",
-                "files": [
-                    "Misc/Positions_Area Positions 1 UK Permanent.txt",
-                    "Misc/Positions_Area Positions 2 UK Event.txt",
-                    "Misc/Positions_Area Positions 3 UK Spares.txt",
-                    "Misc/Positions_Area Positions 4 External.txt"
-                ]
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Positions_"
             }
         },
         "misc": {
@@ -259,12 +256,12 @@
                 {
                     "type": "folder",
                     "folder": "Agreements/Airport",
-                    "recursive": true,
+                    "recursive": true
                 },
                 {
                     "type": "folder",
                     "folder": "Agreements/Internal",
-                    "recursive": true,
+                    "recursive": true
                 },
                 {
                     "type": "folder",
@@ -282,12 +279,10 @@
                 }
             ],
             "freetext": {
-                "type": "files",
-                "files": [
-                    "Misc/Freetext_AARA.txt",
-                    "Misc/Freetext_Airspace Bases.txt",
-                    "Misc/Freetext_Solent Airspace Bases.txt"
-                ]
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Freetext_"
             },
             "colours": {
                 "type": "files",
@@ -313,33 +308,31 @@
                     "Misc/Pre-Positions.txt"
                 ]
             },
-            "fixes": {
-                "type": "files",
-                "files": [
-                    "_data/Old/Runway Fixes.txt",
-                    "Navaids/FIXES_CICZ.txt",
-                    "Navaids/FIXES_Lat Lon.txt",
-                    "Navaids/FIXES_Non-UK.txt",
-                    "Navaids/FIXES_Old.txt",
-                    "Navaids/FIXES_PHONETIC.txt",
-                    "Navaids/FIXES_SIDS-STARS.txt",
-                    "Navaids/FIXES_UK.txt",
-                    "Navaids/FIXES_Virtual.txt",
-                    "Navaids/FIXES_Tacan_Routes.txt"
-                ]
-            },
+            "fixes": [
+                {
+                    "type": "folder",
+                    "folder": "Navaids",
+                    "recursive": true,
+                    "pattern": "FIXES_"
+                },
+                {
+                    "type": "files",
+                    "files": [
+                        "_data/Old/Runway Fixes.txt"
+                    ]
+                }
+            ],
             "ndbs": {
-                "type": "files",
-                "files": [
-                    "Navaids/NDB_All.txt"
-                ]
+                "type": "folder",
+                "folder": "Navaids",
+                "recursive": true,
+                "pattern": "NDB_"
             },
             "vors": {
-                "type": "files",
-                "files": [
-                    "Navaids/VOR_UK.txt",
-                    "Navaids/VOR_Non-UK.txt"
-                ]
+                "type": "folder",
+                "folder": "Navaids",
+                "recursive": true,
+                "pattern": "VOR_"
             },
             "danger_areas": {
                 "type": "folder",
@@ -386,10 +379,10 @@
                 }
             ],
             "sid_airspace": {
-                "type": "files",
-                "files": [
-                    "Misc/SID_Military Corridors.txt"
-                ]
+                "type": "folder",
+                "folder":"Misc",
+                "recursive": true,
+                "pattern": "SID_"
             },
             "star_airspace": [
                 {
@@ -405,24 +398,19 @@
                 }
             ],
             "geo": {
-                "type": "files",
-                "files": [
-                    "Misc/Geo_City Transition Tracks.txt",
-                    "Misc/Geo_GB_Coastline Medium Detail.txt",
-                    "Misc/Geo_Merseyside Coastline.txt",
-                    "Misc/Geo_Motorways.txt",
-                    "Misc/Geo_Rivers.txt"
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Geo_",
+                "exclude": [
+                    "Geo_Coastline High Detail.txt"
                 ]
             },
             "regions": {
-                "type": "files",
-                "files": [
-                    "Misc/Regions_GB Landmass Medium Detail.txt",
-                    "Misc/Regions_LTMA Airfield CAS.txt",
-                    "Misc/Regions_Severn Buffers.txt",
-                    "Misc/Regions_Uncontrolled airspace (Grey).txt",
-                    "Misc/Regions_Uncontrolled airspace.txt"
-                ]
+                "type": "folder",
+                "folder": "Misc",
+                "recursive": true,
+                "pattern": "Regions_"
             },
             "active_runways": {
                 "type": "files",
