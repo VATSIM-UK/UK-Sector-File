@@ -20,6 +20,7 @@
 19. Error - Corrected Luton (EGGW) STAR runways - thanks to @GeekPro101 (Thomas Mills)
 20. AIRAC (2105) - Updated Doncaster (EGCN) SMR with new stands and hold point - thanks to @robbo599 (Lee Roberts)
 21. Enhancement - SRA Altitudes for EGAA, EGPF & EGPK - thanks to @scalderhead (Stephen Calderhead)
+22. AIRAC (2105) - Multiple Oxford changes (EGTK) - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/03 to 2021/04
 1. Error - Corrected file preamble to relate to the correct department - thanks to @GeekPro101 (Thomas Mills)
