@@ -2,6 +2,7 @@
 #define arrester 6914198
 #define buffercolour 7884373
 #define building 10534048
+#define CCFAVA 11206655
 #define centrelinecolour 15790135
 #define col_gate 3953980
 #define coast 32896
@@ -86,6 +87,8 @@
 #define smrMDwhite 16711422
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
+#define smrPGDisused 11911865
+#define smrPGBuildings 1973790
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265

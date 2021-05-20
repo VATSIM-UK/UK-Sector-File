@@ -1,0 +1,5 @@
+COPX:EGGW:*:MID:*:*:London TC CPT:London S18:21000:*:^MID
+COPX:EGWU:*:MID:*:*:London TC CPT:London S18:21000:*:^MID
+
+COPX:EGGW:*:GWC:*:*:London TC CPT:London S18:21000:*:^GWC
+COPX:EGWU:*:GWC:*:*:London TC CPT:London S18:21000:*:^GWC
