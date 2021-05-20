@@ -1,3 +1,7 @@
+# Changes from release 2021/05 to 2021/05a
+1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
+2. Error - Corrected erroneous Biggin Hill (EGKB) SILVA1C runways - thanks to @GeekPro101 (Thomas Mills)
+
 # Changes from release 2021/04 to 2021/05
 1. AIRAC (2105) - Removed ASKEY, CASEY, and CLIPY Fixes - thanks to @JackG2004 (Jack Gil)
 2. AIRAC (2105) - Edinburgh (EGPH) Mag heading updates - thanks to @JackG2004 (Jack Gil)
