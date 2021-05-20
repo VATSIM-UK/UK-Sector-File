@@ -1,3 +1,6 @@
+# Changes from release 2021/05 to 2021/06
+X. Enhancement - Added Hanger 11 at Gatwick (EGKK) - thanks to @JackG2004 (Jack Gil)
+
 # Changes from release 2021/04 to 2021/05
 1. AIRAC (2105) - Removed ASKEY, CASEY, and CLIPY Fixes - thanks to @JackG2004 (Jack Gil)
 2. AIRAC (2105) - Edinburgh (EGPH) Mag heading updates - thanks to @JackG2004 (Jack Gil)
