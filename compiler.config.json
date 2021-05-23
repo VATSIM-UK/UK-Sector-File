@@ -94,20 +94,6 @@
                     ],
                     "ignore_missing": true
                 },
-                "sid_airspace": {
-                    "type": "files",
-                    "files": [
-                        "SMAA.txt"
-                    ],
-                    "ignore_missing": true
-                },
-                "star_airspace": {
-                    "type": "files",
-                    "files": [
-                        "RMA.txt"
-                    ],
-                    "ignore_missing": true
-                },
                 "runways": {
                     "type": "files",
                     "files": [
@@ -129,10 +115,24 @@
                     ],
                     "ignore_missing": true
                 },
+                "sid_airspace": {
+                    "type": "files",
+                    "files": [
+                        "SMAA.txt"
+                    ],
+                    "ignore_missing": true
+                },
                 "stars": {
                     "type": "files",
                     "files": [
                         "Stars.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "star_airspace": {
+                    "type": "files",
+                    "files": [
+                        "RMA.txt"
                     ],
                     "ignore_missing": true
                 },
