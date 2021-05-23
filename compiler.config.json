@@ -97,8 +97,14 @@
                 "sid_airspace": {
                     "type": "files",
                     "files": [
-                        "RMA.txt",
                         "SMAA.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "star_airspace": {
+                    "type": "files",
+                    "files": [
+                        "RMA.txt"
                     ],
                     "ignore_missing": true
                 },
