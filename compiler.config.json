@@ -274,8 +274,8 @@
                     "folder": "Agreements/External",
                     "recursive": true,
                     "exclude": [
-                            "12_AA.txt"
-                        ]
+                        "12_AA.txt"
+                    ]
                 },
                 {
                     "type": "files",
@@ -386,7 +386,7 @@
             ],
             "sid_airspace": {
                 "type": "folder",
-                "folder":"Misc",
+                "folder": "Misc",
                 "recursive": true,
                 "pattern": "SID_"
             },
