@@ -1,0 +1,1 @@
+COPX:BHD:*:*:EGTE:*:London S6:TEAPP_S:*:12000:|BHD

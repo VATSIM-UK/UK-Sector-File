@@ -1,2 +1,0 @@
-FIR_COPX:*:*:RINTI:*:*:London AC Dover:LFEE N:*:*:ELTEG
-FIR_COPX:*:*:MOTOX:*:*:London AC Dover:LFEE N:*:*:ING
