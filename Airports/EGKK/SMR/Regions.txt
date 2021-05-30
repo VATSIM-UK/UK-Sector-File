@@ -1,5 +1,3 @@
-
-
 ;Black_Background
 REGIONNAME Gatwick
 blackBackground N051.09.32.252 W000.11.01.681
