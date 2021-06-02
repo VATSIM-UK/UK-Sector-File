@@ -1,4 +1,0 @@
-COPX:*:*:HEMEL:EGBB:*:London AC Dover:London TC WELIN:*:22000:HEMEL
-COPX:*:*:HEMEL:EGBE:*:London AC Dover:London TC WELIN:*:22000:HEMEL
-COPX:*:*:HEMEL:EGNX:*:London AC Dover:London TC WELIN:*:22000:HEMEL
-COPX:*:*:HEMEL:EGNE:*:London AC Dover:London TC WELIN:*:22000:HEMEL
