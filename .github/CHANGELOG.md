@@ -2,7 +2,9 @@
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2106) - Added RUXIN Fix - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. AIRAC (2106) - Redesignated Guernsey (EGJB) STARs GUR1Y/1Z -> GUR2Y/2Z - thanks to @AleksMax (Aleks Nieszczerzewski)
-x. AIRAC (2106) - Leeds (EGNM) stand 3 removed - thanks to @robbo599 (Lee Roberts)
+4. AIRAC (2106) - Liverpool (EGGP) TIPOD 3A -> 4A - thanks to @robbo599 (Lee Roberts)
+5. AIRAC (2106) - Manchester (EGCC) MIRSI 2B -> 3B - thanks to @robbo599 (Lee Roberts)
+6. AIRAC (2106) - Leeds (EGNM) stand 3 removed - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
