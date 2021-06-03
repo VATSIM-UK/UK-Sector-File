@@ -1,6 +1,6 @@
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
-x. AIRAC (2106) - Manchester (EGCC) MIRSI 2B -> 3B - thanks to @robbo599 (Lee Roberts)
+2. AIRAC (2106) - Manchester (EGCC) MIRSI 2B -> 3B - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
