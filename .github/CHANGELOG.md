@@ -5,7 +5,8 @@
 4. AIRAC (2106) - Liverpool (EGGP) TIPOD 3A -> 4A - thanks to @robbo599 (Lee Roberts)
 5. AIRAC (2106) - Manchester (EGCC) MIRSI 2B -> 3B - thanks to @robbo599 (Lee Roberts)
 6. AIRAC (2106) - Leeds (EGNM) stand 3 removed - thanks to @robbo599 (Lee Roberts)
-2. AIRAC (2106) - Removed RCH NDB (Rochester) - thanks to @JackG2004 (Jack Gil)
+7. AIRAC (2106) - Removed RCH NDB (Rochester) - thanks to @JackG2004 (Jack Gil)
+8. AIRAC (2106) - Renamed KARNO to KARMO - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
