@@ -1,0 +1,11 @@
+COPX:EGLL:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGKK:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGGW:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTK:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGWU:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGLF:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGLK:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTF:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGHL:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+
+COPX:EGLL:*:EXARO:*:*:London TC SW:London S20:15000:*:^EXARO
