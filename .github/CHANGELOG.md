@@ -7,7 +7,8 @@
 6. AIRAC (2106) - Leeds (EGNM) stand 3 removed - thanks to @robbo599 (Lee Roberts)
 7. AIRAC (2106) - Removed RCH NDB (Rochester) - thanks to @JackG2004 (Jack Gil)
 8. AIRAC (2106) - Renamed KARNO to KARMO - thanks to @robbo599 (Lee Roberts)
-9. Enhancement - Spice up the Sumburgh (EGPB) SMR - thanks to @Bucklerz (Reece Buckley)
+9. AIRAC (2106) - Various Gloucestershire (EGBJ) SMR & runway changes - thanks to @JackG2004 (Jack Gil)
+10. Enhancement - Spice up the Sumburgh (EGPB) SMR - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
