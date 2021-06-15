@@ -1,5 +1,3 @@
-X. Enhancement - Improve Doncaster (EGCN) Centreline - thanks to @jackedwards815 (Jack Edwards)
-
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2106) - Added RUXIN Fix - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -10,6 +8,7 @@ X. Enhancement - Improve Doncaster (EGCN) Centreline - thanks to @jackedwards815
 7. AIRAC (2106) - Removed RCH NDB (Rochester) - thanks to @JackG2004 (Jack Gil)
 8. AIRAC (2106) - Renamed KARNO to KARMO - thanks to @robbo599 (Lee Roberts)
 9. AIRAC (2106) - Various Gloucestershire (EGBJ) SMR & runway changes - thanks to @JackG2004 (Jack Gil)
+10. Enhancement - Improve Doncaster (EGCN) Centreline - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
