@@ -8,7 +8,13 @@
 7. AIRAC (2106) - Removed RCH NDB (Rochester) - thanks to @JackG2004 (Jack Gil)
 8. AIRAC (2106) - Renamed KARNO to KARMO - thanks to @robbo599 (Lee Roberts)
 9. AIRAC (2106) - Various Gloucestershire (EGBJ) SMR & runway changes - thanks to @JackG2004 (Jack Gil)
-x. Error - Corrected EGCN Doncaster SMAA - thanks to @robbo599 (Lee Roberts)
+10. Enhancement - Spice up the Sumburgh (EGPB) SMR - thanks to @Bucklerz (Reece Buckley)
+11. Error - Correct Humberside (EGNJ) SMAA - thanks to @jackedwards815 (Jack Edwards)
+12. Enhancement - Improve Doncaster (EGCN) Centreline - thanks to @jackedwards815 (Jack Edwards)
+13. AIRAC (2106) - Added Swansea (EGFH) Helipads, Taxiway D Label and upadted runway mag headings - thanks to @JackG2004 (Jack Gil)
+14. Enhancement - Improve Humberside (EGNJ) Centreline - thanks to @jackedwards815 (Jack Edwards)
+15. Enhancement - Improve Leeds (EGNM) Centreline - thanks to @jackedwards815 (Jack Edwards)
+16. Bug - Corrected EGCN Doncaster SMAA - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
