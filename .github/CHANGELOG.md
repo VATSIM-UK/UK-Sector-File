@@ -1,7 +1,8 @@
-X. AIRAC (2106) - Added Swansea (EGFH) Helipads, Taxiway D Label and upadted runway mag headings - thanks to @JackG2004 (Jack Gil)
+
 
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2106) - Added Swansea (EGFH) Helipads, Taxiway D Label and upadted runway mag headings - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
