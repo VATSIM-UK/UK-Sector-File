@@ -1,8 +1,17 @@
-
-
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
-2. AIRAC (2106) - Added Swansea (EGFH) Helipads, Taxiway D Label and upadted runway mag headings - thanks to @JackG2004 (Jack Gil)
+2. AIRAC (2106) - Added RUXIN Fix - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. AIRAC (2106) - Redesignated Guernsey (EGJB) STARs GUR1Y/1Z -> GUR2Y/2Z - thanks to @AleksMax (Aleks Nieszczerzewski)
+4. AIRAC (2106) - Liverpool (EGGP) TIPOD 3A -> 4A - thanks to @robbo599 (Lee Roberts)
+5. AIRAC (2106) - Manchester (EGCC) MIRSI 2B -> 3B - thanks to @robbo599 (Lee Roberts)
+6. AIRAC (2106) - Leeds (EGNM) stand 3 removed - thanks to @robbo599 (Lee Roberts)
+7. AIRAC (2106) - Removed RCH NDB (Rochester) - thanks to @JackG2004 (Jack Gil)
+8. AIRAC (2106) - Renamed KARNO to KARMO - thanks to @robbo599 (Lee Roberts)
+9. AIRAC (2106) - Various Gloucestershire (EGBJ) SMR & runway changes - thanks to @JackG2004 (Jack Gil)
+10. Enhancement - Spice up the Sumburgh (EGPB) SMR - thanks to @Bucklerz (Reece Buckley)
+11. Error - Correct Humberside (EGNJ) SMAA - thanks to @jackedwards815 (Jack Edwards)
+12. Enhancement - Improve Doncaster (EGCN) Centreline - thanks to @jackedwards815 (Jack Edwards)
+13. AIRAC (2106) - Added Swansea (EGFH) Helipads, Taxiway D Label and upadted runway mag headings - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
