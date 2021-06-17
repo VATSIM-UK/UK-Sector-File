@@ -12,6 +12,7 @@
 11. Error - Correct Humberside (EGNJ) SMAA - thanks to @jackedwards815 (Jack Edwards)
 12. Enhancement - Improve Doncaster (EGCN) Centreline - thanks to @jackedwards815 (Jack Edwards)
 13. AIRAC (2106) - Added Swansea (EGFH) Helipads, Taxiway D Label and upadted runway mag headings - thanks to @JackG2004 (Jack Gil)
+14. Enhancement - Improve Humberside (EGNJ) Centreline - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
