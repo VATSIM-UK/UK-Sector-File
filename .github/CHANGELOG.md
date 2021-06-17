@@ -18,11 +18,12 @@
 17. Enhancement - Improve Newcastle (EGNT) Centreline - thanks to @jackedwards815 (Jack Edwards)
 18. Enhancement - Add FAVAs to Newcastle (EGNT) - thanks to @robbo599 (Lee Roberts)
 19. Enhancement - Improve Teeside (EGNV) Centreline - thanks to @jackedwards815 (Jack Edwards)
+20. Procedure Change - AC North sectorisation and top down ownership amended - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
 2. Error - Corrected erroneous Biggin Hill (EGKB) SILVA1C runways - thanks to @GeekPro101 (Thomas Mills)
-3. 4. Procedure Change - AC North sectorisation and top down ownership amended - thanks to @jackedwards815 (Jack Edwards)
+3. AIRAC (2105) - Updated London City (EGLC) and Biggin Hill (EGKB) STARs - thanks to @cbyworth (Chad Byworth)
 4. AIRAC (2105) - Updated London City (EGLC) and Biggin Hill (EGKB) STARs - thanks to @cbyworth (Chad Byworth)
 
 
