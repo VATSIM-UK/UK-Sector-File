@@ -18,6 +18,7 @@
 15. Enhancement - Improve Leeds (EGNM) Centreline - thanks to @jackedwards815 (Jack Edwards)
 16. Bug - Corrected EGCN Doncaster SMAA - thanks to @robbo599 (Lee Roberts)
 17. Enhancement - Improve Newcastle (EGNT) Centreline - thanks to @jackedwards815 (Jack Edwards)
+18. Enhancement - Add FAVAs to Newcastle (EGNT) - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/05 to 2021/05a
 1. Error - Corrected Cambridge (EGSC) STAR runways - thanks to @GeekPro101 (Thomas Mills)
