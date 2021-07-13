@@ -76,8 +76,23 @@
                 "ownership": {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
-                    ],
+                        "Airports/EGGD/Ownership.txt"
+                    ]
+                },
+                "ownership": {
+                    "type": "files",
+                    "files": [
+                        "Airports/EGTE/Ownership.txt"
+                    ]
+                },
+                "ownership": {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt",
+                        "exclude": [
+                            "Airports/EGTE/Ownership.txt"
+                            "Airports/EGGD/Ownership.txt"
+                        ],
                     "ignore_missing": true
                 },
                 "positions": {
