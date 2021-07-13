@@ -1,3 +1,6 @@
+# Changes from release 2021/06 to 2021/07
+x. Enhancement - Redraw of Bristol (EGGD) and Cardiff (EGFF) Delegated Airspace - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2106) - Added RUXIN Fix - thanks to @AleksMax (Aleks Nieszczerzewski)
