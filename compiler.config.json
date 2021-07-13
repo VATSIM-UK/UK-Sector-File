@@ -77,18 +77,16 @@
                     "type": "files",
                     "files": [
                         "EGGD/Ownership.txt"
-                    ]
-                },
-                "ownership": {
+                    ],
                     "type": "files",
                     "files": [
                         "EGTE/Ownership.txt"
-                    ]
+                    ],
                     "type": "files",
                     "files": [
                         "Ownership.txt",
                         "exclude": [
-                            "EGGD/Ownership.txt"
+                            "EGGD/Ownership.txt",
                             "EGTE/Ownership.txt"
                         ],
                     "ignore_missing": true
