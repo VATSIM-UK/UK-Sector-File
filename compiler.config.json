@@ -86,9 +86,9 @@
                     "files": [
                         "Ownership.txt",
                         "exclude": [
-                            "EGGD/Ownership.txt",
+                            "EGGD/Ownership.txt"
                             "EGTE/Ownership.txt"
-                        ],
+                    ],
                     "ignore_missing": true
                 },
                 "positions": {
