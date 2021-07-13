@@ -72,22 +72,11 @@
                         "Ground_Network.txt"
                     ],
                     "ignore_missing": true
-                },
+                                },
                 "ownership": {
                     "type": "files",
                     "files": [
-                        "EGGD/Ownership.txt"
-                    ],
-                    "type": "files",
-                    "files": [
-                        "EGTE/Ownership.txt"
-                    ],
-                    "type": "files",
-                    "files": [
-                        "Ownership.txt",
-                        "exclude": [
-                            "EGGD/Ownership.txt"
-                            "EGTE/Ownership.txt"
+                        "Ownership.txt"
                     ],
                     "ignore_missing": true
                 },
