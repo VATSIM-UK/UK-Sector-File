@@ -84,14 +84,12 @@
                     "files": [
                         "EGTE/Ownership.txt"
                     ]
-                },
-                "ownership": {
                     "type": "files",
                     "files": [
                         "Ownership.txt",
                         "exclude": [
-                            "EGTE/Ownership.txt"
                             "EGGD/Ownership.txt"
+                            "EGTE/Ownership.txt"
                         ],
                     "ignore_missing": true
                 },
