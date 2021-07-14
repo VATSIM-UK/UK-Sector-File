@@ -1,3 +1,4 @@
+2106/2107
 X. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/05a to 2021/06
