@@ -1,7 +1,8 @@
 # Changes from release 2021/06 to 2021/07
-
-
-x. Bug - Fixed missing TC NW/Daventry line - thanks to @robbo599 (Lee Roberts)
+1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
+2. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
+3. Enhancement - Added Yeovil Westland (EGHG) Sectors and Ownership - thanks to @danielbutton (Daniel Button)
+4. Bug - Fixed missing TC NW/Daventry line - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
