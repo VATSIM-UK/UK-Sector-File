@@ -6,6 +6,7 @@
 5. Procedure Change - Added additional COPX for Clacton S13 -> Dover S26 Severn group inbounds - thanks to @hsugden (Harry Sugden)
 8. Bug - Fixed FF -> GD Agreement Bug - thanks to @danielbutton (Daniel Button)
 7. AIRAC (2102) - RAF Linton on Ouse (EGXU) closed - thanks to @robbo599 (Lee Roberts)
+8. AIRAC (2106) - Jersey (EGJJ) JSY1X -> 2x, JSY1W -> 2W - thanks to @robbo599	(Lee Roberts)
 
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
