@@ -1,3 +1,4 @@
+.x AIRAC (2108)- Ammended Blackpool (BPL) NDB Coordinates - thanks to @Thecardinal5483 (Vince Farrow)
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
 2. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
