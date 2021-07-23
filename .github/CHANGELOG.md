@@ -1,3 +1,6 @@
+# Changes from release 2021/07 to 2021/08
+1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
+
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
 2. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
@@ -9,7 +12,7 @@
 8. AIRAC (2106) - Jersey (EGJJ) JSY1X -> 2x, JSY1W -> 2W - thanks to @robbo599	(Lee Roberts)
 9. Enhancement - Added S6 -> TE APP (Cardiff Offline) Agreement - thanks to @danielbutton (Daniel Button)
 10. Enhancement - Redraw of APP Sector for Scilly Isles/St Mary's (EGHE) - thanks to @danielbutton (Daniel Button)
-1. AIRAC (2107) - Change to Aldergrove Radar frequency - thanks to @trevorhannant (Trevor Hannant)
+11. AIRAC (2107) - Change to Aldergrove Radar frequency - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
