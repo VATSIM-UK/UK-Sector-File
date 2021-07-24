@@ -1,4 +1,4 @@
-x. AIRAC (2108) - Updated Blackpool (EGNH) Runway 10 threshold coordinates - thanks to @Bucklerz (Reece Buckley)
+x. Error - Updated Blackpool (EGNH) Runway 28 threshold coordinates - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
