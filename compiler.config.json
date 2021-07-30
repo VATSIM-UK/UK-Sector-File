@@ -72,7 +72,7 @@
                         "Ground_Network.txt"
                     ],
                     "ignore_missing": true
-                                },
+                },
                 "ownership": {
                     "type": "files",
                     "files": [
