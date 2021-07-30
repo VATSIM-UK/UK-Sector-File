@@ -1,3 +1,25 @@
+# Changes from release 2021/07 to 2021/08
+1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
+2. AIRAC (2108) - Updated Manchester (EGCC) VRPs - thanks to @Thecardinal5483 (Vince Farrow)
+3. AIRAC (2108) - Updated Blackpool (BPL) NDB Coordinates - thanks to @Thecardinal5483 (Vince Farrow)
+4. Error - Corrected Blackpool (EGNH) Runway 28 threshold coordinates - thanks to @Bucklerz (Reece Buckley)
+5. Enhancement - Redraw of Bristol (EGGD) and Cardiff (EGFF) Delegated Airspace - thanks to @danielbutton (Daniel Button)
+6. Procedure Change - Add Shanwick & Gander bandbox position - thanks to @jackedwards815 (Jack Edwards)
+7. Enhancement - Added Birmingham (EGBB) non standard SIDs MOSUN & LUXTO - thanks to @robbo599 (Lee Roberts)
+
+# Changes from release 2021/06 to 2021/07
+1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
+2. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
+3. Enhancement - Added Yeovil Westland (EGHG) Sectors and Ownership - thanks to @danielbutton (Daniel Button)
+4. Bug - Fixed missing TC NW/Daventry line - thanks to @robbo599 (Lee Roberts)
+5. Procedure Change - Added additional COPX for Clacton S13 -> Dover S26 Severn group inbounds - thanks to @hsugden (Harry Sugden)
+8. Bug - Fixed FF -> GD Agreement Bug - thanks to @danielbutton (Daniel Button)
+7. AIRAC (2102) - RAF Linton on Ouse (EGXU) closed - thanks to @robbo599 (Lee Roberts)
+8. AIRAC (2106) - Jersey (EGJJ) JSY1X -> 2x, JSY1W -> 2W - thanks to @robbo599	(Lee Roberts)
+9. Enhancement - Added S6 -> TE APP (Cardiff Offline) Agreement - thanks to @danielbutton (Daniel Button)
+10. Enhancement - Redraw of APP Sector for Scilly Isles/St Mary's (EGHE) - thanks to @danielbutton (Daniel Button)
+11. AIRAC (2107) - Change to Aldergrove Radar frequency - thanks to @trevorhannant (Trevor Hannant)
+
 # Changes from release 2021/05a to 2021/06
 1. AIRAC (2011) - Updated London City (EGLC) SMR - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2106) - Added RUXIN Fix - thanks to @AleksMax (Aleks Nieszczerzewski)
