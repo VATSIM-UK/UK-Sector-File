@@ -1,5 +1,4 @@
 # Changes from release 2021/07 to 2021/08
-
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
 2. AIRAC (2108) - Updated Manchester (EGCC) VRPs - thanks to @Thecardinal5483 (Vince Farrow)
 3. AIRAC (2108) - Updated Blackpool (BPL) NDB Coordinates - thanks to @Thecardinal5483 (Vince Farrow)
