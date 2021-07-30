@@ -4,6 +4,7 @@
 3. AIRAC (2108) - Updated Blackpool (BPL) NDB Coordinates - thanks to @Thecardinal5483 (Vince Farrow)
 4. Error - Corrected Blackpool (EGNH) Runway 28 threshold coordinates - thanks to @Bucklerz (Reece Buckley)
 5. Enhancement - Redraw of Bristol (EGGD) and Cardiff (EGFF) Delegated Airspace - thanks to @danielbutton (Daniel Button)
+6. Procedure Change - Add Shanwick & Gander bandbox position - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
