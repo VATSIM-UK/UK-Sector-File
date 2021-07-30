@@ -7,6 +7,7 @@
 6. Procedure Change - Add Shanwick & Gander bandbox position - thanks to @jackedwards815 (Jack Edwards)
 7. Enhancement - Added Birmingham (EGBB) non standard SIDs MOSUN & LUXTO - thanks to @robbo599 (Lee Roberts)
 8. AIRAC (2108) - Added Shobdon (EGBS) AFIS - thanks to @Bucklerz (Reece Buckley)
+9. AIRAC (2108) - Cardiff (EGFF) frequencies added to 8.33 doc - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
