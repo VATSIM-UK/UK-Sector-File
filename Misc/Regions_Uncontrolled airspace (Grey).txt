@@ -87,6 +87,7 @@ OCASregionGrey             N051.40.53.673 W001.34.57.003
                            N052.06.45.637 W002.01.51.598
                            N051.47.48.674 W001.41.35.478
                            N051.42.12.120 W001.35.37.143
+                           N051.40.53.673 W001.34.57.003
 
 ;North of Holyhead CTA13
 REGIONNAME Uncontrolled airspace (Grey)
