@@ -10,6 +10,7 @@
 9. AIRAC (2108) - Cardiff (EGFF) frequencies added to 8.33 doc - thanks to @robbo599 (Lee Roberts)
 10. AIRAC (2108) - Remove D3 holding point at Blackpool (EGNH) - thanks to @lieseld (Liesel Downes)
 11. Enhancement - Added RATSU Triangle - thanks to @robbo599 (Lee Roberts)
+12. AIRAC (2107) - Updated Heathrow (EGLL) SMAA - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
