@@ -12,6 +12,7 @@
 11. Enhancement - Added RATSU Triangle - thanks to @robbo599 (Lee Roberts)
 12. AIRAC (2107) - Updated Heathrow (EGLL) SMAA - thanks to @robbo599 (Lee Roberts)
 13. AIRAC (2108) - Added Little Rissington (EGVL) ATZ - thanks to @robbo599 (Lee Roberts)
+14. AIRAC - Updated Heathrow (EGLL) SMR to display taxiway A (South) closure - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
