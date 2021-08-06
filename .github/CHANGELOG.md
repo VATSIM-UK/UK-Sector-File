@@ -14,6 +14,7 @@
 13. AIRAC (2108) - Added Little Rissington (EGVL) ATZ - thanks to @robbo599 (Lee Roberts)
 14. AIRAC - Updated Heathrow (EGLL) SMR to display taxiway A (South) closure - thanks to @SamLefevre (Samuel Lefevre)
 15. Bug - Fix for malfunctioning handoffs from PC SE -> CCS - thanks to @robbo599 (Lee Roberts)
+16. Bug - Corrected missing sector line between S20/S21/S22 and Jersey Control - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
