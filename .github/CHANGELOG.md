@@ -1,6 +1,7 @@
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
-2. Enchancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
+2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
@@ -10,7 +11,6 @@
 5. Enhancement - Redraw of Bristol (EGGD) and Cardiff (EGFF) Delegated Airspace - thanks to @danielbutton (Daniel Button)
 6. Procedure Change - Add Shanwick & Gander bandbox position - thanks to @jackedwards815 (Jack Edwards)
 7. Enhancement - Added Birmingham (EGBB) non standard SIDs MOSUN & LUXTO - thanks to @robbo599 (Lee Roberts)
-
 8. AIRAC (2108) - Added Shobdon (EGBS) AFIS - thanks to @Bucklerz (Reece Buckley)
 9. AIRAC (2108) - Cardiff (EGFF) frequencies added to 8.33 doc - thanks to @robbo599 (Lee Roberts)
 10. AIRAC (2108) - Remove D3 holding point at Blackpool (EGNH) - thanks to @lieseld (Liesel Downes)
