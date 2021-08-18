@@ -1,9 +1,26 @@
+# Changes from release 2021/08 to 2021/09
+1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
+2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
+
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
 2. AIRAC (2108) - Updated Manchester (EGCC) VRPs - thanks to @Thecardinal5483 (Vince Farrow)
 3. AIRAC (2108) - Updated Blackpool (BPL) NDB Coordinates - thanks to @Thecardinal5483 (Vince Farrow)
 4. Error - Corrected Blackpool (EGNH) Runway 28 threshold coordinates - thanks to @Bucklerz (Reece Buckley)
-x. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
+5. Enhancement - Redraw of Bristol (EGGD) and Cardiff (EGFF) Delegated Airspace - thanks to @danielbutton (Daniel Button)
+6. Procedure Change - Add Shanwick & Gander bandbox position - thanks to @jackedwards815 (Jack Edwards)
+7. Enhancement - Added Birmingham (EGBB) non standard SIDs MOSUN & LUXTO - thanks to @robbo599 (Lee Roberts)
+8. AIRAC (2108) - Added Shobdon (EGBS) AFIS - thanks to @Bucklerz (Reece Buckley)
+9. AIRAC (2108) - Cardiff (EGFF) frequencies added to 8.33 doc - thanks to @robbo599 (Lee Roberts)
+10. AIRAC (2108) - Remove D3 holding point at Blackpool (EGNH) - thanks to @lieseld (Liesel Downes)
+11. Enhancement - Added RATSU Triangle - thanks to @robbo599 (Lee Roberts)
+12. AIRAC (2107) - Updated Heathrow (EGLL) SMAA - thanks to @robbo599 (Lee Roberts)
+13. AIRAC (2108) - Added Little Rissington (EGVL) ATZ - thanks to @robbo599 (Lee Roberts)
+14. AIRAC - Updated Heathrow (EGLL) SMR to display taxiway A (South) closure - thanks to @SamLefevre (Samuel Lefevre)
+15. Bug - Fix for malfunctioning handoffs from PC SE -> CCS - thanks to @robbo599 (Lee Roberts)
+16. Bug - Corrected missing sector line between S20/S21/S22 and Jersey Control - thanks to @robbo599 (Lee Roberts)
+17. Enhancement - Removed all Archived/Withdrawn Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/06 to 2021/07
 1. Enhancement - Added Southampton (EGHI) Standard departure routings - thanks to @JackG2004 (Jack Gil)
