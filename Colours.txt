@@ -72,7 +72,7 @@
 #define smrHPTS 9204580
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
-#definesmrKKBlue 16755200
+#define smrKKBlue 16755200
 #define smrLLConstruction 80
 #define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
