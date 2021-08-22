@@ -2,6 +2,7 @@
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
+4. Enhancement - Updated Gloucester OCAS Region to reflect Cotswold CTA FUA - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
