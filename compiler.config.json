@@ -73,7 +73,8 @@
                     ],
                     "ignore_missing": true
                 },
-                "ownership": {
+                "ownership": [
+                  {
                     "type": "files",
                     "files": [
                         "Ownership.txt"
@@ -81,13 +82,14 @@
                     "ignore_missing": true,
                     "exclude_directory": ["EGGD", "EGFF", "EGTE"]
                 }, 
-                "ownership" {
+                {
                     "type": "files",
                     "files": [
                         "Ownership.txt"
                     ],
                     "ignore_missing": true
-                },
+                }
+                ]
                 "positions": {
                     "type": "files",
                     "files": [
