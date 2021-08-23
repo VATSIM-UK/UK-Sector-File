@@ -78,7 +78,7 @@
                     "files": [
                         "Ownership.txt"
                     ],
-                    "ignore_missing": true
+                    "ignore_missing": true,
                     "exclude_directory": ["EGGD", "EGFF", "EGTE"]
                 }, 
                 "ownership" {
