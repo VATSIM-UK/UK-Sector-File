@@ -89,7 +89,7 @@
                     ],
                     "ignore_missing": true
                   }
-                ]
+                ],
                 "positions": {
                     "type": "files",
                     "files": [
