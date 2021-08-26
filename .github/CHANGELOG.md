@@ -3,8 +3,8 @@
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
 4. Enhancement - Updated Gloucester OCAS Region to reflect Cotswold CTA FUA - thanks to @danielbutton (Daniel Button)
-3. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
-x. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
+5. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
