@@ -6,7 +6,7 @@
 5. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
 6. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
 X. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
-X. AIRAC (2109) - Added Kemble (EGBP) RNP Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. AIRAC (2109) - Added Kemble (EGBP) RNP Approach Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
