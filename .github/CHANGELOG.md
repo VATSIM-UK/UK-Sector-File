@@ -1,3 +1,5 @@
+X. AIRAC (2109) - Stansted (EGSS) LYD Sids Removed - thanks to @WillShaw1100 (William Shaw)
+
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
