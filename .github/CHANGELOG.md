@@ -5,7 +5,8 @@
 4. Enhancement - Updated Gloucester OCAS Region to reflect Cotswold CTA FUA - thanks to @danielbutton (Daniel Button)
 5. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
 6. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
-X. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
+7. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. AIRAC (2109) - Extended M604 DET -> LYD - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
