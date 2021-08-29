@@ -8,6 +8,7 @@
 7. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. AIRAC (2109) - Extended M604 DET -> LYD - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. AIRAC (2109) - Stansted (EGSS) LYD SIDs removed - thanks to @WillShaw1100 (William Shaw)
+10. AIRAC (2109) - Added FIFAH, IZLAW, and PEGZA Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
