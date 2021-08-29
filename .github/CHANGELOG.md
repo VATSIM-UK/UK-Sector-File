@@ -4,7 +4,12 @@
 3. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
 4. Enhancement - Updated Gloucester OCAS Region to reflect Cotswold CTA FUA - thanks to @danielbutton (Daniel Button)
 5. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
-6. AIRAC (2109) - EGGD RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
+7. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. AIRAC (2109) - Extended M604 DET -> LYD - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. AIRAC (2109) - Stansted (EGSS) LYD SIDs removed - thanks to @WillShaw1100 (William Shaw)
+10. AIRAC (2109) - Added FIFAH, IZLAW, and PEGZA Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
+11. AIRAC (2109) - EGGD RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
