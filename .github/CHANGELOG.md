@@ -1,5 +1,3 @@
-X. AIRAC (2109) - Updated Heathrow (EGLL) SMR to display taxiway A (South) between C & E closure - thanks to @WillShaw1100 (William Shaw)
-
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -8,6 +6,7 @@ X. AIRAC (2109) - Updated Heathrow (EGLL) SMR to display taxiway A (South) betwe
 5. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
 6. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
 X. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
+X. AIRAC (2109) - Updated Heathrow (EGLL) SMR to display taxiway A (South) between C & E closure - thanks to @WillShaw1100 (William Shaw)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
