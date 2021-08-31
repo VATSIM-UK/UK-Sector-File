@@ -1,7 +1,18 @@
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
-2. Enchancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
-X. AIRAC (2107) - South Coast Danger Areas (8C, 13) Coordinates updated - thanks to @luke11brown (Luke Brown)
+2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
+3. Bug - Sector lines for PC SE amended - thanks to @robbo599 (Lee Roberts)
+4. Enhancement - Updated Gloucester OCAS Region to reflect Cotswold CTA FUA - thanks to @danielbutton (Daniel Button)
+5. Bug - Fixed PE APP -> Montrose Outbound Agreement COPX - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2109) - Barton (EGCB) RWY 20 threshold coords updated - thanks to @lieseld (Liesel Downes)
+7. AIRAC (2109) - Renamed KARMO back to KARNO - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. AIRAC (2109) - Extended M604 DET -> LYD - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. AIRAC (2109) - Stansted (EGSS) LYD SIDs removed - thanks to @WillShaw1100 (William Shaw)
+10. AIRAC (2109) - Added FIFAH, IZLAW, and PEGZA Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
+11. AIRAC (2109) - Updated Sywell (EGBK) 03L/21R Mag Var - thanks to @AleksMax (Aleks Nieszczerzewski)
+12. AIRAC (2109) - EGFF RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
+13. AIRAC (2109) - Updated Heathrow (EGLL) SMR to display taxiway A (South) between C & E closure - thanks to @WillShaw1100 (William Shaw)
+14. AIRAC (2107) - South Coast Danger Areas (8C, 13) Coordinates updated - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
@@ -11,7 +22,6 @@ X. AIRAC (2107) - South Coast Danger Areas (8C, 13) Coordinates updated - thanks
 5. Enhancement - Redraw of Bristol (EGGD) and Cardiff (EGFF) Delegated Airspace - thanks to @danielbutton (Daniel Button)
 6. Procedure Change - Add Shanwick & Gander bandbox position - thanks to @jackedwards815 (Jack Edwards)
 7. Enhancement - Added Birmingham (EGBB) non standard SIDs MOSUN & LUXTO - thanks to @robbo599 (Lee Roberts)
-
 8. AIRAC (2108) - Added Shobdon (EGBS) AFIS - thanks to @Bucklerz (Reece Buckley)
 9. AIRAC (2108) - Cardiff (EGFF) frequencies added to 8.33 doc - thanks to @robbo599 (Lee Roberts)
 10. AIRAC (2108) - Remove D3 holding point at Blackpool (EGNH) - thanks to @lieseld (Liesel Downes)
