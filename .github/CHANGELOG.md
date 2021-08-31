@@ -13,6 +13,7 @@
 12. AIRAC (2109) - EGFF RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
 13. AIRAC (2109) - Updated Heathrow (EGLL) SMR to display taxiway A (South) between C & E closure - thanks to @WillShaw1100 (William Shaw)
 14. AIRAC (2107) - South Coast Danger Areas (8C, 13) Coordinates updated - thanks to @luke11brown (Luke Brown)
+15. AIRAC (2109) - updated Biggin Hill (EGKB) SMR - thanks to @stuart5250 (Stuart Keaney)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
