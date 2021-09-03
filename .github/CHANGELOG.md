@@ -15,6 +15,7 @@
 14. AIRAC (2107) - South Coast Danger Areas (8C, 13) Coordinates updated - thanks to @luke11brown (Luke Brown)
 15. AIRAC (2109) - updated Biggin Hill (EGKB) SMR - thanks to @stuart5250 (Stuart Keaney)
 16. AIRAC (2109) - Renamed Birmingham (EGBB) STAR MAKUX1B -> MAKUX2B - thanks to @AleksMax (Aleks Nieszczerzewski)
+17. AIRAC (2109) - Added Various Jersey (EGJJ) STAR Changes - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
