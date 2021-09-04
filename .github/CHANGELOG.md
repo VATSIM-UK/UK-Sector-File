@@ -9,7 +9,15 @@
 8. AIRAC (2109) - Extended M604 DET -> LYD - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. AIRAC (2109) - Stansted (EGSS) LYD SIDs removed - thanks to @WillShaw1100 (William Shaw)
 10. AIRAC (2109) - Added FIFAH, IZLAW, and PEGZA Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
-11. AIRAC (2109) - EGGD RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
+11. AIRAC (2109) - Updated Sywell (EGBK) 03L/21R Mag Var - thanks to @AleksMax (Aleks Nieszczerzewski)
+12. AIRAC (2109) - EGFF RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
+13. AIRAC (2109) - Updated Heathrow (EGLL) SMR to display taxiway A (South) between C & E closure - thanks to @WillShaw1100 (William Shaw)
+14. AIRAC (2107) - South Coast Danger Areas (8C, 13) Coordinates updated - thanks to @luke11brown (Luke Brown)
+15. AIRAC (2109) - updated Biggin Hill (EGKB) SMR - thanks to @stuart5250 (Stuart Keaney)
+16. AIRAC (2109) - Renamed Birmingham (EGBB) STAR MAKUX1B -> MAKUX2B - thanks to @AleksMax (Aleks Nieszczerzewski)
+17. AIRAC (2109) - Added Various Jersey (EGJJ) STAR Changes - thanks to @AleksMax (Aleks Nieszczerzewski)
+18. AIRAC (2109) - Redesignated Guernsey (EGJB) GUR STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
+19. AIRAC (2109) - EGGD RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
