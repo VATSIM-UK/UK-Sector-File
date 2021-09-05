@@ -19,6 +19,7 @@
 18. AIRAC (2109) - Redesignated Guernsey (EGJB) GUR STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
 19. AIRAC (2109) - Bristol (EGGD) RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
 20. Enhancement - Gatwick (EGKK) SMR style now matches InNOVA - thanks to @luke11brown (Luke Brown)
+21. AIRAC (2109) - Added Raymill House Restricted Area (R106) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
