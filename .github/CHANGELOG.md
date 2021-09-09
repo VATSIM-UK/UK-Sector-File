@@ -1,3 +1,4 @@
+
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -18,7 +19,12 @@
 17. AIRAC (2109) - Added Various Jersey (EGJJ) STAR Changes - thanks to @AleksMax (Aleks Nieszczerzewski)
 18. AIRAC (2109) - Redesignated Guernsey (EGJB) GUR STARs - thanks to @AleksMax (Aleks Nieszczerzewski)
 19. AIRAC (2109) - Bristol (EGGD) RNAV-5 STARs added - thanks to @danielbutton (Daniel Button)
-20. Procedure Change - AC West -> FF APP Agreements Updated - thanks to @danielbutton (Daniel Button)
+20. Enhancement - Gatwick (EGKK) SMR style now matches InNOVA - thanks to @luke11brown (Luke Brown)
+21. AIRAC (2109) - Added Raymill House Restricted Area (R106) - thanks to @AleksMax (Aleks Nieszczerzewski)
+22. AIRAC (2109) - Added Llanbedr Danger Areas (D217A-K) - thanks to @AleksMax (Aleks Nieszczerzewski)
+23. AIRAC (2109) - Added Kemble (EGBP) RNP Approach Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
+24. AIRAC (2106) - Updated London City (EGLC) SMR - thanks to @stuart5250 (Stuart Keaney)
+25. Procedure Change - AC West -> FF APP Agreements Updated - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
