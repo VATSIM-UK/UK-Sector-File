@@ -1,3 +1,4 @@
+
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -22,6 +23,7 @@
 21. AIRAC (2109) - Added Raymill House Restricted Area (R106) - thanks to @AleksMax (Aleks Nieszczerzewski)
 22. AIRAC (2109) - Added Llanbedr Danger Areas (D217A-K) - thanks to @AleksMax (Aleks Nieszczerzewski)
 23. AIRAC (2109) - Added Kemble (EGBP) RNP Approach Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
+24. AIRAC (2106) - Updated London City (EGLC) SMR - thanks to @stuart5250 (Stuart Keaney)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
