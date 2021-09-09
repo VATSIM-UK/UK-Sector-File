@@ -24,6 +24,7 @@
 22. AIRAC (2109) - Added Llanbedr Danger Areas (D217A-K) - thanks to @AleksMax (Aleks Nieszczerzewski)
 23. AIRAC (2109) - Added Kemble (EGBP) RNP Approach Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
 24. AIRAC (2106) - Updated London City (EGLC) SMR - thanks to @stuart5250 (Stuart Keaney)
+25. Procedure Change - AC West -> FF APP Agreements Updated - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
