@@ -1,5 +1,5 @@
 # Changes from release 2021/09 to 2021/10
-1. Bug - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
+1. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
