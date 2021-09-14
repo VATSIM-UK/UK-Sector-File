@@ -1,4 +1,7 @@
 
+# Changes from release 2021/09 to 2021/10
+1. AIRAC (2109) - Updated Fairoaks (EGTF) magnitude heading, threshold coordinates and stand coordinates - thanks to @coleedwards (Cole Edwards)
+
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
