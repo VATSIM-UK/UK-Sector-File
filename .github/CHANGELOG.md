@@ -1,3 +1,5 @@
+# Changes from release 2021/09 to 2021/10
+1. Enhancement - Updated ownership definition of delegated airspace in the Amsterdam FIR - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
