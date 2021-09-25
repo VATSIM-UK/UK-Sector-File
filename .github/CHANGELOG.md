@@ -7,7 +7,7 @@
 6. AIRAC (2110) - Truncated Guernsey (EGJB) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Enhancement - EGPI-(Islay)-Runway-13/31 - thanks to @scalderhead (Stephen Calderhead)
 8. Enhancement - EGPU-(Tiree)-RNP-IAFs - thanks to @scalderhead (Stephen Calderhead)
-9. 
+
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
