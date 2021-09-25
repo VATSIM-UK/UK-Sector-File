@@ -1,3 +1,5 @@
+# Changes from release 2021/09 to 2021/10
+1. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
