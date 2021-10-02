@@ -1,5 +1,13 @@
 # Changes from release 2021/09 to 2021/10
-X. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
+1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
+2. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
+3. AIRAC (2109) - Updated Fairoaks (EGTF) magnitude heading, threshold coordinates and stand coordinates - thanks to @coleedwards (Cole Edwards)
+4. AIRAC (2109) - Updated Thruxton (EGHO) SMR - thanks to @coleedwards (Cole Edwards)
+5. AIRAC (2110) - Truncated Jersey (EGJJ) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. AIRAC (2110) - Truncated Guernsey (EGJB) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
+7. Procedure Change - Updated Maastricht (EBBU_U_CTR) Radar Frequency - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. AIRAC (2110) - Renamed Manchester (EGCC) NA Hold to NA1 - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
