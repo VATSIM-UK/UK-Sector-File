@@ -7,6 +7,7 @@
 6. AIRAC (2110) - Truncated Guernsey (EGJB) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Procedure Change - Updated Maastricht (EBBU_U_CTR) Radar Frequency - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. AIRAC (2110) - Renamed Manchester (EGCC) NA Hold to NA1 - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
