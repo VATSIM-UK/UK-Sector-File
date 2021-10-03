@@ -9,6 +9,7 @@
 8. AIRAC (2110) - Renamed Manchester (EGCC) NA Hold to NA1 - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. AIRAC (2110) - Updated East Midlands (EGNX) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+11. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
