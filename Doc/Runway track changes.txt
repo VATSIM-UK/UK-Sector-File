@@ -44,3 +44,4 @@ Kirkwall            EGPA    2104    Yes                     No                  
 Redhill             EGKR    2105    Yes                     No                      No
 Wellesbourne        EGPA    2105    Yes                     No                      No
 Gloucestershire     EGBJ    2105    Yes                     Yes                     No
+East Midlands       EGNX    2110    Yes                     Yes                     Yes
