@@ -1,3 +1,22 @@
+# Changes from release 2021/09 to 2021/10
+1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
+2. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
+3. AIRAC (2109) - Updated Fairoaks (EGTF) mag heading, threshold coordinates and stand coordinates - thanks to @coleedwards (Cole Edwards)
+4. AIRAC (2109) - Updated Thruxton (EGHO) SMR - thanks to @coleedwards (Cole Edwards)
+5. AIRAC (2110) - Truncated Jersey (EGJJ) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
+6. AIRAC (2110) - Truncated Guernsey (EGJB) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
+7. Procedure Change - Updated Maastricht (EBBU_U_CTR) Radar Frequency - thanks to @AleksMax (Aleks Nieszczerzewski)
+8. AIRAC (2110) - Renamed Manchester (EGCC) NA Hold to NA1 - thanks to @AleksMax (Aleks Nieszczerzewski)
+9. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. AIRAC (2110) - Updated East Midlands (EGNX) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+11. AIRAC (2109) - Shoreham (EGKA) changes to runway mag heading and SMR updates - thanks to @coleedwards (Cole Edwards)
+12. Enhancement - Updated ownership definition of delegated airspace in the Amsterdam FIR - thanks to @hsugden (Harry Sugden)
+13. AIRAC (2110) - Converted Carlisle ATC to Carlisle Radio - thanks to @AleksMax (Aleks Nieszczerzewski)
+14. AIRAC (2110) - Updated Islay (EGPI) Runways Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+15. Enhancement - Added Tiree (EGPU) RNP approach fixes - thanks to @scalderhead (Stephen Calderhead)
+16. Enhancement - Updated Dutch Conventional Navaids - thanks to @AleksMax (Aleks Nieszczerzewski)
+17. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
+
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
 2. Enhancement - Further AC North Resectorisation Changes (addition of Alt Ownership) - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -21,7 +40,9 @@
 20. Enhancement - Gatwick (EGKK) SMR style now matches InNOVA - thanks to @luke11brown (Luke Brown)
 21. AIRAC (2109) - Added Raymill House Restricted Area (R106) - thanks to @AleksMax (Aleks Nieszczerzewski)
 22. AIRAC (2109) - Added Llanbedr Danger Areas (D217A-K) - thanks to @AleksMax (Aleks Nieszczerzewski)
-23. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
+23. AIRAC (2109) - Added Kemble (EGBP) RNP Approach Fixes - thanks to @AleksMax (Aleks Nieszczerzewski)
+24. AIRAC (2106) - Updated London City (EGLC) SMR - thanks to @stuart5250 (Stuart Keaney)
+25. Procedure Change - AC West -> FF APP Agreements Updated - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
