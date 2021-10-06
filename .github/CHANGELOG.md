@@ -13,6 +13,7 @@
 12. Enhancement - Updated ownership definition of delegated airspace in the Amsterdam FIR - thanks to @hsugden (Harry Sugden)
 13. AIRAC (2110) - Converted Carlisle ATC to Carlisle Radio - thanks to @AleksMax (Aleks Nieszczerzewski)
 14. AIRAC (2110) - Updated Islay (EGPI) Runways Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
+15. Enhancement - Added Tiree (EGPU) RNP approach fixes - thanks to @scalderhead (Stephen Calderhead)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
