@@ -14,7 +14,8 @@
 13. AIRAC (2110) - Converted Carlisle ATC to Carlisle Radio - thanks to @AleksMax (Aleks Nieszczerzewski)
 14. AIRAC (2110) - Updated Islay (EGPI) Runways Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 15. Enhancement - Added Tiree (EGPU) RNP approach fixes - thanks to @scalderhead (Stephen Calderhead)
-16. Enhancement - Updated Dutch Conventional Navaids - thanks to @AleksMax (Aleks Nieszczerzewski
+16. Enhancement - Updated Dutch Conventional Navaids - thanks to @AleksMax (Aleks Nieszczerzewski)
+17. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
