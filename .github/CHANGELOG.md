@@ -10,6 +10,7 @@
 9. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. AIRAC (2110) - Updated East Midlands (EGNX) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 11. AIRAC (2109) - Shoreham (EGKA) changes to runway mag heading and SMR updates - thanks to @coleedwards (Cole Edwards)
+12. Enhancement - Updated ownership definition of delegated airspace in the Amsterdam FIR - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
