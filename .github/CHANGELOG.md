@@ -1,4 +1,3 @@
-
 # Changes from release 2021/09 to 2021/10
 1. AIRAC (2109) - Shoreham (EGKA) changes to runway mag heading and SMR updates - thanks to @coleedwards (Cole Edwards)
 
