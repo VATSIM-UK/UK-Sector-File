@@ -1,7 +1,7 @@
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
 2. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
-3. AIRAC (2109) - Updated Fairoaks (EGTF) magnitude heading, threshold coordinates and stand coordinates - thanks to @coleedwards (Cole Edwards)
+3. AIRAC (2109) - Updated Fairoaks (EGTF) mag heading, threshold coordinates and stand coordinates - thanks to @coleedwards (Cole Edwards)
 4. AIRAC (2109) - Updated Thruxton (EGHO) SMR - thanks to @coleedwards (Cole Edwards)
 5. AIRAC (2110) - Truncated Jersey (EGJJ) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. AIRAC (2110) - Truncated Guernsey (EGJB) CAN SIDs to LUSIT - thanks to @AleksMax (Aleks Nieszczerzewski)
