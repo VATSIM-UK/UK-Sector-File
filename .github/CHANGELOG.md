@@ -21,6 +21,7 @@
 20. Enhancement - Gatwick (EGKK) SMR style now matches InNOVA - thanks to @luke11brown (Luke Brown)
 21. AIRAC (2109) - Added Raymill House Restricted Area (R106) - thanks to @AleksMax (Aleks Nieszczerzewski)
 22. AIRAC (2109) - Added Llanbedr Danger Areas (D217A-K) - thanks to @AleksMax (Aleks Nieszczerzewski)
+23. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
 
 # Changes from release 2021/07 to 2021/08
 1. Enhancement - Added EGNX Ground Networks - Thanks to @1adamf (Adam Farquharson, James Taylor, Dean Benavidez)
