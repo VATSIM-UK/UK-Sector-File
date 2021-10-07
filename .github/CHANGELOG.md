@@ -16,6 +16,8 @@
 15. Enhancement - Added Tiree (EGPU) RNP approach fixes - thanks to @scalderhead (Stephen Calderhead)
 16. Enhancement - Updated Dutch Conventional Navaids - thanks to @AleksMax (Aleks Nieszczerzewski)
 17. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
+18. Error - Added missing La Manche delegation ownership definition for Sector 17 - thanks to @hsugden (Harry Sugden)
+19. Enhancement - General improvements to sector definitions in LAC South - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
