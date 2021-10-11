@@ -1,3 +1,4 @@
+x. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
 2. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
@@ -19,7 +20,6 @@
 18. Error - Added missing La Manche delegation ownership definition for Sector 17 - thanks to @hsugden (Harry Sugden)
 19. Enhancement - General improvements to sector definitions in LAC South - thanks to @hsugden (Harry Sugden)
 20. Enhancement - Runway track changes document removed - thanks to @AleksMax (Aleks Nieszczerzewski)
-21. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
 
 # Changes from release 2021/08 to 2021/09
 1. Error - Corrected Teesside (EGNV) Misspelling - thanks to @AleksMax (Aleks Nieszczerzewski)
