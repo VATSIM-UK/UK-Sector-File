@@ -1,3 +1,6 @@
+# Changes from release 2021/10 to 2021/11
+x. AIRAC (2111) - Added Great Dun Fell (DUF) DME - thanks to @coleedwards (Cole Edwards)
+
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
 2. Error - Corrected notation of BRI 1C STAR - thanks to @danielbutton (Daniel Button)
