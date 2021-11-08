@@ -1,5 +1,6 @@
 #Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
+X. AIRAC (2107) - Amended City/Thames SMAA - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
