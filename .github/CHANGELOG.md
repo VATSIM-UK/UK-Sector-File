@@ -4,6 +4,7 @@
 3. Enhancement - Change callsign for NAT_FSS to Shanwick Oceanic - thanks to @WillShaw1100 (William Shaw)
 4. AIRAC (2111) - Update Luton (EGGW) Runway Headings - thanks to @WillShaw1100 (William Shaw)
 5. AIRAC (2111) - Updated Wolverhampton (EGBO) Runway Headings - thanks to @WillShaw1100 (William Shaw)
+X. AIRAC (2112) - Added EGPX Free Route Airspace (FRA) as a Star to optionally display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
