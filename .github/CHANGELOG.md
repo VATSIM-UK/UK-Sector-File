@@ -15,6 +15,7 @@
 14. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as necessary - thanks to @JackG2004 (Jack Gil)
 15. AIRAC (2112) - FRA Deployment 1 - Updated COPX points for FRA in LARLA triangle - thanks to @khardern (Kieran Hardern)
 16. Procedure Change - New Bristol delegated airspace - thanks to @trevorhannant (Trevor Hannant)
+17. AIRAC (2112) - Added EGPX Free Route Airspace (FRA) as a Star to optionally display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
