@@ -1,5 +1,5 @@
 ;Shanwick Oceanic
-NAT_FSS:Shanwick & Gander:131.900:NAT::NAT:FSS:-:-::
+NAT_FSS:Shanwick Oceanic:131.900:NAT::NAT:FSS:-:-::
 EGGX_FSS:Shanwick Oceanic:131.800:GXO:GXO:EGGX:FSS:-:-::
 EGGX_CTR:Shanwick Oceanic:131.800:GXO:GXO:EGGX:CTR:-:-::
 EGGX_A_FSS:Shanwick Oceanic:131.450:GXA:GXA:EGGX:FSS:-:-::
