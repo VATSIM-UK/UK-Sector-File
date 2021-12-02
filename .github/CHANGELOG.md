@@ -5,6 +5,7 @@
 4. AIRAC (2111) - Update Luton (EGGW) Runway Headings - thanks to @WillShaw1100 (William Shaw)
 5. AIRAC (2111) - Updated Wolverhampton (EGBO) Runway Headings - thanks to @WillShaw1100 (William Shaw)
 6. Enhancement/Bug - Various improvements to Area sectorisation and ownership - thanks to @hsugden (Harry Sugden)
+7. AIRAC (2111) - Converted Lands End Transit Corridor to Lands End RMZ - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
