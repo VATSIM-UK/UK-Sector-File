@@ -1,3 +1,5 @@
+
+
 #Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
 2. AIRAC (2111) - Added Great Dun Fell (DUF) DME - thanks to @coleedwards (Cole Edwards)
@@ -12,6 +14,7 @@
 11. AIRAC (2112) - FRA Deployment 1 - Added new Fixes - thanks to @robbo599 (Lee Roberts)
 12. AIRAC (2112) - FRA Deployment 1 - Removed old airways - thanks to @robbo599	(Lee Roberts)
 13. AIRAC (2112) - FRA Deployment 1 Amended Airways - thanks to @robbo599 (Lee Roberts)
+14. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as necessary - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
