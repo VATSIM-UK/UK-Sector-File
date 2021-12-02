@@ -10,6 +10,7 @@
 9. AIRAC (2107) - Amended City/Thames SMAA - thanks to @hsugden (Harry Sugden)
 10. AIRAC (2112) - FRA Deployment 1 - Removed old fixes - thanks to @robbo599 (Lee Roberts)
 11. AIRAC (2112) - FRA Deployment 1 - Added new Fixes - thanks to @robbo599 (Lee Roberts)
+12. AIRAC (2112) - FRA Deployment 1 - Removed old airways - thanks to @robbo599	(Lee Roberts)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
