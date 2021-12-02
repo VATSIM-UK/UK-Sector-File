@@ -1,4 +1,4 @@
-X. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as necessary - thanks to @JackG2004 (Jack Gil)
+
 
 #Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
@@ -6,6 +6,7 @@ X. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as nec
 3. Enhancement - Change callsign for NAT_FSS to Shanwick Oceanic - thanks to @WillShaw1100 (William Shaw)
 4. AIRAC (2111) - Update Luton (EGGW) Runway Headings - thanks to @WillShaw1100 (William Shaw)
 5. AIRAC (2111) - Updated Wolverhampton (EGBO) Runway Headings - thanks to @WillShaw1100 (William Shaw)
+6. X. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as necessary - thanks to @JackG2004 (Jack Gil)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
