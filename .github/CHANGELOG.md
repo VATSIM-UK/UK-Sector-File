@@ -1,3 +1,6 @@
+#Changes from release 2021/12 to 2022/01
+x. AIRAC (2201) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
+
 #Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
 2. AIRAC (2111) - Added Great Dun Fell (DUF) DME - thanks to @coleedwards (Cole Edwards)
