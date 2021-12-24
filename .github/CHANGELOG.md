@@ -1,5 +1,6 @@
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
+2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
