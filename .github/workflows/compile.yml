@@ -19,6 +19,9 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
+      - name: Create Output Directory
+        run: mkdir .bin/
+
       - name: Download Compiler
         run: |
           curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/download/$COMPILER_VERSION/cli-linux-x64
@@ -39,4 +42,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: UK Sector File
-          path: ".build/bin/UK.*"
+          path: ".bin/UK.*"

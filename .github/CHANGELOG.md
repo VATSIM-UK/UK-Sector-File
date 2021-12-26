@@ -1,5 +1,9 @@
-.x AIRAC (2110) - updated Doncaster (EGCN) SMR - thanks to @stuart5250 (Stuart Keaney)
-#Changes from release 2021/10 to 2021/12
+# Changes from release 2021/12 to 2021/13
+1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
+2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden (Harry Sugden)
+3. AIRAC (2110) - updated Doncaster (EGCN) SMR - thanks to @stuart5250 (Stuart Keaney)
+
+# Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
 2. AIRAC (2111) - Added Great Dun Fell (DUF) DME - thanks to @coleedwards (Cole Edwards)
 3. Enhancement - Change callsign for NAT_FSS to Shanwick Oceanic - thanks to @WillShaw1100 (William Shaw)
