@@ -1,7 +1,13 @@
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
 2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden (Harry Sugden)
-3. Enhancement - Removed redundant old data including Runway fixes - thanks to @hsugden (Harry Sugden)
+3. AIRAC (2110) - updated Doncaster (EGCN) SMR - thanks to @stuart5250 (Stuart Keaney)
+4. Error - Removed M604 Conventional airway entry - thanks to @hsugden (Harry Sugden)
+5. Procedure Change (2113) - EURM_CTR position split, becoming EURM_W_CTR (135.750) - thanks to @hsugden (Harry Sugden)
+6. Enhancement - Updated Eglinton (EGAE) runway threshold coordinates - thanks to @hsugden (Harry Sugden)
+7. AIRAC (2113) - Updated Borders CTA 1 airspace base label - thanks to @hsugden (Harry Sugden)
+8. Bug - Added Guernsey Approach Top-Down Ownership for Alderney - thanks to @danielbutton (Daniel Button)
+9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
