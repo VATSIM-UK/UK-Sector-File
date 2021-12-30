@@ -8,6 +8,7 @@
 7. AIRAC (2113) - Updated Borders CTA 1 airspace base label - thanks to @hsugden (Harry Sugden)
 8. Bug - Added Guernsey Approach Top-Down Ownership for Alderney - thanks to @danielbutton (Daniel Button)
 9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden (Harry Sugden)
+10. AIRAC (2109) - Updated Prestwick (EGPK) Runway heading - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
