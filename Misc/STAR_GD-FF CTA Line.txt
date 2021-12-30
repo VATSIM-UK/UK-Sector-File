@@ -1,0 +1,2 @@
+;GD-FF Delegated Airspace Line
+GD-FF CTA Line			   N051.31.01.426 W003.02.59.829 N051.35.29.428 W002.42.10.630

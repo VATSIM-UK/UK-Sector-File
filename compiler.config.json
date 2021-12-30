@@ -1,8 +1,8 @@
 {
     "options": {
-        "sct_output": ".build/bin/UK.sct",
-        "ese_output": ".build/bin/UK.ese",
-        "rwy_output": ".build/bin/UK.rwy",
+        "sct_output": ".bin/UK.sct",
+        "ese_output": ".bin/UK.ese",
+        "rwy_output": ".bin/UK.rwy",
         "replace": [
             {
                 "token": "{YEAR}",
@@ -331,12 +331,6 @@
                     "recursive": true,
                     "pattern": "FIXES_"
                 },
-                {
-                    "type": "files",
-                    "files": [
-                        "_data/Old/Runway Fixes.txt"
-                    ]
-                }
             ],
             "ndbs": {
                 "type": "folder",
