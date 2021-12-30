@@ -321,12 +321,6 @@
                     "recursive": true,
                     "pattern": "FIXES_"
                 },
-                {
-                    "type": "files",
-                    "files": [
-                        "_data/Old/Runway Fixes.txt"
-                    ]
-                }
             ],
             "ndbs": {
                 "type": "folder",
