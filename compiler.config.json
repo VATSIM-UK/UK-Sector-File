@@ -80,7 +80,7 @@
                         "Ownership.txt"
                     ],
                     "ignore_missing": true,
-                    "exclude_directory": ["EGGD", "EGFF", "EGTE"]
+                    "exclude_directory": ["EGGD", "EGTE", "EGFF"]
                   }, 
                   {
                     "type": "files",
