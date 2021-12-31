@@ -35,10 +35,17 @@
 "K" N051.49.55.256 W001.18.55.727 standHold
 "K2" N051.49.55.925 W001.18.52.604 standHold
 "M" N051.50.06.047 W001.18.49.556 standHold
+<<<<<<< HEAD
 "S" N051.49.51.120 W001.19.11.170 standHold
 "E" N051.50.08.760 W001.19.05.450 standHold
 "N" N051.50.14.710 W001.19.03.520 standHold
 "W" N051.50.10.810 W001.19.18.490 standHold
+=======
+"Heli S" N051.49.51.120 W001.19.11.170 standHold
+"Heli E" N051.50.08.760 W001.19.05.450 standHold
+"Heli N" N051.50.14.710 W001.19.03.520 standHold
+"Heli W" N051.50.10.810 W001.19.18.490 standHold
+>>>>>>> 26d66fc3eab0bb4dfedd19b58970e127878c3427
 ;Helipads
 "1" N051.49.50.936 W001.18.56.844 standHold
 "2" N051.49.52.213 W001.18.57.163 standHold
