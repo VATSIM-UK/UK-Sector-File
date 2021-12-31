@@ -1,4 +1,4 @@
-X. AIRAAC (2113) - Updated Oxford (EGTK) Ground changes - thanks to @SwietyMik (Mike Huk)
+X. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
 2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden (Harry Sugden)
