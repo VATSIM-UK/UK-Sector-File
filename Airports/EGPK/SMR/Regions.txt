@@ -554,6 +554,13 @@ terminal N055.30.19.070 W004.35.53.830
          N055.30.20.030 W004.35.59.740
          N055.30.21.170 W004.35.55.740
 
+;Small Hanger Building to the right of Stand 9
+REGIONNAME Prestwick
+terminal N055.30.31.750 W004.36.29.720
+         N055.30.31.450 W004.36.28.830
+         N055.30.30.540 W004.36.29.670
+         N055.30.30.890 W004.36.30.650
+
 ;Runways 31
 REGIONNAME Prestwick
 smrSCORunway N55.30.58.909 W04.36.52.592
