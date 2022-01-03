@@ -366,11 +366,11 @@
                 {
                     "type": "folder",
                     "folder": "Airways/RNAV/Lower"
-                }
+                },
                 {
                     "type": "folder",
                     "folder": "Airways/Conventional - Non-UK/Lower"
-                }
+                },
                 {
                     "type": "folder",
                     "folder": "Airways/Helicopter"
