@@ -554,7 +554,7 @@ terminal N055.30.19.070 W004.35.53.830
          N055.30.20.030 W004.35.59.740
          N055.30.21.170 W004.35.55.740
 
-;Small Hanger Building to the right of Stand 9
+;Small Hangar Building to the right of Stand 9
 REGIONNAME Prestwick
 terminal N055.30.31.750 W004.36.29.720
          N055.30.31.450 W004.36.28.830
