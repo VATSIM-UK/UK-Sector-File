@@ -1,5 +1,6 @@
 # Changes from release 2021/13 to 2022/01
-X. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
+1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
+2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
