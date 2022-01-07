@@ -10,6 +10,7 @@
 9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden (Harry Sugden)
 10. AIRAC (2109) - Updated Prestwick (EGPK) Runway heading - thanks to @hsugden (Harry Sugden)
 11. Error - Updated MUAC Jever ownership and EDWW frequencies - thanks to @hsugden (Harry Sugden)
+12. Bug - Removed duplicate Aberdeen (EGPD) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
