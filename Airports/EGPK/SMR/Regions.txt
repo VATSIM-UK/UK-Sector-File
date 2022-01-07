@@ -547,6 +547,19 @@ terminal N055.30.16.282 W004.35.43.804
          N055.30.15.329 W004.35.42.451
          N055.30.15.846 W004.35.42.118
 
+;Hangar Perpendicular to H
+REGIONNAME Prestwick
+terminal N055.30.19.070 W004.35.53.830
+         N055.30.17.940 W004.35.57.990
+         N055.30.20.030 W004.35.59.740
+         N055.30.21.170 W004.35.55.740
+
+;Small Hangar Building to the right of Stand 9
+REGIONNAME Prestwick
+terminal N055.30.31.750 W004.36.29.720
+         N055.30.31.450 W004.36.28.830
+         N055.30.30.540 W004.36.29.670
+         N055.30.30.890 W004.36.30.650
 
 ;Runways 31
 REGIONNAME Prestwick

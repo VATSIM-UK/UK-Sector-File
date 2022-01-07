@@ -1,11 +1,40 @@
-x. Enhancement - Added freetext category for major HEMS sites and hospitals - thanks to @JamesH2432
+# Changes from release 2021/13 to 2022/01
+1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
+2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
+3. AIRAC (2109) - Updated Prestwick (EGPK) SMR - thanks to @SwietyMik (Mike Huk)
+4. Enhancement - Added freetext category for major HEMS sites and hospitals - thanks to @JamesH2432
 
-#Changes from release 2021/10 to 2021/12
+# Changes from release 2021/12 to 2021/13
+1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
+2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden (Harry Sugden)
+3. AIRAC (2110) - updated Doncaster (EGCN) SMR - thanks to @stuart5250 (Stuart Keaney)
+4. Error - Removed M604 Conventional airway entry - thanks to @hsugden (Harry Sugden)
+5. Procedure Change (2113) - EURM_CTR position split, becoming EURM_W_CTR (135.750) - thanks to @hsugden (Harry Sugden)
+6. Enhancement - Updated Eglinton (EGAE) runway threshold coordinates - thanks to @hsugden (Harry Sugden)
+7. AIRAC (2113) - Updated Borders CTA 1 airspace base label - thanks to @hsugden (Harry Sugden)
+8. Bug - Added Guernsey Approach Top-Down Ownership for Alderney - thanks to @danielbutton (Daniel Button)
+9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden (Harry Sugden)
+10. AIRAC (2109) - Updated Prestwick (EGPK) Runway heading - thanks to @hsugden (Harry Sugden)
+11. Error - Updated MUAC Jever ownership and EDWW frequencies - thanks to @hsugden (Harry Sugden)
+
+# Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
 2. AIRAC (2111) - Added Great Dun Fell (DUF) DME - thanks to @coleedwards (Cole Edwards)
 3. Enhancement - Change callsign for NAT_FSS to Shanwick Oceanic - thanks to @WillShaw1100 (William Shaw)
 4. AIRAC (2111) - Update Luton (EGGW) Runway Headings - thanks to @WillShaw1100 (William Shaw)
 5. AIRAC (2111) - Updated Wolverhampton (EGBO) Runway Headings - thanks to @WillShaw1100 (William Shaw)
+6. Enhancement/Bug - Various improvements to Area sectorisation and ownership - thanks to @hsugden (Harry Sugden)
+7. AIRAC (2111) - Converted Lands End Transit Corridor to Lands End RMZ - thanks to @danielbutton (Daniel Button)
+8. AIRAC (2111) - Removed Bristol Stands 3R, 32L & 32R - thanks to @danielbutton (Daniel Button)
+9. AIRAC (2107) - Amended City/Thames SMAA - thanks to @hsugden (Harry Sugden)
+10. AIRAC (2112) - FRA Deployment 1 - Removed old fixes - thanks to @robbo599 (Lee Roberts)
+11. AIRAC (2112) - FRA Deployment 1 - Added new Fixes - thanks to @robbo599 (Lee Roberts)
+12. AIRAC (2112) - FRA Deployment 1 - Removed old airways - thanks to @robbo599	(Lee Roberts)
+13. AIRAC (2112) - FRA Deployment 1 Amended Airways - thanks to @robbo599 (Lee Roberts)
+14. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as necessary - thanks to @JackG2004 (Jack Gil)
+15. AIRAC (2112) - FRA Deployment 1 - Updated COPX points for FRA in LARLA triangle - thanks to @khardern (Kieran Hardern)
+16. Procedure Change - New Bristol delegated airspace - thanks to @trevorhannant (Trevor Hannant)
+17. AIRAC (2112) - Added EGPX Free Route Airspace (FRA) as a Star to optionally display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/09 to 2021/10
 1. Error - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
