@@ -3,6 +3,7 @@
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
 3. AIRAC (2109) - Updated Prestwick (EGPK) SMR - thanks to @SwietyMik (Mike Huk)
 4. Enhancement - Added freetext category for major HEMS sites and hospitals - thanks to @JamesH2432
+5. AIRAC (2201) - Updated VALBO fix coordinates - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
