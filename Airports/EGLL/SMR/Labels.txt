@@ -1,3 +1,9 @@
+;De-Icing Pads
+"JEDI (Delta)" N051.28.6.670 W000.28.25.430 smrLLLabel
+"JEDI (South)" N051.28.3.340 W000.28.19.080 smrLLLabel
+"VADER (North)" N051.28.23.470 W000.26.15.270 smrLLLabel
+"VADER (South)" N051.28.13.920 W000.26.15.060 smrLLLabel
+
 ;Holding Points - Numbered
 "A1" N051.28.35.780 W000.25.57.730 smrLLLabel
 "A2" N051.28.34.180 W000.26.03.050 smrLLLabel
