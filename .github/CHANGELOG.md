@@ -7,6 +7,7 @@
 6. AIRAC (2201) - Updated Land's End (EGHC) holding point - thanks to @WillShaw1100 (William Shaw)
 7. AIRAC (2201) - Added Manchester (EGCC) new de-icing areas - thanks to @Hinshee (Will Hinshaw)
 8. Error - Removed duplicate Aberdeen (EGPD) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
+9. AIRAC (2201) - Added Windsor Castle Restricted Airspace (R156) - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
