@@ -3,6 +3,7 @@
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
 3. AIRAC (2109) - Updated Prestwick (EGPK) SMR - thanks to @SwietyMik (Mike Huk)
 4. Enhancement - Added freetext category for major HEMS sites and hospitals - thanks to @JamesH2432
+5. Error - Removed duplicate Aberdeen (EGPD) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
@@ -16,7 +17,6 @@
 9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden (Harry Sugden)
 10. AIRAC (2109) - Updated Prestwick (EGPK) Runway heading - thanks to @hsugden (Harry Sugden)
 11. Error - Updated MUAC Jever ownership and EDWW frequencies - thanks to @hsugden (Harry Sugden)
-12. Error - Removed duplicate Aberdeen (EGPD) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
