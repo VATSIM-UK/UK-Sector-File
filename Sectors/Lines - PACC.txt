@@ -633,13 +633,13 @@ DISPLAY:Talla South:Talla South:Galloway North
 DISPLAY:Deancross:Galloway South:Talla South
 DISPLAY:Deancross:Galloway North:Talla South
 COORD:N055.11.04.000:W003.38.41.000
-COORD:N055.01.02.000,W003.29.14.000
+COORD:N055.01.02.000:W003.29.14.000
 
 SECTORLINE:Gal_Tal3
 DISPLAY:Galloway South:Galloway South:Talla South
 DISPLAY:Talla South:Talla South:Galloway South
 DISPLAY:Deancross:Galloway South:Talla South
-COORD:N055.01.02.000,W003.29.14.000
+COORD:N055.01.02.000:W003.29.14.000
 COORD:N054.51.16.000:W003.19.59.000
 COORD:N054.15.00.000:W002.33.29.400
 
