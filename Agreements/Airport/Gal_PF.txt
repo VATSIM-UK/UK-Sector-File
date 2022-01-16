@@ -1,1 +1,1 @@
-COPX:*:*:LANAK:EGPF:*:Galloway:PFAPP:*:8000:LANAK
+COPX:*:*:LANAK:EGPF:*:Galloway North:PFAPP:*:8000:LANAK
