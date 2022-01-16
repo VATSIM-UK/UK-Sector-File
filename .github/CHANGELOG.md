@@ -8,6 +8,7 @@
 7. AIRAC (2201) - Added Manchester (EGCC) new de-icing areas - thanks to @Hinshee (Will Hinshaw)
 8. Error - Removed duplicate Aberdeen (EGPD) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 9. AIRAC (2201) - Added Windsor Castle Restricted Airspace (R156) - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. NOTAM - Kinloss portion of CMATZ Withdrawn - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
