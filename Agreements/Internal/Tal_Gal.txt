@@ -1,4 +1,4 @@
-COPX:*:*:ENIPI:EGPK:*:Talla:Galloway:*:20000:ENIPI
+COPX:*:*:ENIPI:EGPK:*:Talla South:Galloway North:*:20000:ENIPI
 
-COPX:EGPH:*:*:TRN:*:Talla:Galloway:12000:*:^P600
-COPX:EGPH:*:*:DCS:*:Talla:Galloway:12000:*:^N864
+COPX:EGPH:*:*:TRN:*:Talla North:Galloway North:12000:*:^P600
+COPX:EGPH:*:*:DCS:*:Talla North:Galloway North:12000:*:^N864

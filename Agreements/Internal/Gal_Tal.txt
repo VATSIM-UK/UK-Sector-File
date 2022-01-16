@@ -1,4 +1,4 @@
-COPX:GIRVA:*:*:EGPH:*:Galloway:Talla:*:17000:|TLA
-COPX:TUNSO:*:*:EGPH:*:Galloway:Talla:*:17000:|TLA
+COPX:GIRVA:*:*:EGPH:*:Galloway North:Talla North:*:17000:|TLA
+COPX:TUNSO:*:*:EGPH:*:Galloway North:Talla North:*:17000:|TLA
 
-COPX:EGPF:*:TLA:*:*:Galloway:Talla:19000:*:TLA10
+COPX:EGPF:*:TLA:*:*:Galloway North:Talla South:19000:*:TLA10

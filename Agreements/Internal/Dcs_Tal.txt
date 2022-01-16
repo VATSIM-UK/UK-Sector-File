@@ -1,8 +1,8 @@
-COPX:*:*:INPIP:EGPH:*:Deancross:Talla:*:26000:INPIP
+COPX:*:*:INPIP:EGPH:*:Deancross:Talla South:*:26000:INPIP
 
-COPX:*:*:ASLIB:EGPF:*:Deancross:Talla:*:26000:ASLIB
-COPX:*:*:ASLIB:EGPK:*:Deancross:Talla:*:26000:ASLIB
-COPX:*:*:ASLIB:EGPG:*:Deancross:Talla:*:26000:ASLIB
+COPX:*:*:ASLIB:EGPF:*:Deancross:Talla South:*:26000:ASLIB
+COPX:*:*:ASLIB:EGPK:*:Deancross:Talla South:*:26000:ASLIB
+COPX:*:*:ASLIB:EGPG:*:Deancross:Talla South:*:26000:ASLIB
 
-COPX:*:*:ABEVI:EGPN:*:Deancross:Talla:*:26000:|ABEVI
-COPX:*:*:ABEVI:EGQL:*:Deancross:Talla:*:26000:|ABEVI
+COPX:*:*:ABEVI:EGPN:*:Deancross:Talla South:*:26000:|ABEVI
+COPX:*:*:ABEVI:EGQL:*:Deancross:Talla South:*:26000:|ABEVI

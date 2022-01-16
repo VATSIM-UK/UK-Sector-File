@@ -1,0 +1,18 @@
+COPX:EGPH:*:OTBUN:*:*:Talla North:Talla South:19000:*:^Y96
+
+COPX:EGPF:*:HAVEN:*:*:Talla North:Talla South:19000:*:^Y96
+COPX:EGPK:*:HAVEN:*:*:Talla North:Talla South:19000:*:^Y96
+
+COPX:*:*:INREV:EGPH:*:Talla South:Talla North:*:20000:INREV
+COPX:*:*:ODIGI:EGPF:*:Talla South:Talla North:*:20000:ODIGI
+COPX:*:*:ODIGI:EGPG:*:Talla South:Talla North:*:20000:ODIGI
+COPX:ABEVI:*:*:EGPN:*:Talla South:Talla North:*:20000:COORD
+COPX:ABEVI:*:*:EGQL:*:Talla South:Talla North:*:20000:COORD
+
+COPX:*:*:ESKDO:EGPH:*:Talla South:Talla North:*:20000:|ESKDO
+COPX:*:*:HAVEN:EGPF:*:Talla South:Talla North:*:20000:|HAVEN
+COPX:*:*:HAVEN:EGPG:*:Talla South:Talla North:*:20000:|HAVEN
+COPX:*:*:SUMIN:EGPK:*:Talla South:Talla North:*:20000:COORD
+COPX:AGPED:*:*:EGPN:*:Talla South:Talla North:*:20000:COORD
+COPX:AGPED:*:*:EGQL:*:Talla South:Talla North:*:20000:COORD
+

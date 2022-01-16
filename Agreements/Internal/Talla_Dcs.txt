@@ -1,1 +1,1 @@
-COPX:EGNM:*:*:ABEVI:*:Talla:Deancross:25000:*:^ABEVI
+COPX:EGNM:*:*:ABEVI:*:Talla South:Deancross:25000:*:^ABEVI

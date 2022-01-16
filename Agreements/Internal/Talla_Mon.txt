@@ -1,4 +1,4 @@
-COPX:EGPH:*:OTBUN:*:*:Talla:Montrose:25000:*:OTBUN
+COPX:EGPH:*:OTBUN:*:*:Talla South:Montrose:25000:*:OTBUN
 
-COPX:EGPF:*:HAVEN:*:*:Talla:Montrose:25000:*:HAVEN
-COPX:EGPK:*:HAVEN:*:*:Talla:Montrose:25000:*:HAVEN
+COPX:EGPF:*:HAVEN:*:*:Talla South:Montrose:25000:*:HAVEN
+COPX:EGPK:*:HAVEN:*:*:Talla South:Montrose:25000:*:HAVEN
