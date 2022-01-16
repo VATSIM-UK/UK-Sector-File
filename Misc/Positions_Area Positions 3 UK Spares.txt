@@ -30,7 +30,8 @@ Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632:
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose North:Scottish Control:132.470:SMN:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose South:Scottish Control:126.920:SMS:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Galloway North:Scottish Control:121.370:STGN:S:STC:CTR:-:-:3601:3632::
+Scottish Control Galloway South:Scottish Control:124.820:STWS:S:STC:CTR:-:-:3601:3632::
+Scottish Control Talla North:Scottish Control:130.970:STEN:S:STC:CTR:-:-:3601:3632:N055.10.43.000:W003.01.43.000
 
 ;London Info
 London Information:London Information:125.470:LI:C:EGTT:CTR:-:-::
