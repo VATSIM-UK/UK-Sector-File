@@ -207,3 +207,8 @@
 ;Light Aircraft Areas
 "T" N053.21.13.170 W002.16.45.800 smrYellow ;TATON
 "R" N053.21.16.362 W002.16.49.818 smrYellow ;ROMPA
+
+;De-Icing Areas
+"Goose" N053.21.45.76 W002.15.41.31 smrwhite ;GOOSE
+"Maverick" N053.21.48.39 W002.16.53.03 smrwhite ;MAVERICK
+"Iceman" N053.21.26.86 W002.16.28.96 smrwhite ;ICEMAN
