@@ -1,3 +1,5 @@
+X. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (Mike Huk)
+
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
