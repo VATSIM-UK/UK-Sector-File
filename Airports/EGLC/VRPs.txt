@@ -1,5 +1,12 @@
+*Arsenal:N051.33.17.940:W000.06.30.560
+*Ally Pally:N051.35.47.790:W000.07.46.900 ;Coordinates differ from the AIP for display clarity
 *Banbury Reservoir:N051.36.16.000:W000.02.06.000
 *Beckton Roundabout:N051.31.31.000:E000.04.24.000
-*M11 Junction 4:N051.35.38.000:E000.02.13.000
+*Belair Park:N051.26.23.830:W000.05.22.340 ;Coordinates differ from the AIP for display clarity
+*Burgess Park:N051.29.05.580:W000.04.46.370
+*Kidbrooke Flats:N051.27.41.290:E000.01.36.680
+*London Eye:N051.30.12.520:W000.07.11.450
+*M11 J4:N051.35.38.000:E000.02.13.000
+*Olympic:N051.32.18.440:W000.00.59.340
+*QEII:N051.27.54.510:E000.15.32.850
 *Thames Barrier:N051.29.50.000:E000.02.13.000
-*Three Mills Gasometers:N051.31.31.000:W000.00.11.000

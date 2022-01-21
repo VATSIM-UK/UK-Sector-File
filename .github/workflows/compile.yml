@@ -1,0 +1,45 @@
+name: Compile and Validate
+
+on:
+  push:
+    branches:
+      - 'main'
+  release:
+    types:
+      - published
+  pull_request:
+
+jobs:
+  build:
+    name: "Compile Sectorfile"
+    runs-on: ubuntu-latest
+    env:
+      COMPILER_VERSION: 1.10.2
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Create Output Directory
+        run: mkdir .bin/
+
+      - name: Download Compiler
+        run: |
+          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/download/$COMPILER_VERSION/cli-linux-x64
+          chmod +x ./compiler
+
+      - name: Set Build Version
+        run: echo "SECTORFILE_BUILD_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+      - name: Set Strip Comments
+        if: github.ref == 'refs/heads/main' || (github.event_name == 'release' && github.event.action == 'published')
+        run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
+
+      - name: Compile
+        run: |
+          ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
+
+      - name: Upload Build As Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: UK Sector File
+          path: ".bin/UK.*"

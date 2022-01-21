@@ -1,1 +1,10 @@
 COPX:EGNM:*:PENIL:*:*:Sector 29:London S7:28000:*:PENIL
+
+COPX:EGNT:*:CROFT:*:*:Sector 29:London S7:28000:*:^CROFT
+COPX:EGNV:*:CROFT:*:*:Sector 29:London S7:28000:*:^CROFT
+
+COPX:EGNT:*:NOKIN:*:*:Sector 29:London S7:28000:*:^NOKIN
+COPX:EGNV:*:NOKIN:*:*:Sector 29:London S7:28000:*:^NOKIN
+
+COPX:NOKIN:*:*:*:*:Sector 29:London S7:28000:*:^NOKIN
+COPX:REXAM:*:*:*:*:Sector 29:London S7:28000:*:^REXAM

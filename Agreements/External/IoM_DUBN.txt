@@ -1,11 +1,11 @@
-FIR_COPX:*:*:RAMOX:EIDW:*:Isle of Man:DUBN:*:20000:|RAMOX
-FIR_COPX:*:*:RAMOX:EIWT:*:Isle of Man:DUBN:*:20000:|RAMOX
-FIR_COPX:*:*:RAMOX:EIME:*:Isle of Man:DUBN:*:20000:|RAMOX
+FIR_COPX:*:*:RAMOX:EIDW:*:Isle of Man:Dublin North High:*:20000:|RAMOX
+FIR_COPX:*:*:RAMOX:EIWT:*:Isle of Man:Dublin North High:*:20000:|RAMOX
+FIR_COPX:*:*:RAMOX:EIME:*:Isle of Man:Dublin North High:*:20000:|RAMOX
 
-FIR_COPX:*:*:SITKU:EIDW:*:Isle of Man:DUBN:*:20000:|SITKU
-FIR_COPX:*:*:SITKU:EIWT:*:Isle of Man:DUBN:*:20000:|SITKU
-FIR_COPX:*:*:SITKU:EIME:*:Isle of Man:DUBN:*:20000:|SITKU
+FIR_COPX:*:*:SITKU:EIDW:*:Isle of Man:Dublin North High:*:20000:|SITKU
+FIR_COPX:*:*:SITKU:EIWT:*:Isle of Man:Dublin North High:*:20000:|SITKU
+FIR_COPX:*:*:SITKU:EIME:*:Isle of Man:Dublin North High:*:20000:|SITKU
 
-FIR_COPX:*:*:BAGSO:EIDW:*:Isle of Man:DUBN:*:20000:|BAGSO25
-FIR_COPX:*:*:BAGSO:EIWT:*:Isle of Man:DUBN:*:20000:|BAGSO25
-FIR_COPX:*:*:BAGSO:EIME:*:Isle of Man:DUBN:*:20000:|BAGSO25
+FIR_COPX:*:*:BAGSO:EIDW:*:Isle of Man:Dublin North High:*:20000:|BAGSO25
+FIR_COPX:*:*:BAGSO:EIWT:*:Isle of Man:Dublin North High:*:20000:|BAGSO25
+FIR_COPX:*:*:BAGSO:EIME:*:Isle of Man:Dublin North High:*:20000:|BAGSO25

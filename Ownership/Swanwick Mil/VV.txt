@@ -1,0 +1,31 @@
+SECTOR:Swanwick Mil North West:0:0
+OWNER:VVNW:VVN:VV
+BORDER:Swanwick North West - North:Swanwick North West - West:Swanwick North West Outer
+
+SECTOR:Swanwick Mil North:0:0
+OWNER:VVN:VV
+BORDER:Swanwick North West - North:Swanwick North - West:Swanwick North East - North:Swanwick North Outer
+
+SECTOR:Swanwick Mil North East:0:0
+OWNER:VVNE:VVE:VV
+BORDER:Swanwick North East - North:Swanwick North East - West:Swanwick North East - Central:Swanwick North East - East:Swanwick North East Outer
+
+SECTOR:Swanwick Mil East:0:0
+OWNER:VVE:VV
+BORDER:Swanwick North East - East:Swanwick East - Central:Swanwick South East - East:Swanwick East Outer
+
+SECTOR:Swanwick Mil South East:0:0
+OWNER:VVSE:VVW:VV
+BORDER:Swanwick South East - East:Swanwick South East - Central:Swanwick South West - South East:Swanwick South East Outer
+
+SECTOR:Swanwick Mil South West:0:0
+OWNER:VVSW:VVW:VV
+BORDER:Swanwick South West - West:Swanwick South West - Central:Swanwick South West - South East:Swanwick South West Outer
+
+SECTOR:Swanwick Mil West:0:0
+OWNER:VVW:VV
+BORDER:Swanwick South West - West:Swanwick West - Central:Swanwick North East - West:Swanwick North - West:Swanwick North West - West:Swanwick West Outer
+
+SECTOR:Swanwick Mil Central:0:0
+OWNER:VVC:VVW:VV
+BORDER:Swanwick South West - Central:Swanwick West - Central:Swanwick North East - Central:Swanwick East - Central:Swanwick South East - Central

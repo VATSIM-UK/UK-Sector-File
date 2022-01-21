@@ -783,8 +783,7 @@ N050.46.57.811 W001.49.40.194
 
 
 ;
-; - REGIONNAME Bournemouth
-smrTaxiways/smrApron South
+; smrTaxiways/smrApron South
 ;
 
 ;TWY A North 1

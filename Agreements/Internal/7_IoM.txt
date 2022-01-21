@@ -1,3 +1,19 @@
 COPX:PENIL:*:*:EIDW:*:London S7:Isle of Man:*:29000:|PENIL
 COPX:PENIL:*:*:EIWT:*:London S7:Isle of Man:*:29000:|PENIL
 COPX:PENIL:*:*:EIME:*:London S7:Isle of Man:*:29000:|PENIL
+
+COPX:*:*:DONAX:EGNX:*:London S7:Isle of Man:*:29000:DONAX
+COPX:*:*:DONAX:EGBB:*:London S7:Isle of Man:*:29000:DONAX
+COPX:*:*:DONAX:EGBE:*:London S7:Isle of Man:*:29000:DONAX
+
+COPX:*:*:ROLEX:EGNX:*:London S7:Isle of Man:*:29000:ROLEX
+COPX:*:*:ROLEX:EGBB:*:London S7:Isle of Man:*:29000:ROLEX
+COPX:*:*:ROLEX:EGBE:*:London S7:Isle of Man:*:29000:ROLEX
+
+COPX:*:*:ALAVA:EGNX:*:London S7:Isle of Man:*:29000:ALAVA
+COPX:*:*:ALAVA:EGBB:*:London S7:Isle of Man:*:29000:ALAVA
+COPX:*:*:ALAVA:EGBE:*:London S7:Isle of Man:*:29000:ALAVA
+
+COPX:*:*:BAGIT:EGNX:*:London S7:Isle of Man:*:29000:BAGIT
+COPX:*:*:BAGIT:EGBB:*:London S7:Isle of Man:*:29000:BAGIT
+COPX:*:*:BAGIT:EGBE:*:London S7:Isle of Man:*:29000:BAGIT
