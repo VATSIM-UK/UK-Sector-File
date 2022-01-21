@@ -11,6 +11,7 @@
 10. AIRAC (2201) - Update Isle of Man (EGNS) Runway threshold - thanks to @WillShaw1100 (William Shaw)
 11. AIRAC (2201) - Updated Shobdon (SH) NDB Coordinates - thanks to @WillShaw1100 (William Shaw)
 12. AIRAC (2201) - Updated Swansea (EGFH) SMR - thanks to @SwietyMik (Mike Huk)
+X. Enhancement - Major overhaul of line display for LAC South (and associated sectors) - thanks to @cpawley (Chris Pawley) and @hsugden (Harry Sugden)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
