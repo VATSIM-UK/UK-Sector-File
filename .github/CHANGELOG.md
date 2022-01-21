@@ -13,6 +13,7 @@
 12. AIRAC (2201) - Updated Swansea (EGFH) SMR - thanks to @SwietyMik (Mike Huk)
 13. AIRAC (2004) - Updated Norwich (EGSH) Runway heading - thanks to @SwietyMik (Mike Huk)
 X. Enhancement - Removed duplicate definitions of Area positions with hyphens following new Relief Callsign Policy - thanks to @hsugden (Harry Sugden)
+X. Procedure Change - Updated middle identifiers of Daventry & TC Midlands splits - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
