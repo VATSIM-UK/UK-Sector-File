@@ -1,5 +1,3 @@
-X. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (Mike Huk)
-
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
@@ -14,6 +12,7 @@ X. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (M
 11. AIRAC (2201) - Updated Shobdon (SH) NDB Coordinates - thanks to @WillShaw1100 (William Shaw)
 12. AIRAC (2201) - Updated Swansea (EGFH) SMR - thanks to @SwietyMik (Mike Huk)
 13. AIRAC (2004) - Updated Norwich (EGSH) Runway heading - thanks to @SwietyMik (Mike Huk)
+14. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (Mike Huk)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
