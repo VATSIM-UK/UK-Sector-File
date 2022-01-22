@@ -13,6 +13,7 @@
 12. AIRAC (2201) - Updated Swansea (EGFH) SMR - thanks to @SwietyMik (Mike Huk)
 13. AIRAC (2004) - Updated Norwich (EGSH) Runway heading - thanks to @SwietyMik (Mike Huk)
 14. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (Mike Huk)
+15. NOTAM - Kinloss portion of CMATZ Withdrawn - thanks to @trevorhannant (Trevor Hannant)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
