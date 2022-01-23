@@ -1,4 +1,4 @@
-X. Enhancement - Updated Gatwick(EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
+X. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
