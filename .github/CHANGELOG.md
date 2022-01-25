@@ -12,7 +12,14 @@
 11. AIRAC (2201) - Updated Shobdon (SH) NDB Coordinates - thanks to @WillShaw1100 (William Shaw)
 12. AIRAC (2201) - Updated Swansea (EGFH) SMR - thanks to @SwietyMik (Mike Huk)
 13. AIRAC (2004) - Updated Norwich (EGSH) Runway heading - thanks to @SwietyMik (Mike Huk)
-14. Error - Updated the Heathrow (EGLL) WIP on A (South) - thanks to @kye-taylor (Kye Taylor)
+14. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (Mike Huk)
+15. NOTAM - Kinloss portion of CMATZ Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+16. AIRAC (2201) - Updated Londonderry/Eglinton (EGAE) stand 4A coord - thanks to @SwietyMik (Mike Huk)
+17. AIRAC (2201) - Added Glasgow (EGPF) taxiway C closure - thanks to @WillShaw1100 (William Shaw)
+18. Bug - Fixed erroneous TC South East (TC SE) line coordinates - thanks to @hsugden (Harry Sugden)
+19. AIRAC (2201) - Updated Gloucestershire (EGBJ) SMR - thanks to @SwietyMik (Mike Huk)
+20. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
+21. Error - Updated the Heathrow (EGLL) WIP on A (South) - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
