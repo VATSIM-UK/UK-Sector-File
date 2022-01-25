@@ -1,5 +1,3 @@
-X. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
-
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
@@ -20,6 +18,7 @@ X. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw110
 17. AIRAC (2201) - Added Glasgow (EGPF) taxiway C closure - thanks to @WillShaw1100 (William Shaw)
 18. Bug - Fixed erroneous TC South East (TC SE) line coordinates - thanks to @hsugden (Harry Sugden)
 19. AIRAC (2201) - Updated Gloucestershire (EGBJ) SMR - thanks to @SwietyMik (Mike Huk)
+20. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
