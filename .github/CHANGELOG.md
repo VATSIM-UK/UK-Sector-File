@@ -20,6 +20,7 @@
 19. AIRAC (2201) - Updated Gloucestershire (EGBJ) SMR - thanks to @SwietyMik (Mike Huk)
 20. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
 21. Error - Updated the Heathrow (EGLL) WIP on A (South) - thanks to @kye-taylor (Kye Taylor)
+22. Enhancement - Amended ESE build order for Bristol, Cardiff and Exeter APP airspace to improve COPX display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
