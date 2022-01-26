@@ -95,6 +95,14 @@
                     "files": [
                         "Ownership.txt"
                     ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGFF"]
+                  },
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
                     "ignore_missing": true
                   }
                 ],
