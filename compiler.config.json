@@ -88,7 +88,7 @@
                         "Ownership.txt"
                     ],
                     "ignore_missing": true,
-                    "exclude_directory": ["EGFF"]
+                    "exclude_directory": ["EGFF", "EGTE"]
                   },
                   {
                     "type": "files",
