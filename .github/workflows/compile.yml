@@ -14,7 +14,7 @@ jobs:
     name: "Compile Sectorfile"
     runs-on: ubuntu-latest
     env:
-      COMPILER_VERSION: 1.10.3
+      COMPILER_VERSION: 1.11.0
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
