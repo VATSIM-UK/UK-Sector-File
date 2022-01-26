@@ -25,6 +25,7 @@
 24. Enhancement - Removed duplicate definitions of Area positions with hyphens following new Relief Callsign Policy - thanks to @hsugden (Harry Sugden)
 25. Procedure Change - Updated middle identifiers of Daventry & TC Midlands splits - thanks to @hsugden (Harry Sugden)
 26. Enhancement - Added London OTMET position (Hurn & Exmoor bandbox) for events - thanks to @hsugden (Harry Sugden)
+27. Enhancement - Various updates and corrections to Airways - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)

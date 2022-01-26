@@ -392,12 +392,20 @@
                 {
                     "type": "folder",
                     "folder": "Airways/RNAV/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/Conventional - Non-UK/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/Helicopter"
                 }
             ],
             "upper_airways": [
                 {
                     "type": "folder",
-                    "folder": "Airways/Conventional/Upper"
+                    "folder": "Airways/Other"
                 },
                 {
                     "type": "folder",
