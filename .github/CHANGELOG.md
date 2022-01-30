@@ -1,3 +1,7 @@
+X. AIRAC (2202) - Updated Stansted (EGSS) SIDs - thanks to @khardern (Kieran Hardern)
+X. AIRAC (2202) - Updated Luton (EGGW) STARs & COPX - thanks to @khardern (Kieran Hardern)
+X. AIRAC (2202) - Removed references to Essex Radar and created a separate SS INT - thanks to @khardern (Kieran Hardern)
+
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
