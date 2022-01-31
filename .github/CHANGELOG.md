@@ -1,3 +1,8 @@
+# Changes from release 2022/01 to 2022/02
+X. AIRAC (2202) - Various changes to Clacton, Daventry and Midlands CTAs and associated airspace base labels - thanks to @hsugden (Harry Sugden)
+X. AIRAC (2202) - Removed London TMA 2 and amended London TMA 3 - thanks to @hsugden (Harry Sugden)
+X. AIRAC (2202) - Amended London Stansted CTA 3 airspace base - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
