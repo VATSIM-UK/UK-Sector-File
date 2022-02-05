@@ -1,3 +1,6 @@
+# Changes from release 2022/01 to 2022/02
+x. Procedure Change - External 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
+
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
