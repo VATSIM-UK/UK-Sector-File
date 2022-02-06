@@ -435,21 +435,21 @@ N056.36.25.491:W003.09.43.856:Airspace Bases:FL105
 N056.50.10.642:W002.52.55.722:Airspace Bases:FL85
 ;Tay CTA 1 A FL55-FL195
 N056.55.45.418:W002.45.46.889:Airspace Bases:FL55
-;P18 D 4500-FL195
-N056.52.46.959:W002.16.54.341:Airspace Bases - Conditional P18:4500*D
-N056.52.25.835:W002.05.40.245:Airspace Bases - Conditional P18:4500*D
-N056.55.32.932:W001.54.26.150:Airspace Bases - Conditional P18:4500*D
-;P18 D FL75-FL195
-N056.47.18.030:W002.13.56.187:Airspace Bases - Conditional P18:FL75*D
-N056.44.17.316:W002.03.12.612:Airspace Bases - Conditional P18:FL75*D
-N056.49.12.702:W001.54.21.335:Airspace Bases - Conditional P18:FL75*D
-;P18 D FL115-FL195
-N056.34.41.736:W001.58.55.465:Airspace Bases - Conditional P18:FL115*D
-;P18 D FL135-FL195
-N056.20.52.901:W001.54.38.318:Airspace Bases - Conditional P18:FL135*D
-;P18 D FL155-FL195
-N055.57.05.463:W001.44.50.553:Airspace Bases - Conditional P18:FL155*D
-N055.21.24.306:W001.35.21.156:Airspace Bases - Conditional P18:FL155*D
+;Tay CTA 11 D 4500-FL195
+N056.52.46.959:W002.16.54.341:Airspace Bases - Conditional Tay CTA:4500*D
+N056.52.25.835:W002.05.40.245:Airspace Bases - Conditional Tay CTA:4500*D
+N056.55.32.932:W001.54.26.150:Airspace Bases - Conditional Tay CTA:4500*D
+;Tay CTA 12 D FL75-FL195
+N056.47.18.030:W002.13.56.187:Airspace Bases - Conditional Tay CTA:FL75*D
+N056.44.17.316:W002.03.12.612:Airspace Bases - Conditional Tay CTA:FL75*D
+N056.49.12.702:W001.54.21.335:Airspace Bases - Conditional Tay CTA:FL75*D
+;Tay CTA 10 D FL115-FL195
+N056.34.41.736:W001.58.55.465:Airspace Bases - Conditional Tay CTA:FL115*D
+;Tay CTA 13 D FL135-FL195
+N056.20.52.901:W001.54.38.318:Airspace Bases - Conditional Tay CTA:FL135*D
+;Borders CTA 12 D FL155-FL195
+N055.57.05.463:W001.44.50.553:Airspace Bases - Conditional Borders CTA:FL155*D
+N055.21.24.306:W001.35.21.156:Airspace Bases - Conditional Borders CTA:FL155*D
 ;L9 A FL75-FL195
 N051.44.31.040:W002.58.08.248:Airspace Bases:FL75
 N051.36.49.526:W002.21.53.619:Airspace Bases:FL75
