@@ -73,13 +73,39 @@
                     ],
                     "ignore_missing": true
                 },
-                "ownership": {
+                "ownership": [
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGGD", "EGTE", "EGFF"]
+                  }, 
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGFF", "EGTE"]
+                  },
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGFF"]
+                  },
+                  {
                     "type": "files",
                     "files": [
                         "Ownership.txt"
                     ],
                     "ignore_missing": true
-                },
+                  }
+                ],
                 "positions": {
                     "type": "files",
                     "files": [
@@ -366,12 +392,20 @@
                 {
                     "type": "folder",
                     "folder": "Airways/RNAV/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/Conventional - Non-UK/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/Helicopter"
                 }
             ],
             "upper_airways": [
                 {
                     "type": "folder",
-                    "folder": "Airways/Conventional/Upper"
+                    "folder": "Airways/Other"
                 },
                 {
                     "type": "folder",

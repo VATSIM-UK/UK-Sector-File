@@ -1,4 +1,7 @@
-.x Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
+# Changes from release 2022/01 to 2022/02
+1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mike Huk)
+2. Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
+
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
@@ -6,6 +9,27 @@
 4. Enhancement - Added freetext category for major HEMS sites and hospitals - thanks to @JamesH2432
 5. AIRAC (2201) - Updated VALBO fix coordinates - thanks to @ChrisXPP (Christoph Reule)
 6. AIRAC (2201) - Updated Land's End (EGHC) holding point - thanks to @WillShaw1100 (William Shaw)
+7. AIRAC (2201) - Added Manchester (EGCC) new de-icing areas - thanks to @Hinshee (Will Hinshaw)
+8. Error - Removed duplicate Aberdeen (EGPD) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
+9. AIRAC (2201) - Added Windsor Castle Restricted Airspace (R156) - thanks to @AleksMax (Aleks Nieszczerzewski)
+10. AIRAC (2201) - Update Isle of Man (EGNS) Runway threshold - thanks to @WillShaw1100 (William Shaw)
+11. AIRAC (2201) - Updated Shobdon (SH) NDB Coordinates - thanks to @WillShaw1100 (William Shaw)
+12. AIRAC (2201) - Updated Swansea (EGFH) SMR - thanks to @SwietyMik (Mike Huk)
+13. AIRAC (2004) - Updated Norwich (EGSH) Runway heading - thanks to @SwietyMik (Mike Huk)
+14. Enhancement - Added Gatwick (EGKK) 26's L indicator - thanks to @SwietyMik (Mike Huk)
+15. NOTAM - Kinloss portion of CMATZ Withdrawn - thanks to @trevorhannant (Trevor Hannant)
+16. AIRAC (2201) - Updated Londonderry/Eglinton (EGAE) stand 4A coord - thanks to @SwietyMik (Mike Huk)
+17. AIRAC (2201) - Added Glasgow (EGPF) taxiway C closure - thanks to @WillShaw1100 (William Shaw)
+18. Bug - Fixed erroneous TC South East (TC SE) line coordinates - thanks to @hsugden (Harry Sugden)
+19. AIRAC (2201) - Updated Gloucestershire (EGBJ) SMR - thanks to @SwietyMik (Mike Huk)
+20. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
+21. Error - Updated the Heathrow (EGLL) WIP on A (South) - thanks to @kye-taylor (Kye Taylor)
+22. Enhancement - Amended ESE build order for Bristol, Cardiff and Exeter APP airspace to improve COPX display - thanks to @hsugden (Harry Sugden)
+23. Enhancement - Major overhaul of line display for LAC South (and associated sectors) - thanks to @cpawley (Chris Pawley) and @hsugden (Harry Sugden)
+24. Enhancement - Removed duplicate definitions of Area positions with hyphens following new Relief Callsign Policy - thanks to @hsugden (Harry Sugden)
+25. Procedure Change - Updated middle identifiers of Daventry & TC Midlands splits - thanks to @hsugden (Harry Sugden)
+26. Enhancement - Added London OTMET position (Hurn & Exmoor bandbox) for events - thanks to @hsugden (Harry Sugden)
+27. Enhancement - Various updates and corrections to Airways - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
