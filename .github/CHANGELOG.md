@@ -1,3 +1,4 @@
+# Changes from release 2022/01 to 2022/02
 X. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mike Huk)
 
 # Changes from release 2021/13 to 2022/01
