@@ -1,4 +1,9 @@
-X. AIRAC (2202) - Updated Isle of Man (EGNS) Runway heading - thanks to @SwietyMik (Mike Huk)
+# Changes from release 2022/01 to 2022/02
+1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mike Huk)
+2. Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
+3. Procedure Change - Amended S29 -> Deancross MTMA deps agreements to climbing FL280 - thanks to @ChrisXPP (Christoph Reule)
+4. Procedure Change - EURM_W_CTR callsign changed to EURM-W_CTR - thanks to @hsugden (Harry Sugden)
+5. AIRAC (2202) - Updated Isle of Man (EGNS) Runway heading - thanks to @SwietyMik (Mike Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
