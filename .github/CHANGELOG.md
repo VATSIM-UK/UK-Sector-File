@@ -7,6 +7,7 @@
 6. Error - Removed TRIPO from Heathrow (EGLL) & RAF Northolt (EGWU) affected STARs - thanks to @SwietyMik (Mikolaj Huk)
 7. Error - Added Stansted (EGSS) Debden VRP - thanks to @SwietyMik (Mikolaj Huk)
 8. AIRAC (2104) - Updated Belfast Aldergrove (EGAA) Runway heading - thanks to @SwietyMik (Mikolaj Huk)
+9. Enhancement - Aligned EGPX FRA with FIR - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
