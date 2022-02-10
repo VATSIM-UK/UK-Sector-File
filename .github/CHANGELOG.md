@@ -9,6 +9,7 @@
 8. AIRAC (2104) - Updated Belfast Aldergrove (EGAA) Runway heading - thanks to @SwietyMik (Mikolaj Huk)
 9. Enhancement - Aligned EGPX FRA with FIR - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Procedure Change - Internal (Enroute) 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
+11. AIRAC (2202) - Updated Scilly Isles/St Mary's (EGHE) SMR - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
