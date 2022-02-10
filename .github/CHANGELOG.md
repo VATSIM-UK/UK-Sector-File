@@ -1,4 +1,4 @@
-X. AIRAC (2202) - Updated Scilly Isles/St Mary's (EGHE) SMR - thanks to @SwietyMik (Mike Huk)
+X. AIRAC (2202) - Updated Scilly Isles/St Mary's (EGHE) SMR - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
