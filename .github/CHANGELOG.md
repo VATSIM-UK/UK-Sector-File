@@ -1,4 +1,4 @@
-X. AIRAC (2202) - Added Luton (EGGW) New approach transition fixes - thanks to @SwietyMik (Mike Huk)
+X. AIRAC (2202) - Added Luton (EGGW) New approach transition fixes - thanks to @SwietyMik (MikolajHuk)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mike Huk)
