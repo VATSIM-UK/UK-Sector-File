@@ -5,6 +5,7 @@
 4. Procedure Change - EURM_W_CTR callsign changed to EURM-W_CTR - thanks to @hsugden (Harry Sugden)
 5. AIRAC (2202) - Updated Isle of Man (EGNS) Runway heading - thanks to @SwietyMik (Mike Huk)
 6. Error - Removed TRIPO from Heathrow (EGLL) & RAF Northolt (EGWU) affected STARs - thanks to @SwietyMik (Mike Huk)
+7. Error - Added Stansted (EGSS) Debden VRP - thanks to @SwietyMik (Mike Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
