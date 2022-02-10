@@ -33,3 +33,4 @@ Scottish Control Galloway North:Scottish Control:121.375:STGN:S:STC:CTR:-:-:3601
 
 ;London Info
 London Information:London Information:125.475:LI:C:EGTT:CTR:-:-::
+London Information:London Information:124.750:LI:C:EGTT:CTR:-:-:1177:1177
