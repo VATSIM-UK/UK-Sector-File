@@ -1,4 +1,4 @@
-X. Procedure Change (2202) - New TC CPT, S25 and S23 EGSS departure COPX - thanks to @SwietyMik (Mike Huk)
+X. Procedure Change (2202) - New TC CPT, S25 and S23 EGSS departure COPX - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
