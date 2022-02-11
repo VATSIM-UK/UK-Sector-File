@@ -14,6 +14,7 @@
 13. AIRAC (2202) - Various changes to Clacton, Daventry and Midlands CTAs and associated airspace base labels - thanks to @hsugden (Harry Sugden)
 14. AIRAC (2202) - Removed London TMA 2 and amended London TMA 3 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (2202) - Amended London Stansted CTA 3 airspace base - thanks to @hsugden (Harry Sugden)
+16. Procedure Change - Brest (LFRR) Callsign changes - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
