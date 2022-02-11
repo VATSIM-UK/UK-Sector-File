@@ -16,6 +16,7 @@
 15. AIRAC (2202) - Amended London Stansted CTA 3 airspace base - thanks to @hsugden (Harry Sugden)
 16. Procedure Change - Brest (LFRR) Callsign changes - thanks to @SwietyMik (Mikolaj Huk)
 17. AIRAC (2202) - Added Luton (EGGW) New approach transition fixes - thanks to @SwietyMik (Mikolaj Huk) - NOT INCLUDED IN PUBLIC CHANGELOG
+18. Procedure Change - External 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
