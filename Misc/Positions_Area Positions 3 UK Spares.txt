@@ -1,35 +1,36 @@
 ;Unallocated UK (London/Scottish ACC/TCC) frequencies
 
 ;North
-London Control:London Control:126.770:LWN:L:LON:CTR:-:-:0301:0377:: ;S11
-London Control S7:London Control:135.570:L7:L:LON:CTR:-:-:0301:0377::
+London Control:London Control:126.775:LWN:L:LON:CTR:-:-:0301:0377:: ;S11
+London Control S7:London Control:135.575:L7:L:LON:CTR:-:-:0301:0377::
 
 ;Central
 London Control S27:London Control:129.200:L27:L:LON:CTR:-:-:0301:0377::
 
 ;South
-London Control S2:London Control:127.420:L2:L:LON:CTR:-:-:0301:0377::
+London Control S2:London Control:127.425:L2:L:LON:CTR:-:-:0301:0377::
 
 ;West
 London Control S35:London Control:135.250:L35:L:LON:CTR:-:-:0301:0377:: ;EURW_FSS
 
 ;TC Midlands
-London Control TC WELIN E:London Control:128.470:TCWE:L:LTC:CTR:-:-:0301:0377::
+London Control TC WELIN E:London Control:128.475:TCWE:L:LTC:CTR:-:-:0301:0377::
 
 ;TC South
-London Control TC TIMBA:London Control:120.170:TCST:L:LTC:CTR:-:-:0301:0377::
-London Control TC GODLU:London Control:135.320:TCSG:L:LTC:CTR:-:-:0301:0377::
+London Control TC TIMBA:London Control:120.175:TCST:L:LTC:CTR:-:-:0301:0377::
+London Control TC GODLU:London Control:135.325:TCSG:L:LTC:CTR:-:-:0301:0377::
 
 ;TC Capital
 London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-:0301:0377::
 
 ;Scottish
-Scottish Control Hebrides Low:Scottish Control:128.670:SHL:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Hebrides Low:Scottish Control:128.675:SHL:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose North:Scottish Control:132.470:SMN:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose South:Scottish Control:126.920:SMS:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Galloway North:Scottish Control:121.370:STGN:S:STC:CTR:-:-:3601:3632::
+Scottish Control Montrose North:Scottish Control:132.475:SMN:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Montrose South:Scottish Control:126.925:SMS:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Galloway North:Scottish Control:121.375:STGN:S:STC:CTR:-:-:3601:3632::
 
 ;London Info
-London Information:London Information:125.470:LI:C:EGTT:CTR:-:-::
+London Information:London Information:125.475:LI:C:EGTT:CTR:-:-::
+London Information:London Information:124.750:LI:C:EGTT:CTR:-:-:1177:1177
