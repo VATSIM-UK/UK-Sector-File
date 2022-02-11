@@ -10,7 +10,7 @@
 9. Enhancement - Aligned EGPX FRA with FIR - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Procedure Change - Internal (Enroute) 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
 11. AIRAC (2202) - Updated Scilly Isles/St Mary's (EGHE) SMR - thanks to @SwietyMik (Mikolaj Huk)
-12. Enhancement - Added missing London Information frequency - thanks to @danielbutton (Daniel Button)
+12. Enhancement - Added missing London Information frequency - thanks to @danielbutton (Daniel Button) - NOT INCLUDED IN PUBLIC CHANGELOG
 13. AIRAC (2202) - Various changes to Clacton, Daventry and Midlands CTAs and associated airspace base labels - thanks to @hsugden (Harry Sugden)
 14. AIRAC (2202) - Removed London TMA 2 and amended London TMA 3 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (2202) - Amended London Stansted CTA 3 airspace base - thanks to @hsugden (Harry Sugden)
