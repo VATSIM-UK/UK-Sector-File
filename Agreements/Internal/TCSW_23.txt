@@ -9,3 +9,6 @@ COPX:EGLF:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGLK:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGTF:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGHL:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
+COPX:EGKB:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
+COPX:EGMC:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
+COPX:EGTO:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
