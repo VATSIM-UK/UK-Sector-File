@@ -20,6 +20,10 @@
 19. Procedure Change - Added EGMC Departures to TCNW -> TCSW CPT Agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Procedure Change - Completed Internal 25 kHz frequency conversions - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Error - Updated Worthing and Dover Static Boundaries (Stars) to reflect current sectorisation - thanks to @hsugden (Harry Sugden)
+22. AIRAC (2202) - Updated Stansted (EGSS) SIDs - thanks to @khardern (Kieran Hardern)
+23. AIRAC (2202) - Updated Luton (EGGW) STARs & COPX - thanks to @khardern (Kieran Hardern)
+24. AIRAC (2202) - Removed references to Essex Radar and created a separate SS INT - thanks to @khardern (Kieran Hardern)
+25. Procedure Change - Changes to Stansted & Luton airspace (SAIP AD6) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
