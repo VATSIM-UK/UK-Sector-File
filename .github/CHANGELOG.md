@@ -1,6 +1,5 @@
-X. AIRAC (2202) - Updated Stansted (EGSS) SIDs - thanks to @khardern (Kieran Hardern)
-X. AIRAC (2202) - Updated Luton (EGGW) STARs & COPX - thanks to @khardern (Kieran Hardern)
-X. AIRAC (2202) - Removed references to Essex Radar and created a separate SS INT - thanks to @khardern (Kieran Hardern)
+# Changes from release 2022/01 to 2022/02
+1. Procedure Change - Changes to Stansted & Luton airspace (SAIP AD6) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
