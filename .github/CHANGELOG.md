@@ -27,6 +27,7 @@
 26. AIRAC (2202) - Added New Scottish CTAs & Removed Airways - thanks to @luke11brown (Luke Brown)
 27. Procedure Change - Polaris callsign changes - thanks to @ChrisXPP (Christoph Reule)
 28. Procedure Change (2202) - New TC CPT, S25 and S23 EGSS departure COPX - thanks to @SwietyMik (Mikolaj Huk)
+29. Procedure Change - Added all Thames Group airfields to TC SW -> S23 agreement via KENET - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
