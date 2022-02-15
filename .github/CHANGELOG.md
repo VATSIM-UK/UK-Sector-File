@@ -26,6 +26,7 @@
 25. Procedure Change - Changes to Stansted & Luton airspace (SAIP AD6) - thanks to @hsugden (Harry Sugden)
 26. AIRAC (2202) - Added New Scottish CTAs & Removed Airways - thanks to @luke11brown (Luke Brown)
 27. Procedure Change - Polaris callsign changes - thanks to @ChrisXPP (Christoph Reule)
+X. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
