@@ -1,5 +1,4 @@
-x. AIRAC (2113) - St Athan (EGSY) ground changes - thanks to @Bucklerz (Reece Buckley)
-X. AIRAC (2113) - St Athan (EGSY) ground changes - thanks to @SwietyMik (Mikolaj Huk)
+x. AIRAC (2113) - St Athan (EGSY) ground changes - thanks to @Bucklerz (Reece Buckley) and @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
