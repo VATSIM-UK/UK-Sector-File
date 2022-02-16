@@ -1,3 +1,4 @@
+X. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
 2. Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
