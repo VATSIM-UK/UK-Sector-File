@@ -1,5 +1,40 @@
-FIR_COPX:EGPH:*:NIMAT:*:*:Rathlin:EISN 4AU:31000:*:NIMAT
-FIR_COPX:EGPF:*:NIMAT:*:*:Rathlin:EISN 4AU:31000:*:NIMAT
+;Specific Transfer Agreements
 FIR_COPX:EGPK:*:NIMAT:*:*:Rathlin:EISN 4AU:31000:*:NIMAT
 
 FIR_COPX:*:*:ERNAN:EIDW:*:Rathlin:EISN 4AU:*:29000:ERNAN
+
+;All COPs
+FIR_COPX:*:*:IBROD:*:*:Rathlin:EISN 1AS:*:*:IBROD
+FIR_COPX:*:*:AMLAD:*:*:Rathlin:EISN 1AS:*:*:AMLAD
+FIR_COPX:*:*:IBROD:*:*:Rathlin:EISN 1AU:*:*:IBROD
+FIR_COPX:*:*:AMLAD:*:*:Rathlin:EISN 1AU:*:*:AMLAD
+
+FIR_COPX:*:*:MIMKU:*:*:Rathlin:EISN 1BS:*:*:MIMKU
+FIR_COPX:*:*:APSOV:*:*:Rathlin:EISN 1BS:*:*:APSOV
+FIR_COPX:*:*:MIMKU:*:*:Rathlin:EISN 1BU:*:*:MIMKU
+FIR_COPX:*:*:APSOV:*:*:Rathlin:EISN 1BU:*:*:APSOV
+
+FIR_COPX:*:*:KUGUR:*:*:Rathlin:EISN 1CS:*:*:KUGUR
+FIR_COPX:*:*:LUTOV:*:*:Rathlin:EISN 1CS:*:*:LUTOV
+FIR_COPX:*:*:KUGUR:*:*:Rathlin:EISN 1CU:*:*:KUGUR
+FIR_COPX:*:*:LUTOV:*:*:Rathlin:EISN 1CU:*:*:LUTOV
+
+FIR_COPX:*:*:NIBOG:*:*:Rathlin:EISN 1DS:*:*:NIBOG
+FIR_COPX:*:*:NIBOG:*:*:Rathlin:EISN 1DU:*:*:NIBOG
+
+FIR_COPX:*:*:MOLAK:*:*:Rathlin:EISN 3AS:*:*:MOLAK
+FIR_COPX:*:*:MOLAK:*:*:Rathlin:EISN 3AU:*:*:MOLAK
+
+FIR_COPX:*:*:NIPIT:*:*:Rathlin:EISN 4BS:*:*:NIPIT
+FIR_COPX:*:*:NIPIT:*:*:Rathlin:EISN 4BU:*:*:NIPIT
+
+FIR_COPX:*:*:ERNAN:*:*:Rathlin:EISN 4AS:*:*:ERNAN
+FIR_COPX:*:*:DEGOS:*:*:Rathlin:EISN 4AS:*:*:DEGOS
+FIR_COPX:*:*:ROTEV:*:*:Rathlin:EISN 4AS:*:*:ROTEV
+FIR_COPX:*:*:NIMAT:*:*:Rathlin:EISN 4AS:*:*:NIMAT
+FIR_COPX:*:*:BOYNE:*:*:Rathlin:EISN 4AS:*:*:BOYNE
+FIR_COPX:*:*:ERNAN:*:*:Rathlin:EISN 4AU:*:*:ERNAN
+FIR_COPX:*:*:DEGOS:*:*:Rathlin:EISN 4AU:*:*:DEGOS
+FIR_COPX:*:*:ROTEV:*:*:Rathlin:EISN 4AU:*:*:ROTEV
+FIR_COPX:*:*:NIMAT:*:*:Rathlin:EISN 4AU:*:*:NIMAT
+FIR_COPX:*:*:BOYNE:*:*:Rathlin:EISN 4AU:*:*:BOYNE
