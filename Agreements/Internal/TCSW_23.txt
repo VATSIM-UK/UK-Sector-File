@@ -2,6 +2,9 @@ COPX:EGLL:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGWU:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGKK:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGLC:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
+COPX:EGKB:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
+COPX:EGMC:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
+COPX:EGTO:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGGW:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGHI:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
 COPX:EGHH:*:KENET:*:*:London TC SW:London S23:13000:*:^CPT
