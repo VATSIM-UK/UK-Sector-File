@@ -30,7 +30,11 @@
 29. Procedure Change - Added all Thames Group airfields to TC SW -> S23 agreement via KENET - thanks to @ChrisXPP (Christoph Reule)
 30. Error - Corrected Naming of Shoreham (EGKA) RNP Approach Fixes - thanks to @danielbutton (Daniel Button)
 31. AIRAC (2113) - St Athan (EGSY) ground changes - thanks to @Bucklerz (Reece Buckley) and @SwietyMik (Mikolaj Huk)
-32. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
+32. Procedure Change - Updated EISN callsigns and controller identifiers - thanks to @hsugden (Harry Sugden)
+33. Enhancement - Amended EIDW controller identifiers to reflect roles, rather than callsign number - thanks to @hsugden (Harry Sugden)
+34. Error - Corrected Rathlin/EISN agreements for ScTMA/EGPK traffic - thanks to @hsugden (Harry Sugden)
+35. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden (Harry Sugden)
+36. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
