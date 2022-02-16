@@ -1,3 +1,5 @@
+X. Procedure Change - London Sector Changes to support SAIP AD6 (Luton Arrivals) - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mike Huk)
 2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
