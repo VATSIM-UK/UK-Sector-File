@@ -35,6 +35,7 @@
 34. Error - Corrected Rathlin/EISN agreements for ScTMA/EGPK traffic - thanks to @hsugden (Harry Sugden)
 35. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden (Harry Sugden)
 36. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
+37. Enhancement - Added Elstree (EGTR) Data and SMR - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
