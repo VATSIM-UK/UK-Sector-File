@@ -206,7 +206,6 @@
 3. AIRAC (2105) - Updated London City (EGLC) and Biggin Hill (EGKB) STARs - thanks to @cbyworth (Chad Byworth)
 4. AIRAC (2105) - Updated London City (EGLC) and Biggin Hill (EGKB) STARs - thanks to @cbyworth (Chad Byworth)
 
-
 # Changes from release 2021/04 to 2021/05
 1. AIRAC (2105) - Removed ASKEY, CASEY, and CLIPY Fixes - thanks to @JackG2004 (Jack Gil)
 2. AIRAC (2105) - Edinburgh (EGPH) Mag heading updates - thanks to @JackG2004 (Jack Gil)
@@ -1893,4 +1892,3 @@
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
-36. Added new FAVA for EGAA, EGAC & EGPK. Split original SMAA & FAVA for EGPF, EGPH & EGPD - thanks to @lewishh (Lewis Hardcastle)
