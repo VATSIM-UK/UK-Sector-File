@@ -36,6 +36,7 @@
 35. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden (Harry Sugden)
 36. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
 37. Enhancement - Added new FAVA for EGAA, EGAC & EGPK and split original SMAA & FAVA for EGPF, EGPH & EGPD - thanks to @lewishh (Lewis Hardcastle)
+38. Enhancement - Adds Luton and Stansted LFAs - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
