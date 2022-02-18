@@ -1,8 +1,8 @@
 {
     "options": {
-        "sct_output": ".build/bin/UK.sct",
-        "ese_output": ".build/bin/UK.ese",
-        "rwy_output": ".build/bin/UK.rwy",
+        "sct_output": ".bin/UK.sct",
+        "ese_output": ".bin/UK.ese",
+        "rwy_output": ".bin/UK.rwy",
         "replace": [
             {
                 "token": "{YEAR}",
@@ -73,13 +73,39 @@
                     ],
                     "ignore_missing": true
                 },
-                "ownership": {
+                "ownership": [
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGGD", "EGTE", "EGFF"]
+                  }, 
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGFF", "EGTE"]
+                  },
+                  {
+                    "type": "files",
+                    "files": [
+                        "Ownership.txt"
+                    ],
+                    "ignore_missing": true,
+                    "exclude_directory": ["EGFF"]
+                  },
+                  {
                     "type": "files",
                     "files": [
                         "Ownership.txt"
                     ],
                     "ignore_missing": true
-                },
+                  }
+                ],
                 "positions": {
                     "type": "files",
                     "files": [
@@ -91,14 +117,6 @@
                     "type": "files",
                     "files": [
                         "Positions_Mentor.txt"
-                    ],
-                    "ignore_missing": true
-                },
-                "sid_airspace": {
-                    "type": "files",
-                    "files": [
-                        "RMA.txt",
-                        "SMAA.txt"
                     ],
                     "ignore_missing": true
                 },
@@ -123,10 +141,24 @@
                     ],
                     "ignore_missing": true
                 },
+                "sid_airspace": {
+                    "type": "files",
+                    "files": [
+                        "SMAA.txt"
+                    ],
+                    "ignore_missing": true
+                },
                 "stars": {
                     "type": "files",
                     "files": [
                         "Stars.txt"
+                    ],
+                    "ignore_missing": true
+                },
+                "star_airspace": {
+                    "type": "files",
+                    "files": [
+                        "RMA.txt"
                     ],
                     "ignore_missing": true
                 },
@@ -268,8 +300,8 @@
                     "folder": "Agreements/External",
                     "recursive": true,
                     "exclude": [
-                            "12_AA.txt"
-                        ]
+                        "12_AA.txt"
+                    ]
                 },
                 {
                     "type": "files",
@@ -315,12 +347,6 @@
                     "recursive": true,
                     "pattern": "FIXES_"
                 },
-                {
-                    "type": "files",
-                    "files": [
-                        "_data/Old/Runway Fixes.txt"
-                    ]
-                }
             ],
             "ndbs": {
                 "type": "folder",
@@ -366,12 +392,20 @@
                 {
                     "type": "folder",
                     "folder": "Airways/RNAV/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/Conventional - Non-UK/Lower"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Airways/Helicopter"
                 }
             ],
             "upper_airways": [
                 {
                     "type": "folder",
-                    "folder": "Airways/Conventional/Upper"
+                    "folder": "Airways/Other"
                 },
                 {
                     "type": "folder",
@@ -380,7 +414,7 @@
             ],
             "sid_airspace": {
                 "type": "folder",
-                "folder":"Misc",
+                "folder": "Misc",
                 "recursive": true,
                 "pattern": "SID_"
             },
