@@ -39,6 +39,7 @@
 38. Enhancement - Added Elstree (EGTR) Data and SMR - thanks to @danielbutton (Daniel Button)
 39. Error - Corrected Masts Display - thanks to @cbyworth (Chad Byworth)
 40. Enhancement - Adds Luton and Stansted LFAs - thanks to @cbyworth (Chad Byworth)
+41. Enhancement - Added Selectable Display Options to aid Essex Group Vectoring - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
