@@ -18,7 +18,30 @@
 16. Procedure Change - Brest (LFRR) Callsign changes - thanks to @SwietyMik (Mikolaj Huk)
 17. AIRAC (2202) - Added Luton (EGGW) New approach transition fixes - thanks to @SwietyMik (Mikolaj Huk) - NOT INCLUDED IN PUBLIC CHANGELOG
 18. Procedure Change - External 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
-19. Bug - Fixed CPT/COWLY COPX TC NW -> TC CPT for SS/SC deps - thanks to @GeekPro101 (Thomas Mills)
+19. Procedure Change - Added EGMC Departures to TCNW -> TCSW CPT Agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
+20. Procedure Change - Completed Internal 25 kHz frequency conversions - thanks to @AleksMax (Aleks Nieszczerzewski)
+21. Error - Updated Worthing and Dover Static Boundaries (Stars) to reflect current sectorisation - thanks to @hsugden (Harry Sugden)
+22. AIRAC (2202) - Updated Stansted (EGSS) SIDs - thanks to @khardern (Kieran Hardern)
+23. AIRAC (2202) - Updated Luton (EGGW) STARs & COPX - thanks to @khardern (Kieran Hardern)
+24. AIRAC (2202) - Removed references to Essex Radar and created a separate SS INT - thanks to @khardern (Kieran Hardern)
+25. Procedure Change - Changes to Stansted & Luton airspace (SAIP AD6) - thanks to @hsugden (Harry Sugden)
+26. AIRAC (2202) - Added New Scottish CTAs & Removed Airways - thanks to @luke11brown (Luke Brown)
+27. Procedure Change - Polaris callsign changes - thanks to @ChrisXPP (Christoph Reule)
+28. Procedure Change (2202) - New TC CPT, S25 and S23 EGSS departure COPX - thanks to @SwietyMik (Mikolaj Huk)
+29. Procedure Change - Added all Thames Group airfields to TC SW -> S23 agreement via KENET - thanks to @ChrisXPP (Christoph Reule)
+30. Error - Corrected Naming of Shoreham (EGKA) RNP Approach Fixes - thanks to @danielbutton (Daniel Button)
+31. AIRAC (2113) - St Athan (EGSY) ground changes - thanks to @Bucklerz (Reece Buckley) and @SwietyMik (Mikolaj Huk)
+32. Procedure Change - Updated EISN callsigns and controller identifiers - thanks to @hsugden (Harry Sugden)
+33. Enhancement - Amended EIDW controller identifiers to reflect roles, rather than callsign number - thanks to @hsugden (Harry Sugden)
+34. Error - Corrected Rathlin/EISN agreements for ScTMA/EGPK traffic - thanks to @hsugden (Harry Sugden)
+35. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden (Harry Sugden)
+36. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
+37. Enhancement - Added new FAVA for EGAA, EGAC & EGPK and split original SMAA & FAVA for EGPF, EGPH & EGPD - thanks to @lewishh (Lewis Hardcastle)
+38. Enhancement - Added Elstree (EGTR) Data and SMR - thanks to @danielbutton (Daniel Button)
+39. Error - Corrected Masts Display - thanks to @cbyworth (Chad Byworth)
+40. Enhancement - Adds Luton and Stansted LFAs - thanks to @cbyworth (Chad Byworth)
+41. Enhancement - Added Selectable Display Options to aid Essex Group Vectoring - thanks to @AleksMax (Aleks Nieszczerzewski)
+42. Bug - Fixed CPT/COWLY COPX TC NW -> TC CPT for SS/SC deps - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
@@ -189,7 +212,6 @@
 2. Error - Corrected erroneous Biggin Hill (EGKB) SILVA1C runways - thanks to @GeekPro101 (Thomas Mills)
 3. AIRAC (2105) - Updated London City (EGLC) and Biggin Hill (EGKB) STARs - thanks to @cbyworth (Chad Byworth)
 4. AIRAC (2105) - Updated London City (EGLC) and Biggin Hill (EGKB) STARs - thanks to @cbyworth (Chad Byworth)
-
 
 # Changes from release 2021/04 to 2021/05
 1. AIRAC (2105) - Removed ASKEY, CASEY, and CLIPY Fixes - thanks to @JackG2004 (Jack Gil)
