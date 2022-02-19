@@ -1,5 +1,3 @@
-X. Error - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugden (Harry Sugden)
-
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
 2. Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
@@ -40,6 +38,10 @@ X. Error - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugd
 37. Enhancement - Added new FAVA for EGAA, EGAC & EGPK and split original SMAA & FAVA for EGPF, EGPH & EGPD - thanks to @lewishh (Lewis Hardcastle)
 38. Enhancement - Added Elstree (EGTR) Data and SMR - thanks to @danielbutton (Daniel Button)
 39. Error - Corrected Masts Display - thanks to @cbyworth (Chad Byworth)
+40. Enhancement - Adds Luton and Stansted LFAs - thanks to @cbyworth (Chad Byworth)
+41. Enhancement - Added Selectable Display Options to aid Essex Group Vectoring - thanks to @AleksMax (Aleks Nieszczerzewski)
+42. Bug - Fixed CPT/COWLY COPX TC NW -> TC CPT for SS/SC deps - thanks to @GeekPro101 (Thomas Mills)
+43. Error - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
