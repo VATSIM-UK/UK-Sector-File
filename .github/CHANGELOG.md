@@ -1,3 +1,4 @@
+
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
 2. Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
@@ -40,6 +41,7 @@
 39. Error - Corrected Masts Display - thanks to @cbyworth (Chad Byworth)
 40. Enhancement - Adds Luton and Stansted LFAs - thanks to @cbyworth (Chad Byworth)
 41. Enhancement - Added Selectable Display Options to aid Essex Group Vectoring - thanks to @AleksMax (Aleks Nieszczerzewski)
+42. Bug - Fixed CPT/COWLY COPX TC NW -> TC CPT for SS/SC deps - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
