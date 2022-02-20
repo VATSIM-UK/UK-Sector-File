@@ -42,6 +42,7 @@
 41. Enhancement - Added Selectable Display Options to aid Essex Group Vectoring - thanks to @AleksMax (Aleks Nieszczerzewski)
 42. Bug - Fixed CPT/COWLY COPX TC NW -> TC CPT for SS/SC deps - thanks to @GeekPro101 (Thomas Mills)
 43. Error - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugden (Harry Sugden)
+44. Enhancement - Amended Scottish internal event agreements - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
