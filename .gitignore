@@ -1,5 +1,5 @@
 *.ese
 *.sct
-.build/bin/*
+.build/**
 
 *.exe
