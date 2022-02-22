@@ -44,6 +44,7 @@
 43. Error - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugden (Harry Sugden)
 44. Enhancement - Amended Scottish internal event agreements - thanks to @GeekPro101 (Thomas Mills)
 45. Procedure Change - Added EGTK and EGSC to TC COWLY -> S25 COPX - thanks to @ChrisXPP (Christoph Reule)
+46. Procedure Change - London Sector Changes to support SAIP AD6 (Luton Arrivals) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
