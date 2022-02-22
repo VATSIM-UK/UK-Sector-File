@@ -47,8 +47,8 @@ COORD:N051.45.03.000:E000.50.32.000 ;V99
 ;Display only for NE/LAM border when Central is not online
 SECTORLINE:LTC4-display
 DISPLAY:London TC VATON:London TC VATON:London TC NE
-COORD:N051.42.22.000:E000.09.04.000
-COORD:N051.44.17.000:E000.36.07.000
+COORD:N051.42.22.000:E000.09.04.000 ;V234
+COORD:N051.44.17.000:E000.36.07.000 ;V113
 
 ;Additionally displaying to VATON when NE is online
 SECTORLINE:LTC5a
@@ -121,12 +121,10 @@ COORD:N051.34.17.000:E000.50.00.000 ;V96
 COORD:N051.27.02.400:E000.50.00.000 ;V187
 
 ;Additionally displaying to TC VATON when LAM/SE are split
-;Additionally displaying to TC VATON when VATON/SE are split
 SECTORLINE:LTC9
 DISPLAY:London TC LAM:London TC LAM:London TC SE
 DISPLAY:London TC SE:London TC SE:London TC LAM
 DISPLAY:London TC VATON:London TC LAM:London TC SE
-DISPLAY:London TC VATON:London TC VATON:London TC SE
 COORD:N051.27.52.000:E000.10.09.000 ;V235
 COORD:N051.27.15.000:E000.33.00.000 ;V42
 
@@ -271,7 +269,7 @@ COORD:N051.34.23.000:W001.11.38.000 ;V241
 
 ;Additionally displaying to CPT when NW/SW are split
 SECTORLINE:LTC23b
-DISPLAY:London TC CPT:London TC CPT:London TC SW
+;DISPLAY:London TC CPT:London TC CPT:London TC SW
 DISPLAY:London TC CPT:London TC NW:London TC SW
 DISPLAY:London TC NW:London TC NW:London TC SW
 DISPLAY:London TC SW:London TC SW:London TC NW
