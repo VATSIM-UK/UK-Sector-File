@@ -27,7 +27,6 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
-#define smrDisused 0
 
 ;SMR Colours
 #define smrACapron 10526880
@@ -49,7 +48,9 @@
 #define smrCCtaxiway 13290186
 #define smrCompassbase 16777215
 #define smrConstruction 150
+#define smrCyan 16777130
 #define smrDarkApron 3026478
+#define smrDisused 0
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
 #define smrGDBuilding 9142113
