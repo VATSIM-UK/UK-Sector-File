@@ -99,7 +99,7 @@
 #define smrSCGrass 29440
 #define smrSCORunway 0
 #define smrSCOTaxiway 7694464
-#define smrSCOGrass 18944
+#define smrSCOGrass 37120
 #define smrSCODisused 12762813
 #define smrSSWhite 13421772
 #define smrTaxiway 0
