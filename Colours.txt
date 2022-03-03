@@ -135,7 +135,7 @@
 ;Background Colours
 #define blackBackground 0
 #define smrNTbackground 8087902
-#define blueBackground 8087902
+#define blueBackground 3932160
 #define smrGDbackground 328965
 
 ;Mil SMR
