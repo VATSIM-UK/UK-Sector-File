@@ -86,6 +86,16 @@
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262
 #define smrMDwhite 16711422
+#define smrNTapron 5262926
+#define smrNTBackground 8289147
+#define smrNTbuildings 22015
+#define smrNTholdingpoints 13303807
+#define smrNTperitrack 1164543
+#define smrNTstandoutline 11464447
+#define smrNTstands 7855324
+#define smrNTtaxiway 16777215
+#define smrNTterminalapron 13565695
+#define smrNTunderapron 6512991
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
 #define smrOrange 43775
@@ -124,7 +134,8 @@
 
 ;Background Colours
 #define blackBackground 0
-#define blueBackground 3932160
+#define smrNTbackground 8087902
+#define blueBackground 8087902
 #define smrGDbackground 328965
 
 ;Mil SMR
