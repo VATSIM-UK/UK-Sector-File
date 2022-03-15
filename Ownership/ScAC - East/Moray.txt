@@ -7,13 +7,13 @@ SECTOR:Moray 01 (DB-255):0:25500
 OWNER:SN:SE:S
 ALTOWNER:Observing Scottish FIR:SGS:O:SM:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SN:SE:S
-BORDER:Mor_BIRD:Mor_ENSV_N:Mor_ENSV:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 2:Heb_Mor Low:Heb_Mor 1
+BORDER:Mor_BIRD:Mor_ENSV_N:Mor_ENSV:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 02:Heb_Mor Low:Heb_Mor 01
 
 SECTOR:Moray 02 (255-660):25500:66000
 OWNER:SN:SE:S
 ALTOWNER:Observing Scottish FIR:SGS:O:SM:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SN:SE:S
-BORDER:Mor_BIRD:Mor_ENSV_N:Mor_ENSV:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 2:Mor Low Tri:Heb_Mor 1
+BORDER:Mor_BIRD:Mor_ENSV_N:Mor_ENSV:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 02:Mor Low Tri:Heb_Mor 01
 
 SECTOR:Moray 03 (DB-195):0:19500
 OWNER:SN:SE:S
