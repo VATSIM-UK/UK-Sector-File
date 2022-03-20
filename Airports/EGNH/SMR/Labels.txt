@@ -2,7 +2,7 @@
 "1" N053.46.35.350 W003.02.35.480 standHold
 "2" N053.46.39.180 W003.02.35.400 standHold
 "3" N053.46.39.330 W003.02.33.920 standHold
-"Fuel" N053.46.37.760 W003.02.37.500 standHold
+"Fuel" N053.46.37.740 W003.02.37.680 standHold
 
 ;Helicoper Parking
 "H1" N053.46.41.640 W003.02.24.680 standHold
@@ -13,9 +13,9 @@
 "H" N053.46.43.930 W003.02.11.440 standHold ;Heli_East
 
 ;Helicoper Aiming Points
-"H-East" N053.46.32.880 W003.02.15.580 standHold
+"H-East" N053.46.33.540 W003.02.11.670 standHold
 "H-North" N053.46.30.420 W003.02.26.170 standHold
-"H-South" N053.46.10.070 W003.02.07.140 standHold
+"H-South" N053.46.10.150 W003.02.08.390 standHold
 
 ;Holding Points
 "A1" N053.46.31.300 W003.02.35.900 standHold
