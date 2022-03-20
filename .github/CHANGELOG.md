@@ -3,6 +3,7 @@
 2. Error - Corrected Sumburgh (EGPB) THR coords - thanks to @WillShaw1100 (William Shaw)
 3. Enhancement - Corrected Benbecula (EGPL) runway heading - thanks to @ChrisXPP (Christoph Reule)
 4. AIRAC (2203) - Updated BRI NDB Coordinates - thanks to @SwietyMik (Mikolaj Huk)
+5. AIRAC (2203) - Updated various Kirkwall (EGPA) changes - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
