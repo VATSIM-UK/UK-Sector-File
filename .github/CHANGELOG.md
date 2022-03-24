@@ -11,6 +11,7 @@
 10. Enhancement - Updated Barrow/Walney (EGNL) data and added SMR - thanks to @PLM1995 (Peter Mooney)
 11. Enhancement - Updated Blackpool (EGNH) SMR - thanks to @PLM1995 (Peter Mooney)
 12. AIRAC(2203) - Updated Sumburgh (SBH) NDB & (SUM) VOR coords - thanks to @WillShaw1100 (William Shaw)
+13. Error - Added missing N7 taxiway at Heathrow (EGLL) - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
