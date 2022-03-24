@@ -1,5 +1,3 @@
-X. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
-
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
 2. Error - Corrected Sumburgh (EGPB) THR coords - thanks to @WillShaw1100 (William Shaw)
@@ -8,6 +6,7 @@ X. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsug
 5. AIRAC (2203) - Updated various Kirkwall (EGPA) changes - thanks to @SwietyMik (Mikolaj Huk)
 6. Enhancement - Removed EGNC from adjacent airports ownership - thanks to @SwietyMik (Mikolaj Huk)
 7. Enhancement - Re-opened taxiway R at Gatwick (EGKK) - thanks to @SwietyMik (Mikolaj Huk)
+8. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
