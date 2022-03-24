@@ -9,6 +9,7 @@
 8. Procedure Change - Added New COPX for London S5 -> S8 Deps - thanks to @danielbutton (Daniel Button)
 9. Enhancement - Added Kemble (EGBP) ATZ - thanks to @danielbutton (Daniel Button)
 10. Enhancement - Updated Barrow/Walney (EGNL) data and added SMR - thanks to @PLM1995 (Peter Mooney)
+11. Enhancement - Updated Blackpool (EGNH) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
