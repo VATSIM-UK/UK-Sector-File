@@ -1,5 +1,3 @@
-X. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
-
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
 2. Error - Corrected Sumburgh (EGPB) THR coords - thanks to @WillShaw1100 (William Shaw)
@@ -16,6 +14,7 @@ X. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/R
 13. Error - Added missing N7 taxiway at Heathrow (EGLL) - thanks to @SwietyMik (Mikolaj Huk)
 14. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (2203) - Updated Stornoway (EGPO) SMR - thanks to @PLM1995 (Peter Mooney)
+16. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
