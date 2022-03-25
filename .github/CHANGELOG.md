@@ -14,7 +14,13 @@
 13. Error - Added missing N7 taxiway at Heathrow (EGLL) - thanks to @SwietyMik (Mikolaj Huk)
 14. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (2203) - Updated Stornoway (EGPO) SMR - thanks to @PLM1995 (Peter Mooney)
-16. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
+16. Enhancement - Updated Dundee (EGPN) SMR - thanks to @PLM1995 (Peter Mooney)
+17. Procedure Change - Introduction of EURW-N split, covering French sectors above FL255/FL295 - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Added two-digit numerical naming to ensure correct ordering - thanks to @SwietyMik (Mikolaj Huk)
+19. AIRAC (2203) - Established Borders CTA 14 - thanks to @AleksMax (Aleks Nieszczerzewski)
+20. Procedure Change - Temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
+21. Enhancement - Amended Borders/Yorkshire CTA FL125 airspace base labels to enable independent toggling - thanks to @hsugden (Harry Sugden)
+22. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
