@@ -20,6 +20,7 @@
 19. AIRAC (2203) - Established Borders CTA 14 - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Procedure Change - Temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
 21. Enhancement - Amended Borders/Yorkshire CTA FL125 airspace base labels to enable independent toggling - thanks to @hsugden (Harry Sugden)
+22. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
