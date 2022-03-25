@@ -16,6 +16,7 @@
 15. AIRAC (2203) - Updated Stornoway (EGPO) SMR - thanks to @PLM1995 (Peter Mooney)
 16. Enhancement - Updated Dundee (EGPN) SMR - thanks to @PLM1995 (Peter Mooney)
 17. Procedure Change - Introduction of EURW-N split, covering French sectors above FL255/FL295 - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Added two-digit numerical naming to ensure correct ordering - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
