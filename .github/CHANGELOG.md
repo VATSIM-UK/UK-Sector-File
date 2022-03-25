@@ -14,6 +14,7 @@
 13. Error - Added missing N7 taxiway at Heathrow (EGLL) - thanks to @SwietyMik (Mikolaj Huk)
 14. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (2203) - Updated Stornoway (EGPO) SMR - thanks to @PLM1995 (Peter Mooney)
+16. Enhancement - Updated Dundee (EGPN) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
