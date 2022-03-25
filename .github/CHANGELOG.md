@@ -1,4 +1,5 @@
-x. Enhancement - Updated Dundee (EGPN) SMR - thanks to @PLM1995 (Peter Mooney)
+# Changes from release 2022/02 to 2022/03
+1. Enhancement - Updated Dundee (EGPN) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
