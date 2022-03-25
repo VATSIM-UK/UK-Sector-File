@@ -1,3 +1,5 @@
+X. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
+
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
 2. Error - Corrected Sumburgh (EGPB) THR coords - thanks to @WillShaw1100 (William Shaw)
