@@ -1,0 +1,6 @@
+;Holding Points
+"A" N054.07.35.890 W003.15.40.320 standHold
+"B" N054.07.27.050 W003.15.51.310 standHold
+
+;Helicoper point
+"H" N054.07.35.210 W003.15.37.150 standHold
