@@ -22,6 +22,7 @@
 21. Enhancement - Amended Borders/Yorkshire CTA FL125 airspace base labels to enable independent toggling - thanks to @hsugden (Harry Sugden)
 22. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
 23. Procedure Change - Added EBCI to EBBU -> Sector 14 (Clacton) climbing FL250 agreement - thanks to @hsugden (Harry Sugden)
+24. Procedure Change - Added secondary Blackpool (EGNH) Tower frequency - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
