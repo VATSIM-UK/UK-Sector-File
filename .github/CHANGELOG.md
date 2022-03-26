@@ -10,7 +10,7 @@
 9. Enhancement - Added Kemble (EGBP) ATZ - thanks to @danielbutton (Daniel Button)
 10. Enhancement - Updated Barrow/Walney (EGNL) data and added SMR - thanks to @PLM1995 (Peter Mooney)
 11. Enhancement - Updated Blackpool (EGNH) SMR - thanks to @PLM1995 (Peter Mooney)
-12. AIRAC(2203) - Updated Sumburgh (SBH) NDB & (SUM) VOR coords - thanks to @WillShaw1100 (William Shaw)
+12. AIRAC (2203) - Updated Sumburgh (SBH) NDB & (SUM) VOR coords - thanks to @WillShaw1100 (William Shaw)
 13. Error - Added missing N7 taxiway at Heathrow (EGLL) - thanks to @SwietyMik (Mikolaj Huk)
 14. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
 15. AIRAC (2203) - Updated Stornoway (EGPO) SMR - thanks to @PLM1995 (Peter Mooney)
