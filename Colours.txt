@@ -50,6 +50,7 @@
 #define smrCompassbase 16777215
 #define smrConstruction 150
 #define smrDarkApron 3026478
+#define smrFISGrassRwy 6525539
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
 #define smrGDBuilding 9142113
