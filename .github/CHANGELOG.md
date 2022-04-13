@@ -1,3 +1,5 @@
+X. Error - Corrected Elstree (EGTR) runway definition - thanks to @SwietyMik (Mikolaj Huk)
+
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
 2. Error - Corrected Sumburgh (EGPB) THR coords - thanks to @WillShaw1100 (William Shaw)
