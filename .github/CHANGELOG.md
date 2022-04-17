@@ -1,4 +1,4 @@
-X. Enhancement - Added missing label at Gatwick (EGKK) - thanks to @SwietyMik (Mikolaj Huk)
+X. Enhancement - Added missing holding point label ('FR') to Gatwick (EGKK) SMR - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
