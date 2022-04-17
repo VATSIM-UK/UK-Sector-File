@@ -1,5 +1,5 @@
 # Changes from release 2022/03 to 2022/04
-1. Enhancement - Updated Airfield Data for Wellsbourne (EGBW) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+1. Enhancement - Corrected Wellesbourne (EGBW) ARP coordinates - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
