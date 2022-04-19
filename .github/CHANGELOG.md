@@ -1,3 +1,4 @@
+x. Enhancement - Updated Northampton/Sywell (EGBK) Frequencies - thanks to @Hinshee (Will Hinshaw)
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
 2. Error - Corrected Wellesbourne (EGBW) ARP coordinates - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
