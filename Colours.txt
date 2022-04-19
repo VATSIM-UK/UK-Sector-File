@@ -50,6 +50,8 @@
 #define smrConstruction 150
 #define smrDarkApron 3026478
 #define smrDisused 0
+#define smrFISGrassRwy 6525539
+#define smrFISHardRwy 7895160
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
 #define smrGDbackground 328965
