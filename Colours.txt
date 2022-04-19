@@ -52,6 +52,7 @@
 #define smrDisused 0
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
+#define smrGDbackground 328965
 #define smrGDBuilding 9142113
 #define smrGDgrass 7058795
 #define smrGDrunway 5329233
@@ -86,8 +87,9 @@
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262
 #define smrMDwhite 16711422
+#define smrNTairfield 8289147
 #define smrNTapron 5262926
-#define smrNTbuildings 22015
+#define smrNTbackground 2430482
 #define smrNTholdingpoints 13303807
 #define smrNTperitrack 1164543
 #define smrNTstandoutline 11464447
@@ -134,8 +136,6 @@
 ;Background Colours
 #define blackBackground 0
 #define blueBackground 3932160
-#define smrGDbackground 328965
-#define smrNTbackground 8087902
 
 ;Mil SMR
 #define smrMilGrass 4551749
