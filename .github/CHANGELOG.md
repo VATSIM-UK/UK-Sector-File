@@ -16,6 +16,7 @@
 15. Enhancement - Added extra runways to Sywell (EGBK) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 16. Enhancement - Added Rochester (EGTO) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 17. Enhancement - Added Rochester (EGTO) runway definitions - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+18. Enhancement - Added Tingwall (EGET) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
