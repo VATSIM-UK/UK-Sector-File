@@ -18,8 +18,9 @@
 17. Enhancement - Added Rochester (EGTO) runway definitions - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 18. Enhancement - Added Tingwall (EGET) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 19. Enhancement - Updated Teesside (EGNV) SMR - thanks to @PLM1995 (Peter Mooney)
-20. AIRAC (2204) - Updated Norwich (EGSH) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
-21. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
+20. Enhancement - Added Retford Gamston (EGNE) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+21. AIRAC (2204) - Updated Norwich (EGSH) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
+22. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
