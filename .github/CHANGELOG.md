@@ -8,6 +8,7 @@
 7. Enhancement - Updated the Newcastle (EGNT) SMR to reflect A-SMGCS - thanks to @togaten (Thomas Greer) and @Bucklerz (Reece Buckley)
 8. Enhancement - Added Rochester (EGTO) runway definitions - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 9. Procedure Change - Reverted temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
+10. Enhancement - Added London Heliport (EGLW) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
