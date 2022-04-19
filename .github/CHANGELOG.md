@@ -11,6 +11,7 @@
 10. Enhancement - Added London Heliport (EGLW) SMR - thanks to @PLM1995 (Peter Mooney)
 11. Procedure Change - Changes to TC WELIN -> Sector 28 agreements (event only) - thanks to @hsugden (Harry Sugden)
 12. Enhancement - Added extra runways to Sywell (EGBK) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+13. Enhancement - Added Missing Runways to Alderney (EGJA) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
