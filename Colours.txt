@@ -27,7 +27,6 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
-#define smrDisused 0
 
 ;SMR Colours
 #define smrACapron 10526880
@@ -50,6 +49,7 @@
 #define smrCompassbase 16777215
 #define smrConstruction 150
 #define smrDarkApron 3026478
+#define smrDisused 0
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
 #define smrGDBuilding 9142113
@@ -87,7 +87,6 @@
 #define smrMDrunway 8816262
 #define smrMDwhite 16711422
 #define smrNTapron 5262926
-#define smrNTBackground 8289147
 #define smrNTbuildings 22015
 #define smrNTholdingpoints 13303807
 #define smrNTperitrack 1164543
@@ -134,9 +133,9 @@
 
 ;Background Colours
 #define blackBackground 0
-#define smrNTbackground 8087902
 #define blueBackground 3932160
 #define smrGDbackground 328965
+#define smrNTbackground 8087902
 
 ;Mil SMR
 #define smrMilGrass 4551749
