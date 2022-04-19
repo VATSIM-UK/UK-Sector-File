@@ -22,6 +22,7 @@
 21. Procedure Change - Changes to TC WELIN -> Sector 28 agreements (event only) - thanks to @hsugden (Harry Sugden)
 22. AIRAC (2204) - Updated Norwich (EGSH) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
 23. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
+24. AIRAC (2204) - Updated Sumburgh (EGPB) runway heading - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
