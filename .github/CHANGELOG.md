@@ -25,6 +25,7 @@
 23. AIRAC (2204) - Updated Norwich (EGSH) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
 24. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
 25. AIRAC (2204) - Updated Sumburgh (EGPB) runway heading - thanks to @SwietyMik (Mikolaj Huk)
+26. AIRAC (2204) - Updated Benbecula (EGPL) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
