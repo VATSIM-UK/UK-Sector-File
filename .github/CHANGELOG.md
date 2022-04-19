@@ -1,4 +1,3 @@
-x. Enhancement - Updated Northampton/Sywell (EGBK) Frequencies - thanks to @Hinshee (Will Hinshaw)
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
 2. Error - Corrected Wellesbourne (EGBW) ARP coordinates - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
@@ -31,6 +30,7 @@ x. Enhancement - Updated Northampton/Sywell (EGBK) Frequencies - thanks to @Hins
 29. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
 30. AIRAC (2204) - Updated Sumburgh (EGPB) runway heading - thanks to @SwietyMik (Mikolaj Huk)
 31. AIRAC (2204) - Updated Benbecula (EGPL) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
+32. AIRAC (2204) - Amended Northampton/Sywell (EGBK) Positions (from AFIS to A/G) - thanks to @Hinshee (Will Hinshaw)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
