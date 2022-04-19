@@ -90,6 +90,7 @@
 #define smrNTairfield 8289147
 #define smrNTapron 5262926
 #define smrNTbackground 2430482
+#define smrNTbuildings 22015
 #define smrNTholdingpoints 13303807
 #define smrNTperitrack 1164543
 #define smrNTstandoutline 11464447
