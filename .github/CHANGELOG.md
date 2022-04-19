@@ -1,5 +1,18 @@
 # Changes from release 2022/03 to 2022/04
-1. Enhancement - Added Shobdon (EGBS) SMR - thanks to @danielbutton (Daniel Button)
+1. Enhancement - Added multiple AFIS/Radio position definitions - thanks to @PLM1995 (Peter Mooney)
+2. Enhancement - Updated AFIS/Radio position identifier format to xxIN/xxAG - thanks to @PLM1995 (Peter Mooney)
+3. Enhancement - Added missing holding point label ('FR') to Gatwick (EGKK) SMR - thanks to @SwietyMik (Mikolaj Huk)
+4. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
+5. Enhancement - Corrected Wellesbourne (EGBW) ARP coordinates - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+6. Procedure Change (2204) - Updated EDYY_D_CTR frequency - thanks to @PLM1995 (Peter Mooney)
+7. Enhancement - Updated the Newcastle (EGNT) SMR to reflect A-SMGCS - thanks to @togaten (Thomas Greer) and @Bucklerz (Reece Buckley)
+8. Enhancement - Added Rochester (EGTO) runway definitions - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+9. Procedure Change - Reverted temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
+10. Enhancement - Added London Heliport (EGLW) SMR - thanks to @PLM1995 (Peter Mooney)
+11. Procedure Change - Changes to TC WELIN -> Sector 28 agreements (event only) - thanks to @hsugden (Harry Sugden)
+12. Enhancement - Added extra runways to Sywell (EGBK) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+13. Enhancement - Added Missing Runways to Alderney (EGJA) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+14. Enhancement - Added Shobdon (EGBS) SMR - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
