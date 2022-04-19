@@ -6,6 +6,7 @@
 5. Enhancement - Corrected Wellesbourne (EGBW) ARP coordinates - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 6. Procedure Change (2204) - Updated EDYY_D_CTR frequency - thanks to @PLM1995 (Peter Mooney)
 7. Enhancement - Updated the Newcastle (EGNT) SMR to reflect A-SMGCS - thanks to @togaten (Thomas Greer) and @Bucklerz (Reece Buckley)
+8. Enhancement - Added Rochester (EGTO) runway definitions - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
