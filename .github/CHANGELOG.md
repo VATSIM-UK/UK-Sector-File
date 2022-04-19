@@ -2,6 +2,7 @@
 1. Enhancement - Added multiple AFIS/Radio position definitions - thanks to @PLM1995 (Peter Mooney)
 2. Enhancement - Updated AFIS/Radio position identifier format to xxIN/xxAG - thanks to @PLM1995 (Peter Mooney)
 3. Enhancement - Added missing holding point label ('FR') to Gatwick (EGKK) SMR - thanks to @SwietyMik (Mikolaj Huk)
+4. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
