@@ -13,6 +13,7 @@
 12. Enhancement - Added extra runways to Sywell (EGBK) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 13. Enhancement - Added Missing Runways to Alderney (EGJA) - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 14. Enhancement - Added Shobdon (EGBS) SMR - thanks to @danielbutton (Daniel Button)
+15. Enhancement - Added Shobdon (EGBS) Data - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
