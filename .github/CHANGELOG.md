@@ -31,6 +31,7 @@
 30. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
 31. AIRAC (2204) - Updated Sumburgh (EGPB) runway heading - thanks to @SwietyMik (Mikolaj Huk)
 32. AIRAC (2204) - Updated Benbecula (EGPL) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
+33. AIRAC (2204) - Amended Northampton/Sywell (EGBK) Positions (from AFIS to A/G) - thanks to @Hinshee (Will Hinshaw)
 
 # Changes from release 2022/02 to 2022/03
 1. Error - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
