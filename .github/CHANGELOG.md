@@ -23,6 +23,7 @@
 22. Enhancement - Redrawn Blackbushe (EGLK) SMR - thanks to @danielbutton (Daniel Button)
 23. Enhancement - Added Westland (EGHG) SMR to replace old wireframe version - thanks to @danielbutton (Daniel Button)
 24. Enhancement - Added PC Northeast & Southeast static boundaries - thanks to @hsugden (Harry Sugden)
+25. Enhancement - Added TC Midlands (event only) static boundary - thanks to @hsugden (Harry Sugden)
 25. Procedure Change (2204) - Updated EDYY_D_CTR frequency - thanks to @PLM1995 (Peter Mooney)
 26. Procedure Change - Reverted temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
 27. Procedure Change - Changes to TC WELIN -> Sector 28 agreements (event only) - thanks to @hsugden (Harry Sugden)
