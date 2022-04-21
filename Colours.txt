@@ -89,6 +89,8 @@
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
 #define smrOrange 43775
+#define smrPHHold 16777045
+#define smrPHApron 9868950
 #define smrPGDisused 11911865
 #define smrPGBuildings 1973790
 #define smrRarea 125
