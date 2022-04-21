@@ -91,6 +91,7 @@
 #define smrOrange 43775
 #define smrPHHold 16777045
 #define smrPHApron 9868950
+#define smrPHGrass 7237230
 #define smrPGDisused 11911865
 #define smrPGBuildings 1973790
 #define smrRarea 125
