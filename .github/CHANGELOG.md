@@ -1,3 +1,4 @@
+X. Updated EGNX STARs thanks to @khardern
 X. Updated EGBB STARs thanks to @khardern
 X. Updated EGGD/EGFF STARs thanks to @khardern
 # Changes from release 2022/03 to 2022/04
