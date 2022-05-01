@@ -1,3 +1,4 @@
+X. Updated EGBB STARs thanks to @khardern
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
 2. Error - Fixed Thames RMA sector definition - thanks to @kye-taylor (Kye Taylor)
