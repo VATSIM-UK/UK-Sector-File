@@ -73,10 +73,11 @@
 "17" N055.56.56.040 W003.21.37.090 standHold
 "18" N055.56.55.260 W003.21.36.100 standHold
 "19" N055.56.54.500 W003.21.34.280 standHold
-;"20" N055.56.54.270 W003.21.31.620 standHold ;Not shown for clarity
-"21" N055.56.54.840 W003.21.31.607 standHold
+;"20" N055.56.54.270 W003.21.31.620 standHold 
+;"21" N055.56.54.840 W003.21.31.607 standHold ;Not shown for clarity
 "22" N055.56.54.999 W003.21.28.641 standHold
-"23" N055.56.53.617 W003.21.27.923 standHold
+;"23" N055.56.53.617 W003.21.27.923 standHold ;Not shown for clarity
+"24" N055.56.53.309 W003.21.26.732 standHold
 "25" N055.56.53.034 W003.21.24.755 standHold
 "26" N055.56.52.792 W003.21.21.922 standHold
 "27" N055.56.52.030 W003.21.20.011 standHold
