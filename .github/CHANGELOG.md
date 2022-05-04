@@ -1,9 +1,5 @@
 # Changes from release 2022/04 to 2022/05
-1. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
-2. Procedure Change (2205) - Amended Midlands Buffer Zone (previously Birmingham Buffer) width - thanks to @hsugden (Harry Sugden)
-3. AIRAC (2205) - Heathrow (EGLL) stands renumbered - thanks to @ArvidHansson (Arvid Hansson)
-4. AIRAC (2205) - Updated Norwich (EGSH) runway heading - thanks to @SwietyMik (Mikolaj Huk)
-5. AIRAC (2205) - Updated Moray CTA 16 base - thanks to @SwietyMik (Mikolaj Huk)
+X. Enhancement - Removed Heathrow (EGLL) Taxiway A south side WIP - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
