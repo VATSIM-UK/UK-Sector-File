@@ -1,5 +1,5 @@
 # Changes from release 2022/04 to 2022/05
-X. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
+1. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
