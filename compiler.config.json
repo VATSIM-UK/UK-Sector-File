@@ -302,7 +302,6 @@
                     "exclude": [
                         "12_AA.txt",
                         "6_RR-V.txt",
-                        "RR-V_6.txt"
                     ]
                 },
                 {
@@ -310,7 +309,6 @@
                     "files": [
                         "Agreements/External/12_AA.txt",
                         "Agreements/External/6_RR-V.txt",
-                        "Agreements/External/RR-V_6.txt"
                     ]
                 }
             ],
