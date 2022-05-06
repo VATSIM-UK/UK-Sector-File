@@ -5,6 +5,8 @@
 4. AIRAC (2205) - Updated Norwich (EGSH) runway heading - thanks to @SwietyMik (Mikolaj Huk)
 5. AIRAC (2205) - Updated Moray CTA 16 base - thanks to @SwietyMik (Mikolaj Huk)
 
+X. Error - Correct SID drawing and tracking for SANBA SIDs from EGCC - thanks to @jackedwards815 (Jack Edwards)
+
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
 2. Error - Fixed Thames RMA sector definition - thanks to @kye-taylor (Kye Taylor)
