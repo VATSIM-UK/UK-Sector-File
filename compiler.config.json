@@ -301,14 +301,14 @@
                     "recursive": true,
                     "exclude": [
                         "12_AA.txt",
-                        "6_RR-V.txt",
+                        "6_RR-V.txt"
                     ]
                 },
                 {
                     "type": "files",
                     "files": [
                         "Agreements/External/12_AA.txt",
-                        "Agreements/External/6_RR-V.txt",
+                        "Agreements/External/6_RR-V.txt"
                     ]
                 }
             ],
