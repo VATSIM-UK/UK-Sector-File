@@ -412,12 +412,19 @@
                     "folder": "Airways/RNAV/Upper"
                 }
             ],
-            "sid_airspace": {
+            "sid_airspace": [
+                {
+                    "type": "folder",
+                    "folder": "Sectors/Static",
+                    "recursive": true
+                },
+                {
                 "type": "folder",
                 "folder": "Misc",
                 "recursive": true,
                 "pattern": "SID_"
-            },
+                },
+            ],
             "star_airspace": [
                 {
                     "type": "folder",
