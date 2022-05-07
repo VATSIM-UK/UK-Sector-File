@@ -1,4 +1,3 @@
-# Changes from release 2022/04 to 2022/05
 X. Enhancement - Removed Heathrow (EGLL) Taxiway A south side WIP - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/03 to 2022/04
