@@ -11,6 +11,7 @@
 10. Enhancement - Added Oban (EGEO) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 11. Enhancement - Updated Wellesbourne (EGBW) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 12. Procedure Change (2205) - Changes to external COPX for GD/FF outbounds from LAC West (S6/S36) to LFRR (V) - thanks to @hsugden (Harry Sugden)
+13. Procedure Change (2205) - Changes to external COPX for traffic via SITET - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
