@@ -17,6 +17,7 @@
 16. AIRAC (2205) - New Bristol (EGGD) & Cardiff (EGFF) RNAV STARs - thanks to @khardern (Kieran Hardern)
 17. AIRAC (2205) - Various fixes (5LNCs) removed, updated or added, and UL975 route amended - thanks to @khardern (Kieran Hardern)
 18. AIRAC (2205) - New Manchester (EGCC) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
+19. AIRAC (2205) - New Liverpool (EGGP) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
