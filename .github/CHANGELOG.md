@@ -1,5 +1,22 @@
 # Changes from release 2022/04 to 2022/05
-x. AIRAC (2205) - New Manachester (EGCC) STARS - thanks to @Robbo599 (Lee Roberts)
+1. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
+2. Procedure Change (2205) - Amended Midlands Buffer Zone (previously Birmingham Buffer) width - thanks to @hsugden (Harry Sugden)
+3. AIRAC (2205) - Heathrow (EGLL) stands renumbered - thanks to @ArvidHansson (Arvid Hansson)
+4. AIRAC (2205) - Updated Norwich (EGSH) runway heading - thanks to @SwietyMik (Mikolaj Huk)
+5. AIRAC (2205) - Updated Moray CTA 16 base - thanks to @SwietyMik (Mikolaj Huk)
+6. Enhancement - Removed Heathrow (EGLL) Taxiway A south side WIP - thanks to @hsugden (Harry Sugden)
+7. Ehancement - Updated Edinburgh (EGPH) SMR - thanks to @SamLefevre (Samuel Lefevre)
+8. Error - Correct SID drawing and tracking for SANBA SIDs from EGCC - thanks to @jackedwards815 (Jack Edwards)
+9. Error - Removed Northampton/Sywell (EGBK) RNP approach fixes - thanks to @hsugden (Harry Sugden)
+10. Enhancement - Added Oban (EGEO) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+11. Enhancement - Updated Wellesbourne (EGBW) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+12. Procedure Change (2205) - Changes to external COPX for GD/FF outbounds from LAC West (S6/S36) to LFRR (V) - thanks to @hsugden (Harry Sugden)
+13. Procedure Change (2205) - Changes to external COPX for traffic via SITET - thanks to @hsugden (Harry Sugden)
+14. AIRAC (2205) - New East Midlands (EGNX) RNAV STARs - thanks to @khardern (Kieran Hardern)
+15. AIRAC (2205) - New Birmingham (EGBB) RNAV STARs - thanks to @khardern (Kieran Hardern)
+16. AIRAC (2205) - New Bristol (EGGD) & Cardiff (EGFF) RNAV STARs - thanks to @khardern (Kieran Hardern)
+17. AIRAC (2205) - Various fixes (5LNCs) removed, updated or added, and UL975 route amended - thanks to @khardern (Kieran Hardern)
+18. AIRAC (2205) - New Manchester (EGCC) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
