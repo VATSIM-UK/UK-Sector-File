@@ -13,9 +13,10 @@
 12. Procedure Change (2205) - Changes to external COPX for GD/FF outbounds from LAC West (S6/S36) to LFRR (V) - thanks to @hsugden (Harry Sugden)
 13. Procedure Change (2205) - Changes to external COPX for traffic via SITET - thanks to @hsugden (Harry Sugden)
 14. AIRAC (2205) - New East Midlands (EGNX) RNAV STARs - thanks to @khardern (Kieran Hardern)
-15. AIRAC (2205) - New East Midlands (EGBB) RNAV STARs - thanks to @khardern (Kieran Hardern)
+15. AIRAC (2205) - New Birmingham (EGBB) RNAV STARs - thanks to @khardern (Kieran Hardern)
 16. AIRAC (2205) - New Bristol (EGGD) & Cardiff (EGFF) RNAV STARs - thanks to @khardern (Kieran Hardern)
 17. AIRAC (2205) - Various fixes (5LNCs) removed, updated or added, and UL975 route amended - thanks to @khardern (Kieran Hardern)
+18. AIRAC (2205) - New Manchester (EGCC) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
