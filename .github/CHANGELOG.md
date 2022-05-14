@@ -19,6 +19,7 @@
 18. AIRAC (2205) - New Manchester (EGCC) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 19. AIRAC (2205) - New Liverpool (EGGP) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 20. AIRAC (2205) - Gloucestershire (EGBJ) Runway 18-36 Closed - thanks to @danielbutton (Daniel Button)
+21. Enhancement - Gloucestershire (EGBJ) SMR Updated - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
