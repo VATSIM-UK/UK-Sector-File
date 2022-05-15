@@ -1,3 +1,5 @@
+x. Error - Fixed erroneous point on A-Ireland Region - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2022/04 to 2022/05
 1. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
 2. Procedure Change (2205) - Amended Midlands Buffer Zone (previously Birmingham Buffer) width - thanks to @hsugden (Harry Sugden)
