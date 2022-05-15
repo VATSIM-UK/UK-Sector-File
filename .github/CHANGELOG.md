@@ -1,5 +1,4 @@
 # Changes from release 2022/04 to 2022/05
-X. Procedure Change (2205) - Amended S36 (AC West)/S20 (AC Worthing) sectorisation near OTMET - thanks to @hsugden (Harry Sugden)
 1. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
 2. Procedure Change (2205) - Amended Midlands Buffer Zone (previously Birmingham Buffer) width - thanks to @hsugden (Harry Sugden)
 3. AIRAC (2205) - Heathrow (EGLL) stands renumbered - thanks to @ArvidHansson (Arvid Hansson)
@@ -20,6 +19,7 @@ X. Procedure Change (2205) - Amended S36 (AC West)/S20 (AC Worthing) sectorisati
 18. AIRAC (2205) - New Manchester (EGCC) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 19. AIRAC (2205) - New Liverpool (EGGP) RNAV STARs - thanks to @Robbo599 (Lee Roberts)
 20. AIRAC (2205) - Gloucestershire (EGBJ) Runway 18-36 Closed - thanks to @danielbutton (Daniel Button)
+21. Procedure Change (2205) - Amended S36 (AC West)/S20 (AC Worthing) sectorisation near OTMET - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
