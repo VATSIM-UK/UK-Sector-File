@@ -1,10 +1,11 @@
-COPX:*:*:UNTAL:EGCC:*:Montrose:East:*:28000:UNTAL
-COPX:*:*:UNTAL:EGGP:*:Montrose:East:*:28000:UNTAL
-COPX:*:*:UNTAL:EGNR:*:Montrose:East:*:28000:UNTAL
-COPX:*:*:UNTAL:EGNM:*:Montrose:East:*:28000:UNTAL
-COPX:*:*:UNTAL:EGNH:*:Montrose:East:*:28000:UNTAL
-COPX:*:*:UNTAL:EGNO:*:Montrose:East:*:28000:UNTAL
-COPX:*:*:UNTAL:EGCN:*:Montrose:East:*:28000:UNTAL
+COPX:*:*:TILNI:EGCC:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGGP:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGNR:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGNH:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGNO:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGCN:*:Montrose:East:*:25000:TILNI
+
+COPX:*:*:TILNI:EGNM:*:Montrose:East:*:23000:TILNI
 
 COPX:*:*:RAPUM:EGNX:*:Montrose:East:*:28000:RAPUM
 COPX:*:*:RAPUM:EGBB:*:Montrose:East:*:28000:RAPUM

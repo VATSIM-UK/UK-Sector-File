@@ -20,5 +20,5 @@ COPX:EGNX:*:TILNI:*:*:East:Montrose:28000:*:TILNI
 COPX:EGBB:*:TILNI:*:*:East:Montrose:28000:*:TILNI
 COPX:EGBE:*:TILNI:*:*:East:Montrose:28000:*:TILNI
 
-COPX:EGNM:*:TIPTA:*:*:East:Montrose:26000:*:TIPTA
-COPX:EGCM:*:TIPTA:*:*:East:Montrose:26000:*:TIPTA
+COPX:EGNM:*:UNTAL:*:*:East:Montrose:27000:*:UNTAL
+COPX:EGCM:*:UNTAL:*:*:East:Montrose:27000:*:UNTAL
