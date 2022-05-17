@@ -21,7 +21,8 @@
 20. AIRAC (2205) - Gloucestershire (EGBJ) Runway 18-36 Closed - thanks to @danielbutton (Daniel Button)
 21. Procedure Change (2205) - Amended S36 (AC West)/S20 (AC Worthing) sectorisation near OTMET - thanks to @hsugden (Harry Sugden)
 22. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
-21. Enhancement - Updated Gloucestershire (EGBJ) SMR - thanks to @danielbutton (Daniel Button)
+23. Enhancement - Updated Gloucestershire (EGBJ) SMR - thanks to @danielbutton (Daniel Button)
+24. Procedure Change (2205) - Changes to agreements between ScAC South and PC Northeast - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/03 to 2022/04
 1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)

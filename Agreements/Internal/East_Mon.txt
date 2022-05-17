@@ -1,21 +1,24 @@
-COPX:EGCC:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
-COPX:EGGP:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
-COPX:EGNR:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
-COPX:EGNH:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
-COPX:EGNO:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
-COPX:EGCN:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
+COPX:EGCC:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
+COPX:EGGP:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
+COPX:EGNR:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
+COPX:EGNH:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
+COPX:EGNO:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
+COPX:EGCN:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
 
 COPX:EGNX:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
 COPX:EGBB:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
 COPX:EGBE:*:ARSAT:*:*:East:Montrose:28000:*:ARSAT
 
-COPX:EGCC:*:TILNI:*:*:East:Montrose:28000:*:TILNI
-COPX:EGGP:*:TILNI:*:*:East:Montrose:28000:*:TILNI
-COPX:EGNR:*:TILNI:*:*:East:Montrose:28000:*:TILNI
-COPX:EGNH:*:TILNI:*:*:East:Montrose:28000:*:TILNI
-COPX:EGNO:*:TILNI:*:*:East:Montrose:28000:*:TILNI
-COPX:EGCN:*:TILNI:*:*:East:Montrose:28000:*:TILNI
+COPX:EGCC:*:TILNI:*:*:East:Montrose:27000:*:TILNI
+COPX:EGGP:*:TILNI:*:*:East:Montrose:27000:*:TILNI
+COPX:EGNR:*:TILNI:*:*:East:Montrose:27000:*:TILNI
+COPX:EGNH:*:TILNI:*:*:East:Montrose:27000:*:TILNI
+COPX:EGNO:*:TILNI:*:*:East:Montrose:27000:*:TILNI
+COPX:EGCN:*:TILNI:*:*:East:Montrose:27000:*:TILNI
 
 COPX:EGNX:*:TILNI:*:*:East:Montrose:28000:*:TILNI
 COPX:EGBB:*:TILNI:*:*:East:Montrose:28000:*:TILNI
 COPX:EGBE:*:TILNI:*:*:East:Montrose:28000:*:TILNI
+
+COPX:EGNM:*:UNTAL:*:*:East:Montrose:27000:*:UNTAL
+COPX:EGCM:*:UNTAL:*:*:East:Montrose:27000:*:UNTAL
