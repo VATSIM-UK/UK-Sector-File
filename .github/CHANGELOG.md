@@ -1,5 +1,6 @@
 # Changes from release 2022/05 to 2022/06
-1. Enhancement - Removed unncessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+x. Enhancement - Removed unnecessary fixes for EGCC SIDs - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
