@@ -1,3 +1,5 @@
+x. AIRAC (2206) - Updated Biggin Hill (EGKB) SMR - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unncessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
 
