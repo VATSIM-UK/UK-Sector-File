@@ -108,6 +108,7 @@
 #define smrPHApron 9868950
 #define smrPHGrass 7237230
 #define smrPHHold 16777045
+#define smrPink 11052799
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
