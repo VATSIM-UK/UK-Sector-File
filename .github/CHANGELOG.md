@@ -1,7 +1,7 @@
-x. AIRAC (2206) - Updated Goodwood (GWC) VOR co-ordinates - thanks to @PLM1995 (Peter Mooney)
-
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unncessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2206) - Updated Goodwood (GWC) VOR co-ordinates - thanks to @PLM1995 (Peter Mooney)
+3. AIRAC (2206) - Updated Campbeltown (CBL) NDB co-ordinates - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
