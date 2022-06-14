@@ -1,5 +1,15 @@
 # Changes from release 2022/05 to 2022/06
-X. AIRAC (2206) - Goodwood (EGHR) Runway 32 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
+1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2206) - Updated Goodwood (GWC) VOR co-ordinates - thanks to @PLM1995 (Peter Mooney)
+3. AIRAC (2206) - Updated Campbeltown (CBL) NDB co-ordinates - thanks to @PLM1995 (Peter Mooney)
+4. AIRAC (2206) - Updated Lee-on-Solent (EGHF) SMR - thanks to @PLM1995 (Peter Mooney)
+5. Enhancement - Removed unnecessary fixes for EGCC SIDs - thanks to @SwietyMik (Mikolaj Huk)
+6. AIRAC (2206) - Updated Biggin Hill (EGKB) SMR - thanks to @PLM1995 (Peter Mooney)
+7. Enhancement - Updated COPX for MTMA inbounds from Daventry -> PC Southeast - thanks to @hsugden (Harry Sugden)
+8. AIRAC (multiple) - Updated East Midlands (EGNX) SMR - thanks to @PLM1995 (Peter Mooney)
+9. Bug - Corrected St Athan (EGSY) Ownership - thanks to @danielbutton (Daniel Button)
+10. Bug - Fixed ABDAL waypoint co-ordinates being incorrectly referenced as East instead of West - thanks to @JoshRiley (Josh Riley)
+11. AIRAC (2206) - Goodwood (EGHR) Runway 32 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
