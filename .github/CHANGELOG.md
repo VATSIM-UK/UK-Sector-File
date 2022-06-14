@@ -1,5 +1,5 @@
 # Changes from release 2022/05 to 2022/06
-X. AIRAC (2205) - Goodwood (EGHR) Runway 34 threshold coordinates updates - thanks to @cbyworth (Chad Byworth)
+X. AIRAC (2205) - Goodwood (EGHR) Runway 32 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
