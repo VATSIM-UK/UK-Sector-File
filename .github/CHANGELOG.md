@@ -7,6 +7,7 @@
 6. AIRAC (2206) - Updated Biggin Hill (EGKB) SMR - thanks to @PLM1995 (Peter Mooney)
 7. Enhancement - Updated COPX for MTMA inbounds from Daventry -> PC Southeast - thanks to @hsugden (Harry Sugden)
 8. AIRAC (multiple) - Updated East Midlands (EGNX) SMR - thanks to @PLM1995 (Peter Mooney)
+9. Bug - Corrected St Athan (EGSY) Ownership - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
