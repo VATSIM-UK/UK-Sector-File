@@ -8,6 +8,7 @@
 7. Enhancement - Updated COPX for MTMA inbounds from Daventry -> PC Southeast - thanks to @hsugden (Harry Sugden)
 8. AIRAC (multiple) - Updated East Midlands (EGNX) SMR - thanks to @PLM1995 (Peter Mooney)
 9. Bug - Corrected St Athan (EGSY) Ownership - thanks to @danielbutton (Daniel Button)
+10. Bug - Fixed ABDAL waypoint co-ordinates being incorrectly referenced as East instead of West - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
