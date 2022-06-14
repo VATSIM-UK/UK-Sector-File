@@ -10,6 +10,7 @@
 9. Bug - Corrected St Athan (EGSY) Ownership - thanks to @danielbutton (Daniel Button)
 10. Bug - Fixed ABDAL waypoint co-ordinates being incorrectly referenced as East instead of West - thanks to @JoshRiley (Josh Riley)
 11. AIRAC (2206) - Goodwood (EGHR) Runway 32 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
+12. AIRAC (2206) - Dundee (EGPN) Runway 09 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
