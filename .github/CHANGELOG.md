@@ -1,5 +1,5 @@
 # Changes from release 2022/05 to 2022/06
-1. Enhancement - Removed unncessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+X. AIRAC (2206) - Dundee (EGPN) Runway 09 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
