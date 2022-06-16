@@ -133,7 +133,7 @@
 #define smrTETaxiway 7106162
 #define smrTFGrass 4487739
 #define smrTFTaxiway 3498623
-#define smrTugPoint 16777045
+#define smrTugPoint 16755690
 #define smrWhite 13494510
 #define smrYellow 65535
 
