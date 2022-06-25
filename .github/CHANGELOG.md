@@ -1,3 +1,5 @@
+X. Error - Fixed D087E Position - thanks to @SwietyMik (Mikolaj Huk)
+
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2206) - Updated Goodwood (GWC) VOR co-ordinates - thanks to @PLM1995 (Peter Mooney)
