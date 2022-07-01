@@ -179,18 +179,6 @@ N052.03.59.371 W000.37.38.650
 N052.03.56.500 W000.37.31.943
 N052.03.54.147 W000.37.27.139
 
-
-
-
-
-REGIONNAME Cranfield
-smrTETaxiway
-
-
-
-
-
-
 ;Disused_East-Side
 REGIONNAME Cranfield
 smrTETaxiway N052.03.54.307 W000.37.23.852
