@@ -1,5 +1,9 @@
 # Changes from release 2022/06 to 2022/07
-1. Bug - Fixed Alderney (EGJA) Runway Coordinates - thanks to @danielbutton (Daniel Button)
+1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
+2. Error - Fixed D087E Position - thanks to @SwietyMik (Mikolaj Huk)
+3. AIRAC (2207) - Updated Cranfield (EGTC) SMR - thanks to @PLM1995 (Peter Mooney)
+4. Enhancement - Updated Belfast Aldergrove (EGAA) SMR to better differentiate Tug and Hold Points - thanks to @PLM1995 (Peter Mooney)
+5. Bug - Fixed Alderney (EGJA) Runway Coordinates - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
