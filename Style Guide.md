@@ -82,7 +82,7 @@ They should be a brief description of either the issue that requires solving, or
 ## Pull request titles <a name="prs"></a>
 
 Where pull requests relate to an issue (as 99% of PRs will), then they should begin with `Fixes #{issue number}`:
-<br><br>✅`Fixes #1234 - Update Gatwick (EGKK) SMR`
+<br>✅`Fixes #1234 - Update Gatwick (EGKK) SMR`
 <br>❌`Update Gatwick (EGKK) SMR`
 
 Where they do  not, this will of course be omitted.
