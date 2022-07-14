@@ -42,6 +42,11 @@
 "H" N051.53.44.290 W002.10.03.455 standHold
 "H" N051.53.44.851 W002.09.55.008 standHold
 "H" N051.53.45.112 W002.09.51.067 standHold
+"H" N051.53.23.521 W002.09.40.925 standHold
+
+;Heli Holds
+"H-X" N051.53.37.182 W002.09.39.032 standHold
+"H-Y" N051.53.42.668 W002.09.44.110 standHold
 
 ;Disused Xs
 "X" N051.53.48.550 W002.09.33.461 standHold
