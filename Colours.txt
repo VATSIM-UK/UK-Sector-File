@@ -108,6 +108,7 @@
 #define smrPHApron 9868950
 #define smrPHGrass 7237230
 #define smrPHHold 16777045
+#define smrPink 11052799
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
@@ -132,6 +133,7 @@
 #define smrTETaxiway 7106162
 #define smrTFGrass 4487739
 #define smrTFTaxiway 3498623
+#define smrTugPoint 16755690
 #define smrWhite 13494510
 #define smrYellow 65535
 
