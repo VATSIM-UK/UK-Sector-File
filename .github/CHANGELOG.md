@@ -12,7 +12,10 @@
 11. Enhancement - Added Gatwick (EGKK) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
 12. Error - Corrected Prestwick (EGPK) RWY 30 threshold coords - thanks to @GeekPro101 (Thomas Mills)
 13. Enhancement - Added Luton (EGGW) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
-14. AIRAC (2207) - Remove Belfast Aldergrove (OY) NDB - thanks to @GeekPro101 (Thomas Mills)
+14. Enhancement - Added Glasgow (EGPF) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+15. AIRAC (2207) - Updated Inverness (EGPE) RWYs 05/23 and 11/29 coords - thanks to @GeekPro101 (Thomas Mills)
+16. Enhancement - Added Liverpool (EGGP) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+17. AIRAC (2207) - Remove Belfast Aldergrove (OY) NDB - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
