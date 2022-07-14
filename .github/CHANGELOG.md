@@ -9,6 +9,7 @@
 8. Enhancement - Added Luton (EGGW) Tug Release Points - thanks to @PLM1995 (Peter Mooney)
 9. Enhancement - Added Stansted (EGSS) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
 10. Error - Corrected Guernsey (EGJB) runway threshold coords - thanks to @GeekPro101 (Thomas Mills)
+11. Enhancement - Added Gatwick (EGKK) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
 
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
