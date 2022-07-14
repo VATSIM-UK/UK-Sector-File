@@ -1,7 +1,19 @@
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
 2. Error - Fixed D087E Position - thanks to @SwietyMik (Mikolaj Huk)
-3. AIRAC (2207) - Updated Inverness (EGPE) runway 05/23 and 11/29 coords - thanks to @GeekPro101 (Thomas Mills)
+3. AIRAC (2207) - Updated Cranfield (EGTC) SMR - thanks to @PLM1995 (Peter Mooney)
+4. Enhancement - Updated Belfast Aldergrove (EGAA) SMR to better differentiate Tug and Hold Points - thanks to @PLM1995 (Peter Mooney)
+5. Error - Corrected Alderney (EGJA) runway coords - thanks to @danielbutton (Daniel Button)
+6. Enhancement - Added missing heli points and holds to Gloucestershire (EGBJ) SMR - thanks to @danielbutton (Daniel Button)
+7. Enhancement - Refined Fairford (EGVA) SMR - thanks to @danielbutton (Daniel Button)
+8. Enhancement - Added Luton (EGGW) Tug Release Points - thanks to @PLM1995 (Peter Mooney)
+9. Enhancement - Added Stansted (EGSS) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+10. Error - Corrected Guernsey (EGJB) runway threshold coords - thanks to @GeekPro101 (Thomas Mills)
+11. Enhancement - Added Gatwick (EGKK) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+12. Error - Corrected Prestwick (EGPK) RWY 30 threshold coords - thanks to @GeekPro101 (Thomas Mills)
+13. Enhancement - Added Luton (EGGW) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+14. Enhancement - Added Glasgow (EGPF) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+3. AIRAC (2207) - Updated Inverness (EGPE) RWYs 05/23 and 11/29 coords - thanks to @GeekPro101 (Thomas Mills)
 
 # Changes from release 2022/05 to 2022/06
 1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
