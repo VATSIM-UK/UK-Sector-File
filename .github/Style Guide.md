@@ -71,9 +71,8 @@ Where it makes sense to do so, issue titles should omit the main verb:
 <br>❌ `Add new Fairoaks (EGTF) SMR`
 
 
-They should be a brief description of either the issue that requires solving, or what the changes would (aim to) do. It should be sufficiently precise without being too verbose (the issue main body should be used to elaborate).
-// DO WE WANT TO INCLUDE A BRIEF VERB
-<br>✅ `Gatwick (EGKK) runway headings //UPDATED?`
+They should be a brief description of either the issue that requires solving, or what the changes would (aim to) do. It should be sufficiently precise without being too verbose (the issue main body should be used to elaborate). A verb does not need to be included unless it reads better.
+<br>✅ `Gatwick (EGKK) runway headings`
 <br>✅ `S23 -> S24 agreements non-functioning`
 <br>❌ `Problems with Gatwick (EGKK) runways`
 <br>❌ `S23 -> S24 altitude agreement at KOKSY doesn't work, tried with various...`
