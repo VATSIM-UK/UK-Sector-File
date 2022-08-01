@@ -54,11 +54,10 @@ Writing should be written in [sentence-case](https://apastyle.apa.org/style-gram
 <br>❌ PR: `Fixes #3673 - Correct S24 Ownership`
 
 Writing should also should omit (where it makes sense to do so):
+
 - Generic words such as 'issue' or 'problem' (and replaced with a more helpful description)
 - Articles such as 'the' and 'an'
 - Auxiliary/superfluous verbs ('are', 'is', 'has')
-
-
 
 <br>✅ Issue: `Manchester (EGCC) A1 hold wrong location`
 <br>❌ Issue: `Manchester (EGCC) has an issue with the A1 hold`
