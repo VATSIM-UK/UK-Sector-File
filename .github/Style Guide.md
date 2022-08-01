@@ -191,6 +191,7 @@ Should be written as `Ground/Air Network(s)`. An airport has one `Ground/Air Net
 Waypoints do not require the word 'waypoint', and should be all caps.
 <br>✅`TILNI`
 <br>❌`waypoint tilni`
+
 NDBs/VORs should include their navaid type, and have both their code and their spoken name in the format `Name (CODE) TYPE`. The type and code should be capitalised:
 <br>✅`Compton (CPT) VOR`
 <br>✅`Carlisle (CL) NDB`
