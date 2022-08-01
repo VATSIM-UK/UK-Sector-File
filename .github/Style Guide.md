@@ -56,11 +56,11 @@ Writing should be written in [sentence-case](https://apastyle.apa.org/style-gram
 Writing should also should omit (where it makes sense to do so):
 - Generic words such as 'issue' or 'problem' (and replaced with a more helpful description)
 - Articles such as 'the' and 'an'
-- Auxiliary/superfluous verbs ('are', 'is', 'has') 
+- Auxiliary/superfluous verbs ('are', 'is', 'has')
 
-where it makes sense to do so.
 
-<br>✅ Issue: `Manchester (EGCC) hold A1 wrong location`
+
+<br>✅ Issue: `Manchester (EGCC) A1 hold wrong location`
 <br>❌ Issue: `Manchester (EGCC) has an issue with the A1 hold`
 <br>✅ PR: `Fixes #2134 - Correct Manchester (EGCC) A1 hold location`
 <br>❌ PR: `Fixes #2134 - Correct the A1 hold location at Manchester (EGCC)`
@@ -88,6 +88,7 @@ Where pull requests relate to an issue (as 99% of PRs will), then they should be
 Where they do  not, this will of course be omitted.
 
 Pull request titles take inspiration from commit message formatting - see [here](https://cbea.ms/git-commit/) for some guidance. The main rules are as follows:
+
 - It should begin with an imperative (a command)
 <br>✅`Fixes #4832 - Update BANBA coords`
 <br>❌`Fixes #4832 - BANBA coords updated`
