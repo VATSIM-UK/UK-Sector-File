@@ -161,11 +161,16 @@ Reviewers should not ask to be added to the changelog simply for either adding c
 ## SF/aviation specific terms <a name="terms"></a>
 **Abbreviations**:
 The following are abbreviations and should always be written as such in capitals. Their full definitions are given here for completeness but should not be written in full. If plural, a lowercase `s` is added.
+
+- `AC` (Area Control)
 - `ICAO` (International Civil Aviation Organization, but used usually to mean an ICAO code relating to an airport)
 - `NDB` (Non-Directional Beacon)
+- `ScAC` (Scottish Area Control)
 - `SID` (Standard Instrument Departure)
 - `SMR` (Surface Movement Radar, but refers to the map upon which it is drawn)
 - `STAR` (Standard Terminal Arrival Route)
+- `STC` (Scottish Terminal Control)
+- `TC` (Terminal Control)
 - `VOR` (VHF Omnidirectional Beacon)
 
 **Agreements**:
