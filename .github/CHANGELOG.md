@@ -1,3 +1,6 @@
+# Changes from release 2022/07 to 2022/08
+1. AIRAC (2208) - Birmingham (EGBB) SIDs removed - thanks to @Batesey1 (Harvey Bates)
+
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
 2. Error - Fixed D087E Position - thanks to @SwietyMik (Mikolaj Huk)
