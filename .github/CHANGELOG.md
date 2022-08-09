@@ -1,4 +1,5 @@
-x. AIRAC (2208) - Removed Birmingham (EGBB) SIDs DTY4F, TNT1K & TNT4G - thanks to @Batesey1 (Harvey Bates)
+# Changes from release 2022/07 to 2022/08
+1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
