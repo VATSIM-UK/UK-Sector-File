@@ -3,6 +3,7 @@
 2. AIRAC (2208) - Re-categorised fix QUSHI - thanks to @PLM1995 (Peter Mooney)
 3. AIRAC (2208) - Updated Wick (EGPC) RWY 13/31 magnetic heading - thanks to @PLM1995 (Peter Mooney)
 4. AIRAC (2208) - Updated Inverness (EGPE) RWY 11/29 magnetic heading - thanks to @PLM1995 (Peter Mooney)
+5. AIRAC (2208) - Updated Inverness (EGPE) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
