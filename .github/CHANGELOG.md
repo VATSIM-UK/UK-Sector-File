@@ -1,6 +1,7 @@
-# Changes from release 2022/07 to 2022/08
+# Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
 2. AIRAC (2208) - Re-categorised fix QUSHI - thanks to @PLM1995 (Peter Mooney)
+3. AIRAC (2208) - Updated Wick (EGPC) RWY 13/31 magnetic heading - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
