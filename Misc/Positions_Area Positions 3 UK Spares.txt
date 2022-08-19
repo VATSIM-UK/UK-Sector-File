@@ -24,7 +24,6 @@ London Control TC GODLU:London Control:135.325:TCSG:L:LTC:CTR:-:-:0301:0377::
 London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-:0301:0377::
 
 ;Scottish
-Scottish Control Hebrides Low:Scottish Control:128.675:SHL:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose North:Scottish Control:132.475:SMN:E:SCO:CTR:-:-:3601:3632::
