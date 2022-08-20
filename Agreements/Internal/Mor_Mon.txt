@@ -1,6 +1,6 @@
-COPX:*:*:ADN:EGPH:*:Moray:Montrose:*:26000:ADN
-COPX:*:*:ADN:EGPF:*:Moray:Montrose:*:26000:ADN
-COPX:*:*:ADN:EGPK:*:Moray:Montrose:*:26000:ADN
-COPX:*:*:ADN:EGPN:*:Moray:Montrose:*:26000:ADN
-COPX:*:*:ADN:EGPG:*:Moray:Montrose:*:26000:ADN
-COPX:*:*:ADN:EGQL:*:Moray:Montrose:*:26000:ADN
+COPX:*:*:ADN:EGPH:*:Moray High:Tay:*:26000:ADN
+COPX:*:*:ADN:EGPF:*:Moray High:Tay:*:26000:ADN
+COPX:*:*:ADN:EGPK:*:Moray High:Tay:*:26000:ADN
+COPX:*:*:ADN:EGPN:*:Moray High:Tay:*:26000:ADN
+COPX:*:*:ADN:EGPG:*:Moray High:Tay:*:26000:ADN
+COPX:*:*:ADN:EGQL:*:Moray High:Tay:*:26000:ADN
