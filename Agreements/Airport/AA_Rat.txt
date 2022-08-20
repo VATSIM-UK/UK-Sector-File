@@ -1,11 +1,11 @@
-COPX:EGAA:*:*:STN:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
-COPX:EGAC:*:*:STN:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
+COPX:EGAA:*:*:STN:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
+COPX:EGAC:*:*:STN:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
 
-COPX:EGAA:*:MAC:*:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
-COPX:EGAC:*:MAC:*:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
+COPX:EGAA:*:MAC:*:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
+COPX:EGAC:*:MAC:*:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
 
-COPX:EGAA:*:DEGOS:*:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
-COPX:EGAC:*:DEGOS:*:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
+COPX:EGAA:*:DEGOS:*:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
+COPX:EGAC:*:DEGOS:*:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
 
-COPX:EGAA:*:*:MIMKU:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
-COPX:EGAC:*:*:MIMKU:*:AAAPP:West Coast (Rathlin):*:9000:^BEL
+COPX:EGAA:*:*:MIMKU:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
+COPX:EGAC:*:*:MIMKU:*:AAAPP:West Coast (Rathlin West):*:9000:^BEL
