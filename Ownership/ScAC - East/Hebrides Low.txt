@@ -1,10 +1,10 @@
 SECTOR:Hebrides Low:0:0
-OWNER:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SN:SE:S
+OWNER:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SHC:SN:SE:S
 
 SECTOR:Hebrides Low (DB-255):0:25500
-OWNER:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SN:SE:S
+OWNER:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SHC:SN:SE:S
 BORDER:Heb_EGGX:Heb_BIRD Del Inner:Heb_BIRD:Heb_Mor 01:Heb_Low_Mor_Low:Heb_Low_WCoastHeb:Heb_Low_WCoastCen

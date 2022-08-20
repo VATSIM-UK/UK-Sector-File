@@ -1,23 +1,23 @@
 SECTOR:West Coast (Hebrides):0:0
-OWNER:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SN:SE:S
+OWNER:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SHC:SN:SE:S
 
 SECTOR:West Coast (Hebrides) (DB-255):0:25500
-OWNER:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SN:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SN:SE:S
+OWNER:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SHC:SN:SE:S
 BORDER:Heb_Mor 02:Mon_Heb:Cen_Heb 2:Heb_Low_WCoastHeb
 
 SECTOR:West Coast (Central):0:0
-OWNER:SL:SC:SW:SWD:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SC:SW:SWD:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SC:SW:SWD:S
+OWNER:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SC:SHC:SW:SWD:S
 
 SECTOR:West Coast (Central) (DB-255):0:25500
-OWNER:SL:SC:SW:SWD:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SC:SW:SWD:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SC:SW:SWD:S
+OWNER:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SC:SHC:SW:SWD:S
 BORDER:Cen_EGGX:Cen_EISN:Cen_RatW:WCoast-Cen_WCoast-RatW:WCoast-Cen_Gal:WCoast-Mon_WCoast-Cen:Cen_Mon:Cen_Heb 2:Cen_Heb 1
 
 SECTOR:West Coast (Rathlin):0:0
