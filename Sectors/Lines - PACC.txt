@@ -322,8 +322,8 @@ COORD:N055.56.07.000:W005.22.48.000
 SECTORLINE:Cen_Heb 1
 DISPLAY:Central:Central:Hebrides High
 DISPLAY:Hebrides High:Hebrides High:Central
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Hebrides)
-DISPLAY:West Coast (Hebrides):West Coast (Hebrides):West Coast (Central)
+DISPLAY:West Coast (Central):West Coast (Central):West Coast (Hebrides Low)
+DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):West Coast (Central)
 COORD:N059.20.00.000:W010.00.00.000
 COORD:N059.20.00.000:W010.00.00.000
 COORD:N058.53.14.000:W008.15.58.000
@@ -331,8 +331,8 @@ COORD:N058.53.14.000:W008.15.58.000
 SECTORLINE:Cen_Heb 2
 DISPLAY:Central:Central:Hebrides High
 DISPLAY:Hebrides High:Hebrides High:Central
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Hebrides)
-DISPLAY:West Coast (Hebrides):West Coast (Hebrides):West Coast (Central)
+DISPLAY:West Coast (Central):West Coast (Central):West Coast (Hebrides Low)
+DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):West Coast (Central)
 COORD:N058.53.14.000:W008.15.58.000
 COORD:N058.47.06.000:W008.03.18.000
 COORD:N058.01.37.000:W006.29.19.000
@@ -566,8 +566,8 @@ COORD:N054.01.47.000:W001.35.15.000
 SECTORLINE:Mon_Heb
 DISPLAY:Montrose:Montrose:Hebrides High
 DISPLAY:Hebrides High:Hebrides High:Montrose
-DISPLAY:West Coast (Tay):West Coast (Tay):West Coast (Hebrides)
-DISPLAY:West Coast (Hebrides):West Coast (Hebrides):West Coast (Tay)
+DISPLAY:West Coast (Tay):West Coast (Tay):West Coast (Hebrides Low)
+DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):West Coast (Tay)
 COORD:N057.23.37.177:W004.14.06.008
 COORD:N057.14.40.000:W004.28.16.000
 COORD:N057.15.04.000:W005.36.33.000
