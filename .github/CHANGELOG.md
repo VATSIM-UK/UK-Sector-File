@@ -9,6 +9,7 @@ x. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
 6. AIRAC (2208) - Removed Barrow (EGNL) heli stand - thanks to @PLM1995 (Peter Mooney)
 7. AIRAC (2208) - Updated Bournemouth (EGHH) SMR - thanks to @PLM1995 (Peter Mooney)
 8. AIRAC (2209) - Added SAXBI and SOQQA and moved RODNI and SODVU into FIXES_UK - thanks to @SwietyMik (Mikolaj Huk)
+x. AIRAC (2209) - Renamed Barrow (EGNL) to Walney - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
