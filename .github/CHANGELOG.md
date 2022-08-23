@@ -1,3 +1,4 @@
+x. AIRAC (2209) - Extended M87 to reflect new added waypoints - thanks to @SwietyMik (Mikolaj Huk)
 x. AIRAC (2209) - Added new waypoints for London City (EGLC) SIDs - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/07 to 2022/09
