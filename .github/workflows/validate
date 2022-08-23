@@ -1,4 +1,4 @@
-name: Compile and Validate
+name: Validate
 
 on:
   pull_request:
