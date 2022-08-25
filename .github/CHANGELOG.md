@@ -11,6 +11,7 @@ x. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
 8. AIRAC (2209) - Added SAXBI and SOQQA and moved RODNI and SODVU into FIXES_UK - thanks to @SwietyMik (Mikolaj Huk)
 9. AIRAC (2209) - Updated Penzance (EGHK) ARP - thanks to @danielbutton (Daniel Button)
 10. AIRAC (2209) - Extended M87 through SAXBI and SOQQA - thanks to @SwietyMik (Mikolaj Huk)
+11. AIRAC (2209) - Updated St Athan (EGSY) RWY 07/25 threshold coordinates - thanks to @SwietyMik (Mikolaj Huk)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
