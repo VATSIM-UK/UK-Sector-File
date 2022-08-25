@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    name: "Compile Sectorfile"
+    name: "Validate Sectorfile"
     runs-on: ubuntu-latest
     env:
       COMPILER_VERSION: 1.13.0
