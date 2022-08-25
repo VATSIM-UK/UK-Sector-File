@@ -1,3 +1,5 @@
+x. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
+
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
 2. AIRAC (2208) - Re-categorised fix QUSHI - thanks to @PLM1995 (Peter Mooney)
@@ -6,7 +8,8 @@
 5. AIRAC (2208) - Updated Inverness (EGPE) SMR - thanks to @PLM1995 (Peter Mooney)
 6. AIRAC (2208) - Removed Barrow (EGNL) heli stand - thanks to @PLM1995 (Peter Mooney)
 7. AIRAC (2208) - Updated Bournemouth (EGHH) SMR - thanks to @PLM1995 (Peter Mooney)
-8. AIRAC (2209) - Updated Penzance (EGHK) ARP - thanks to @danielbutton (Daniel Button)
+8. AIRAC (2209) - Added SAXBI and SOQQA and moved RODNI and SODVU into FIXES_UK - thanks to @SwietyMik (Mikolaj Huk)
+9. AIRAC (2209) - Updated Penzance (EGHK) ARP - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
