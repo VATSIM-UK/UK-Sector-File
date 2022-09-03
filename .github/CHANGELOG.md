@@ -1,5 +1,3 @@
-x. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
-
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
 2. AIRAC (2208) - Re-categorised fix QUSHI - thanks to @PLM1995 (Peter Mooney)
@@ -13,6 +11,8 @@ x. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
 10. AIRAC (2209) - Extended M87 through SAXBI and SOQQA - thanks to @SwietyMik (Mikolaj Huk)
 11. AIRAC (2209) - Updated St Athan (EGSY) RWY 07/25 threshold coordinates - thanks to @SwietyMik (Mikolaj Huk)
 12. AIRAC (2209) - Updated various Gamston (EGNE) RWY 02/20 properties - thanks to @SwietyMik (Mikolaj Huk)
+13. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
+14. AIRAC (2208) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
