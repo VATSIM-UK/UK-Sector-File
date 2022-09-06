@@ -1,5 +1,52 @@
+# Changes from release 2022/07 to 2022/09
+1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
+2. AIRAC (2208) - Re-categorised fix QUSHI - thanks to @PLM1995 (Peter Mooney)
+3. AIRAC (2208) - Updated Wick (EGPC) RWY 13/31 magnetic heading - thanks to @PLM1995 (Peter Mooney)
+4. AIRAC (2208) - Updated Inverness (EGPE) RWY 11/29 magnetic heading - thanks to @PLM1995 (Peter Mooney)
+5. AIRAC (2208) - Updated Inverness (EGPE) SMR - thanks to @PLM1995 (Peter Mooney)
+6. AIRAC (2208) - Removed Barrow (EGNL) heli stand - thanks to @PLM1995 (Peter Mooney)
+7. AIRAC (2208) - Updated Bournemouth (EGHH) SMR - thanks to @PLM1995 (Peter Mooney)
+8. AIRAC (2209) - Added SAXBI and SOQQA and moved RODNI and SODVU into FIXES_UK - thanks to @SwietyMik (Mikolaj Huk)
+9. AIRAC (2209) - Updated Penzance (EGHK) ARP - thanks to @danielbutton (Daniel Button)
+10. AIRAC (2209) - Extended M87 through SAXBI and SOQQA - thanks to @SwietyMik (Mikolaj Huk)
+11. AIRAC (2209) - Updated St Athan (EGSY) RWY 07/25 threshold coordinates - thanks to @SwietyMik (Mikolaj Huk)
+12. AIRAC (2209) - Updated various Gamston (EGNE) RWY 02/20 properties - thanks to @SwietyMik (Mikolaj Huk)
+13. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
+14. AIRAC (2208) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
+
+# Changes from release 2022/06 to 2022/07
+1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
+2. Error - Fixed D087E Position - thanks to @SwietyMik (Mikolaj Huk)
+3. AIRAC (2207) - Updated Cranfield (EGTC) SMR - thanks to @PLM1995 (Peter Mooney)
+4. Enhancement - Updated Belfast Aldergrove (EGAA) SMR to better differentiate Tug and Hold Points - thanks to @PLM1995 (Peter Mooney)
+5. Error - Corrected Alderney (EGJA) runway coords - thanks to @danielbutton (Daniel Button)
+6. Enhancement - Added missing heli points and holds to Gloucestershire (EGBJ) SMR - thanks to @danielbutton (Daniel Button)
+7. Enhancement - Refined Fairford (EGVA) SMR - thanks to @danielbutton (Daniel Button)
+8. Enhancement - Added Luton (EGGW) Tug Release Points - thanks to @PLM1995 (Peter Mooney)
+9. Enhancement - Added Stansted (EGSS) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+10. Error - Corrected Guernsey (EGJB) runway threshold coords - thanks to @GeekPro101 (Thomas Mills)
+11. Enhancement - Added Gatwick (EGKK) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+12. Error - Corrected Prestwick (EGPK) RWY 30 threshold coords - thanks to @GeekPro101 (Thomas Mills)
+13. Enhancement - Added Luton (EGGW) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+14. Enhancement - Added Glasgow (EGPF) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+15. AIRAC (2207) - Updated Inverness (EGPE) RWYs 05/23 and 11/29 coords - thanks to @GeekPro101 (Thomas Mills)
+16. Enhancement - Added Liverpool (EGGP) Ground Network - thanks to @1adamf (Adam Farquharson), Dean Benavidez, and James Taylor
+17. AIRAC (2207) - Removed Belfast Aldergrove (OY) NDB - thanks to @GeekPro101 (Thomas Mills)
+
 # Changes from release 2022/05 to 2022/06
-1. Enhancement - Removed unncessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+1. Enhancement - Removed unnecessary outlines from regions on Prestwick (EGPK) SMR - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2206) - Updated Goodwood (GWC) VOR co-ordinates - thanks to @PLM1995 (Peter Mooney)
+3. AIRAC (2206) - Updated Campbeltown (CBL) NDB co-ordinates - thanks to @PLM1995 (Peter Mooney)
+4. AIRAC (2206) - Updated Lee-on-Solent (EGHF) SMR - thanks to @PLM1995 (Peter Mooney)
+5. Enhancement - Removed unnecessary fixes for EGCC SIDs - thanks to @SwietyMik (Mikolaj Huk)
+6. AIRAC (2206) - Updated Biggin Hill (EGKB) SMR - thanks to @PLM1995 (Peter Mooney)
+7. Enhancement - Updated COPX for MTMA inbounds from Daventry -> PC Southeast - thanks to @hsugden (Harry Sugden)
+8. AIRAC (multiple) - Updated East Midlands (EGNX) SMR - thanks to @PLM1995 (Peter Mooney)
+9. Bug - Corrected St Athan (EGSY) Ownership - thanks to @danielbutton (Daniel Button)
+10. Bug - Fixed ABDAL waypoint co-ordinates being incorrectly referenced as East instead of West - thanks to @JoshRiley (Josh Riley)
+11. AIRAC (2206) - Goodwood (EGHR) Runway 32 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
+12. AIRAC (2206) - Dundee (EGPN) Runway 09 threshold coordinates updated - thanks to @cbyworth (Chad Byworth)
+13. AIRAC (2206) - Liverpool (EGGP) Runway magnetic headings updated - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2022/04 to 2022/05
 1. Error - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
