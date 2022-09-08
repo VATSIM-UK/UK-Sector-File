@@ -1,5 +1,3 @@
-
-
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
 2. AIRAC (2208) - Re-categorised fix QUSHI - thanks to @PLM1995 (Peter Mooney)
@@ -23,7 +21,7 @@
 20. Enhancement - Added Rochester (EGTO) Standard Departure Routes - thanks to @luke11brown (Luke Brown)
 21. Procedure Change (2209) - Changed Doncaster (EGCN) outbound agreement via AMVEL/OTBED MPC E -> S10 - thanks to @luke11brown (Luke Brown)
 22. Enhancement - Refined Fairford (EGVA) MATZ - thanks to @danielbutton (Daniel Button)
-23. Bug - Corrected and updated Hawarden (EGNR) SMR - thanks to @PLM1995 (Peter Mooney)
+23. Error - Corrected and updated Hawarden (EGNR) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
