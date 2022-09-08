@@ -15,6 +15,7 @@
 14. AIRAC (2208) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 15. AIRAC (2209) - Renamed Barrow (EGNL) to Walney - thanks to @SwietyMik (Mikolaj Huk)
 16. AIRAC (2209) - Updated Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
+17. Procedure Change (2209) - Amended TC boundaries in the vicinity of CPT - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
