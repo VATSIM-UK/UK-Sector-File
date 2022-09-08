@@ -13,7 +13,10 @@
 12. AIRAC (2209) - Updated various Gamston (EGNE) RWY 02/20 properties - thanks to @SwietyMik (Mikolaj Huk)
 13. AIRAC (2209) - Added N27 airway - thanks to @SwietyMik (Mikolaj Huk)
 14. AIRAC (2208) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
-15. AIRAC (2209) - London City (EGLC) SID truncation - thanks to @cbyworth (Chad Byworth)
+15. AIRAC (2209) - Renamed Barrow (EGNL) to Walney - thanks to @SwietyMik (Mikolaj Huk)
+16. AIRAC (2209) - Updated Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
+17. Procedure Change (2209) - Amended TC boundaries in the vicinity of CPT - thanks to @hsugden (Harry Sugden)
+18. AIRAC (2209) - London City (EGLC) SID truncation - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
