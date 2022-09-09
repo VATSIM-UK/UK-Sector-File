@@ -23,6 +23,7 @@
 22. Enhancement - Refined Fairford (EGVA) MATZ - thanks to @danielbutton (Daniel Button)
 23. Error - Corrected and updated Hawarden (EGNR) SMR - thanks to @PLM1995 (Peter Mooney)
 24. Procedure Change (2209) - Added agreements for Midlands group inbounds via BEGAM - thanks to @luke11brown (Luke Brown)
+25. Procedure Change (2209) - Updated East -> Montrose Midlands Group inbound agreements via ARSAT & TILNI - thanks to @khardern (Kieran Hardern)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
