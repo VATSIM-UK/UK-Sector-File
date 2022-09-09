@@ -27,6 +27,7 @@
 26. AIRAC (2209) - Updated Retford/Gamston (EGNE) SMR - thanks to @PLM1995 (Peter Mooney)
 27. Procedure Change (2209) - Amended agreements in vicinity of Compton (CPT) - thanks to @danielbutton (Daniel Button)
 28. AIRAC (2209) - Amended Southend (EGMC) CTA-10 - thanks to @cbyworth (Chad Byworth)
+29. Procedure Change (2209) - Updated Reykjavik sectorisation - thanks to @khardern (Kieran Hardern)
 
 # Changes from release 2022/06 to 2022/07
 1. AIRAC (2207) - Updated Dundee (EGPN) hold D on SMR - thanks to @PLM1995 (Peter Mooney)
