@@ -90,7 +90,7 @@ Pull request titles take inspiration from commit message formatting - see [here]
 - It should begin with an imperative (a command)
 <br>✅`Fixes #4832 - Update BANBA coords`
 <br>❌`Fixes #4832 - BANBA coords updated`
-- It should be a *brief* description of what the PR (if merged), will do:
+- It should be a description of what the PR (if merged), will do. This does not need to be terse, but should not be overly verbose:
 <br>✅`Fixes #5785 - Correct Gatwick (EGKK) top-down order`
 <br>❌`Fixes #5785 - Correct Gatwick (EGKK) top-down order to be TCSW, then TCNE, then TCNS`
 
@@ -167,6 +167,7 @@ The following are abbreviations and should always be written as such in capitals
 - `NDB` (Non-Directional Beacon)
 - `ScAC` (Scottish Area Control)
 - `SID` (Standard Instrument Departure)
+- `SDR` (Standard Departure Route)
 - `SMR` (Surface Movement Radar, but refers to the map upon which it is drawn)
 - `STAR` (Standard Terminal Arrival Route)
 - `STC` (Scottish Terminal Control)
