@@ -122,9 +122,9 @@ The number increments in the order which the PRs were merged and resets each AIR
 
 This is usually just the same as the label added to the issue, e.g. enhancement, error, etc.
 
-For AIRAC changes, this should be accompanied by the AIRAC shortcode, rather than the longcode:
+For AIRAC edits and Procedure Changes, this should be accompanied by the AIRAC shortcode, rather than the longcode:
 <br>✅ `21. AIRAC (2207) - ...`
-<br>❌ `21. AIRAC (2022/07) - ...`
+<br>❌ `21. Procedure Change (2022/07) - ...`
 The AIRAC used is the one the change was made in originally, not the one it is being released with. The issue should usually contain some information regarding this.
 
 ### Entry summary <a name="csumm"></a>
