@@ -31,7 +31,11 @@ It will also contain guidance on aviation/SF-specific terms and how these ought 
 
 ## Using this guide <a name="using"></a>
 
-This guide is intended to be guidelines, rather than firm and hard rules. Therefore, if it appears to be better style to break a 'rule', then this is encouraged. Indeed, it may be the case that a change is required in the guide, and if so, an issue should be opened.
+This guide is intended to be guidelines, rather than firm and hard rules. Therefore, if it appears to be better style to break a 'rule', then this is encouraged. The guide is also intended to be one that can improve and be flexible, so edits are encouraged in light of changing  best practice.
+
+However, with that in mind, the guide is also intended to be enforced - reviewers, therefore, are well within their rights to request/make changes where submissions do not fit the Style Guide. This should be done where the Guide and the error in question are unambiguous. Where an error might be better described as one of pure taste, then it should be left to the discretion of the author.
+
+Reviewers, as with all changes, may choose to make edits themselves if the change is minor or for the sake of expediency. However, if it is clear the author is not familiar with the Guide, it is better to request a change and link them to the Guide to enable them to learn.
 
 ## Branch titles <a name="branch"></a>
 Branches that are related to the content of the Sector File itself (99% of the issues) should simply be titled `issue-{issue number}`.
