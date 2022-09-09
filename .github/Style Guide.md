@@ -163,8 +163,14 @@ Reviewers should not ask to be added to the changelog simply for either adding c
 The following are abbreviations and should always be written as such in capitals. Their full definitions are given here for completeness but should not be written in full. If plural, a lowercase `s` is added.
 
 - `AC` (Area Control)
+- `APP` (Approach, referring to the position)
+- `GND` (Ground, referring to the position)
+- `GMC` (Ground Movement Control)
+- `GMP` (Ground Movement Planner)
+- `DEL` (Delivery)
 - `ICAO` (International Civil Aviation Organization, but used usually to mean an ICAO code relating to an airport)
 - `NDB` (Non-Directional Beacon)
+- `RMA` (Radar Maneuvering Area)
 - `ScAC` (Scottish Area Control)
 - `SID` (Standard Instrument Departure)
 - `SDR` (Standard Departure Route)
@@ -172,6 +178,7 @@ The following are abbreviations and should always be written as such in capitals
 - `STAR` (Standard Terminal Arrival Route)
 - `STC` (Scottish Terminal Control)
 - `TC` (Terminal Control)
+- `TWR` (Tower, referring to the position)
 - `VOR` (VHF Omnidirectional Beacon)
 
 **Agreements**:
@@ -200,7 +207,11 @@ NDBs/VORs should include their navaid type, and have both their code and their s
 <br>❌`NDB Carlisle`
 
 **Positions**:
-//TODO
+Due to the variety of ways in which positions may be referred to, this Style Guide does not intend to be prescriptive. However, the following guidance applies:
+- Generally, DEL, GND and TWR are preferable to GMP, GMC and AIR
+- Sectors, when referred to by their number, should be written SXX, e.g. `S47`
+- Where sectors are referred to by name, they should be preceded by AC or TC, as appropriate, to disambiguate from the fix or VOR, e.g. `AC Daventry`
+- Where sectors are referred to using a VOR name, this should be written using either the VOR name or VOR code, but not both, e.g. `TC CPT` or `TC Compton`
 
 **Runways**:
   Where a specific runway is referred to, it should be written `RWY`. This applies whether it is one or both ends of a runway, e.g. `RWY 12` or `RWY 12/30`. It becomes RWYs when multiple physical runways are referred to - `RWYs 12/30 + 09/27`. The smaller number should precede the larger one.
