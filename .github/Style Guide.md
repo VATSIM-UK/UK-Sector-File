@@ -31,7 +31,8 @@ It will also contain guidance on aviation/SF-specific terms and how these ought 
 
 ## Using this guide <a name="using"></a>
 
-This guide is intended to be guidelines, rather than firm and hard rules. Therefore, if it appears to be better style to break a 'rule', then this is encouraged. The guide is also intended to be one that can improve and be flexible, so edits are encouraged in light of changing  best practice.
+This guide is intended to be guidelines, rather than firm and hard rules. Therefore, if it appears to be better style to break a 'rule', then this is encouraged. The guide is also intended to be one that can improve and be flexible, so edits are encouraged in light of changing best practice.
+
 
 However, with that in mind, the guide is also intended to be enforced - reviewers, therefore, are well within their rights to request/make changes where submissions do not fit the Style Guide. This should be done where the Guide and the error in question are unambiguous. Where an error might be better described as one of pure taste, then it should be left to the discretion of the author.
 
