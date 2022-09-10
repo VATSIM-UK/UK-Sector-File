@@ -88,7 +88,8 @@ Where pull requests relate to an issue (as 99% of PRs will), then they should be
 <br>✅`Fixes #1234 - Update Gatwick (EGKK) SMR`
 <br>❌`Update Gatwick (EGKK) SMR`
 
-Where they do  not, this will of course be omitted.
+Where they do not, this will of course be omitted.
+
 
 Pull request titles take inspiration from commit message formatting - see [here](https://cbea.ms/git-commit/) for some guidance. The main rules are as follows:
 
