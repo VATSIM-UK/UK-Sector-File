@@ -25,6 +25,7 @@ This document is to serve as a 'style guide' for the UK Sector File repo, and sh
 - Pull request titles
 - Commit messages
 - Changelog entries
+- Sector File internals
 
 
 It will also contain guidance on aviation/SF-specific terms and how these ought to be formatted.
@@ -188,7 +189,9 @@ The following are abbreviations and should always be written as such in capitals
 - `VOR` (VHF Omnidirectional Beacon)
 
 **Agreements/COPX**:
-Agreements, also known as COPX, use the notation `->` to indicate the direction in which the agreement/COPX applies. Where an agreement/COPX applies in both directions these use `<->`.
+Agreements, also known as COPX, in issue and PR titles and changelog entries use the notation `->` to indicate the direction in which the agreement/COPX applies. Where an agreement/COPX applies in both directions these use `<->`.
+
+Within the Sector File itself //TODO
 
 **Airports**:
   Airports should be written as `Name (ICAO)`. The ICAO should be capitalised.
