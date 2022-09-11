@@ -187,8 +187,8 @@ The following are abbreviations and should always be written as such in capitals
 - `TWR` (Tower, referring to the position)
 - `VOR` (VHF Omnidirectional Beacon)
 
-**Agreements**:
-Agreements typically use the notation `->` to indicate the direction of travel. For agreement in both directions these use `<->`.
+**Agreements/COPX**:
+Agreements, also known as COPX, use the notation `->` to indicate the direction in which the agreement/COPX applies. Where an agreement/COPX applies in both directions these use `<->`.
 
 **Airports**:
   Airports should be written as `Name (ICAO)`. The ICAO should be capitalised.
