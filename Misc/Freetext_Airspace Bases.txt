@@ -241,7 +241,7 @@ N052.04.02.831:E000.03.07.182:Airspace Bases:4500
 ;London TMA 7 A 4500-FL195
 N051.53.21.326:E000.45.35.065:Airspace Bases:4500
 ;London TMA 8 A 5500-FL195
-N051.48.53.792:E001.12.52.711:Airspace Bases:5500
+N051.53.54.323:E001.08.03.782:Airspace Bases:5500
 N051.15.00.243:E000.59.50.304:Airspace Bases:5500
 N050.54.48.767:E000.40.16.695:Airspace Bases:5500
 N050.46.31.196:W000.04.12.691:Airspace Bases:5500
@@ -360,13 +360,13 @@ N050.50.52.962:W002.08.01.524:Airspace Bases:FL135
 N050.55.02.180:W001.49.36.950:Airspace Bases:FL95
 ;Portsmouth CTA 11 FL65-FL195
 N051.08.43.676:W001.28.15.645:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 12 FL65-FL195                    
+;Portsmouth CTA 12 FL65-FL195
 N051.17.25.187:W001.15.29.807:Airspace Bases:FL65
-;Portsmouth CTA 13 FL65-FL195                    
+;Portsmouth CTA 13 FL65-FL195
 N050.59.02.167:W001.35.15.383:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 15 FL65-FL195                    
+;Portsmouth CTA 15 FL65-FL195
 N051.17.48.260:W001.25.11.549:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 16 FL65-FL195                    
+;Portsmouth CTA 16 FL65-FL195
 N051.19.48.260:W001.25.11.549:Airspace Bases:FL105
 ;Portsmouth CTA 17 FL55-FL115
 N051.02.00.079:W001.28.05.996:Airspace Bases - Conditional Portsmouth CTA:FL55*
