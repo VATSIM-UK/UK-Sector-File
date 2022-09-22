@@ -27,7 +27,6 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
-#define smrDisused 0
 
 ;SMR Colours
 #define smrACapron 10526880
@@ -50,8 +49,12 @@
 #define smrCompassbase 16777215
 #define smrConstruction 150
 #define smrDarkApron 3026478
+#define smrDisused 0
+#define smrFISGrassRwy 6525539
+#define smrFISHardRwy 7895160
 #define smrGDairfield 1332761
 #define smrGDapron 10066329
+#define smrGDbackground 328965
 #define smrGDBuilding 9142113
 #define smrGDgrass 7058795
 #define smrGDrunway 5329233
@@ -86,11 +89,26 @@
 #define smrMDhangar 9408399
 #define smrMDrunway 8816262
 #define smrMDwhite 16711422
+#define smrNTairfield 8289147
+#define smrNTapron 5262926
+#define smrNTbackground 2430482
+#define smrNTbuildings 22015
+#define smrNTholdingpoints 13303807
+#define smrNTperitrack 1164543
+#define smrNTstandoutline 11464447
+#define smrNTstands 7855324
+#define smrNTtaxiway 16777215
+#define smrNTterminalapron 13565695
+#define smrNTunderapron 6512991
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
 #define smrOrange 43775
 #define smrPGDisused 11911865
 #define smrPGBuildings 1973790
+#define smrPHApron 9868950
+#define smrPHGrass 7237230
+#define smrPHHold 16777045
+#define smrPink 11052799
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
@@ -115,6 +133,7 @@
 #define smrTETaxiway 7106162
 #define smrTFGrass 4487739
 #define smrTFTaxiway 3498623
+#define smrTugPoint 16755690
 #define smrWhite 13494510
 #define smrYellow 65535
 
@@ -125,7 +144,6 @@
 ;Background Colours
 #define blackBackground 0
 #define blueBackground 3932160
-#define smrGDbackground 328965
 
 ;Mil SMR
 #define smrMilGrass 4551749
