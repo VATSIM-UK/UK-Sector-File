@@ -1,5 +1,6 @@
 # Changes from release 2022/09 to 2022/10
 1. Error - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
+2. Error - Removed Scatsta (EGPM) data due to closure in June 2020 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
