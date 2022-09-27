@@ -1,3 +1,5 @@
+x. Enhancement - Updated FIX Co-ordinates to match ENR 4.4 - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2022/09 to 2022/10
 1. Error - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
 
