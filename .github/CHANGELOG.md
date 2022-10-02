@@ -3,6 +3,9 @@ x. AIRAC (2003) - Removed depricated Edinburgh (EGPH) STARs - thanks to @PLM1995
 
 # Changes from release 2022/09 to 2022/10
 1. Error - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
+2. Procedure Change (2210) - Defined EIDW runway 10L/28R and STARs - thanks to @Bucklerz (Reece Buckley)
+3. Enhancement - Updated TC NE subsectors to new top-down orders - thanks to @khardern
+4. Error - Removed Scatsta (EGPM) data due to closure in June 2020 - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
