@@ -111,7 +111,6 @@ SECTORLINE:Heb_Low_WCoastHeb
 DISPLAY:Hebrides Low:Hebrides Low:West Coast (Hebrides Low)
 DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):Hebrides Low
 COORD:N057.45.11.000:W004.23.39.000
-COORD:N058.47.06.000:W008.03.18.000
 COORD:N058.53.14.000:W008.15.58.000
 
 SECTORLINE:Heb_Low_WCoastCen
