@@ -1,3 +1,6 @@
+# Changes from release 2022/10 to 2022/11
+1. Enhancement - Updated Guernsey (EGJB) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy
+
 # Changes from release 2022/09 to 2022/10
 1. Error - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
 2. Procedure Change (2210) - Defined EIDW runway 10L/28R and STARs - thanks to @Bucklerz (Reece Buckley)
