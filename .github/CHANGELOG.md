@@ -9,6 +9,7 @@
 8. Bug - Fixed COPX display for Severn Group inbounds from Dover (S26) to Worthing (S25) - thanks to @hsugden (Harry Sugden)
 9. Bug - Fixed COPX for LTMA Deps via SITET/XAMAB to Brest (or Paris) - thanks to @hsugden (Harry Sugden)
 10. Bug - Fixed Jersey Control COPX function - thanks to @hsugden (Harry Sugden)
+11. Bug - Fixed COPX display for EIDW inbounds when LAC Lakes & MPC are split - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
