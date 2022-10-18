@@ -12,8 +12,10 @@
 11. Bug - Fixed COPX display for EIDW inbounds when LAC Lakes & MPC are split - thanks to @hsugden (Harry Sugden)
 12. Enhancement - Added Scottish AC Low position - thanks to @lennycolton (Lenny Colton)
 13. Enhancement - Added Scottish AC Hebrides-Central bandbox position - thanks to @lennycolton (Lenny Colton)
-14. Enhancement - Added Cosford (EGWC) SMR and runway definitions, and updated ARP - thanks to Aiden Ley and @PLM1995 (Peter Mooney)
-15. Enhancement - Removed redundant London dummy sectors (Worthing and Dover) - thanks to @hsugden (Harry Sugden)
+14. Enhancement - Updated Guernsey (EGJB) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
+15. Enhancement - Added Cosford (EGWC) SMR and runway definitions, and updated ARP - thanks to Aiden Ley and @PLM1995 (Peter Mooney)
+16. AIRAC (2210) - Updated Exeter (EGTE) SMR - thanks to @PLM1995 (Peter Mooney)
+17. Enhancement - Removed redundant London dummy sectors (Worthing and Dover) - thanks to @hsugden (Harry Sugden)
 
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
