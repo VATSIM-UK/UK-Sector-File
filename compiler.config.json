@@ -300,6 +300,7 @@
                     "folder": "Agreements/External",
                     "recursive": true,
                     "exclude": [
+                        "1_RR-Q.txt",
                         "4_SNE.txt",
                         "6_RR-V.txt",
                         "7_SNE.txt",
@@ -309,6 +310,7 @@
                 {
                     "type": "files",
                     "files": [
+                        "Agreements/External/1_RR-Q.txt",
                         "Agreements/External/4_SNE.txt",
                         "Agreements/External/6_RR-V.txt",
                         "Agreements/External/7_SNE.txt",
