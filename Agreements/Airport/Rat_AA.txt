@@ -1,2 +1,2 @@
-COPX:*:*:BEL:EGAA:*:Rathlin:AAAPP:*:10000:|BEL
-COPX:*:*:BEL:EGAC:*:Rathlin:AAAPP:*:10000:|BEL
+COPX:*:*:BEL:EGAA:*:Westcoast (Rathlin West):AAAPP:*:10000:|BEL
+COPX:*:*:BEL:EGAC:*:Westcoast (Rathlin West):AAAPP:*:10000:|BEL

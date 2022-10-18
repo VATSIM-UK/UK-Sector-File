@@ -1,2 +1,2 @@
-COPX:*:*:ROBBO:EGPF:*:Central:PFAPP:9000:*:GOW20
-COPX:*:*:FYNER:EGPF:*:Central:PFAPP:9000:*:GOW20
+COPX:*:*:ROBBO:EGPF:*:Westcoast (Central):PFAPP:9000:*:GOW20
+COPX:*:*:FYNER:EGPF:*:Westcoast (Central):PFAPP:9000:*:GOW20

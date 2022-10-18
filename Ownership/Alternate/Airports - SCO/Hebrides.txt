@@ -1,5 +1,5 @@
 SECTOR:Adjacent airports Scottish AC Hebrides:0:0
-OWNER:SEH:SN:SE:S
+OWNER:SL:SEH:SHC:SN:SE:S
 ALTOWNER:Observing Scottish FIR:SGS:O:SM:SEH:SN:SE:S
 DEPAPT:EGPO
 DEPAPT:EGPL

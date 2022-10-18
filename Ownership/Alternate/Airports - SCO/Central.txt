@@ -1,5 +1,5 @@
-SECTOR:Adjacent airports Scottish AC West:0:0
-OWNER:SW:SWD:S
+SECTOR:Adjacent airports Scottish AC Central:0:0
+OWNER:SL:SC:SHC:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:SGS:O:SM:SW:SWD:S
 DEPAPT:EGPL:EGPR:EGPU:EGEO
 DEPAPT:EGPF:EGPK:EGPO

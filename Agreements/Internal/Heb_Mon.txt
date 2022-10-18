@@ -1,22 +1,22 @@
-COPX:*:*:RUGID:EGPH:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:RUGID:EGPF:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:RUGID:EGPK:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:RUGID:EGPN:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:RUGID:EGPG:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:RUGID:EGQL:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:RUGID:EGPH:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:RUGID:EGPF:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:RUGID:EGPK:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:RUGID:EGPN:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:RUGID:EGPG:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:RUGID:EGQL:*:Hebrides High:Tay:*:26000:STN+50
 
-COPX:*:*:ORSUM:EGPK:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:ORSUM:EGPK:*:Hebrides High:Tay:*:26000:STN+50
 
-COPX:STN:*:*:EGPH:*:Hebrides:Montrose:*:26000:STN+50
-COPX:STN:*:*:EGPF:*:Hebrides:Montrose:*:26000:STN+50
-COPX:STN:*:*:EGPK:*:Hebrides:Montrose:*:26000:STN+50
-COPX:STN:*:*:EGPN:*:Hebrides:Montrose:*:26000:STN+50
-COPX:STN:*:*:EGPG:*:Hebrides:Montrose:*:26000:STN+50
-COPX:STN:*:*:EGQL:*:Hebrides:Montrose:*:26000:STN+50
+COPX:STN:*:*:EGPH:*:Hebrides High:Tay:*:26000:STN+50
+COPX:STN:*:*:EGPF:*:Hebrides High:Tay:*:26000:STN+50
+COPX:STN:*:*:EGPK:*:Hebrides High:Tay:*:26000:STN+50
+COPX:STN:*:*:EGPN:*:Hebrides High:Tay:*:26000:STN+50
+COPX:STN:*:*:EGPG:*:Hebrides High:Tay:*:26000:STN+50
+COPX:STN:*:*:EGQL:*:Hebrides High:Tay:*:26000:STN+50
 
-COPX:*:*:BONBY:EGPH:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:BONBY:EGPF:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:BONBY:EGPK:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:BONBY:EGPN:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:BONBY:EGPG:*:Hebrides:Montrose:*:26000:STN+50
-COPX:*:*:BONBY:EGQL:*:Hebrides:Montrose:*:26000:STN+50
+COPX:*:*:BONBY:EGPH:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:BONBY:EGPF:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:BONBY:EGPK:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:BONBY:EGPN:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:BONBY:EGPG:*:Hebrides High:Tay:*:26000:STN+50
+COPX:*:*:BONBY:EGQL:*:Hebrides High:Tay:*:26000:STN+50
