@@ -1,0 +1,10 @@
+SECTOR:Moray High:0:0
+OWNER:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SN:SE:S
+
+SECTOR:Moray High (255-660):25500:66000
+OWNER:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SN:SE:S
+BORDER:Mor_BIRD:Mor_ENSV-S15:Mor_ENSV-S10-S11:Mor_EKDK DB-660:Mor_Tyne:Mor_Mon:Heb_Mor 02:Mor Low Tri:Heb_Mor 01
