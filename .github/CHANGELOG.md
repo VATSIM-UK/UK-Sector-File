@@ -1,4 +1,4 @@
-x. AIRAC (2210) - Updated Exeter (EGTE) SMR - thanks to @PLM1995 (Peter Mooney)
+
 
 # Changes from release 2022/09 to 2022/10
 1. Bug - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
@@ -16,6 +16,7 @@ x. AIRAC (2210) - Updated Exeter (EGTE) SMR - thanks to @PLM1995 (Peter Mooney)
 13. Enhancement - Added Scottish AC Hebrides-Central bandbox position - thanks to @lennycolton (Lenny Colton)
 14. Enhancement - Updated Guernsey (EGJB) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy
 15. Enhancement - Added Cosford (EGWC) SMR and runway definitions, and updated ARP - thanks to Aiden Ley and @PLM1995 (Peter Mooney)
+16. AIRAC (2210) - Updated Exeter (EGTE) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
