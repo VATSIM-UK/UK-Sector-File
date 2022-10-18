@@ -121,13 +121,10 @@
 #define smrTaxiway 0
 #define smrTaxiwayLine 8313850
 #define smrTEAVGAS 6488184
-#define smrTEAVTUR 6712064
 #define smrTEBuilding 4023169
 #define smrTEDisused 6250335
-#define smrTEFlybe 9671575
 #define smrTEGrassBdy 2377274
 #define smrTEGrassTaxi 2707265
-#define smrTERed 202
 #define smrTERunway 4934475
 #define smrTEStand 59107
 #define smrTETaxiway 7106162

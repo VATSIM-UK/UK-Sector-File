@@ -1,3 +1,14 @@
-COPX:*:*:CPT:EGGD:*:London S26:London S25:*:30000:|CPT
-COPX:*:*:CPT:EGFF:*:London S26:London S25:*:30000:|CPT
-COPX:*:*:CPT:EGSY:*:London S26:London S25:*:30000:|CPT
+;L179
+COPX:UGBET:*:*:EGGD:*:London S26:London S25:*:30000:|CPT
+COPX:UGBET:*:*:EGFF:*:London S26:London S25:*:30000:|CPT
+COPX:UGBET:*:*:EGSY:*:London S26:London S25:*:30000:|CPT
+
+;Q63
+COPX:IPKUS:*:*:EGGD:*:London S26:London S25:*:30000:|CPT
+COPX:IPKUS:*:*:EGFF:*:London S26:London S25:*:30000:|CPT
+COPX:IPKUS:*:*:EGSY:*:London S26:London S25:*:30000:|CPT
+
+;UL9
+COPX:GOXUL:*:*:EGGD:*:London S26:London S25:*:30000:|CPT
+COPX:GOXUL:*:*:EGFF:*:London S26:London S25:*:30000:|CPT
+COPX:GOXUL:*:*:EGSY:*:London S26:London S25:*:30000:|CPT

@@ -1,1 +1,1 @@
-COPX:EGPE:*:*:ULLAP:*:PEAPP:Hebrides:10000:*:^Y906
+COPX:EGPE:*:*:ULLAP:*:PEAPP:Hebrides Low:10000:*:^Y906
