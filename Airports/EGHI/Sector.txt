@@ -7,7 +7,7 @@ DISPLAY:London TC SE:Only HITWR 1:Only HITWR 2
 CIRCLE_SECTORLINE:Only Solent:EGHI:6
 DISPLAY:London S6:London S6:Only Solent
 DISPLAY:London S20:London S20:Only Solent
-DISPLAY:London AC Worthing:London AC Worthing:Only Solent
+DISPLAY:London S21:London S21:Only Solent
 DISPLAY:London TC NW:London TC NW:Only Solent
 DISPLAY:London TC SW:London TC SW:Only Solent
 DISPLAY:London TC SE:London TC SE:Only Solent
