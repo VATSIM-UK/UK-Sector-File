@@ -94,10 +94,10 @@ COORD:N057.11.45.000:W002.18.15.000
 COORD:N057.09.52.000:W001.53.47.000
 
 SECTORLINE:Mor_WCoast-Mon
-DISPLAY:Moray High:Moray High:West Coast (Tay)
-DISPLAY:Moray Low:Moray Low:West Coast (Tay)
-DISPLAY:West Coast (Tay):West Coast (Tay):Moray High
-DISPLAY:West Coast (Tay):West Coast (Tay):Moray Low
+DISPLAY:Moray High:Moray High:Westcoast (Tay)
+DISPLAY:Moray Low:Moray Low:Westcoast (Tay)
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Moray High
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Moray Low
 COORD:N057.23.37.177:W004.14.06.008
 COORD:N057.21.31.000:W003.52.13.000
 
@@ -108,14 +108,14 @@ COORD:N060.30.00.000:W010.00.00.000
 COORD:N059.20.00.000:W010.00.00.000
 
 SECTORLINE:Heb_Low_WCoastHeb
-DISPLAY:Hebrides Low:Hebrides Low:West Coast (Hebrides Low)
-DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):Hebrides Low
+DISPLAY:Hebrides Low:Hebrides Low:Westcoast (Hebrides Low)
+DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Hebrides Low
 COORD:N057.45.11.000:W004.23.39.000
 COORD:N058.53.14.000:W008.15.58.000
 
 SECTORLINE:Heb_Low_WCoastCen
-DISPLAY:Hebrides Low:Hebrides Low:West Coast (Central)
-DISPLAY:West Coast (Central):West Coast (Central):Hebrides Low
+DISPLAY:Hebrides Low:Hebrides Low:Westcoast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Hebrides Low
 COORD:N058.53.14.000:W008.15.58.000
 COORD:N059.20.00.000:W010.00.00.000
 
@@ -136,8 +136,8 @@ COORD:N057.54.46.000:W004.32.04.000
 COORD:N057.45.11.000:W004.23.39.000
 
 SECTORLINE:WCoastHeb_Mor Low
-DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):Moray Low
-DISPLAY:Moray Low:Moray Low:West Coast (Hebrides Low)
+DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Moray Low
+DISPLAY:Moray Low:Moray Low:Westcoast (Hebrides Low)
 COORD:N057.45.11.000:W004.23.39.000
 COORD:N057.31.47.000:W004.12.03.000
 
@@ -313,16 +313,16 @@ COORD:N054.15.00.000:W002.39.48.000
 SECTORLINE:Cen_RatW
 DISPLAY:Central:Central:Rathlin West
 DISPLAY:Rathlin West:Rathlin West:Central
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Rathlin West)
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):West Coast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Rathlin West)
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Westcoast (Central)
 COORD:N056.35.06.000:W010.00.00.000
 COORD:N055.56.07.000:W005.22.48.000
 
 SECTORLINE:Cen_Heb 1
 DISPLAY:Central:Central:Hebrides High
 DISPLAY:Hebrides High:Hebrides High:Central
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Hebrides Low)
-DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):West Coast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Hebrides Low)
+DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Westcoast (Central)
 COORD:N059.20.00.000:W010.00.00.000
 COORD:N059.20.00.000:W010.00.00.000
 COORD:N058.53.14.000:W008.15.58.000
@@ -330,8 +330,8 @@ COORD:N058.53.14.000:W008.15.58.000
 SECTORLINE:Cen_Heb 2
 DISPLAY:Central:Central:Hebrides High
 DISPLAY:Hebrides High:Hebrides High:Central
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Hebrides Low)
-DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):West Coast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Hebrides Low)
+DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Westcoast (Central)
 COORD:N058.53.14.000:W008.15.58.000
 COORD:N058.47.06.000:W008.03.18.000
 COORD:N058.01.37.000:W006.29.19.000
@@ -340,8 +340,8 @@ COORD:N057.15.04.000:W005.36.33.000
 SECTORLINE:Cen_Mon
 DISPLAY:Central:Central:Montrose
 DISPLAY:Montrose:Montrose:Central
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Tay)
-DISPLAY:West Coast (Tay):West Coast (Tay):West Coast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Tay)
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Westcoast (Central)
 COORD:N057.15.04.000:W005.36.33.000
 COORD:N056.16.00.000:W005.05.20.000
 
@@ -359,19 +359,19 @@ COORD:N055.47.00.000:W005.30.41.000
 
 SECTORLINE:Cen_EGGX
 DISPLAY:Central:Central:EGGX
-DISPLAY:West Coast (Central):West Coast (Central):EGGX
+DISPLAY:Westcoast (Central):Westcoast (Central):EGGX
 COORD:N059.20.00.000:W010.00.00.000
 COORD:N057.00.00.000:W010.00.00.000
 
 SECTORLINE:Cen_EISN
 DISPLAY:Central:Central:Shannon NOTA
-DISPLAY:West Coast (Central):West Coast (Central):Shannon NOTA
+DISPLAY:Westcoast (Central):Westcoast (Central):Shannon NOTA
 COORD:N057.00.00.000:W010.00.00.000
 COORD:N056.35.06.000:W010.00.00.000
 
 SECTORLINE:RatW_EISN 01
 DISPLAY:Rathlin West:Rathlin West:Shannon NOTA
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Shannon NOTA
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Shannon NOTA
 COORD:N056.35.06.000:W010.00.00.000
 COORD:N054.43.11.750:W010.00.00.000
 
@@ -381,13 +381,13 @@ COORD:N054.38.58.000:W009.33.19.000
 COORD:N054.43.11.750:W010.00.00.000
 
 SECTORLINE:RatW_EISN 02
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Shannon LIFFY
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Shannon LIFFY
 COORD:N054.43.11.750:W010.00.00.000
 COORD:N054.34.00.000:W010.00.00.000
 COORD:N054.38.58.000:W009.33.19.000
 
 SECTORLINE:RatW_EISN Del
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Shannon Low North
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Shannon Low North
 COORD:N054.38.58.000:W009.33.19.000
 COORD:N054.38.58.000:W009.33.20.000
 COORD:N054.44.59.000:W009.00.00.000
@@ -403,7 +403,7 @@ COORD:N054.25.00.000:W008.10.00.000
 
 SECTORLINE:RatW_EISN 03
 DISPLAY:Rathlin West:Rathlin West:Shannon LIFFY
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Shannon LIFFY
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Shannon LIFFY
 COORD:N054.05.43.000:W006.24.38.000
 COORD:N054.25.00.000:W008.10.00.000
 
@@ -565,8 +565,8 @@ COORD:N054.01.47.000:W001.35.15.000
 SECTORLINE:Mon_Heb
 DISPLAY:Montrose:Montrose:Hebrides High
 DISPLAY:Hebrides High:Hebrides High:Montrose
-DISPLAY:West Coast (Tay):West Coast (Tay):West Coast (Hebrides Low)
-DISPLAY:West Coast (Hebrides Low):West Coast (Hebrides Low):West Coast (Tay)
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Westcoast (Hebrides Low)
+DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Westcoast (Tay)
 COORD:N057.23.37.177:W004.14.06.008
 COORD:N057.14.40.000:W004.28.16.000
 COORD:N057.15.04.000:W005.36.33.000
@@ -578,8 +578,8 @@ COORD:N056.16.00.000:W005.05.20.000
 COORD:N056.16.00.647:W004.08.55.971
 
 SECTORLINE:Mon_WCoast 02
-DISPLAY:Tay:Tay:West Coast (Tay)
-DISPLAY:West Coast (Tay):West Coast (Tay):Tay
+DISPLAY:Tay:Tay:Westcoast (Tay)
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Tay
 COORD:N056.16.00.647:W004.08.55.971
 COORD:N056.14.00.000:W004.09.26.000
 
@@ -812,8 +812,8 @@ COORD:N056.00.08.000:W002.48.49.000
 COORD:N055.53.35.022:W002.49.31.040
 
 SECTORLINE:WCoast-Mon_Tay
-DISPLAY:Tay:Tay:West Coast (Tay)
-DISPLAY:West Coast (Tay):West Coast (Tay):Tay
+DISPLAY:Tay:Tay:Westcoast (Tay)
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Tay
 COORD:N057.21.31.000:W003.52.13.000
 COORD:N056.14.00.000:W004.09.26.000
 
@@ -826,46 +826,46 @@ COORD:N056.12.34.976:W004.12.55.926
 COORD:N056.01.22.000:W004.40.33.000
 
 SECTORLINE:WCoast-Cen_Gal
-DISPLAY:West Coast (Central):West Coast (Central):Galloway
-DISPLAY:Galloway:Galloway:West Coast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Galloway
+DISPLAY:Galloway:Galloway:Westcoast (Central)
 COORD:N056.01.22.000:W004.40.33.000
 COORD:N055.60.00.000:W004.44.00.000
 COORD:N055.50.00.000:W005.00.00.000
 
 SECTORLINE:WCoast-RatW_Gal
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Galloway
-DISPLAY:Galloway:Galloway:West Coast (Rathlin West)
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Galloway
+DISPLAY:Galloway:Galloway:Westcoast (Rathlin West)
 COORD:N055.50.00.000:W005.00.00.000
 COORD:N055.15.11.000:W005.00.00.000
 COORD:N055.12.14.000:W005.02.34.000
 
 SECTORLINE:WCoast-Mon_WCoast-Cen
-DISPLAY:West Coast (Tay):West Coast (Tay):West Coast (Central)
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Tay)
+DISPLAY:Westcoast (Tay):Westcoast (Tay):Westcoast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Tay)
 COORD:N056.16.00.000:W005.05.20.000
 COORD:N056.01.22.000:W004.40.33.000
 
 SECTORLINE:WCoast-Cen_WCoast-RatW
-DISPLAY:West Coast (Central):West Coast (Central):West Coast (Rathlin West)
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):West Coast (Central)
+DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Rathlin West)
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Westcoast (Central)
 COORD:N055.56.07.000:W005.22.48.000
 COORD:N055.50.00.000:W005.00.00.000
 
 SECTORLINE:WCoast-RatW_Ant
-DISPLAY:Antrim:Antrim:West Coast (Rathlin West)
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Antrim
+DISPLAY:Antrim:Antrim:Westcoast (Rathlin West)
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Antrim
 COORD:N055.12.14.000:W005.02.34.000
 COORD:N055.09.48.000:W005.04.41.000
 
 SECTORLINE:WCoast-Rat_Ant
-DISPLAY:Antrim:Antrim:West Coast (Rathlin West)
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Antrim
+DISPLAY:Antrim:Antrim:Westcoast (Rathlin West)
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Antrim
 COORD:N055.09.48.000:W005.04.41.000
 COORD:N055.07.49.000:W005.06.23.000
 
 SECTORLINE:Ant_WCoast-Rat
-DISPLAY:Antrim:Antrim:West Coast (Rathlin West)
-DISPLAY:West Coast (Rathlin West):West Coast (Rathlin West):Antrim
+DISPLAY:Antrim:Antrim:Westcoast (Rathlin West)
+DISPLAY:Westcoast (Rathlin West):Westcoast (Rathlin West):Antrim
 COORD:N055.07.49.000:W005.06.23.000
 COORD:N054.57.15.000:W005.15.30.000
 COORD:N054.54.17.000:W005.29.59.000

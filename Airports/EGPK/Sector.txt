@@ -2,18 +2,18 @@ CIRCLE_SECTORLINE:Only PKGND:EGPK:1.5
 DISPLAY:Galloway:Only PKGND 1:Only PKGND 2
 DISPLAY:Talla:Only PKGND 1:Only PKGND 2
 DISPLAY:Tay:Only PKGND 1:Only PKGND 2
-DISPLAY:West Coast (Central):Only PKGND 1:Only PKGND 2
+DISPLAY:Westcoast (Central):Only PKGND 1:Only PKGND 2
 
 CIRCLE_SECTORLINE:Only PKTWR:EGPK:2.5
 DISPLAY:Galloway:Only PKTWR 1:Only PKTWR 2
 DISPLAY:Talla:Only PKTWR 1:Only PKTWR 2
 DISPLAY:Tay:Only PKTWR 1:Only PKTWR 2
-DISPLAY:West Coast (Central):Only PKTWR 1:Only PKTWR 2
+DISPLAY:Westcoast (Central):Only PKTWR 1:Only PKTWR 2
 
 CIRCLE_SECTORLINE:Only PKAPP:EGPK:5
 DISPLAY:Galloway:Galloway:Only PKAPP
 DISPLAY:Talla:Talla:Only PKAPP
-DISPLAY:West Coast (Central):West Coast (Central):Only PKAPP
+DISPLAY:Westcoast (Central):Westcoast (Central):Only PKAPP
 DISPLAY:Antrim:Antrim:Only PKAPP
 
 CIRCLE_SECTORLINE:PKTWR:EGPK:2.5
