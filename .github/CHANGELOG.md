@@ -1,4 +1,6 @@
-x. Enhancement - Updated Windfarm TMZ Primary Radar Holes - thanks to @PLM1995 (Peter Mooney)
+# Changes from release 2022/10 to 2022/10a
+1. Bug - Corrected Scottish airfield ownership to reflect addition of ScAC Low split - thanks to @hsugden (Harry Sugden)
+2. Enhancement - Updated Windfarm TMZ Primary Radar Holes - thanks to @PLM1995 (Peter Mooney) 
 
 # Changes from release 2022/09 to 2022/10
 1. Bug - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
