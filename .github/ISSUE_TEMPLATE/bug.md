@@ -1,21 +1,19 @@
 ---
 name: Bug
-about: A template for bugs - where ES doesn't work correctly when using data from
-  the SF.
+about: A template for bugs or errors with the sector file.
 title: ''
 labels: bug, up-for-grabs
 assignees: ''
 
 ---
 
-# What is the bug?
+# What is the bug/error?
 (when does it happen - e.g. what circumstances; where is it - for line drawing errors, etc.)
 
 # What is the expected functionality?
  (what should it be doing/ look like?)
 
-# How can it be reproduced? 
- (if not obvious)
+# Sources
+(e.g. vMATS, eAIP, etc.)
 
-# Additional information
-(do you have an idea of what is causing the bug, etc.)
+# File changes (if known)
