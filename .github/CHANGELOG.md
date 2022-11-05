@@ -1,3 +1,6 @@
+# Changes from release 2022/10a to 2022/11
+1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2022/10 to 2022/10a
 1. Bug - Corrected Scottish airfield ownership to reflect addition of ScAC Low split - thanks to @hsugden (Harry Sugden)
 2. Enhancement - Updated Windfarm TMZ Primary Radar Holes - thanks to @PLM1995 (Peter Mooney) 
