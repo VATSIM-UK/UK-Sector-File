@@ -2,6 +2,7 @@
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2211) - Updated Cambridge (EGSC) SMR - thanks to @PLM1995 (Peter Mooney)
 3. AIRAC (2211) - Updated Birmingham (EGBB) SMR - thanks to @PLM1995 (Peter Mooney)
+1. Enhancement - Added Upavon (EGDJ) Basic Data - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/10 to 2022/10a
 1. Bug - Corrected Scottish airfield ownership to reflect addition of ScAC Low split - thanks to @hsugden (Harry Sugden)
