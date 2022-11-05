@@ -1,5 +1,10 @@
 # Changes from release 2022/10a to 2022/11
-1. AIRAC (2205) - Removed Boscombe Down (EGDM) Runway 17/35 - thanks to @danielbutton (Daniel Button)
+1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
+2. AIRAC (2211) - Updated Cambridge (EGSC) SMR - thanks to @PLM1995 (Peter Mooney)
+3. AIRAC (2211) - Updated Birmingham (EGBB) SMR - thanks to @PLM1995 (Peter Mooney)
+4. Enhancement - Added Upavon (EGDJ) Basic Data - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2211) - Updated Edinburgh NDB (EDN and UW) positions - thanks to @PLM1995 (Peter Mooney)
+6. AIRAC (2205) - Removed Boscombe Down (EGDM) Runway 17/35 - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/10 to 2022/10a
 1. Bug - Corrected Scottish airfield ownership to reflect addition of ScAC Low split - thanks to @hsugden (Harry Sugden)
