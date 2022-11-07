@@ -1,3 +1,6 @@
+# Changes from release 2022/11 to 2022/12
+1. AIRAC (2211) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
+
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2211) - Updated Cambridge (EGSC) SMR - thanks to @PLM1995 (Peter Mooney)
