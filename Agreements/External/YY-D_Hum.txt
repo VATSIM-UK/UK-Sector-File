@@ -1,1 +1,3 @@
-FIR_COPX:EHAM:*:LONAM:*:*:EDYY Delta:Humber:30000:*:^LONAM
+FIR_COPX:*:*:TOPPA:*:*:EDYY Delta:Humber:*:*:TOPPA
+
+FIR_COPX:*:*:GODOS:*:*:EDYY Delta:Humber:*:*:GODOS
