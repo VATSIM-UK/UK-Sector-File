@@ -1,3 +1,7 @@
+# Changes from release 2022/11 to 2022/12
+x. AIRAC (2212) - Updated RedHill (EGKR) Runways - thanks to @robbo599 (Lee Roberts)
+
+
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
 2. AIRAC (2211) - Updated Cambridge (EGSC) SMR - thanks to @PLM1995 (Peter Mooney)
