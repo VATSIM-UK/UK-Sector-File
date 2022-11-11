@@ -1,5 +1,5 @@
 # Changes from release 2022/11 to 2022/12
-x. AIRAC (2212) - Updated RedHill (EGKR) Runways - thanks to @robbo599 (Lee Roberts)
+x. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Roberts)
 
 
 # Changes from release 2022/10a to 2022/11
