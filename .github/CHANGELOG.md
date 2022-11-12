@@ -1,3 +1,5 @@
+AIRAC (2213) - Completely removed procedures & enroute fixes that were withdrawn over 24 months ago (AIRAC 2013) - thanks to @ChrisXPP (Christoph Reule)
+
 # Changes from release 2022/11 to 2022/12
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
 2. AIRAC (2212) - Amended en-route 5LNC fixes - thanks to @luke11brown (Luke Brown)
