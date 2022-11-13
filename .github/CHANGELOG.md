@@ -2,6 +2,7 @@
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
 2. AIRAC (2212) - Amended en-route 5LNC fixes - thanks to @luke11brown (Luke Brown)
 3. AIRAC (2212) - Amended ATS Routes (UP59,P58,Y96,N866,L7,N601) - thanks to @luke11brown (Luke Brown)
+4. AIRAC (2212) - TACAN Route Fixes updated - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
