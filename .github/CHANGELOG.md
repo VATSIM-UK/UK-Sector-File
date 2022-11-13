@@ -6,6 +6,7 @@
 5. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks to @robbo599 (Lee Roebrts)
 6. AIRAC (2212) - Updated Birmingham (EGBB) BRUMI SID - thanks to @robbo599 (Lee Roberts)
 7. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Roberts)
+8. Bug - Fixed Farnborough (EGLF) VRP coordinates - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
