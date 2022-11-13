@@ -1,4 +1,8 @@
 # Changes from release 2022/11 to 2022/12
+1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
+2. AIRAC (2212) - Amended en-route 5LNC fixes - thanks to @luke11brown (Luke Brown)
+3. AIRAC (2212) - Amended ATS Routes (UP59,P58,Y96,N866,L7,N601) - thanks to @luke11brown (Luke Brown)
+4. AIRAC (2212) - TACAN Route Fixes updated - thanks to @robbo599 (Lee Roberts)
 x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks to @robbo599 (Lee Roebrts)
 
 # Changes from release 2022/10a to 2022/11
@@ -10,27 +14,27 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 6. AIRAC (2205) - Removed Boscombe Down (EGDM) Runway 17/35 - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/10 to 2022/10a
-1. Bug - Corrected Scottish airfield ownership to reflect addition of ScAC Low split - thanks to @hsugden (Harry Sugden)
+1. Bug - Corrected Scottish airfield ownership to reflect addition of ScAC Low split - thanks to @hsugden
 2. Enhancement - Updated Windfarm TMZ Primary Radar Holes - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/09 to 2022/10
 1. Bug - Fixed double airspace base in Southend (EGMC) CTA 10 - thanks to @Bucklerz (Reece Buckley)
 2. Procedure Change (2210) - Defined EIDW runway 10L/28R and STARs - thanks to @Bucklerz (Reece Buckley)
 3. Enhancement - Updated TC NE subsectors to new top-down orders - thanks to @khardern
-4. Bug - Removed Scatsta (EGPM) data due to closure in June 2020 - thanks to @hsugden (Harry Sugden)
+4. Bug - Removed Scatsta (EGPM) data due to closure in June 2020 - thanks to @hsugden
 5. Enhancement - Updated FIX Co-ordinates to match ENR 4.4 - thanks to @PLM1995 (Peter Mooney)
 6. AIRAC (2003) - Removed depricated Edinburgh (EGPH) STARs - thanks to @PLM1995 (Peter Mooney)
-7. Bug - Fixed London AC Lakes static boundary - thanks to @hsugden (Harry Sugden)
-8. Bug - Fixed COPX display for Severn Group inbounds from Dover (S26) to Worthing (S25) - thanks to @hsugden (Harry Sugden)
-9. Bug - Fixed COPX for LTMA Deps via SITET/XAMAB to Brest (or Paris) - thanks to @hsugden (Harry Sugden)
-10. Bug - Fixed Jersey Control COPX function - thanks to @hsugden (Harry Sugden)
-11. Bug - Fixed COPX display for EIDW inbounds when LAC Lakes & MPC are split - thanks to @hsugden (Harry Sugden)
+7. Bug - Fixed London AC Lakes static boundary - thanks to @hsugden
+8. Bug - Fixed COPX display for Severn Group inbounds from Dover (S26) to Worthing (S25) - thanks to @hsugden
+9. Bug - Fixed COPX for LTMA Deps via SITET/XAMAB to Brest (or Paris) - thanks to @hsugden
+10. Bug - Fixed Jersey Control COPX function - thanks to @hsugden
+11. Bug - Fixed COPX display for EIDW inbounds when LAC Lakes & MPC are split - thanks to @hsugden
 12. Enhancement - Added Scottish AC Low position - thanks to @lennycolton (Lenny Colton)
 13. Enhancement - Added Scottish AC Hebrides-Central bandbox position - thanks to @lennycolton (Lenny Colton)
 14. Enhancement - Updated Guernsey (EGJB) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 15. Enhancement - Added Cosford (EGWC) SMR and runway definitions, and updated ARP - thanks to Aiden Ley and @PLM1995 (Peter Mooney)
 16. AIRAC (2210) - Updated Exeter (EGTE) SMR - thanks to @PLM1995 (Peter Mooney)
-17. Enhancement - Removed redundant London dummy sectors (Worthing and Dover) - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Removed redundant London dummy sectors (Worthing and Dover) - thanks to @hsugden
 
 # Changes from release 2022/07 to 2022/09
 1. AIRAC (2208) - Removed Birmingham (EGBB) DTY4F, TNT1K & TNT4G SIDs - thanks to @Batesey1 (Harvey Bates)
@@ -49,7 +53,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 14. AIRAC (2208) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 15. AIRAC (2209) - Renamed Barrow (EGNL) to Walney - thanks to @SwietyMik (Mikolaj Huk)
 16. AIRAC (2209) - Updated Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
-17. Procedure Change (2209) - Amended TC boundaries in the vicinity of CPT - thanks to @hsugden (Harry Sugden)
+17. Procedure Change (2209) - Amended TC boundaries in the vicinity of CPT - thanks to @hsugden
 18. AIRAC (2209) - London City (EGLC) SID truncation - thanks to @cbyworth (Chad Byworth)
 19. AIRAC (2209) - Biggin Hill (EGKB) CPT 2 SDR amended to SAXBI 2 - thanks to @cbyworth (Chad Byworth)
 20. Enhancement - Added Rochester (EGTO) Standard Departure Routes - thanks to @luke11brown (Luke Brown)
@@ -89,7 +93,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 4. AIRAC (2206) - Updated Lee-on-Solent (EGHF) SMR - thanks to @PLM1995 (Peter Mooney)
 5. Enhancement - Removed unnecessary fixes for EGCC SIDs - thanks to @SwietyMik (Mikolaj Huk)
 6. AIRAC (2206) - Updated Biggin Hill (EGKB) SMR - thanks to @PLM1995 (Peter Mooney)
-7. Enhancement - Updated COPX for MTMA inbounds from Daventry -> PC Southeast - thanks to @hsugden (Harry Sugden)
+7. Enhancement - Updated COPX for MTMA inbounds from Daventry -> PC Southeast - thanks to @hsugden
 8. AIRAC (multiple) - Updated East Midlands (EGNX) SMR - thanks to @PLM1995 (Peter Mooney)
 9. Bug - Corrected St Athan (EGSY) Ownership - thanks to @danielbutton (Daniel Button)
 10. Bug - Fixed ABDAL waypoint co-ordinates being incorrectly referenced as East instead of West - thanks to @JoshRiley (Josh Riley)
@@ -100,18 +104,18 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 # Changes from release 2022/04 to 2022/05
 1. Bug - Fixed erroneous point on A-Ireland Land Region - thanks to @PLM1995 (Peter Mooney)
 2. Bug - Correct SID drawing and tracking for SANBA SIDs from EGCC - thanks to @jackedwards815 (Jack Edwards)
-3. Bug - Removed Northampton/Sywell (EGBK) RNP approach fixes - thanks to @hsugden (Harry Sugden)
-4. Enhancement - Removed Heathrow (EGLL) Taxiway A south side WIP - thanks to @hsugden (Harry Sugden)
+3. Bug - Removed Northampton/Sywell (EGBK) RNP approach fixes - thanks to @hsugden
+4. Enhancement - Removed Heathrow (EGLL) Taxiway A south side WIP - thanks to @hsugden
 5. Enhancement - Updated Edinburgh (EGPH) SMR - thanks to @SamLefevre (Samuel Lefevre)
 6. Enhancement - Updated Gloucestershire (EGBJ) SMR - thanks to @danielbutton (Daniel Button)
 7. Enhancement - Added Oban (EGEO) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 8. Enhancement - Updated Wellesbourne (EGBW) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
-9. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden (Harry Sugden)
-10. Procedure Change (2205) - Amended Midlands Buffer Zone (previously Birmingham Buffer) width - thanks to @hsugden (Harry Sugden)
-11. Procedure Change (2205) - Amended S36 (AC West)/S20 (AC Worthing) sectorisation near OTMET - thanks to @hsugden (Harry Sugden)
-12. Procedure Change (2205) - Changes to agreements between ScAC South and PC Northeast - thanks to @hsugden (Harry Sugden)
-13. Procedure Change (2205) - Changes to external COPX for GD/FF outbounds from LAC West (S6/S36) to LFRR (V) - thanks to @hsugden (Harry Sugden)
-14. Procedure Change (2205) - Changes to external COPX for traffic via SITET - thanks to @hsugden (Harry Sugden)
+9. Procedure Change (2205) - Amended PC Trent/TC WELIN sectorisation north of ELVOS - thanks to @hsugden
+10. Procedure Change (2205) - Amended Midlands Buffer Zone (previously Birmingham Buffer) width - thanks to @hsugden
+11. Procedure Change (2205) - Amended S36 (AC West)/S20 (AC Worthing) sectorisation near OTMET - thanks to @hsugden
+12. Procedure Change (2205) - Changes to agreements between ScAC South and PC Northeast - thanks to @hsugden
+13. Procedure Change (2205) - Changes to external COPX for GD/FF outbounds from LAC West (S6/S36) to LFRR (V) - thanks to @hsugden
+14. Procedure Change (2205) - Changes to external COPX for traffic via SITET - thanks to @hsugden
 15. AIRAC (2205) - Heathrow (EGLL) stands renumbered - thanks to @ArvidHansson (Arvid Hansson)
 16. AIRAC (2205) - Updated Norwich (EGSH) runway heading - thanks to @SwietyMik (Mikolaj Huk)
 17. AIRAC (2205) - Updated Moray CTA 16 base - thanks to @SwietyMik (Mikolaj Huk)
@@ -124,7 +128,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 24. AIRAC (2205) - Gloucestershire (EGBJ) Runway 18-36 Closed - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/03 to 2022/04
-1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden (Harry Sugden)
+1. Bug - Fixed North Sea (S10) -> EHAA sector prediction for EHAA FIR inbounds when MUAC Delta is online - thanks to @hsugden
 2. Bug - Fixed Thames RMA sector definition - thanks to @kye-taylor (Kye Taylor)
 3. Bug - Corrected duplicate fix defintions - thanks to @PLM1995 (Peter Mooney)
 4. Bug - Corrected Wellesbourne (EGBW) ARP coordinates - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
@@ -149,11 +153,11 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 23. Enhancement - Added Old Warden (EGTH) Data - thanks to @danielbutton (Daniel Button)
 24. Enhancement - Redrawn Blackbushe (EGLK) SMR - thanks to @danielbutton (Daniel Button)
 25. Enhancement - Added Westland (EGHG) SMR to replace old wireframe version - thanks to @danielbutton (Daniel Button)
-26. Enhancement - Added PC Northeast & Southeast static boundaries - thanks to @hsugden (Harry Sugden)
-27. Enhancement - Added TC Midlands (event only) static boundary - thanks to @hsugden (Harry Sugden)
+26. Enhancement - Added PC Northeast & Southeast static boundaries - thanks to @hsugden
+27. Enhancement - Added TC Midlands (event only) static boundary - thanks to @hsugden
 28. Procedure Change (2204) - Updated EDYY_D_CTR frequency - thanks to @PLM1995 (Peter Mooney)
-29. Procedure Change - Reverted temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
-30. Procedure Change - Changes to TC WELIN -> Sector 28 agreements (event only) - thanks to @hsugden (Harry Sugden)
+29. Procedure Change - Reverted temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden
+30. Procedure Change - Changes to TC WELIN -> Sector 28 agreements (event only) - thanks to @hsugden
 31. AIRAC (2204) - Updated Norwich (EGSH) runway coordinates - thanks to @SwietyMik (Mikolaj Huk)
 32. AIRAC (2204) - Updated EAS NDB coordinates - thanks to @SwietyMik (Mikolaj Huk)
 33. AIRAC (2204) - Updated Sumburgh (EGPB) runway heading - thanks to @SwietyMik (Mikolaj Huk)
@@ -161,7 +165,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 35. AIRAC (2204) - Amended Northampton/Sywell (EGBK) Positions (from AFIS to A/G) - thanks to @Hinshee (Will Hinshaw)
 
 # Changes from release 2022/02 to 2022/03
-1. Bug - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden (Harry Sugden)
+1. Bug - Corrected Luton (EGGW) LISTO 1N STAR designator - thanks to @hsugden
 2. Bug - Corrected Sumburgh (EGPB) THR coords - thanks to @WillShaw1100 (William Shaw)
 3. Enhancement - Corrected Benbecula (EGPL) runway heading - thanks to @ChrisXPP (Christoph Reule)
 4. AIRAC (2203) - Updated BRI NDB Coordinates - thanks to @SwietyMik (Mikolaj Huk)
@@ -174,25 +178,25 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 11. Enhancement - Updated Blackpool (EGNH) SMR - thanks to @PLM1995 (Peter Mooney)
 12. AIRAC (2203) - Updated Sumburgh (SBH) NDB & (SUM) VOR coords - thanks to @WillShaw1100 (William Shaw)
 13. Bug - Added missing N7 taxiway at Heathrow (EGLL) - thanks to @SwietyMik (Mikolaj Huk)
-14. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden (Harry Sugden)
+14. Enhancement - Improved alignment of OCAS region west of P18 - thanks to @hsugden
 15. AIRAC (2203) - Updated Stornoway (EGPO) SMR - thanks to @PLM1995 (Peter Mooney)
 16. Enhancement - Updated Dundee (EGPN) SMR - thanks to @PLM1995 (Peter Mooney)
-17. Procedure Change - Introduction of EURW-N split, covering French sectors above FL255/FL295 - thanks to @hsugden (Harry Sugden)
+17. Procedure Change - Introduction of EURW-N split, covering French sectors above FL255/FL295 - thanks to @hsugden
 18. Enhancement - Added two-digit numerical naming to ensure correct ordering - thanks to @SwietyMik (Mikolaj Huk)
 19. AIRAC (2203) - Established Borders CTA 14 - thanks to @AleksMax (Aleks Nieszczerzewski)
-20. Procedure Change - Temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden (Harry Sugden)
-21. Enhancement - Amended Borders/Yorkshire CTA FL125 airspace base labels to enable independent toggling - thanks to @hsugden (Harry Sugden)
-22. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden (Harry Sugden)
-23. Procedure Change - Added EBCI to EBBU -> Sector 14 (Clacton) climbing FL250 agreement - thanks to @hsugden (Harry Sugden)
-24. Procedure Change - Added secondary Blackpool (EGNH) Tower frequency - thanks to @hsugden (Harry Sugden)
-25. Enhancement - Added Static Boundaries for ScAC North & South, and Lakes & North Sea - thanks to @hsugden (Harry Sugden)
-26. Enhancement - Added Static Boundaries for event splits: Pembroke, S23, Exmoor, LUS - thanks to @hsugden (Harry Sugden)
+20. Procedure Change - Temporary Polaris - Stavanger (ENSV) ownership changes - thanks to @hsugden
+21. Enhancement - Amended Borders/Yorkshire CTA FL125 airspace base labels to enable independent toggling - thanks to @hsugden
+22. Bug - Fixed Clacton (S14) -> TC East (JACKO) Essex inbounds 220 XAMAN/ROSVA/RINIS COPX display - thanks to @hsugden
+23. Procedure Change - Added EBCI to EBBU -> Sector 14 (Clacton) climbing FL250 agreement - thanks to @hsugden
+24. Procedure Change - Added secondary Blackpool (EGNH) Tower frequency - thanks to @hsugden
+25. Enhancement - Added Static Boundaries for ScAC North & South, and Lakes & North Sea - thanks to @hsugden
+26. Enhancement - Added Static Boundaries for event splits: Pembroke, S23, Exmoor, LUS - thanks to @hsugden
 
 # Changes from release 2022/01 to 2022/02
 1. AIRAC (2201) - Updated various Stansted (EGSS) Changes - thanks to @SwietyMik (Mikolaj Huk)
 2. Enhancement - Remove Old Heathrow (EGLL) SMR - thanks to @Hinshee (Will Hinshaw)
 3. Procedure Change - Amended S29 -> Deancross MTMA deps agreements to climbing FL280 - thanks to @ChrisXPP (Christoph Reule)
-4. Procedure Change - EURM_W_CTR callsign changed to EURM-W_CTR - thanks to @hsugden (Harry Sugden)
+4. Procedure Change - EURM_W_CTR callsign changed to EURM-W_CTR - thanks to @hsugden
 5. AIRAC (2202) - Updated Isle of Man (EGNS) Runway heading - thanks to @SwietyMik (Mikolaj Huk)
 6. Bug - Removed TRIPO from Heathrow (EGLL) & RAF Northolt (EGWU) affected STARs - thanks to @SwietyMik (Mikolaj Huk)
 7. Bug - Added Stansted (EGSS) Debden VRP - thanks to @SwietyMik (Mikolaj Huk)
@@ -201,29 +205,29 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 10. Procedure Change - Internal (Enroute) 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
 11. AIRAC (2202) - Updated Scilly Isles/St Mary's (EGHE) SMR - thanks to @SwietyMik (Mikolaj Huk)
 12. Enhancement - Added missing London Information frequency - thanks to @danielbutton (Daniel Button) - NOT INCLUDED IN PUBLIC CHANGELOG
-13. AIRAC (2202) - Various changes to Clacton, Daventry and Midlands CTAs and associated airspace base labels - thanks to @hsugden (Harry Sugden)
-14. AIRAC (2202) - Removed London TMA 2 and amended London TMA 3 - thanks to @hsugden (Harry Sugden)
-15. AIRAC (2202) - Amended London Stansted CTA 3 airspace base - thanks to @hsugden (Harry Sugden)
+13. AIRAC (2202) - Various changes to Clacton, Daventry and Midlands CTAs and associated airspace base labels - thanks to @hsugden
+14. AIRAC (2202) - Removed London TMA 2 and amended London TMA 3 - thanks to @hsugden
+15. AIRAC (2202) - Amended London Stansted CTA 3 airspace base - thanks to @hsugden
 16. Procedure Change - Brest (LFRR) Callsign changes - thanks to @SwietyMik (Mikolaj Huk)
 17. AIRAC (2202) - Added Luton (EGGW) New approach transition fixes - thanks to @SwietyMik (Mikolaj Huk) - NOT INCLUDED IN PUBLIC CHANGELOG
 18. Procedure Change - External 25 kHz frequency conversion - thanks to @ChrisXPP (Christoph Reule)
 19. Procedure Change - Added EGMC Departures to TCNW -> TCSW CPT Agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 20. Procedure Change - Completed Internal 25 kHz frequency conversions - thanks to @AleksMax (Aleks Nieszczerzewski)
-21. Bug - Updated Worthing and Dover Static Boundaries (Stars) to reflect current sectorisation - thanks to @hsugden (Harry Sugden)
+21. Bug - Updated Worthing and Dover Static Boundaries (Stars) to reflect current sectorisation - thanks to @hsugden
 22. AIRAC (2202) - Updated Stansted (EGSS) SIDs - thanks to @khardern (Kieran Hardern)
 23. AIRAC (2202) - Updated Luton (EGGW) STARs & COPX - thanks to @khardern (Kieran Hardern)
 24. AIRAC (2202) - Removed references to Essex Radar and created a separate SS INT - thanks to @khardern (Kieran Hardern)
-25. Procedure Change - Changes to Stansted & Luton airspace (SAIP AD6) - thanks to @hsugden (Harry Sugden)
+25. Procedure Change - Changes to Stansted & Luton airspace (SAIP AD6) - thanks to @hsugden
 26. AIRAC (2202) - Added New Scottish CTAs & Removed Airways - thanks to @luke11brown (Luke Brown)
 27. Procedure Change - Polaris callsign changes - thanks to @ChrisXPP (Christoph Reule)
 28. Procedure Change (2202) - New TC CPT, S25 and S23 EGSS departure COPX - thanks to @SwietyMik (Mikolaj Huk)
 29. Procedure Change - Added all Thames Group airfields to TC SW -> S23 agreement via KENET - thanks to @ChrisXPP (Christoph Reule)
 30. Bug - Corrected Naming of Shoreham (EGKA) RNP Approach Fixes - thanks to @danielbutton (Daniel Button)
 31. AIRAC (2113) - St Athan (EGSY) ground changes - thanks to @Bucklerz (Reece Buckley) and @SwietyMik (Mikolaj Huk)
-32. Procedure Change - Updated EISN callsigns and controller identifiers - thanks to @hsugden (Harry Sugden)
-33. Enhancement - Amended EIDW controller identifiers to reflect roles, rather than callsign number - thanks to @hsugden (Harry Sugden)
-34. Bug - Corrected Rathlin/EISN agreements for ScTMA/EGPK traffic - thanks to @hsugden (Harry Sugden)
-35. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden (Harry Sugden)
+32. Procedure Change - Updated EISN callsigns and controller identifiers - thanks to @hsugden
+33. Enhancement - Amended EIDW controller identifiers to reflect roles, rather than callsign number - thanks to @hsugden
+34. Bug - Corrected Rathlin/EISN agreements for ScTMA/EGPK traffic - thanks to @hsugden
+35. Procedure Change - Amended Stansted (EGSS) and Cambridge (EGSC) top-down ownership, now with TC NE - thanks to @hsugden
 36. Procedure Change - Added Deancross -> Galloway Belfast Group inbound COPX - thanks to @GeekPro101 (Thomas Mills)
 37. Enhancement - Added new FAVA for EGAA, EGAC & EGPK and split original SMAA & FAVA for EGPF, EGPH & EGPD - thanks to @lewishh (Lewis Hardcastle)
 38. Enhancement - Added Elstree (EGTR) Data and SMR - thanks to @danielbutton (Daniel Button)
@@ -231,14 +235,14 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 40. Enhancement - Adds Luton and Stansted LFAs - thanks to @cbyworth (Chad Byworth)
 41. Enhancement - Added Selectable Display Options to aid Essex Group Vectoring - thanks to @AleksMax (Aleks Nieszczerzewski)
 42. Bug - Fixed CPT/COWLY COPX TC NW -> TC CPT for SS/SC deps - thanks to @GeekPro101 (Thomas Mills)
-43. Bug - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugden (Harry Sugden)
+43. Bug - Corrected COPX level for LTMA deps via LELNA/LORKU - thanks to @hsugden
 44. Enhancement - Amended Scottish internal event agreements - thanks to @GeekPro101 (Thomas Mills)
 45. Procedure Change - Added EGTK and EGSC to TC COWLY -> S25 COPX - thanks to @ChrisXPP (Christoph Reule)
-46. Procedure Change - London Sector Changes to support SAIP AD6 (Luton Arrivals) - thanks to @hsugden (Harry Sugden)
+46. Procedure Change - London Sector Changes to support SAIP AD6 (Luton Arrivals) - thanks to @hsugden
 
 # Changes from release 2021/13 to 2022/01
 1. AIRAC (2113) - Updated Oxford (EGTK) SMR - thanks to @SwietyMik (Mikolaj Huk)
-2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden (Harry Sugden)
+2. Bug - Fixed unclosed border lines for London S25 - thanks to @hsugden
 3. AIRAC (2109) - Updated Prestwick (EGPK) SMR - thanks to @SwietyMik (Mikolaj Huk)
 4. Enhancement - Added freetext category for major HEMS sites and hospitals - thanks to @JamesH2432
 5. AIRAC (2201) - Updated VALBO fix coordinates - thanks to @ChrisXPP (Christoph Reule)
@@ -254,29 +258,29 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 15. NOTAM - Kinloss portion of CMATZ Withdrawn - thanks to @trevorhannant (Trevor Hannant)
 16. AIRAC (2201) - Updated Londonderry/Eglinton (EGAE) stand 4A coord - thanks to @SwietyMik (Mikolaj Huk)
 17. AIRAC (2201) - Added Glasgow (EGPF) taxiway C closure - thanks to @WillShaw1100 (William Shaw)
-18. Bug - Fixed erroneous TC South East (TC SE) line coordinates - thanks to @hsugden (Harry Sugden)
+18. Bug - Fixed erroneous TC South East (TC SE) line coordinates - thanks to @hsugden
 19. AIRAC (2201) - Updated Gloucestershire (EGBJ) SMR - thanks to @SwietyMik (Mikolaj Huk)
 20. Enhancement - Updated Gatwick (EGKK) BIG designators - thanks to @WillShaw1100 (William Shaw)
 21. Bug - Updated the Heathrow (EGLL) WIP on A (South) - thanks to @kye-taylor (Kye Taylor)
-22. Enhancement - Amended ESE build order for Bristol, Cardiff and Exeter APP airspace to improve COPX display - thanks to @hsugden (Harry Sugden)
-23. Enhancement - Major overhaul of line display for LAC South (and associated sectors) - thanks to @cpawley (Chris Pawley) and @hsugden (Harry Sugden)
-24. Enhancement - Removed duplicate definitions of Area positions with hyphens following new Relief Callsign Policy - thanks to @hsugden (Harry Sugden)
-25. Procedure Change - Updated middle identifiers of Daventry & TC Midlands splits - thanks to @hsugden (Harry Sugden)
-26. Enhancement - Added London OTMET position (Hurn & Exmoor bandbox) for events - thanks to @hsugden (Harry Sugden)
-27. Enhancement - Various updates and corrections to Airways - thanks to @hsugden (Harry Sugden)
+22. Enhancement - Amended ESE build order for Bristol, Cardiff and Exeter APP airspace to improve COPX display - thanks to @hsugden
+23. Enhancement - Major overhaul of line display for LAC South (and associated sectors) - thanks to @cpawley (Chris Pawley) and @hsugden
+24. Enhancement - Removed duplicate definitions of Area positions with hyphens following new Relief Callsign Policy - thanks to @hsugden
+25. Procedure Change - Updated middle identifiers of Daventry & TC Midlands splits - thanks to @hsugden
+26. Enhancement - Added London OTMET position (Hurn & Exmoor bandbox) for events - thanks to @hsugden
+27. Enhancement - Various updates and corrections to Airways - thanks to @hsugden
 
 # Changes from release 2021/12 to 2021/13
 1. AIRAC (2113) - Adjusted Glasgow (EGPF) Runway heading - thanks to @coleedwards (Cole Edwards)
-2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden (Harry Sugden)
+2. AIRAC (2113) - Renamed Lands End to Land's End - thanks to @hsugden
 3. AIRAC (2110) - updated Doncaster (EGCN) SMR - thanks to @stuart5250 (Stuart Keaney)
-4. Bug - Removed M604 Conventional airway entry - thanks to @hsugden (Harry Sugden)
-5. Procedure Change (2113) - EURM_CTR position split, becoming EURM_W_CTR (135.750) - thanks to @hsugden (Harry Sugden)
-6. Enhancement - Updated Eglinton (EGAE) runway threshold coordinates - thanks to @hsugden (Harry Sugden)
-7. AIRAC (2113) - Updated Borders CTA 1 airspace base label - thanks to @hsugden (Harry Sugden)
+4. Bug - Removed M604 Conventional airway entry - thanks to @hsugden
+5. Procedure Change (2113) - EURM_CTR position split, becoming EURM_W_CTR (135.750) - thanks to @hsugden
+6. Enhancement - Updated Eglinton (EGAE) runway threshold coordinates - thanks to @hsugden
+7. AIRAC (2113) - Updated Borders CTA 1 airspace base label - thanks to @hsugden
 8. Bug - Added Guernsey Approach Top-Down Ownership for Alderney - thanks to @danielbutton (Daniel Button)
-9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden (Harry Sugden)
-10. AIRAC (2109) - Updated Prestwick (EGPK) Runway heading - thanks to @hsugden (Harry Sugden)
-11. Bug - Updated MUAC Jever ownership and EDWW frequencies - thanks to @hsugden (Harry Sugden)
+9. Enhancement - Removed redundant old data including runway fixes - thanks to @hsugden
+10. AIRAC (2109) - Updated Prestwick (EGPK) Runway heading - thanks to @hsugden
+11. Bug - Updated MUAC Jever ownership and EDWW frequencies - thanks to @hsugden
 
 # Changes from release 2021/10 to 2021/12
 1. AIRAC (2108) - Updated St Athan (EGSY) SMR - thanks to @Hinshee (Will Hinshaw)
@@ -284,10 +288,10 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 3. Enhancement - Change callsign for NAT_FSS to Shanwick Oceanic - thanks to @WillShaw1100 (William Shaw)
 4. AIRAC (2111) - Update Luton (EGGW) Runway Headings - thanks to @WillShaw1100 (William Shaw)
 5. AIRAC (2111) - Updated Wolverhampton (EGBO) Runway Headings - thanks to @WillShaw1100 (William Shaw)
-6. Enhancement/Bug - Various improvements to Area sectorisation and ownership - thanks to @hsugden (Harry Sugden)
+6. Enhancement/Bug - Various improvements to Area sectorisation and ownership - thanks to @hsugden
 7. AIRAC (2111) - Converted Lands End Transit Corridor to Lands End RMZ - thanks to @danielbutton (Daniel Button)
 8. AIRAC (2111) - Removed Bristol Stands 3R, 32L & 32R - thanks to @danielbutton (Daniel Button)
-9. AIRAC (2107) - Amended City/Thames SMAA - thanks to @hsugden (Harry Sugden)
+9. AIRAC (2107) - Amended City/Thames SMAA - thanks to @hsugden
 10. AIRAC (2112) - FRA Deployment 1 - Removed old fixes - thanks to @robbo599 (Lee Roberts)
 11. AIRAC (2112) - FRA Deployment 1 - Added new Fixes - thanks to @robbo599 (Lee Roberts)
 12. AIRAC (2112) - FRA Deployment 1 - Removed old airways - thanks to @robbo599	(Lee Roberts)
@@ -295,7 +299,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 14. AIRAC (2112) - Adjusted Glasgow (EGPF) Runway headings and coordinates as necessary - thanks to @JackG2004 (Jack Gil)
 15. AIRAC (2112) - FRA Deployment 1 - Updated COPX points for FRA in LARLA triangle - thanks to @khardern (Kieran Hardern)
 16. Procedure Change - New Bristol delegated airspace - thanks to @trevorhannant (Trevor Hannant)
-17. AIRAC (2112) - Added EGPX Free Route Airspace (FRA) as a Star to optionally display - thanks to @hsugden (Harry Sugden)
+17. AIRAC (2112) - Added EGPX Free Route Airspace (FRA) as a Star to optionally display - thanks to @hsugden
 
 # Changes from release 2021/09 to 2021/10
 1. Bug - Added missing Stansted (EGSS) taxiway from A southbound turning left on J. - thanks to @coleedwards (Cole Edwards)
@@ -309,14 +313,14 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 9. AIRAC (2110) - Removed Carlisle (CL) NDB - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. AIRAC (2110) - Updated East Midlands (EGNX) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 11. AIRAC (2109) - Shoreham (EGKA) changes to runway mag heading and SMR updates - thanks to @coleedwards (Cole Edwards)
-12. Enhancement - Updated ownership definition of delegated airspace in the Amsterdam FIR - thanks to @hsugden (Harry Sugden)
+12. Enhancement - Updated ownership definition of delegated airspace in the Amsterdam FIR - thanks to @hsugden
 13. AIRAC (2110) - Converted Carlisle ATC to Carlisle Radio - thanks to @AleksMax (Aleks Nieszczerzewski)
 14. AIRAC (2110) - Updated Islay (EGPI) Runways Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
 15. Enhancement - Added Tiree (EGPU) RNP approach fixes - thanks to @scalderhead (Stephen Calderhead)
 16. Enhancement - Updated Dutch Conventional Navaids - thanks to @AleksMax (Aleks Nieszczerzewski)
 17. Procedure Change - Shannon (EISN) high level ownership changes - thanks to @Paulmc98 (Paul McDyer)
-18. Bug - Added missing La Manche delegation ownership definition for Sector 17 - thanks to @hsugden (Harry Sugden)
-19. Enhancement - General improvements to sector definitions in LAC South - thanks to @hsugden (Harry Sugden)
+18. Bug - Added missing La Manche delegation ownership definition for Sector 17 - thanks to @hsugden
+19. Enhancement - General improvements to sector definitions in LAC South - thanks to @hsugden
 20. Enhancement - Runway track changes document removed - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2021/08 to 2021/09
@@ -370,7 +374,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 2. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
 3. Enhancement - Added Yeovil Westland (EGHG) Sectors and Ownership - thanks to @danielbutton (Daniel Button)
 4. Bug - Fixed missing TC NW/Daventry line - thanks to @robbo599 (Lee Roberts)
-5. Procedure Change - Added additional COPX for Clacton S13 -> Dover S26 Severn group inbounds - thanks to @hsugden (Harry Sugden)
+5. Procedure Change - Added additional COPX for Clacton S13 -> Dover S26 Severn group inbounds - thanks to @hsugden
 8. Bug - Fixed FF -> GD Agreement Bug - thanks to @danielbutton (Daniel Button)
 7. AIRAC (2102) - RAF Linton on Ouse (EGXU) closed - thanks to @robbo599 (Lee Roberts)
 8. AIRAC (2106) - Jersey (EGJJ) JSY1X -> 2x, JSY1W -> 2W - thanks to @robbo599	(Lee Roberts)
@@ -413,12 +417,12 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 4. AIRAC (2105) - Updated Sleap (EGCV) ARP - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2105) - Updated Swansea (EGFH) ARP - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. AIRAC (2105) - Updated Redhill (EGKR) Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
-7. Bug - Corrected Sector 24 ownership - thanks to @hsugden (Harry Sugden)
+7. Bug - Corrected Sector 24 ownership - thanks to @hsugden
 8. AIRAC (2105) - KW NDB coordinate changes and threshold updates for Kirkwall (EGPA) - thanks to @JackG2004 (Jack Gil)
 9. AIRAC (2105)- Updated Wellesbourne (EGBW) Runway mag tracks - thanks to @JackG2004 (Jack Gil)
 10. AIRAC (2105) - Updated Gloucestershire (EGBJ) Runway Data - thanks to @AleksMax (Aleks Nieszczerzewski)
 11. Enhancement - New holding points added and magnetic runway heading updated for Blackbushe (EGLK) - thanks to @JackG2004 (Jack Gil)
-12. Procedure Change - Revert Reykjavik (BIRD) CTP sectorisation changes - thanks to @hsugden (Harry Sugden)
+12. Procedure Change - Revert Reykjavik (BIRD) CTP sectorisation changes - thanks to @hsugden
 13. AIRAC (2105) - Added New Cambridge (EGSC) STARs - thanks to @robbo599 (Lee Roberts)
 14. AIRAC (2105) - Added New Luton (EGGW) STARs - thanks to @robbo599 (Lee Roberts)
 15. AIRAC (2105) - Added new Stansted (EGSS) STARs - thanks to @robbo599 (Lee Roberts)
@@ -442,36 +446,36 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 8. Enhancement - Added SMAA Bases for various OCAS airports - thanks to @Bucklerz (Reece Buckley)
 9. Procedure Change - Add DVR RFC Area - thanks to @Bucklerz (Reece Buckley)
 10. Bug - Removed duplicate ownership codes in EGGD, EGAE, EGLL, EGPK, and EGWU - thanks to @GeekPro101 (Thomas Mills)
-11. Enhancement - Added London Heliport (EGLW) ownership and runway - thanks to @hsugden (Harry Sugden)
+11. Enhancement - Added London Heliport (EGLW) ownership and runway - thanks to @hsugden
 12. Enhancement - Added Hawarden RMZ - thanks to @cbyworth (Chad Byworth)
-13. Procedure Change - Added Manchester (EGCC) Planner position - thanks to @hsugden (Harry Sugden)
-14. Bug - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden (Harry Sugden)
+13. Procedure Change - Added Manchester (EGCC) Planner position - thanks to @hsugden
+14. Bug - Corrected RT callsign of Heathrow (EGLL) Planner position - thanks to @hsugden
 15. Bug - Removed Erroneous Coordinate in Gatwick RMA - thanks to @AleksMax (Aleks Nieszczerzewski)
 16. Bug - Corrected Erroneous MTMA Outbound Agreements via ARSAT - thanks to @AleksMax (Aleks Nieszczerzewski)
 17. Bug - Added Missing RADAR section to Compiler Config - thanks to @AleksMax (Aleks Nieszczerzewski)
-18. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden (Harry Sugden)
-19. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Added Shannon LFUNCs - thanks to @Bucklerz (Reece Buckley) and @hsugden
+19. Enhancement - Improved Scottish EGPX FIR and Irish Sea CTA 1 definitions - thanks to @hsugden
 20. Enhancement - Add Cumbernauld (EGPG) SMR - thanks to @JackG2004 (Jack Gil)
 21. Enhancement - Updated Manchester MSA cones colour - thanks to @cbyworth (Chad Byworth)
 22. Bug - Edited Bournemouth (EGHH) holding point D1 - thanks to @Bucklerz (Reece Buckley)
 23. Enhancement - Unifies airspace base formatting with airspace class/conditional airspace as required - thanks to @cbyworth (Chad Byworth)
 24. Enhancement - Refactored airspace bases to be consistent with how they are compiled - thanks to @AndyTWF (Andy Ford)
-25. Enhancement - Updated UK Area positions files and added Shanwick & Gander Oceanic frequencies - thanks to @hsugden (Harry Sugden)
+25. Enhancement - Updated UK Area positions files and added Shanwick & Gander Oceanic frequencies - thanks to @hsugden
 26. Bug - Corrected Birmingham (EGBB) Air Network fixes - thanks to @MrSandyWilly (William Sandford)
 27. Enhancement - Added Splitting Functionality and COPX for Exeter Radar - thanks to @danielbutton (Daniel Button)
 28. Enhancement - Added new Coventry SMR (EGBE) - Thanks to @JackG2004 (Jack Gil)
-29. Procedure Change (Temporary) - Reykjavik (BIRD) CTP sectorisation added to enable correct auto-handoff/sector prediction - thanks to @hsugden (Harry Sugden)
+29. Procedure Change (Temporary) - Reykjavik (BIRD) CTP sectorisation added to enable correct auto-handoff/sector prediction - thanks to @hsugden
 30. Enhancement - Added FIR Flow Coordinator positions for CTP/events - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2021/02 to 2021/03
-1. Bug - Corrected TC East static boundary - thanks to @hsugden (Harry Sugden)
+1. Bug - Corrected TC East static boundary - thanks to @hsugden
 2. Bug - Fixed Missing Mentoring APP Sector Lines for East Midlands (EGNX) - thanks to @AleksMax (Aleks Nieszczerzewski)
 3. Bug - Fixed Oxford (EGTK) ATZ circle sector size - thanks to @zyriantdt-x (Ellis Delgado)
 4. AIRAC (2103) - Updated Coordinates following Jersey Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2103) - Updated GUR VOR Coordiantes due to Magnetic Variation Survey - thanks to @AleksMax (Aleks Nieszczerzewski)
 6. Enhancement - Added Option to Display Fictional Apron at Hawarden (EGNR) - thanks to @danielbutton (Daniel Button)
 7. Enhancement - Add Hawarden (EGNR) airways departures - thanks to @zyriantdt-x (Ellis Delgado)
-8. Procedure Change - Updated MUAC Delta/Koksy boundary in ownership and lines - thanks to @hsugden (Harry Sugden)
+8. Procedure Change - Updated MUAC Delta/Koksy boundary in ownership and lines - thanks to @hsugden
 9. Procedure Change - Removed all references to EURI - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Enhancement - Added St Athan (EGSY) Extended Centrelines - thanks to @danielbutton (Daniel Button)
 11. Enhancement - Added various fixes in the northeast corner of the French UTA - thanks to @Bucklerz (Reece Buckley)
@@ -479,9 +483,9 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 13. Bug - Fixed S5 -> DUB S - ABLIN/LIPGO Auto-Handoff - thanks to @AleksMax (Aleks Nieszczerzewski)
 14. Bug - Reordered Gatwick (EGKK) FRANE1Z SID to correct behaviour - thanks to @GeekPro101 (Thomas Mills)
 15. Enhancement - NATS en-route radar sites and radar holes added - thanks to @luke11brown (Luke Brown)
-16. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden (Harry Sugden)
-17. Enhancement - Various minor changes/fixes to Scottish lines and ownership - thanks - thanks to @hsugden (Harry Sugden)
-18. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden (Harry Sugden)
+16. Bug - Fixed ownership for airfields in event split Sector 9 (AC West) - thanks to @hsugden
+17. Enhancement - Various minor changes/fixes to Scottish lines and ownership - thanks - thanks to @hsugden
+18. Bug - Fixed order of EDYY -> Clacton FIR COPX lines to ensure correct agreement display when Clacton is bandboxed - thanks to @hsugden
 19. Enhancement - Separated the Bealine and maintenance at Heathrow (EGLL) so they may be displayed optionally - thanks to @MrSandyWilly (William Sandford)
 20. Bug -  Fixed Erronous Shannon SOTA Defintion - thanks to @luke11brown (Luke Brown)
 21. Enhancement - Added Birmingham (EGBB) Ground and Air Networks - thanks to @1adamf (Adam Farquharson, James Taylor and Dean Benavidez)
@@ -505,32 +509,32 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 15. Enhancement - Remove Unused Data for Closed Airfields  - @ScottDaniels292 (Scott Daniels)
 16. Bug - Corrected Perth A/G Frequency - thanks to @danielbutton (Daniel Button)
 17. Bug - Updated Tacan Routes - Thanks to @robbo599 (Lee Roberts)
-18. Bug - Amended COPX build order to fix TC REDFA -> EHAA agreement display - thanks to @hsugden (Harry Sugden)
+18. Bug - Amended COPX build order to fix TC REDFA -> EHAA agreement display - thanks to @hsugden
 19. AIRAC (2102) - Added Borders CTAs - thanks to @robbo599 (Lee Roberts)
 20. AIRAC (2102) - Added Northern CTAs - thanks to @robbo599 (Lee Roberts)
 21. AIRAC (2102) - Added Yorkshire CTAs - thanks to @robbo599 (Lee Roberts)
 22. Enhancement - Added BIGHDG SID for KK -> LL/WU flights - thanks to @GeekPro101 (Thomas Mills)
 23. Procedure Change - Add SODVU Box - thanks to @Bucklerz (Reece Buckley)
 24. Bug - Removed unnecessary GD FIN -> GD TWR COPX Agreement - thanks to @danielbutton (Daniel Button)
-25. Procedure Change - Added new BAKUR RFC Area - thanks to @hsugden (Harry Sugden)
-26. Enhancement - Added SODVU Box ownership to ensure agreements for LC Deps -> TC SE function correctly - thanks to @hsugden (Harry Sugden)
+25. Procedure Change - Added new BAKUR RFC Area - thanks to @hsugden
+26. Enhancement - Added SODVU Box ownership to ensure agreements for LC Deps -> TC SE function correctly - thanks to @hsugden
 27. Procedure Change - Added Thames -> TC SE EGLC EKNIV Departure Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 28. Procedure Change - Added Jersey RFC Line - thanks to @danielbutton (Daniel Button)
-29. Procedure Change - Updated London <-> Ireland agreements and Shannon sector names - thanks to @hsugden (Harry Sugden)
+29. Procedure Change - Updated London <-> Ireland agreements and Shannon sector names - thanks to @hsugden
 30. Procedure Change - Add DIKRO Box - thanks to @Bucklerz (Reece Buckley)
 31. AIRAC (2102) - N601(D) Conditional Airspace becomes Borders CTA 5 - thanks to @luke11brown (Luke Brown)
 32. Bug - Fixed TC South East Static Line Boundary - thanks to @danielbutton (Daniel Button)
 33. Bug - Remove all instances of LWC in ownership - thanks to @bbrushfield (William Brushfield)
-34. Bug - Corrected Gatwick (EGKK) APP ownership and COPX for inbounds - thanks to @hsugden (Harry Sugden)
-35. Bug - Fixed errors in French sector ownership - thanks to @hsugden (Harry Sugden)
+34. Bug - Corrected Gatwick (EGKK) APP ownership and COPX for inbounds - thanks to @hsugden
+35. Bug - Fixed errors in French sector ownership - thanks to @hsugden
 36. Secret Enhancement - Added Backup TC Gatwick (SPT) Frequency - thanks to @lennycolton (Lenny Colton)
-37. Bug - Removed Doncaster (EGCN) Thorpe Marsh VRP - thanks to @P057code (Unknown) and @hsugden (Harry Sugden)
-38. Procedure Change - Updated London <-> France agreements to reflect the new LoA - thanks to @hsugden (Harry Sugden)
+37. Bug - Removed Doncaster (EGCN) Thorpe Marsh VRP - thanks to @P057code (Unknown) and @hsugden
+38. Procedure Change - Updated London <-> France agreements to reflect the new LoA - thanks to @hsugden
 39. Procedure Change - Added new London position - Daventry Standalone (LON_M_CTR) - thanks to @aeroniemi (Alex Beavil)
-40. Bug - Fixed Bristol (EGGD) APP ownership to ensure correct function of COPX - thanks to @hsugden (Harry Sugden)
-41. Bug - Improved line display to Clacton sectors of TC - thanks to @hsugden (Harry Sugden)
-42. Procedure Change - Added Reims Release Area - thanks to @hsugden (Harry Sugden)
-43. Bug - Fixed Line Display to AC Worthing between SITET-XIDIL for Brest/Paris' online presence - thanks to @hsugden (Harry Sugden)
+40. Bug - Fixed Bristol (EGGD) APP ownership to ensure correct function of COPX - thanks to @hsugden
+41. Bug - Improved line display to Clacton sectors of TC - thanks to @hsugden
+42. Procedure Change - Added Reims Release Area - thanks to @hsugden
+43. Bug - Fixed Line Display to AC Worthing between SITET-XIDIL for Brest/Paris' online presence - thanks to @hsugden
 44. Enhancement - Landmass colour adjusted. Alternative colours added as comment - thanks to @luke11brown (Luke Brown)
 45. Bug - Fix ESE git artifacts following London Daventry Standalone - thanks to @luke11brown (Luke Brown)
 
@@ -558,9 +562,9 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 21. Enhancement - Added Coningsby (EGXC) MIDS - thanks to @ScottDaniels292 (Scott Daniels)
 22. Enhancement - Added Backgrounds to Cardiff (EGFF) and St Athan (EGSY) SMRs - thanks to @danielbutton (Daniel Button)
 23. Procedure Change - Added KOKSY Gate and Buffer Zone - thanks to @AleksMax (Aleks Nieszczerzewski)
-24. Procedure Change - Updated COPX in line with new Dutch LoA - thanks to @hsugden (Harry Sugden)
-25. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden (Harry Sugden)
-26. Enhancement - Added Area GS positions and Alt Ownership functionality - thanks to @hsugden (Harry Sugden)
+24. Procedure Change - Updated COPX in line with new Dutch LoA - thanks to @hsugden
+25. Procedure Change - Updated COPX in line with new Belux LoA - thanks to @hsugden
+26. Enhancement - Added Area GS positions and Alt Ownership functionality - thanks to @hsugden
 27. Enhancement - Add Aberdeen HELS/REBOS position and sectors - thanks to @robbo599 (Lee Roberts)
 28. Enhancement - Resectorised Brest FIR - thanks to @jackedwards815 (Jack Edwards)
 29. Enhancement - Add Gatwick (EGKK) Planner - thanks to @cbyworth (Chad Byworth)
@@ -581,7 +585,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 12. Procedure Change - Updated Guernsey (EGJB) Callsigns and Frequencies - thanks to @chssn (Chris Parkinson)
 13. Bug - Corrected Rathlin Display Rules - thanks to @AndyTWF (Andy Ford)
 14. Bug - Fixed Warton + Blackpool Sector Display Bug - thanks to @AleksMax (Aleks Nieszczerzewski)
-15. Enhancement - Updated positioning of the Midlands Radar Gate - thanks to @hsugden (Harry Sugden)
+15. Enhancement - Updated positioning of the Midlands Radar Gate - thanks to @hsugden
 16. Bug - Fixed Culdrose (EGDR) and Lands End (EGHC) GEO being excluded from build - thanks to @PLM1995 (Peter Mooney)
 17. Documentation - Added real-world SMR reference images - thanks to @PLM1995 (Peter Mooney)
 18. Bug - Fixed Inaccurate EGCC Centrelines - thanks to @jackedwards815 (Jack Edwards)
@@ -629,19 +633,19 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 16. Enhancement - Portsmouth CTA Conditional Airspace made selectable - thanks to @luke11brown (Luke Brown)
 17. Enhancement - Made NITON CTA 2 Selectable - thanks to @luke11brown (Luke Brown)
 18. Bug - Fixed Portsmouth CTA 12 Airspace Base - thanks to @luke11brown (Luke Brown)
-19. Enhancement - Added further splitting options in ScAC East for events - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Added further splitting options in ScAC East for events - thanks to @hsugden
 20. Bug - Added 23 -> LS FF/FH/SY Outbound Agreement Missing Arrow - thanks to @AleksMax (Aleks Nieszczerzewski)
 21. Bug - Corrected 8 -> 23 BB Inbound Agreement Bug - thanks to @AleksMax (Aleks Nieszczerzewski)
 22. Enhancement - Added Heathrow (EGLL) Helicopter Aiming Point to SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 23. Bug - Corrected OCAS Region coordinates adjacent to Berry Head CTA2/4 - thanks to @luke11brown (Luke Brown)
-24. Procedure Change - PC Bandbox frequency changed to 133.875 - thanks to @hsugden (Harry Sugden)
-25. Procedure Change - Updated splitting functionality for MPC sectors - thanks to @hsugden (Harry Sugden)
-26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills) and @hsugden (Harry Sugden)
+24. Procedure Change - PC Bandbox frequency changed to 133.875 - thanks to @hsugden
+25. Procedure Change - Updated splitting functionality for MPC sectors - thanks to @hsugden
+26. Procedure Change - Updated S7 -> IoM Midlands Group inbound agreement - thanks to @GeekPro101 (Thomas Mills) and @hsugden
 27. Procedure Change - Updated Stafa -> S29 Midlands outbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 28. Procedure Change - Updated S29 -> 7 EGNT NV outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 29. Procedure Change - Updated S29 -> 7 Severn Group & TE outbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
-30. Procedure Change - Scottish sector boundaries updated in the area where Westcoast meets Galloway - thanks to @hsugden (Harry Sugden)
-31. Procedure Change - Amended agreements from Scottish to EGPF for inbounds via FOYLE/LOMON - thanks to @hsugden (Harry Sugden)
+30. Procedure Change - Scottish sector boundaries updated in the area where Westcoast meets Galloway - thanks to @hsugden
+31. Procedure Change - Amended agreements from Scottish to EGPF for inbounds via FOYLE/LOMON - thanks to @hsugden
 32. Bug - Correct sector owenership with Wick Tower (EGPT) and PC SE trent - thanks to @itsbenny99
 33. Enhancement - Added EHAA high -> Humber agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 34. Procedure Change - Amended Shannon East Frequency - thanks to @TheoBearman (Theo Bearman)
@@ -649,30 +653,30 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 36. Bug - Updated S14 -> TC Saber Agreement Bug - thanks to @robbo599 (Lee Roberts)
 37. Bug - Correct Military ownership levels and vis points - thanks to @jackedwards815 (Jack Edwards)
 38. Bug - Fixed missing holding point at Thruxton (EGHO) - thanks to @Bucklerz (Reece Buckley)
-39. Procedure Change - Added BB APP -> Sector 23 BB outbound (via MOSUN/N92) agreement - thanks to @hsugden (Harry Sugden)
-40. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - thanks to @hsugden (Harry Sugden)
-41. Enhancement - Updated Birmingham (EGBB) Approach airspace and sector ownership - thanks to @hsugden (Harry Sugden)
+39. Procedure Change - Added BB APP -> Sector 23 BB outbound (via MOSUN/N92) agreement - thanks to @hsugden
+40. Procedure Change - Updated TC WELIN -> BB APP inbound agreements via HON - thanks to @hsugden
+41. Enhancement - Updated Birmingham (EGBB) Approach airspace and sector ownership - thanks to @hsugden
 42. Procedure Change - Added Rathlin -> PC IOM COPX level capping - thanks to @AleksMax (Aleks Nieszczerzewski)
 43. Enhancement - Reformat of Cardiff Outbound Agreements - thanks to @danielbutton (Daniel Button)
 44. Bug - Fixed EGPE positioning order to allow for ownership to work - thanks to @TheoBearman (Theo Bearman)
 45. Bug - Added runways for Boscombe Down (EGDM) - thanks to @danielbutton (Daniel Button)
-46. Procedure Change - Added COPX level capping for flights via DCS, Deancross -> London S3 - thanks to @hsugden (Harry Sugden)
-47. Procedure Change - Further updates to French sectorisation, including removal of France Control (LFUP) - thanks to @hsugden (Harry Sugden)
-48. Bug - Added PEMAK Triangle ownership for London Sector 9 DB-FL245 - thanks to @hsugden (Harry Sugden)
-49. Enhancement - Added Maastricht Radar Delta & Jever sector split ownership - thanks to @hsugden (Harry Sugden)
-50. Procedure Change - Removed EBAW from Humber <-> Amsterdam ACC agreements - thanks to @hsugden (Harry Sugden)
+46. Procedure Change - Added COPX level capping for flights via DCS, Deancross -> London S3 - thanks to @hsugden
+47. Procedure Change - Further updates to French sectorisation, including removal of France Control (LFUP) - thanks to @hsugden
+48. Bug - Added PEMAK Triangle ownership for London Sector 9 DB-FL245 - thanks to @hsugden
+49. Enhancement - Added Maastricht Radar Delta & Jever sector split ownership - thanks to @hsugden
+50. Procedure Change - Removed EBAW from Humber <-> Amsterdam ACC agreements - thanks to @hsugden
 51. Bug - Added EMPAS fix to EGGD RNP09 - thanks to @compunutter (George Complin)
-52. Procedure Change - Removed Humber -> East agreement via ROVNI for MTMA/Midlands inbounds - thanks to @hsugden (Harry Sugden)
+52. Procedure Change - Removed Humber -> East agreement via ROVNI for MTMA/Midlands inbounds - thanks to @hsugden
 53. Procedure Change - Added Edinburgh-Glasgow 3NM Buffer Zone - thanks to @itsbenny99 (Benjamin Matthews)
-54. Bug - Fixed JJ Ownership to reflect the new West splits - thanks to @hsugden (Harry Sugden)
+54. Bug - Fixed JJ Ownership to reflect the new West splits - thanks to @hsugden
 55. AIRAC (2013) - New London City (EGLC) VRPs - thanks to @cbyworth (Chad Byworth)
 56. AIRAC (2013) - New Heathrow (EGLL) VRPs - thanks to @cbyworth (Chad Byworth)
 57. AIRAC (2013) - London Helicopter Route Update - thanks to @cbyworth (Chad Byworth)
 58. Procedure Change - Updated S10 -> East Agreement - thanks to @jamest00 (James Thomas)
-59. Enhancement - Added AC North (Sector 4) Splitting functionality - thanks to @hsugden (Harry Sugden)
-60. Enhancement - TC Mids now covers TC NW top-down - thanks to @khardern (Kieran Hardern) and @hsugden (Harry Sugden)
-61. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden (Harry Sugden)
-62. Bug - Fixed TC NE top-down ownership by TC SABER - thanks to @hsugden (Harry Sugden)
+59. Enhancement - Added AC North (Sector 4) Splitting functionality - thanks to @hsugden
+60. Enhancement - TC Mids now covers TC NW top-down - thanks to @khardern (Kieran Hardern) and @hsugden
+61. Bug - Fixed formatting of Swansea (EGFH) runway file - thanks to @hsugden
+62. Bug - Fixed TC NE top-down ownership by TC SABER - thanks to @hsugden
 63. Bug - Removed unused sectors from JJ - thanks to @GeekPro101 (Thomas Mills)
 64. Procedure Change - Added Scottish TMA local areas and Glasgow Designated Area - thanks to @AleksMax (Aleks Nieszczerzewski)
 65. Bug - Fixed Newcastle (EGNT) sector lines not displaying - thanks to @Bucklerz (Reece Buckley) and @GeekPro101 (Thomas Mills)
@@ -686,10 +690,10 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 4. Bug - Removed Duplicated Aberporth File - thanks to @danielbutton (Daniel Button)
 5. Bug - Fixed EISN_N_CTR frequency Bug - thanks to @TheoBearman (Theo Bearman)
 6. Bug - Correct ownership within the Channel Islands - thanks to @itsbenny99 (Benjamin Matthews)
-7. Bug/Procedure Change - Added new French (Paris, Brest and Reims) sectorisation - thanks to @hsugden (Harry Sugden)
+7. Bug/Procedure Change - Added new French (Paris, Brest and Reims) sectorisation - thanks to @hsugden
 
 # Changes from release 2020/12 to 2020/12b
-1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden (Harry Sugden)
+1. Enhancement - Added Heathrow (EGLL) AMAN 350NM Range Ring - thanks to @hsugden
 2. Bug - Corrected missing Region data (Compiler change) - thanks to @jackedwards815 (Jack Edwards)
 
 # Changes from release 2020/11 to 2020/12
@@ -707,10 +711,10 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 12. Bug - EGSY - Update Basic Info - thanks to @trevorhannant (Trevor Hannant)
 13. Enhancement - P18 between ADN-NATEB (CDR1) now selectable - thanks to @luke11brown (Luke Brown)
 14. Enhancement - Renamed Norway FIR to Polaris FIR (includes updated callsigns) - thanks to @AleksMax (Aleks Nieszczerzewski)
-15. Bug - Fixed Thames airspace line display - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Added the RAMOX Buffer (PC West / DUBN) as a display item under Stars - thanks to @hsugden (Harry Sugden)
+15. Bug - Fixed Thames airspace line display - thanks to @hsugden
+16. Enhancement - Added the RAMOX Buffer (PC West / DUBN) as a display item under Stars - thanks to @hsugden
 17. Bug - Restored functionality to AC West -> GD APP POMAX Agreement - thanks to @danielbutton (Daniel Button)
-18. Procedure Change - Updated PC East (Stafa/Trent) <-> PC West (S29) Midlands inbounds/outbounds agreements - thanks to @hsugden (Harry Sugden)
+18. Procedure Change - Updated PC East (Stafa/Trent) <-> PC West (S29) Midlands inbounds/outbounds agreements - thanks to @hsugden
 19. Bug - Fixed Inverness (EGPE) SMAA - thanks to @scottdaniels292 (Scott Daniels)
 20. AIRAC (2011) Updated EGHG Runways headings - thanks to @itsbenny99 (Benjamin Matthews)
 21. Enhancement - Updated Farnborough (EGLF) sector/airspace lines and add RMA - thanks to @cbyworth (Chad Byworth)
@@ -764,15 +768,15 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 11. Enhancement - Updated PC East > PC North Agreements - thanks to @robbo599 (Lee Roberts)
 12. Bug - Added SLP Fix (TUFOZ) to BEDEK 1G STAR - thanks to @AleksMax (Aleks Nieszczerzewski)
 13. AIRAC (2010) - Updated Aldergrove City (EGAC) SMR - thanks to @kye-taylor (Kye Taylor)
-14. Bug - Fixed (remove climbing arrow) S29 (PC East) -> 5 (AC West) agreement for EGNM/CN outbounds - thanks to @hsugden (Harry Sugden)
+14. Bug - Fixed (remove climbing arrow) S29 (PC East) -> 5 (AC West) agreement for EGNM/CN outbounds - thanks to @hsugden
 15. Enhancement - Define Bristol Delivery - thanks to @Bucklerz (Reece Buckley)
 16. Enhancement - Added FAVAs to EGPD SMAA - thanks to @SamLefevre (Samuel Lefevre)
-17. Enhancement - Changed land mass region colour - thanks to @hsugden (Harry Sugden) and Thomas Greer
-18. Bug - Fixed Sector 29/Isle of Man border over AMPIT - thanks to @hsugden (Harry Sugden)
-19. Enhancement - Added additional Uncontrolled airspace region definition in grey to fit NERC colour scheme - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Changed land mass region colour - thanks to @hsugden and Thomas Greer
+18. Bug - Fixed Sector 29/Isle of Man border over AMPIT - thanks to @hsugden
+19. Enhancement - Added additional Uncontrolled airspace region definition in grey to fit NERC colour scheme - thanks to @hsugden
 20. Enhancement - Added Bristol -> AC West Agreements when Cardiff Radar is offline - thanks to @danielbutton (Daniel Button)
 21. Enhancement - Added Bristol Director functionality - thanks to @danielbutton (Daniel Button)
-22. Enhancement - Updated Thames identifier to TMS (previously THA) and associated ownership changes - thanks to @hsugden (Harry Sugden)
+22. Enhancement - Updated Thames identifier to TMS (previously THA) and associated ownership changes - thanks to @hsugden
 23. Bug - Improved S23 -> GD Agreements - thanks to @danielbutton (Daniel Button)
 24. Enhancement - Added GD -> FF Inbound Agreements - thanks to @danielbutton (Daniel Button)
 25. Bug - Fixed KK inbound via RAPIX Agreement not displaying - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -789,23 +793,23 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 # Changes from release 2020/09 to 2020/10
 1. AIRAC (2009) - EGTE 8.33 khz frequencies noted - thanks to @kye-taylor (Kye Taylor)
 2. Procedure Change - Updated EGNR Outbound IoM->Rathlin Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden (Harry Sugden)
+3. Enhancement - Added splitting function for IOM and S29 from PC West - thanks to @hsugden
 4. Procedure Change - Updated LS -> S6 agreement via GIBSO/ADKIK - thanks to @luketp (Luke Peters)
-5. Bug - Corrected Stornoway (EGPO) ground map geo formatting - thanks to @hsugden (Harry Sugden)
-6. AIRAC (2009) - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
+5. Bug - Corrected Stornoway (EGPO) ground map geo formatting - thanks to @hsugden
+6. AIRAC (2009) - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden
 7. Enhancement - Updated PC Wallasey->Liverpool APC Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. Enhancement - Added AC Worthing/TC SW->Solent Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 9. Enhancement - Updated PC Trent/Daventry->NXAPP inbound agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Enhancement - Reoder to EGGP STARs - thanks to @robbo599 (Lee Roberts)
 11. Enhancement - Updated S29 -> Stafa BB inbound agreement - thanks to @AleksMax (Aleks Nieszczerzewski)
 12. Enhancement - AC W -> PC S29 Severn Group outbounds COPX added - thanks to @GeekPro101 (Thomas Mills)
-13. Procedure Change - Added Inverness Radar Delegated airspace - thanks to @GeekPro101 (Thomas Mills) and @hsugden (Harry Sugden)
-14. Procedure Change (2007) - Introduced AC West to Bristol agreements when Cardiff is offline - thanks to @hsugden (Harry Sugden)
+13. Procedure Change - Added Inverness Radar Delegated airspace - thanks to @GeekPro101 (Thomas Mills) and @hsugden
+14. Procedure Change (2007) - Introduced AC West to Bristol agreements when Cardiff is offline - thanks to @hsugden
 15. Enhancement - Added Newquay SMAA - thanks to @danielbutton (Daniel Button)
 16. AIRAC (2010) - Removed Birmingham (EGBB) M40 Junction 15 (Warwick) VRP - thanks to @TheoBearman (Theo Bearman)
 17. AIRAC (2010) - Tresco Heliport added to AIP - thanks to @Bucklerz (Reece Buckley)
 18. Bug - Changed Wick (EGPO) ATIS frequency to avoid conflicts with the WIK VOR - thanks to @TheoBearman (Theo Bearman)
-19. Enhancement - Improved depiction of NIMAT-ROTEV Buffer - thanks to @hsugden (Harry Sugden)
+19. Enhancement - Improved depiction of NIMAT-ROTEV Buffer - thanks to @hsugden
 20. Bug - Fixed AoR for PH FIN not showing for PH INT (24 Operations) - thanks to @Bucklerz (Reece Buckley)
 21. Enhancement - Added EGXP Scampton - thanks to @scottdaniels292 (Scott Daniels)
 22. Enhancement - Added Yeovil Westland (EGHG) Runways and Positions - thanks to @danielbutton (Daniel Button)
@@ -829,7 +833,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 7. AIRAC (2009) - Updated EGLL Runway Headings - thanks to @GeekPro101 (Thomas Mills)
 8. AIRAC (2009) - Updated EGPD Runway headings - thanks to @Bucklerz (Reece Buckley)
 9. Enhancement - Gatwick WIP removed - thanks to @kye-taylor (Kye Taylor)
-10. Bug - Corrected London AC Clacton static boundary - thanks to @hsugden (Harry Sugden)
+10. Bug - Corrected London AC Clacton static boundary - thanks to @hsugden
 11. Bug - EGHH UMBUR STAR had not been changed to its new designation UMBUR1S > UMBUR2S - thanks to @TheoBearman (Theo Bearman)
 12. Bug - Added handoff prediction between Thames and City Director - thanks to @Bucklerz (Reece Buckley) and @kye-taylor (Kye Taylor)
 13. Procedure Change - PC East -> S10 - LIBSO agreement - thanks to @robbo599 (Lee Roberts)
@@ -852,7 +856,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 6. Bug - Fixed Dupe airspace base labels - thanks to @scottdaniels292 (Scott Daniels)
 7. Bug - Updated AC Dover static boundary (missed eastern portion taken from AC Clacton) - thanks to @ArvidHansson (Arvid Hansson)
 8. Bug - Fixed Various Missing Danger Areas - thanks to @AleksMax (Aleks Nieszczerzewski)
-9. Bug - Fixed auto-handoff for PC East (Stafa) -> AC Daventry (S27) MTMA outbounds when TC Midlands online - thanks to @hsugden (Harry Sugden)
+9. Bug - Fixed auto-handoff for PC East (Stafa) -> AC Daventry (S27) MTMA outbounds when TC Midlands online - thanks to @hsugden
 10. Procedure Change - Removed S12 -> S10 - EGLL/WU outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
 11. Bug - Fixed missing waypoint on ROGAG2A SID from EGCN - thanks to @robbo599 (Lee Roberts)
 12. Procedure Change (2007) - Added PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
@@ -860,9 +864,9 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 14. Enhancement - Updated agreements from S28 -> Trent - thanks to @luketp (Luke Peters)
 15. Bug - Corrected Stavanger positions and updated ownership orders - thanks to @luketp (Luke Peters)
 16. Enhancement - Remove unnecessary agreements into EGNV/EGNT - thanks to @kye-taylor (Kye Taylor)
-17. Bug - Amended Clacton (S14) -> TC East (SABER) agreements for EGKK inbounds - thanks to @hsugden (Harry Sugden)
-18. Bug - Improved COPX display for TC SW -> AC Worthing EGLL outbounds via MID - thanks to @hsugden (Harry Sugden)
-19. Bug - Fixed Worthing -> Dover COPX for Midlands Inbounds - thanks to @hsugden (Harry Sugden)
+17. Bug - Amended Clacton (S14) -> TC East (SABER) agreements for EGKK inbounds - thanks to @hsugden
+18. Bug - Improved COPX display for TC SW -> AC Worthing EGLL outbounds via MID - thanks to @hsugden
+19. Bug - Fixed Worthing -> Dover COPX for Midlands Inbounds - thanks to @hsugden
 20. Procedure Change - Changed Essex Clutch and EGMC inbounds to FL200 form S27 to TC COWLY - thanks to @luketp (Luke Peters)
 21. Enhancement - Created EGKR SMR - thanks to @Ioannis29 (Ioannis Mazonakis)
 22. Enhancement - Add EGUN Mildenhall MATZ & Runways - thanks to @scottdaniels292 (Scott Daniels)
@@ -882,9 +886,9 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 36. Enhancement - Added Altimeter Setting Regions - thanks to @robbo599 (Lee Roberts)
 37. AIRAC (2006) - EGGP SMR added Link L and Associated Hangar - thanks to @luke11brown (Luke Brown)
 38. Enhancement - Add EGXW Waddington - thanks to @robbo599 (Lee Roberts)
-39. Procedure Change (2007) - Inverness (EGPE) inbound and outbound agreement amendments - thanks to @hsugden (Harry Sugden)
+39. Procedure Change (2007) - Inverness (EGPE) inbound and outbound agreement amendments - thanks to @hsugden
 40. Bug - Added Rathlin->PK Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-41. Procedure Change (2007) - Added agreements for ScTMA inbounds via N610/N560 between ScAC East N & S  -  thanks to @hsugden (Harry Sugden)
+41. Procedure Change (2007) - Added agreements for ScTMA inbounds via N610/N560 between ScAC East N & S  -  thanks to @hsugden
 42. AIRAC (NOTAM) - Removed EGLL WIP area around A(S) - thanks to @aeroniemi (Alex Beavil)
 43. Enhancement - Add EGVN Brize Norton SIDs and STARs - Thanks to @robbo599 (Lee Roberts)
 44. Enhancement - EGNR Hawarden SMR Change - thanks to @scottdaniels292 (Scott Daniels)
@@ -899,7 +903,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 
 # Changes from release 2020/06 to 2020/07
 1. AIRAC (2007) Update EGLF SIDs - thanks to @theobearman (Theo Bearman)
-2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden (Harry Sugden)
+2. Enhancement - Added Donegal (EIDL) basic info and airspace - thanks to @gdonohoe (Gregg Donohoe) and @hsugden
 3. AIRAC (2007) - Updated EGHC Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
 4. AIRAC (2007) - Updated EGLF Heliroutes - thanks to @AleksMax (Aleks Nieszczerzewski)
 5. AIRAC (2007) - Updated EGKB Runway Headings - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -908,43 +912,43 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 8. Enhancement - Added EGLF STARs to Additional Airfields - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Bug - Fixed Galloway->Deancross STMA outbound agreements to include PN PG and PJ - thanks to @theobearman (Theo Bearman)
 11. Bug - Update Magvar value - thanks to @robbo599 (Lee Roberts)
-12. Bug - Added missing S13 -> D EGFF/SY inbound agreement, now FL300 - thanks to @hsugden (Harry Sugden)
-13. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden (Harry Sugden)
+12. Bug - Added missing S13 -> D EGFF/SY inbound agreement, now FL300 - thanks to @hsugden
+13. Procedure Change (2007) - Bristol (EGGD) inbound agreement S13 -> D now FL300 - thanks to @hsugden
 14. Bug - Fixed Marham Tower frequency - Thanks to @robbo599 (Lee Roberts)
-15. Procedure Change (2007) - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden (Harry Sugden)
-17. Enhancement - Added Blackpool (EGNH) ownership - thanks to @hsugden (Harry Sugden)
-18. Enhancement - Added descending arrow for Talla -> PH inbounds via TARTN - thanks to @hsugden (Harry Sugden)
+15. Procedure Change (2007) - Updated Antrim <-> EGNS inbound and outbound agreements - thanks to @hsugden
+16. Enhancement - Improved line display in EIDW delegated area - thanks to @hsugden
+17. Enhancement - Added Blackpool (EGNH) ownership - thanks to @hsugden
+18. Enhancement - Added descending arrow for Talla -> PH inbounds via TARTN - thanks to @hsugden
 19. Bug - Fixed S10->East Midlands/EGGP Inbound Agreements - thanks to @luketp (Luke Peters)
-20. Enhancement - Added guest ownership for S10->S13/14 LTMA inbound (transiting) agreements - thanks to @hsugden (Harry Sugden)
-21. Enhancement - Altered S7 -> IoM and IoM -> DUBN Dublin group inbound agreements - thanks to @hsugden (Harry Sugden)
-22. Bug - Fixed Scottish ownership in EKDK Delegated area - thanks to @hsugden (Harry Sugden)
-23. Procedure Change (2007) - Added Southend RMA - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Added guest ownership for S10->S13/14 LTMA inbound (transiting) agreements - thanks to @hsugden
+21. Enhancement - Altered S7 -> IoM and IoM -> DUBN Dublin group inbound agreements - thanks to @hsugden
+22. Bug - Fixed Scottish ownership in EKDK Delegated area - thanks to @hsugden
+23. Procedure Change (2007) - Added Southend RMA - thanks to @hsugden
 24. AIRAC (2007) Update EGSU SMR - thanks to @scottdaniels292 (Scott Daniels)
-25. Bug - Fixed EIDW_3_CTR frequency - thanks to @hsugden (Harry Sugden)
+25. Bug - Fixed EIDW_3_CTR frequency - thanks to @hsugden
 26. Bug - ACTUALLY Fixed EGKK CLN/FRANE outbound agreements from TCSE to TCLAM - thanks to @luketp (Luke Peters)
-27. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC East (Montrose/Tay) to ScTMA Talla - thanks to @hsugden (Harry Sugden)
-28. Procedure Change (2007) - Agreement changes and added ROTEV-NIMAT buffer zone at the Antrim-DUBN interface - thanks to @hsugden (Harry Sugden)
+27. Procedure Change (2007) - New delegated airspace in the AGPED area from ScAC East (Montrose/Tay) to ScTMA Talla - thanks to @hsugden
+28. Procedure Change (2007) - Agreement changes and added ROTEV-NIMAT buffer zone at the Antrim-DUBN interface - thanks to @hsugden
 29. Procedure Change - Updated Galloway->Antrim PK Outbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 30. Procedure Change - Updated Central->PF Inbound Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
-31. Procedure Change (2007) - Updated Rathlin <-> Antrim agreements - thanks to @hsugden (Harry Sugden)
-32. Procedure Change (2007) - Updated agreements between Montrose and Talla for ScTMA inbounds and outbounds -  thanks to @hsugden (Harry Sugden)
+31. Procedure Change (2007) - Updated Rathlin <-> Antrim agreements - thanks to @hsugden
+32. Procedure Change (2007) - Updated agreements between Montrose and Talla for ScTMA inbounds and outbounds -  thanks to @hsugden
 33. Procedure Change - Added Galloway-> PF inbound agreement - thanks to @itsbenny99 (Benjamin Matthews)
 34. Procedure Change - Added Deancross->S29 BB/NX/BE/NJ inbound agreement - thanks to @itsbenny99 (Benjamin Matthews)
-35. Procedure Change (2007) - Removed Humber <-> S10 agreements, replaced with FIR COPX - thanks to @hsugden (Harry Sugden)
-36. Procedure Change (2007) - Added agreements for EGNM outbounds via N601 - thanks to @hsugden (Harry Sugden)
+35. Procedure Change (2007) - Removed Humber <-> S10 agreements, replaced with FIR COPX - thanks to @hsugden
+36. Procedure Change (2007) - Added agreements for EGNM outbounds via N601 - thanks to @hsugden
 37. Enhancement - Added Birmingham Range Rings - thanks to @AleksMax (Aleks Nieszczerzewski)
 38. Bug - Fixes NITON CTA-1 Incorrect Altitude - thanks to @scottdaniels292 (Scott Daniels)
 39. Procedure Change (2007) - Add Bristol EXMOR Burnham line (Burnham Box) - thanks to @AxonC (Callum Axon)
 40. Procedure Change (2007) - Updated PC East <-> Montrose agreements - thanks to @robbo599 (Lee Roberts)
 41. Enhancement - Added Tyne -> Montrose agreements - thanks to @robbo599 (Lee Roberts)
 42. Enhancement - Added Montrose -> PH/PF agreements - thanks to @robbo599 (Lee Roberts)
-43. Procedure Change (2007) - Updated Isle of Man (PC West) <-> EGNS inbound and outbound agreements - thanks to @hsugden (Harry Sugden)
-44. Procedure Change (2007) - Updated PC West and Antrim sectorisation in the Isle of Man area - thanks to @hsugden (Harry Sugden)
-45. Enhancement - Added Moray -> Montrose ScTMA inbound agreement - thanks to @hsugden (Harry Sugden)
+43. Procedure Change (2007) - Updated Isle of Man (PC West) <-> EGNS inbound and outbound agreements - thanks to @hsugden
+44. Procedure Change (2007) - Updated PC West and Antrim sectorisation in the Isle of Man area - thanks to @hsugden
+45. Enhancement - Added Moray -> Montrose ScTMA inbound agreement - thanks to @hsugden
 46. Procedure Change - Added Deancross->Galloway MTMA/NM/CN inbound agreements - thanks to @itsbenny99 (Benjamin Matthews)
-47. Procedure Change (2007) - Amended Thames RMA and associated COPX - thanks to @hsugden (Harry Sugden)
-48. Procedure Change (2007) - Altered delegated airspace in the ERKIT area from ScAC East (Montrose) to PC East - thanks to @hsugden (Harry Sugden)
+47. Procedure Change (2007) - Amended Thames RMA and associated COPX - thanks to @hsugden
+48. Procedure Change (2007) - Altered delegated airspace in the ERKIT area from ScAC East (Montrose) to PC East - thanks to @hsugden
 49. Procedure Change - Added IoM <-> Rathlin agreements - thanks to itsbenny99 (Benjamin Matthews)
 50. Procedure Change - Added S29->Deancross MTMA & EGCN outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
 51. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -955,10 +959,10 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 3. Bug - Re-order SKERY and OYSTA SIDs from EGJJ - thanks to @trevorhannant (Trevor Hannant)
 4. Bug - Resolved EGKK outbound agreement from TC WELIN to S28 (now FL210) - thanks to @luketp (Luke Peters)
 5. Bug - EGHH SMR Updated - thanks to @luke11brown (Luke Brown)
-6. Bug - Fixed TC Welin -> NX APP VELAG COPX - thanks to @hsugden (Harry Sugden)
+6. Bug - Fixed TC Welin -> NX APP VELAG COPX - thanks to @hsugden
 7. Bug - Amended Bristol Region Naming Bug - thanks to @AleksMax (Aleks Nieszczerzewski)
-8. Bug - Fixed EB-- inbound arrival agreements D->EBBU - thanks to @hsugden (Harry Sugden)
-9. Enhancement - Brussels (EBBU) 'fallback' ownership priority - thanks to @hsugden (Harry Sugden)
+8. Bug - Fixed EB-- inbound arrival agreements D->EBBU - thanks to @hsugden
+9. Enhancement - Brussels (EBBU) 'fallback' ownership priority - thanks to @hsugden
 10. Bug - Updated EGTE Squawk range - thanks to @jamest00 (James Thomas)
 11. Enhancement - Update to EGTE threshold coordinates - thanks to @itsbenny99 (Benjamin Matthews)
 12. Bug - Incorrect colour definitions fixed - thanks to @Keanu73 (Keanu Czirjak)
@@ -976,19 +980,19 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 24. Enhancement - Added the Mauchline VRP to Prestwick (EGPK) - Thanks to @Bucklerz (Reece Buckley) and @Keanu73 (Keanu Czirjak)
 25. Bug - EGBB stand 57L/R added - thanks to @jamest00 (James Thomas)
 26. AIRAC (2006) - Updated EGLC Threshold Coordinates - thanks to @AleksMax (Aleks Nieszczerzewski)
-27. Bug - Fixed TC Welin -> BB APP auto handoff prediction - thanks to @hsugden (Harry Sugden)
-28. Enhancement - Added agreements for arrivals between TC Cowly and BB APP for GROVE 1B arrivals - thanks to @hsugden (Harry Sugden)
-29. Bug - Fixed auto handoff next sector prediction for TC Welin -> S28 LTMA outbounds - thanks to @hsugden (Harry Sugden)
-30. Enhancement - Removed Filton (EGTG - closed) agreements and added St Athan (EGSY) agreements - thanks to @hsugden (Harry Sugden)
+27. Bug - Fixed TC Welin -> BB APP auto handoff prediction - thanks to @hsugden
+28. Enhancement - Added agreements for arrivals between TC Cowly and BB APP for GROVE 1B arrivals - thanks to @hsugden
+29. Bug - Fixed auto handoff next sector prediction for TC Welin -> S28 LTMA outbounds - thanks to @hsugden
+30. Enhancement - Removed Filton (EGTG - closed) agreements and added St Athan (EGSY) agreements - thanks to @hsugden
 31. Enhancement - LD -> TC Welin Midlands inbound agreement - thanks to @daleb99 (Dale Brooksby)
 32. Enhancement - SOLENT Forest Gate added - thanks to @daviesnathan (Nathan Davies)
-33. Bug - Fixed BIRD line display to Scottish - thanks to @hsugden (Harry Sugden)
-34. Bug - Updated TC NE top down ownership to include TC Saber - thanks to @hsugden (Harry Sugden)
+33. Bug - Fixed BIRD line display to Scottish - thanks to @hsugden
+34. Bug - Updated TC NE top down ownership to include TC Saber - thanks to @hsugden
 35. Added EGMC PDR's to SID Column  - thanks to @LEWISC44 (Lewis Corcoran)
-36. Enhancement - Updated Antrim -> ScTMA agreements - thanks to @hsugden (Harry Sugden)
+36. Enhancement - Updated Antrim -> ScTMA agreements - thanks to @hsugden
 37. Bug - London Control, Clacton (North) frq change - thanks to @itsbenny99 (Benjamin Matthews)
-38. Enhancement - Added St Athan basic sector file requirements - thanks to @hsugden (Harry Sugden)
-39. Enhancement - Renamed references to MAN -> PC - thanks to @hsugden (Harry Sugden)
+38. Enhancement - Added St Athan basic sector file requirements - thanks to @hsugden
+39. Enhancement - Renamed references to MAN -> PC - thanks to @hsugden
 40. AIRAC (2006) - Addition of LOREL1R STAR for the Essex Clutch - thanks to @AleksMax (Aleks Nieszczerzewski)
 41. Enhancement - Barton (EGCB) SMR Update - thanks to @SamLefevre (Samuel Lefevre)
 
@@ -996,19 +1000,19 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 1. Enhancement - Amsterdam (EHAA) Ownership - thanks to @daleb99 (Dale Brooksby)
 2. Bug - EGPH Delivery Controller frequency fixed - thanks to @kye-taylor (Kye Taylor)
 3. Enhancement - Update Agreements through TC NW for City,Southend departures - thanks to @cpawley (Chris Pawley)
-4. Bug - Fixed S10->East and Added S10->Montrose EGNT/NV inbound agreements - thanks to @hsugden (Harry Sugden)
+4. Bug - Fixed S10->East and Added S10->Montrose EGNT/NV inbound agreements - thanks to @hsugden
 5. Bug - Added Agreements for EB** inbounds - thanks to @jamest00 (James Thomas)
-6. Bug - Fixed EH-- inbound arrival agreements S12->EHAA - thanks to @hsugden (Harry Sugden)
+6. Bug - Fixed EH-- inbound arrival agreements S12->EHAA - thanks to @hsugden
 7. AIRAC (2004) - EGCN SIDs redesignated and fix update - thanks to @luketp (Luke Peters)
-8. Enhancement - Added airspace for Lands End (EGHC) Tower - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
+8. Enhancement - Added airspace for Lands End (EGHC) Tower - thanks to @dswoodward (Dave Woodward) and @hsugden
 9. AIRAC (2005) - Added Balmoral Danger Area (EG R704) - thanks to @AleksMax (Aleks Nieszczerzewski)
 10. Bug - Correction of Valley TACAN Identifier - thanks to @robbo599 (Lee Roberts)
-11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden (Harry Sugden)
+11. Bug - Corrected Scottish AC Humber -> EHAA low agreements for EHAM inbounds - thanks to @hsugden
 12. AIRAC (1902) - Edited Manchester/Barton frequency - thanks to @itsbenny99 (Benjamin Matthews)
-13. Bug - Corrected Manchester (EGCC) top-down ownership - thanks to @hsugden (Harry Sugden)
+13. Bug - Corrected Manchester (EGCC) top-down ownership - thanks to @hsugden
 14. Bug - Fixed STC_W position identifier - thanks to @daleb99 (Dale Brooksby)
-15. Enhancement - Optimised AC South -> AC Dover agreements for BB/GD/FF departing traffic - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Added airspace and positions for Scilly Isles (EGHE) - thanks to @dswoodward (Dave Woodward) and @hsugden (Harry Sugden)
+15. Enhancement - Optimised AC South -> AC Dover agreements for BB/GD/FF departing traffic - thanks to @hsugden
+16. Enhancement - Added airspace and positions for Scilly Isles (EGHE) - thanks to @dswoodward (Dave Woodward) and @hsugden
 17. AIRAC (2005) - EGNV renamed to Teeside International Airport - thanks to @AleksMax (Aleks Nieszczerzewski)
 18. Enhancement - Tidied up military positions and added fighter controller positions - thanks to @robbo599 (Lee Roberts)
 19. Enhancement - Added Brize Director - thanks to @robbo599 (Lee Roberts)
@@ -1021,22 +1025,22 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 26. Enhancement - Added MATZ and runway for EGQK Kinloss - thanks to @Robbo599 (Lee Roberts)
 27. Enhancement - updated EGQS Lossiemouth info and MATZ - thanks to @Robbo599 (Lee Roberts)
 28. Enhancement - updated drawing of EGQL MATZ - thanks to @Robbo599 (Lee Roberts)
-29. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden (Harry Sugden) and @aturneruk (Adam Turner)
+29. Enhancement - Optimised COPX point for S29->S27 EGNM/NO/NH outbound agreements - thanks to @hsugden and @aturneruk (Adam Turner)
 30. AIRAC (2005) - EGMC New SENA Apron, stands 101/102 added - thanks to @kye-taylor (Kye Taylor)
 31. Enhancement - Updated Military Radar Corridors - thanks to @robbo599 (Lee Roberts)
-32. Bug - Fixed SS FIN -> TC NW outbound agreements - thanks to @hsugden (Harry Sugden)
-33. Enhancement - Added agreements between PC East sectors - thanks to @hsugden (Harry Sugden)
+32. Bug - Fixed SS FIN -> TC NW outbound agreements - thanks to @hsugden
+33. Enhancement - Added agreements between PC East sectors - thanks to @hsugden
 34. Enhancement - Create EGAE SMR - thanks to @trevorhannant (Trevor Hannant)
 35. Enhancement - Isles of Scilly Enhancements - thanks to @trevorhannant (Trevor Hannant)
 36. Bug - Updated Thames Clutch agreements - thanks to @cbyworth (Chad Byworth)
 37. Enhancement - Added EGCB (Barton) Runways - thanks to @AleksMax (Aleks Nieszczerzewski)
-38. Enhancement - Improved functionality of EGKK LAM departure agreements - thanks to @hsugden (Harry Sugden)
-39. Enhancement - Removed Solent online ring display to AC Dover - thanks to @hsugden (Harry Sugden)
-40. Enhancement - Belfast TMA standing agreements - thanks to @kye-taylor (Kye Taylor) and @hsugden (Harry Sugden)
-41. Enhancement - Updated TC NW sector definition to reflect 155/165 split - thanks to @hsugden (Harry Sugden)
-42. Bug - Fixed various line display issues in the LTC area - thanks to @hsugden (Harry Sugden)
-43. Bug - Fixed Deancross to ScTMA (Talla) inbound ScTMA agreements - thanks to @hsugden (Harry Sugden)
-44. Enhancement - Added agreements between PC West sectors - thanks to @hsugden (Harry Sugden)
+38. Enhancement - Improved functionality of EGKK LAM departure agreements - thanks to @hsugden
+39. Enhancement - Removed Solent online ring display to AC Dover - thanks to @hsugden
+40. Enhancement - Belfast TMA standing agreements - thanks to @kye-taylor (Kye Taylor) and @hsugden
+41. Enhancement - Updated TC NW sector definition to reflect 155/165 split - thanks to @hsugden
+42. Bug - Fixed various line display issues in the LTC area - thanks to @hsugden
+43. Bug - Fixed Deancross to ScTMA (Talla) inbound ScTMA agreements - thanks to @hsugden
+44. Enhancement - Added agreements between PC West sectors - thanks to @hsugden
 45. Enhancement - Removed Dupe airspace bases - thanks to @kye-taylor (Kye Taylor)
 46. Enhancement - Added Agreement S7 -> S5 GD/FF/TE/SY inbounds - thanks to @itsbenny99 (Benjamin Matthews)
 47. AIRAC (1909) - EGGW SMR Update - thanks to @trevorhannant (Trevor Hannant)
@@ -1046,7 +1050,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 51. Enhancement - updated drawing of EGDM Boscombe Down MATZ - thanks to @Robbo599 (Lee Roberts)
 52. Enhancement - Updated EGOV Valley info and added MATZ - thanks to @Robbo599 (Lee Roberts)
 53. Enhancement - Update EGKA Shoreham SMR - thanks to @trevorhannant (Trevor Hannant)
-54. Bug/Enhancement - Optimised agreements for LTMA departures in TC/AC Clacton region - thanks to @hsugden (Harry Sugden) & @aturneruk (Adam Turner)
+54. Bug/Enhancement - Optimised agreements for LTMA departures in TC/AC Clacton region - thanks to @hsugden & @aturneruk (Adam Turner)
 
 # Changes from release 2020/03 to 2020/04
 1. AIRAC (2003) - EGLL SIDs redesignated - thanks to @epicdemon99 (Nathaniel Leff)
@@ -1105,21 +1109,21 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 # Changes from release 2020/01 to 2020/02
 1. AIRAC (1912) - New boundary for S5/S23 for FIGZI/FITBO - thanks to @cpawley (Chris Pawley)
 2. AIRAC (2002) - Updated EGSH Squawk Code Ranges - thanks to @sonnynixon1507 (Sonny Nixon)
-3. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden (Harry Sugden)
+3. Bug - Updated UK Fixes to match AIRAC 2001 - thanks to @hsugden
 4. Bug - Removed TIMBA2H STAR - thanks to @sonnynixon1507 (Sonny Nixon)
 5. AIRAC (2002) - Added EGLF Ground - thanks to @sonnynixon1507 (Sonny Nixon)
 6. AIRAC (2002) - Added EG R705 Danger Zone - thanks to @sonnynixon1507 (Sonny Nixon)
 7. AIRAC (2002) - Updated EGGD VRPs - thanks to @sonnynixon1507 (Sonny Nixon)
-8. Enhancement - Post-AFV frequency changes (Birmingham Approach now 123.970; Battersea Tower now 134.270; Shannon Information now 127.500) - thanks to @hsugden (Harry Sugden)
-9. Bug - Fixed Observing ownership for Essex, EGTC, EGTK and EGWU airfields following 2001 Daventry changes - thanks to @hsugden (Harry Sugden)
-10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden (Harry Sugden)
-11. Bug - Corrected line display and ownership for Birmingham (EGBB) and East Midlands (EGNX) - thanks to @hsugden (Harry Sugden)
-12. Enhancement - Updated alternate ownership for adjacent airports (000A) to reflect Daventry changes - thanks to @hsugden (Harry Sugden)
-13. Bug - Fixed Observing ownership for TC NW sector following changes in 2001 - thanks to @hsugden (Harry Sugden)
+8. Enhancement - Post-AFV frequency changes (Birmingham Approach now 123.970; Battersea Tower now 134.270; Shannon Information now 127.500) - thanks to @hsugden
+9. Bug - Fixed Observing ownership for Essex, EGTC, EGTK and EGWU airfields following 2001 Daventry changes - thanks to @hsugden
+10. Bug - Fixed Observing ownership for AC Daventry sectors following changes in 2001 - thanks to @hsugden
+11. Bug - Corrected line display and ownership for Birmingham (EGBB) and East Midlands (EGNX) - thanks to @hsugden
+12. Enhancement - Updated alternate ownership for adjacent airports (000A) to reflect Daventry changes - thanks to @hsugden
+13. Bug - Fixed Observing ownership for TC NW sector following changes in 2001 - thanks to @hsugden
 14. AIRAC (2002) - EGKK SMR Update (stand 49R amended, stand 157 removed) - thanks to @Keanu73 (Keanu Czirjak)
-15. Enhancement - Adds extra COPX for S5->S29 EGNT/NV/NJ arrival agreements - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Added TC NE split functionality (LOREL and LAM sectors) - thanks to @hsugden (Harry Sugden)
-17. Enhancement - Added Honiley Radar Gate (turn on under Stars) - thanks to @hsugden (Harry Sugden)
+15. Enhancement - Adds extra COPX for S5->S29 EGNT/NV/NJ arrival agreements - thanks to @hsugden
+16. Enhancement - Added TC NE split functionality (LOREL and LAM sectors) - thanks to @hsugden
+17. Enhancement - Added Honiley Radar Gate (turn on under Stars) - thanks to @hsugden
 18. AIRAC (1906 & 1910) - Updated EGSS SMR (new stands 92 & 93, extended Echo apron, adjusted freetext) - thanks to @Keanu73 (Keanu Czirjak) and @Tinbum (Nick Szewicw)
 19. Bug - Change enroute fix coordinates to match AIP ENR 4.4 - thanks to @aturneruk (Adam Turner)
 20. Enhancement - resectorised AC Clacton - thanks to @cpawley (Chris Pawley)
@@ -1136,31 +1140,31 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 6. AIRAC (2001) - EGNC Frequency Updates - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. AIRAC (2001) - EGSC Frequency Updates - thanks to @AleksMax (Aleks Nieszczerzewski)
 8. AIRAC (2001) - EGNH Runway Headings Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
-9. Bug - Fixed Gatwick (EGKK) ABSAV STAR routing, adding HOLLY - thanks to @hsugden (Harry Sugden)
+9. Bug - Fixed Gatwick (EGKK) ABSAV STAR routing, adding HOLLY - thanks to @hsugden
 10. AIRAC (1912) - Y91/UY91 redesignated L149 - thanks to @LEWISC44 (Lewis Corcoran)
-11. AIRAC (2001) - Amended EG D005B danger area - thanks to @hsugden (Harry Sugden)
-12. Enhancement - Added Dublin (EIDW) runway definitions - thanks to @hsugden (Harry Sugden)
-13. Enhancement - Updated EIDW sectors and Irish Sea delegated airspace - thanks to @hsugden (Harry Sugden)
+11. AIRAC (2001) - Amended EG D005B danger area - thanks to @hsugden
+12. Enhancement - Added Dublin (EIDW) runway definitions - thanks to @hsugden
+13. Enhancement - Updated EIDW sectors and Irish Sea delegated airspace - thanks to @hsugden
 14. AIRAC (1912) - Shoreham (EGKA) RNAV Fixes - thanks to @kye-taylor (Kye Taylor)
 15. AIRAC (1913) - UP17 Rerouted - thanks to @Kye-Taylor (Kye Taylor)
 16. AIRAC (1912) - Added new Birmingham (EGBB) inbound agreements - thanks to @Kye-Taylor (Kye Taylor)
 17. AIRAC (1913) - EGPK Transition Redesignated - thanks to @AleksMax (Aleks Nieszczerzewski)
 18. AIRAC (1912) Rerouted N513 - thanks to @LEWISC44 (Lewis Corcoran)
 19. AIRAC (1912) - EGSS VRP Updated - thanks to @kye-taylor (Kye Taylor)
-20. Enhancement - Added climbing/descending arrows to agreements from external sectors into Scottish - thanks to @hsugden (Harry Sugden)
-21. Bug - Added missing EIDW outbound agreements IoM -> AC North (S7) - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Added climbing/descending arrows to agreements from external sectors into Scottish - thanks to @hsugden
+21. Bug - Added missing EIDW outbound agreements IoM -> AC North (S7) - thanks to @hsugden
 22. AIRAC (2001) - Amended TC SW /  AC Worthing boundary - thanks to @cpawley (Chris Pawley)
 23. AIRAC (2001) - Amended TC NE / TC East boundary - thanks to @cpawley (Chris Pawley)
 24. Enhancement - EGGP SMR Update (ground markings, new background, element re-design + repositioning) - thanks to @Keanu73 (Keanu Czirjak)
 25. AIRAC (1912) - Coventry Information frequency updated and renamed - thanks to @verenion (Dean Lovett)
 26. AIRAC (1913) - Coventry SMR updated, updated taxiways and added new hold - thanks to @verenion (Dean Lovett)
 27. Enhancement - Added TC Midlands and amended AC Central/AC South boundary for 2020/01 - thanks to @cpawley (Chris Pawley)
-28. Bug - Added missing Newcastle (EGNT) and Durham (EGNV) inbound agreements, S28->East - thanks to @hsugden (Harry Sugden)
-29. Bug - Added missing Manchester (EGCC) and Liverpool (EGGP) inbound agreements, S28->Trent - thanks to @hsugden (Harry Sugden)
+28. Bug - Added missing Newcastle (EGNT) and Durham (EGNV) inbound agreements, S28->East - thanks to @hsugden
+29. Bug - Added missing Manchester (EGCC) and Liverpool (EGGP) inbound agreements, S28->Trent - thanks to @hsugden
 30. Bug - Updated line display LTC3b - thanks to @cpawley (Chris Pawley)
 31. Bug - Corrected sector definition BBF33 - thanks to @cpawley (Chris Pawley)
-32. Bug - Fixed EGLL/EGWU inbound agreement via FITBO - thanks to @hsugden (Harry Sugden)
-33. Bug - Updated Northolt (EGWU) STARs - thanks to @hsugden (Harry Sugden)
+32. Bug - Fixed EGLL/EGWU inbound agreement via FITBO - thanks to @hsugden
+33. Bug - Updated Northolt (EGWU) STARs - thanks to @hsugden
 
 # Changes from release 2019/12 to 2019/13
 1. AIRAC (1913) - EGTK Runway 11/29 Withdrawn, Runway 29 Threshold Coordinates Updated - thanks to @AleksMax (Aleks Nieszczerzewski)
@@ -1171,7 +1175,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 6. Bug - Fixed issues with N862 - thanks to @AleksMax (Aleks Nieszczerzewski)
 7. Enhancement - Added agreement for EGGD BADIM departures - thanks to @1adamf (Adam Farquharson)
 8. Bug (AIRAC 1911) - Fixed RNAV fixes incorrect location - thanks to @cbyworth (Chad Byworth)
-9. AIRAC (1910), Enhancement - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden (Harry Sugden)
+9. AIRAC (1910), Enhancement - Updated Gatwick (EGKK) Non-RNAV SID fixes - thanks to @hsugden
 10. Enhancement - Updated ownership of Carlisle (EGNC) in line with new SCO sectors - thanks to @cpawley (Chris Pawley)
 11. Enhancement - Adding Wellesbourne Mountford (EGBW) an AFISO South of Birmingham - thanks to @nulldataref (Michael Bramsiepe)
 
@@ -1199,7 +1203,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 21. AIRAC (1911) - Moved (U)Y311 and (U)Y312 to RNAV - thanks to @aturneruk (Adam Turner)
 22. Bug - Fixed display of ATZ ring to LCTWR when LCR is top-down by London - thanks to @aturneruk (Adam Turner)
 23. Enhancement - Updated Montrose to Talla STMA inbounds - thanks to @1adamf (Adam Farquharson)
-24. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden (Harry Sugden)
+24. Bug - Removed duplicate position identifier for AC Bandbox frequency preventing controller handover ownership issues - thanks to @hsugden
 25. AIRAC (1912) - Birmingham CTA 10 added - thanks to @cbyworth (Chad Byworth)
 26. Bug - Fix LFP6-1 unclosed area - thanks to @cbyworth (Chad Byworth)
 27. AIRAC (1912) - N456 reroute - thanks to @JaRm22(James Morrissey)
@@ -1215,74 +1219,74 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 38. AIRAC (1912) - Cotswold CTA 15-18 added - thanks to @cbyworth (Chad Byworth)
 
 # Changes from release 2019/10 to 2019/11
-1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden (Harry Sugden)
-2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden (Harry Sugden)
+1. Bug - Fixed duplicate position identifier for SCO_N_CTR and EISN_CTR - thanks to @hsugden
+2. Enhancement - Updated various London (AC/TC) frequencies - thanks to @hsugden
 3. AIRAC (1911) - EGTC SMR Update - thanks to @Kye-Taylor (Kye Taylor)
 4. AIRAC (1911) - Extended Edinburgh (EGPH) Turnhouse Apron - thanks to @Kye-Taylor (Kye Taylor)
 5. AIRAC (1911) - New Stand 103 at Gatwick (EGKK) - thanks to @Kye-Taylor (Kye Taylor)
 6. Enhancement - EBxx Danger Area Update - thanks to @cbyworth (Chad Byworth)
 7. Enhancement - LFxx Danger Area Update - thanks to @cbyworth (Chad Byworth)
 8. Enhancement - Aldergrove (EGAA) And Aldergrove City (EGAC) Departure Level Agreement - @kye-taylor (Kye Taylor)
-9. Enhancement - Backend changes to IBNOS area sector line names - thanks to @hsugden (Harry Sugden)
+9. Enhancement - Backend changes to IBNOS area sector line names - thanks to @hsugden
 10. Enhancement - Updated Ownership for Southend (EGMC) RAD/APP - thanks to @cpawley (Chris Pawley)
 11. Enhancement - Added Observing LON_SC_CTR sector ownership functionality - thanks to @kye-taylor (Kye Taylor)
-12. AIRAC (1910) - Extended Irish CTA 1 and Strangford CTA - thanks to @hsugden (Harry Sugden)
-13. Enhancement - Added climbing/descending arrows to agreements from ScAC East sectors - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1910) - Extended Irish CTA 1 and Strangford CTA - thanks to @hsugden
+13. Enhancement - Added climbing/descending arrows to agreements from ScAC East sectors - thanks to @hsugden
 14. AIRAC (1912) - Amended EGLL STARs - thanks to @epicdemon99 (Nathaniel Leff)
 
 # Changes from release 2019/09 to 2019/10
 1. Bug - Modify BBAPP->Daventry agreements so Daventry->Worthing agrements display properly - thanks to @aturneruk (Adam Turner)
 2. Bug - Correct waypoint names for Wal -> S5 agreements - thanks to @aturneruk (Adam Turner)
-3. Enhancement - Added climbing/descending arrows to agreements from TC South sectors - thanks to @hsugden (Harry Sugden)
-4. Enhancement - New Aberdeen (EGPD) SMR - thanks to @hsugden (Harry Sugden)
+3. Enhancement - Added climbing/descending arrows to agreements from TC South sectors - thanks to @hsugden
+4. Enhancement - New Aberdeen (EGPD) SMR - thanks to @hsugden
 5. AIRAC (1910) - EGLL SMR Update -> Re-added stands 323,517,581 - thanks to @epicdemon99 (Nathaniel Leff)
 6. AIRAC (1910) - EGLL STAR Update - NIGIT -> BEDEK - thanks to @epicdemon99 (Nathaniel Leff)
 7. AIRAC (1910) - NGY withdrawn and replaced with ORVUL - thanks to @indianbhaji (Eric Liu)
-8. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden (Harry Sugden)
-9. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden (Harry Sugden)
-10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden (Harry Sugden)
-11. Bug - Corrected EBBU high -> Clacton Gatwick inbounds agreement - thanks to @hsugden (Harry Sugden)
-12. Bug - Corrected erroneous COPX East -> London S10 - thanks to @hsugden (Harry Sugden)
-13. Bug - Fixed incorrect spelling of 'Wallasey' in agreement - thanks to @hsugden (Harry Sugden)
+8. Enhancement - Added Sumburgh (EGPB) online rings - thanks to @hsugden
+9. Enhancement - Added ability to Observe SCO_CTR w/out STC, for when mentoring is split between SCO/STC thanks to @hsugden
+10. Enhancement - Added various bandbox/split possibilities for ScAC and STC - thanks to @hsugden
+11. Bug - Corrected EBBU high -> Clacton Gatwick inbounds agreement - thanks to @hsugden
+12. Bug - Corrected erroneous COPX East -> London S10 - thanks to @hsugden
+13. Bug - Fixed incorrect spelling of 'Wallasey' in agreement - thanks to @hsugden
 14. AIRAC (1909) - Added Exeter (EGTE) SMR holding point labels - thanks to @inventor02 (George Peppard)
-15. Bug - Corrected LFRR -> AC South agreement level for Thames inbounds - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Added climbing/descending arrows to agreements from External sectors to EGTT sectors - thanks to @hsugden (Harry Sugden)
+15. Bug - Corrected LFRR -> AC South agreement level for Thames inbounds - thanks to @hsugden
+16. Enhancement - Added climbing/descending arrows to agreements from External sectors to EGTT sectors - thanks to @hsugden
 17. AIRAC (1910) - P6, P620 and L10 to RNAV - thanks to @inventor02 (George Peppard)
 18. AIRAC (1910) - Added new MOD airfields - thanks to @1adamf (Adam Farquharson)
 19. Enhancement - Added functionality to TC East - thanks to @cpawley (Chris Pawley)
-20. Enhancement - Updated Manchester (EGCC) RMA sector line coordinates - thanks to @hsugden (Harry Sugden) & @xItsTomx (Tom Sirett)
-21. Enhancement - Removed obsolete AIRWAYS ARTCC High lines - thanks to @hsugden (Harry Sugden)
-22. Enhancement - Added climbing/descending arrows to agreements from ScTMA sectors - thanks to @hsugden (Harry Sugden)
-23. Enhancement - Added climbing/descending arrows to agreements from STC Antrim sector - thanks to @hsugden (Harry Sugden)
+20. Enhancement - Updated Manchester (EGCC) RMA sector line coordinates - thanks to @hsugden & @xItsTomx (Tom Sirett)
+21. Enhancement - Removed obsolete AIRWAYS ARTCC High lines - thanks to @hsugden
+22. Enhancement - Added climbing/descending arrows to agreements from ScTMA sectors - thanks to @hsugden
+23. Enhancement - Added climbing/descending arrows to agreements from STC Antrim sector - thanks to @hsugden
 24. AIRAC (1906) - Amended, truncated and remove various RNAV airways - thanks to @aturneruk (Adam Turner)
-25. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden (Harry Sugden)
+25. AIRAC (1910) - Updated various Gatwick (EGKK) SIDs - thanks to @hsugden
 
 # Changes from release 2019/08 to 2019/09
 1. AIRAC (1909) - Updated Cambridge (EGSC) squawk code range - thanks to @toms03 (Tom Earl)
-2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden (Harry Sugden) and @aturneruk (Adam Turner)
-3. Enhancement - Heathrow (EGLL) INT N frequency discrepancy note added - thanks to @hsugden (Harry Sugden)
-4. Enhancement - Adjusted static boundaries for S10/S11 and Humber - thanks to @hsugden (Harry Sugden)
+2. Enhancement - Adjusted sector line between S10/S11 and Humber - thanks to @hsugden and @aturneruk (Adam Turner)
+3. Enhancement - Heathrow (EGLL) INT N frequency discrepancy note added - thanks to @hsugden
+4. Enhancement - Adjusted static boundaries for S10/S11 and Humber - thanks to @hsugden
 5. AIRAC (1909) - Removed taxiway F and associated holds from EGTC - thanks to @indianbhaji (Eric Liu)
 6. AIRAC (1909) - Updated Nottingham (EGBN) frequency - thanks to @toms03 (Tom Earl)
 7. AIRAC (1909) - Updated Lerwick/Tingwall (EGET) frequency - thanks to @toms03 (Tom Earl)
 8. AIRAC (1909) - Converted some upper airways to RNAV - thanks to @indianbhaji (Eric Liu)
 9. Enhancement - New Agreement MAW-MAE for EGGP outbounds via BARTN/POL - thanks to @cpawley (Chris Pawley)
-10. AIRAC (1906) - Updated Gatwick (EGKK) STARs via WILLO - thanks to @hsugden (Harry Sugden)
+10. AIRAC (1906) - Updated Gatwick (EGKK) STARs via WILLO - thanks to @hsugden
 11. AIRAC (1909) - Converted Y47 and Y124 airways to RNAV - thanks to @indianbhaji (Eric Liu)
-12. Enhancement - Added missing Heathrow (EGLL) Taxiway S intermediate holding points - thanks to @hsugden (Harry Sugden)
+12. Enhancement - Added missing Heathrow (EGLL) Taxiway S intermediate holding points - thanks to @hsugden
 13. AIRAC (1907) - Biggin Hill (EGKB) Holding Point "AB" Removed - thanks to @nathaninnes (Nathan Innes)
-14. Bug - Added new agreement rule for Stansted (EGSS) traffic via M183, FL160 TC NW -> AC S - thanks to @hsugden (Harry Sugden)
+14. Bug - Added new agreement rule for Stansted (EGSS) traffic via M183, FL160 TC NW -> AC S - thanks to @hsugden
 15. AIRAC (1907) - Manchester (EGCC) Stand 101 Removed - thanks to @nathaninnes (Nathan Innes)
 16. Bug - Stavanger Ownership Issues - thanks to @kye-taylor (Kye Taylor)
-17. Enhancement - Updated EGAC ownership such that Aldergrove Approach (EGAA_APP, 128.5) covers top down at EGAA+AC - thanks to @hsugden (Harry Sugden)
+17. Enhancement - Updated EGAC ownership such that Aldergrove Approach (EGAA_APP, 128.5) covers top down at EGAA+AC - thanks to @hsugden
 18. Enhancement - Updated Sector Names in PC Sectors  - thanks to @cpawley (Chris Pawley)
 19. Enhancement - Added functionality for Wallasey Sector - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2019/07 to 2019/08
 1. AIRAC (1906) - Added new fixes (LUVUM/UMLUX) for Birmingham SIDs - thanks to @toms03 (Tom Earl)
-2. Bug - Fixed Observing LTC_E_CTR altownership (for main sector and alternate airports) - thanks to @hsugden (Harry Sugden)
-3. AIRAC (1906) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden (Harry Sugden)
-4. AIRAC (1907) - Redesignated Danger Area EG D701Z->D704 and updated naming for D809C/N/S - thanks to @hsugden (Harry Sugden)
+2. Bug - Fixed Observing LTC_E_CTR altownership (for main sector and alternate airports) - thanks to @hsugden
+3. AIRAC (1906) - Redesignated St Athan EGDX to EGSY - thanks to @hsugden
+4. AIRAC (1907) - Redesignated Danger Area EG D701Z->D704 and updated naming for D809C/N/S - thanks to @hsugden
 5. AIRAC (1908) - Updated EGJJ Threshold Coordinates - thanks to @cpawley (Chris Pawley)
 6. AIRAC (1907) - Updated Alderney (EGJA) frequency - thanks to @cpawley (Chris Pawley)
 7. AIRAC (1908) - Updated Lower Airways to RNAV - thanks to @cpawley (Chris Pawley)
@@ -1304,9 +1308,9 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 12. AIRAC (1907) - Added new taxiway K, K1 and the K hangar at EGNX - thanks to @inventor02 (George Peppard)
 13. AIRAC (1906) - EGLL/EGWU STARs Updated - thanks to @kye-taylor (Kye Taylor)
 14. Enhancement - Gatwick (EGKK) Grass Area Improvements - thanks to @nathaninnes (Nathan Innes)
-15. Enhancement - Added climbing/descending arrows to agreements from PC West and East sectors - thanks to @hsugden (Harry Sugden)
-16. Enhancement - Added climbing/descending arrows to agreements from TC East and AC Central sectors - thanks to @hsugden (Harry Sugden)
-17. Enhancement - Added climbing/descending arrows to agreements from TC North sectors - thanks to @hsugden (Harry Sugden)
+15. Enhancement - Added climbing/descending arrows to agreements from PC West and East sectors - thanks to @hsugden
+16. Enhancement - Added climbing/descending arrows to agreements from TC East and AC Central sectors - thanks to @hsugden
+17. Enhancement - Added climbing/descending arrows to agreements from TC North sectors - thanks to @hsugden
 
 # Changes from release 2019/05 to 2019/06
 1. Enhancement - Added Birmingham (EGBB) descent/director lines - thanks to @TomS03 (Tom Earl)
@@ -1334,10 +1338,10 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 23. AIRAC (1906) - EGAD Radio Frequency updated - thanks to @kye-taylor (Kye Taylor)
 24. AIRAC (1906) - Updated Edinburgh (EGPH) SMR - thanks to @nathaninnes (Nathan Innes)
 25. AIRAC (1906) - EGMC STAR's redesignated - thanks to @kye-taylor (Kye Taylor)
-26. Enhancement - Updated frequencies to (real-world) 136.XXX versions (KK, LC, MC ATISes; SS FIN) - thanks to @hsugden (Harry Sugden)
-27. Enhancement - Heathrow (EGLL) N1 reopened via NOTAM, added back to SMR - thanks to @hsugden (Harry Sugden)
-28. Enhancement - Updated MAN W and MAN E static boundaries - thanks to @hsugden (Harry Sugden)
-29. Enhancement - Added climbing/descending arrows to agreements from AC South Sectors - thanks to @hsugden (Harry Sugden)
+26. Enhancement - Updated frequencies to (real-world) 136.XXX versions (KK, LC, MC ATISes; SS FIN) - thanks to @hsugden
+27. Enhancement - Heathrow (EGLL) N1 reopened via NOTAM, added back to SMR - thanks to @hsugden
+28. Enhancement - Updated MAN W and MAN E static boundaries - thanks to @hsugden
+29. Enhancement - Added climbing/descending arrows to agreements from AC South Sectors - thanks to @hsugden
 
 # Changes from release 2019/04 to 2019/05
 1. Enhancement - EGBB ATIS frequency updated - thanks to @danielbutton (Daniel Button)
@@ -1348,31 +1352,31 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 6. Bug - Corrects Birmingham squawk range to valid range - thanks to @cbyworth (Chad Byworth)
 7. Enhancement - Format runway definitions so they are aligned - thanks to @aturneruk (Adam Turner)
 8. AIRAC (1904) - EGD323 updates - thanks to @inventor02 (George Peppard)
-9. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden (Harry Sugden)
+9. Enhancement - Separated RNAV airways into Lower (-245) and Higher (245+) - thanks to @hsugden
 10. AIRAC (1905) - Lower airways to RNAV - thanks to @aturneruk (Adam Turner)
 11. AIRAC (1905) - Upper airways to RNAV - thanks to @aturneruk (Adam Turner)
-12. AIRAC (1905) - Heathrow (EGLL) stands 517 and 581 removed (archived in red) - thanks to @hsugden (Harry Sugden)
-13. AIRAC (1813) - Updated Inverness (EGPE) runway (11/29) track - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1905) - Heathrow (EGLL) stands 517 and 581 removed (archived in red) - thanks to @hsugden
+13. AIRAC (1813) - Updated Inverness (EGPE) runway (11/29) track - thanks to @hsugden
 14. Bug - Fixed EGLL stand errors - thanks to @epicdemon99 (Nathaniel Leff)
 15. AIRAC (1905) - Biggin (EGKB) holding points E and F3 added - thanks to @epicdemon99 (Nathaniel Leff)
 16. Bug - Update EGFF VRPs; remove EGGD VRPs from EGFF - thanks to @aturneruk (Adam Turner)
 17. Bug - Add and correct EGHH VRPs - thanks to @aturneruk (Adam Turner)
 18. Bug - Remove unncessary EGPN VRPs - thanks to @aturneruk (Adam Turner)
-19. AIRAC (1905) - Updated Hawarden (EGNR) VRPs - thanks to @hsugden (Harry Sugden)
+19. AIRAC (1905) - Updated Hawarden (EGNR) VRPs - thanks to @hsugden
 20. Enhancement - Updated DW arrival agreement, now 260 NELBO Rathlin->Antrim - thanks to @gdonohoe (Gregg Donohoe)
-21. AIRAC (1905) - Updated Danger Area EG D403 - thanks to @hsugden (Harry Sugden)
-22. AIRAC (1905) - Updated Danger Area EG D512 - thanks to @hsugden (Harry Sugden)
-23. AIRAC (1905) - Updated Danger Area EG D513 - thanks to @hsugden (Harry Sugden)
-24. AIRAC (1905) - Luton (EGGW) hold F1 redesginated J1 - thanks to @hsugden (Harry Sugden)
-25. Bug - Corrected line display issues for JJCTR and London S6/LAC Worthing/LFRR - thanks to @hsugden (Harry Sugden)
-26. Enhancement - Added climbing/descending arrows to agreements from AC West sectors - thanks to @hsugden (Harry Sugden)
-27. Bug - Moved SSFIN sectorline to appropriate file - thanks to @hsugden (Harry Sugden)
-28. Bug - Corrected SSAPP line display conditions to show when using ALTOWNERSHIP - thanks to @hsugden (Harry Sugden)
-29. Bug - Updated sectors and ownership for ENSV_N/ENSV split - thanks to @hsugden (Harry Sugden)
-30. Enhancement - Updated Reykjavik sectorisation (BIRD_X) - thanks to @hsugden (Harry Sugden)
-31. Enhancement - Adjustments to Gatwick (EGKK) SMR (stands, Z1, grass) - thanks to @hsugden (Harry Sugden)
-32. AIRAC (1905) - Updated Danger Area EG D406 - thanks to @hsugden (Harry Sugden)
-33. AIRAC (1905) - Updated Heathrow (EGLL) runway track and threshold coordinates - thanks to @hsugden (Harry Sugden)
+21. AIRAC (1905) - Updated Danger Area EG D403 - thanks to @hsugden
+22. AIRAC (1905) - Updated Danger Area EG D512 - thanks to @hsugden
+23. AIRAC (1905) - Updated Danger Area EG D513 - thanks to @hsugden
+24. AIRAC (1905) - Luton (EGGW) hold F1 redesginated J1 - thanks to @hsugden
+25. Bug - Corrected line display issues for JJCTR and London S6/LAC Worthing/LFRR - thanks to @hsugden
+26. Enhancement - Added climbing/descending arrows to agreements from AC West sectors - thanks to @hsugden
+27. Bug - Moved SSFIN sectorline to appropriate file - thanks to @hsugden
+28. Bug - Corrected SSAPP line display conditions to show when using ALTOWNERSHIP - thanks to @hsugden
+29. Bug - Updated sectors and ownership for ENSV_N/ENSV split - thanks to @hsugden
+30. Enhancement - Updated Reykjavik sectorisation (BIRD_X) - thanks to @hsugden
+31. Enhancement - Adjustments to Gatwick (EGKK) SMR (stands, Z1, grass) - thanks to @hsugden
+32. AIRAC (1905) - Updated Danger Area EG D406 - thanks to @hsugden
+33. AIRAC (1905) - Updated Heathrow (EGLL) runway track and threshold coordinates - thanks to @hsugden
 
 # Changes from release 2019/03 to 2019/04
 1. AIRAC (1903) - hold AX removed from EGTK SMR - thanks to @1adamf (Adam Farquharson)
@@ -1381,15 +1385,15 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 4. Bug - Updated EGPD Meldrum TV Mast VRP coordinates - thanks to @hcphoon01 (Harry Cameron)
 5. AIRAC (1904) - Updated EGNX and EGPK frequencies - thanks to @sonnynixon1507 (Sonny Nixon)
 6. AIRAC (1904) - update EGKH frequency - thanks to @aeroniemi (Alex Beavil)
-7. Enhancement - Added Gander Oceanic frequency and ownership - thanks to @hsugden (Harry Sugden)
-8. Bug - Added agreements via INKOB/SOSIM for EGAA/AC outbounds Rathlin->AC North - thanks to @hsugden (Harry Sugden)
+7. Enhancement - Added Gander Oceanic frequency and ownership - thanks to @hsugden
+8. Bug - Added agreements via INKOB/SOSIM for EGAA/AC outbounds Rathlin->AC North - thanks to @hsugden
 9. Enhancement - EGKK Pier 5 Stands numbers 555, 558 ,559 ,557 ,560 ,561 ,562 ,563 ,564 ,565 Renamed - thanks to @Kye-Taylor (Kye Taylor)
 10. AIRAC (1903) - Gatwick (EGKK) added Z1 - thanks to @kye-taylor (Kye Taylor)
 11. AIRAC (1904) - Update EGLK SMR - thanks to @epicdemon99 (Nathaniel Leff)
 12. AIRAC (1904) - Removal of DET2Z trial RNAV SID - thanks to @epicdemon99 (Nathaniel Leff)
-13. AIRAC (1904) - Various airways redesignated as RNAV - thanks to @hsugden (Harry Sugden)
+13. AIRAC (1904) - Various airways redesignated as RNAV - thanks to @hsugden
 14. Enhancement - Newquay SMR updated to include extra details - thanks to @danielbutton (Daniel Button)
-15. AIRAC (1903) - Added EGPK RNAV approach fixes - thanks to @hsugden (Harry Sugden)
+15. AIRAC (1903) - Added EGPK RNAV approach fixes - thanks to @hsugden
 16. AIRAC (1904) - Added new EGLF VRPs - thanks to @epicdemon99 (Nathaniel Leff)
 17. AIRAC (1903) - updated EGLL SMR to remove construction and add future stands - thanks to @epicdemon99 (Nathaniel Leff)
 18. AIRAC (1904) - Prestwick (EGPK) runway track updated - thanks to @epicdemon99 (Nathaniel Leff)
@@ -1415,8 +1419,8 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 4. AIRAC (1902) - EGAA and EGAC ATIS frequencies updated - thanks to @NickMarinov (Nick Marinov)
 
 # Changes from release 2018/13 to 2019/01
-1. Bug - Added missing fix SITKU - thanks to @hsugden (Harry Sugden)
-2. Bug - Fixed L9 airway to start at KONAN - thanks to @hsugden (Harry Sugden)
+1. Bug - Added missing fix SITKU - thanks to @hsugden
+2. Bug - Fixed L9 airway to start at KONAN - thanks to @hsugden
 3. Bug - Fix Goodwood (EGHR) runway definition for 14/32 - thanks to @inventor02 (George Peppard)
 4. Bug - Add missing GALSO fix - thanks to @inventor02 (George Peppard)
 5. Bug - Fix EGLC/EGKB STARs - thanks to @cbyworth (Chad Byworth)
@@ -1428,11 +1432,11 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 11. AIRAC (1901) - Redhill (EGKR) ATIS Frequency Change - thanks to @cpawley (Chris Pawley)
 12. AIRAC (1901) - Kemble (EGBP) Information Frequency Change - thanks to @cpawley (Chris Pawley)
 13. AIRAC (1901) - Reverted Jersey Zone (SKERY) Frequency Change - thanks to @cpawley (Chris Pawley)
-14. Enhancement - TCE->E agreements enhanced with arrows and segregation for LEDBO/C2/C1 - thanks to @hsugden (Harry Sugden)
+14. Enhancement - TCE->E agreements enhanced with arrows and segregation for LEDBO/C2/C1 - thanks to @hsugden
 15. AIRAC (1901) - Update Cardiff (EGFF) SMR - thanks to @cpawley (Chris Pawley)
-16. AIRAC (1901), Enhancement - AC Worthing to TC NE Essex inbounds now descending FL160 - thanks to @hsugden (Harry Sugden)
+16. AIRAC (1901), Enhancement - AC Worthing to TC NE Essex inbounds now descending FL160 - thanks to @hsugden
 17. AIRAC (1901) - Updated Liverpool (EGGP) Threshold Coordinate - thanks to @cpawley (Chris Pawley)
-18. Bug/Enhancement - Added TCNE->TCE agreements for new post-1813 routings from LTMA airfields - thanks to @hsugden (Harry Sugden)
+18. Bug/Enhancement - Added TCNE->TCE agreements for new post-1813 routings from LTMA airfields - thanks to @hsugden
 19. Enhancement - Adjust S8 to DUBS EIDW inbound agreement from VATRY-10 to LEMGU - thanks to @inventor02 (George Peppard)
 20. AIRAC (1901) - EGLL SMR construction areas - thanks to @inventor02 (George Peppard)
 
@@ -1465,78 +1469,78 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 26. AIRAC (1813) - M604 rerouted - thanks to @indianbhaji (Eric Liu)
 27. AIRAC (1813) - UM185/M185 airways rerouted - thanks to @indianbhaji (Eric Liu)
 28. AIRAC (1813) - M20 withdrawn; M40 to replace - thanks to @indianbhaji (Eric Liu)
-29. AIRAC (1813) - Jersey (EGJJ) ORIST SIDs added - thanks to @hsugden (Harry Sugden)
-30. Bug - Added missing agreement for MAW->DUBN Dublin (EIDW) inbounds via SITKU - thanks to @hsugden (Harry Sugden)
-31. AIRAC (1813) - Gatwick (EGKK) CLN RNAV SIDs truncated and redesignated - thanks to @hsugden (Harry Sugden)
-32. AIRAC (1813) - Heathrow (EGLL) and Northolt (EGWU) LAM3A STAR redesignated - thanks to @hsugden (Harry Sugden)
-33. Bug - Added missing fix in Gatwick (EGKK) IMVUR1Z SID routing - thanks to @hsugden (Harry Sugden)
-34. AIRAC (1813) - Guernsey (EGJB) ORIST and LERAK SIDs added - thanks to @hsugden (Harry Sugden)
-35. AIRAC (1813) - EGSS/GW/SC STARs redesignated and files cleaned up - thanks to @hsugden (Harry Sugden)
-36. AIRAC (1813) - EGMC 8.33kHz frequencies added to doc file - thanks to @hsugden (Harry Sugden)
-37. AIRAC (1813) - Southend (EGMC) STAR redesignation - thanks to @hsugden (Harry Sugden)
-38. AIRAC (1813) - EGCC/GP/NR/NM/CN arrivals via LAKEY agreement changed - thanks to @hsugden (Harry Sugden)
+29. AIRAC (1813) - Jersey (EGJJ) ORIST SIDs added - thanks to @hsugden
+30. Bug - Added missing agreement for MAW->DUBN Dublin (EIDW) inbounds via SITKU - thanks to @hsugden
+31. AIRAC (1813) - Gatwick (EGKK) CLN RNAV SIDs truncated and redesignated - thanks to @hsugden
+32. AIRAC (1813) - Heathrow (EGLL) and Northolt (EGWU) LAM3A STAR redesignated - thanks to @hsugden
+33. Bug - Added missing fix in Gatwick (EGKK) IMVUR1Z SID routing - thanks to @hsugden
+34. AIRAC (1813) - Guernsey (EGJB) ORIST and LERAK SIDs added - thanks to @hsugden
+35. AIRAC (1813) - EGSS/GW/SC STARs redesignated and files cleaned up - thanks to @hsugden
+36. AIRAC (1813) - EGMC 8.33kHz frequencies added to doc file - thanks to @hsugden
+37. AIRAC (1813) - Southend (EGMC) STAR redesignation - thanks to @hsugden
+38. AIRAC (1813) - EGCC/GP/NR/NM/CN arrivals via LAKEY agreement changed - thanks to @hsugden
 39. AIRAC (1813) - Reinstate EGNC APP - thanks to @indianbhaji (Eric Liu)
 40. AIRAC (1813) - New fixes for cycle 2018/13 - thanks to @indianbhaji (Eric Liu)
-41. Bug - Fixed EKDK unclosed sector border lines - thanks to @hsugden (Harry Sugden)
+41. Bug - Fixed EKDK unclosed sector border lines - thanks to @hsugden
 42. AIRAC (1813) - Heathrow SMR updated (WIP removed) - thanks to @cpawley (Chris Pawley)
-43. AIRAC (1813) - Southampton (EGHI) and Bournemouth (EGHH) SAM1B->UMBUR1S STAR - thanks to @hsugden (Harry Sugden)
-44. AIRAC (1813) - Belfast/Aldergrove (EGAA) runway tracks updated - thanks to @hsugden (Harry Sugden)
-45. AIRAC (1813) - London/City (EGLC) and Biggin Hill (EGKB) SUMUM/XAMAN STARs redesignated - thanks to @hsugden (Harry Sugden)
-46. AIRAC (1813) - Gatwick (EGKK) TIMBA STARs redesignated / removed - thanks to @hsugden (Harry Sugden)
-47. AIRAC (1810) - Added Sumburgh (EGPB) RNAV approach fixes - thanks to @hsugden (Harry Sugden)
-48. AIRAC (1813) - Duxford (EGSU) basic and runway info updated - thanks to @hsugden (Harry Sugden)
+43. AIRAC (1813) - Southampton (EGHI) and Bournemouth (EGHH) SAM1B->UMBUR1S STAR - thanks to @hsugden
+44. AIRAC (1813) - Belfast/Aldergrove (EGAA) runway tracks updated - thanks to @hsugden
+45. AIRAC (1813) - London/City (EGLC) and Biggin Hill (EGKB) SUMUM/XAMAN STARs redesignated - thanks to @hsugden
+46. AIRAC (1813) - Gatwick (EGKK) TIMBA STARs redesignated / removed - thanks to @hsugden
+47. AIRAC (1810) - Added Sumburgh (EGPB) RNAV approach fixes - thanks to @hsugden
+48. AIRAC (1813) - Duxford (EGSU) basic and runway info updated - thanks to @hsugden
 49. Bug - Update Bristol (EGGD) SMR - @Scotflieger (Andrew Gransden)
-50. Bug - Corrected Stansted (EGSS) SID fixes - thanks to @hsugden (Harry Sugden)
-51. AIRAC (1813) - Inverness (EGPE) 8.33kHz spaced frequencies added to doc - thanks to @hsugden (Harry Sugden)
-52. Enhancement - Manchester (EGCC) SMR background colour set back to original - thanks to @hsugden (Harry Sugden)
-53. Bug - Fixed 'Virtual_Fixes' file extension - thanks to @hsugden (Harry Sugden)
-54. Enhancement - Added SASKI delegated airspace in ARTCC High - thanks to @hsugden (Harry Sugden)
-55. Enhancement - Removed redundant Coventry (EGBE) airspace and SMAA data - thanks to @hsugden (Harry Sugden)
-56. Enhancement - Guest ownership for TCNW (for KK WILLO3B) refined - thanks to @hsugden (Harry Sugden)
-57. Bug - Corrected S23->TCNW agreement for SS/GW/SC arrivals - thanks to @hsugden (Harry Sugden)
-58. Bug/Enhancement - Added missing EGNM inbound agreements from MAE->NMAPP - thanks to @hsugden (Harry Sugden)
-59. Bug - Corrected TOSVA fix coordinates - thanks to @hsugden (Harry Sugden)
-60. Bug - Fixed (and amended) Midlands (BB/NX) MAW->MAE inbound agreements - thanks to @hsugden (Harry Sugden)
-61. AIRAC (1813) - New agreement for Jersey Zone outbounds via ORIST - thanks to @hsugden (Harry Sugden)
-62. Bug - Added missing KK/Essex RRhigh_S inbound agreements via LUGIS and ODREP - thanks to @hsugden (Harry Sugden)
+50. Bug - Corrected Stansted (EGSS) SID fixes - thanks to @hsugden
+51. AIRAC (1813) - Inverness (EGPE) 8.33kHz spaced frequencies added to doc - thanks to @hsugden
+52. Enhancement - Manchester (EGCC) SMR background colour set back to original - thanks to @hsugden
+53. Bug - Fixed 'Virtual_Fixes' file extension - thanks to @hsugden
+54. Enhancement - Added SASKI delegated airspace in ARTCC High - thanks to @hsugden
+55. Enhancement - Removed redundant Coventry (EGBE) airspace and SMAA data - thanks to @hsugden
+56. Enhancement - Guest ownership for TCNW (for KK WILLO3B) refined - thanks to @hsugden
+57. Bug - Corrected S23->TCNW agreement for SS/GW/SC arrivals - thanks to @hsugden
+58. Bug/Enhancement - Added missing EGNM inbound agreements from MAE->NMAPP - thanks to @hsugden
+59. Bug - Corrected TOSVA fix coordinates - thanks to @hsugden
+60. Bug - Fixed (and amended) Midlands (BB/NX) MAW->MAE inbound agreements - thanks to @hsugden
+61. AIRAC (1813) - New agreement for Jersey Zone outbounds via ORIST - thanks to @hsugden
+62. Bug - Added missing KK/Essex RRhigh_S inbound agreements via LUGIS and ODREP - thanks to @hsugden
 63. Enhancement - Added Freetext for Links at Heathrow - thanks to @daleb99 (Dale Brooksby)
-64. AIRAC (1813) - Various new agreements for Dutch interface in IBNOS area - thanks to @hsugden (Harry Sugden)
-65. AIRAC (1813) - EHAA FIR fixes updated (including new IBNOS area fixes) - thanks to @hsugden (Harry Sugden)
-66. AIRAC (1813) - IBNOS Delegated Area (EHAA->LAC/LTC), ARTCC, lines and ownership - thanks to @hsugden (Harry Sugden)
+64. AIRAC (1813) - Various new agreements for Dutch interface in IBNOS area - thanks to @hsugden
+65. AIRAC (1813) - EHAA FIR fixes updated (including new IBNOS area fixes) - thanks to @hsugden
+66. AIRAC (1813) - IBNOS Delegated Area (EHAA->LAC/LTC), ARTCC, lines and ownership - thanks to @hsugden
 
 # Changes from release 2018/11 to 2018/12
 1. Enhancement - Removes EGMC (Southend) real world frequencies @scotflieger (Andrew Granson)
 2. AIRAC (1812) - Recorded Frequencies Unable to Update (8.33 kHz spacing) - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2018/10 to 2018/11
-1. AIRAC (1811) - CT (Coventry) NDB withdrawn - thanks to @hsugden (Harry Sugden)
+1. AIRAC (1811) - CT (Coventry) NDB withdrawn - thanks to @hsugden
 2. Bug - Fixed D307 now draws correctally thanks to @lancaster123 (Scott Daniels)
 3. AIRAC (1811) - Newquay runway heading update - thanks to @indianbhaji (Eric Liu)
-4. AIRAC (1811) - P2/UP2 now RNAV airways - thanks to @hsugden (Harry Sugden)
-5. AIRAC (1811) - Newquay (NQY) NDB relocated... ish! - thanks to @hsugden (Harry Sugden)
-6. AIRAC (1808) - Doncaster (EGCN) hold A3 repositioned, and other minor SMR updates - thanks to @hsugden (Harry Sugden)
-7. Bug - Updated EGBB squawk code range change (1810) for mentor positions - thanks to @hsugden (Harry Sugden)
-8. AIRAC (1811) - Carlisle (EGNC) APP position withdrawn - thanks to @hsugden (Harry Sugden)
-9. AIRAC (1811) - Carlisle (EGNC) ARP updated - thanks to @hsugden (Harry Sugden)
-10. AIRAC (1807) - Dundee EGPN runway track updated - thanks to @hsugden (Harry Sugden)
-11. AIRAC (1811) - Gloucestershire (EGBJ) runway track updated - thanks to @hsugden (Harry Sugden)
-12. AIRAC (1811) - Sumburgh (EGPB) frequency corrected in doc file - thanks to @hsugden (Harry Sugden)
-13. AIRAC (1811) - Stornoway (EGPO) runway track updated - thanks to @hsugden (Harry Sugden)
-14. AIRAC (1811) - Stornoway (EGPO) frequencies updated - thanks to @hsugden (Harry Sugden)
-15. Enhancement - Farnborough LARS (EGLF_R_APP) position defined - thanks to @hsugden (Harry Sugden)
-16. AIRAC (1811) - 8.33KHz freqs added to doc file for EGGD, LL, PA and PN - thanks to @hsugden (Harry Sugden)
-17. AIRAC (1811) - Carlisle (EGNC) runway designator/track change - thanks to @hsugden (Harry Sugden)
+4. AIRAC (1811) - P2/UP2 now RNAV airways - thanks to @hsugden
+5. AIRAC (1811) - Newquay (NQY) NDB relocated... ish! - thanks to @hsugden
+6. AIRAC (1808) - Doncaster (EGCN) hold A3 repositioned, and other minor SMR updates - thanks to @hsugden
+7. Bug - Updated EGBB squawk code range change (1810) for mentor positions - thanks to @hsugden
+8. AIRAC (1811) - Carlisle (EGNC) APP position withdrawn - thanks to @hsugden
+9. AIRAC (1811) - Carlisle (EGNC) ARP updated - thanks to @hsugden
+10. AIRAC (1807) - Dundee EGPN runway track updated - thanks to @hsugden
+11. AIRAC (1811) - Gloucestershire (EGBJ) runway track updated - thanks to @hsugden
+12. AIRAC (1811) - Sumburgh (EGPB) frequency corrected in doc file - thanks to @hsugden
+13. AIRAC (1811) - Stornoway (EGPO) runway track updated - thanks to @hsugden
+14. AIRAC (1811) - Stornoway (EGPO) frequencies updated - thanks to @hsugden
+15. Enhancement - Farnborough LARS (EGLF_R_APP) position defined - thanks to @hsugden
+16. AIRAC (1811) - 8.33KHz freqs added to doc file for EGGD, LL, PA and PN - thanks to @hsugden
+17. AIRAC (1811) - Carlisle (EGNC) runway designator/track change - thanks to @hsugden
 18. AIRAC (1808) - EGCC SMR updates - thanks to @tasosb (Anastasios Mpithas)
-19. AIRAC (1804) - Number of airways converted to RNAV - thanks to @hsugden (Harry Sugden)
-20. Enhancement - Updated some Glasgow (EGPF) stand and hold labels - thanks to @hsugden (Harry Sugden)
-21. Enhancement - Updated L18 S5->Dublin sector coordinates according to Holyhead CTA - thanks to @hsugden (Harry Sugden)
-22. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden (Harry Sugden)
-23. AIRAC (1811) - Oxford (EGTK) frequencies updated - thanks to @hsugden (Harry Sugden)
-24. AIRAC (1808) - Heathrow (EGLL) BIG low level STARs withdrawn - thanks to @hsugden (Harry Sugden) & @daleb99 (Dale Brooksby)
+19. AIRAC (1804) - Number of airways converted to RNAV - thanks to @hsugden
+20. Enhancement - Updated some Glasgow (EGPF) stand and hold labels - thanks to @hsugden
+21. Enhancement - Updated L18 S5->Dublin sector coordinates according to Holyhead CTA - thanks to @hsugden
+22. Bug/Enhancement - Redefined EGNT APP airspace, and line display to MAN/SCO - thanks to @hsugden
+23. AIRAC (1811) - Oxford (EGTK) frequencies updated - thanks to @hsugden
+24. AIRAC (1808) - Heathrow (EGLL) BIG low level STARs withdrawn - thanks to @hsugden & @daleb99 (Dale Brooksby)
 25. AIRAC (1810) - Changes to EGKK stands 47L/R and 49 to 54 (1310) - @scotflieger (Andrew Gransden)
 26. AIRAC (1811) - Gloucester (EGBJ) added new hangar and apron - @scotflieger (Andrew Gransden)
 27. AIRAC (1811) - Stansted (EGSS) new stands added - @scotflieger (Andrew Gransden)
-28. Enhancement - Updated ALL 'General RNAV' fixes relating to SIDs/STARs, and associated agreements - thanks to @hsugden (Harry Sugden)
+28. Enhancement - Updated ALL 'General RNAV' fixes relating to SIDs/STARs, and associated agreements - thanks to @hsugden
 
 # Changes from release 2018/09 to 2018/10
 1. AIRAC (1810) - N601 truncated at Detling - thanks to @indianbhaji (Eric Liu)
@@ -1548,7 +1552,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 7. AIRAC (1810) - EGMD frequency updated in doc file (8.33kHz spacing) - thanks to @1adamf (Adam Farquharson)
 8. AIRAC (1810) - EGTC frequencies updated in doc file (8.33kHz spacing)  - thanks to @1adamf (Adam Farquharson)
 9. AIRAC (1810) - Holyhead CTA extension - thanks to @indianbhaji (Eric Liu)
-10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden (Harry Sugden)
+10. AIRAC (1810) - Irish Sea CTA extended - thanks to @hsugden
 11. AIRAC (1810) - EGBB Squawk Code Range Change - Thanks to @NickMarinov (Nick Marinov)
 12. Enhancement - Remove unused and unreferenced fixes in `FIXES_Old.txt` - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1810) - EGPL Runway Heading update - thanks to @tasosb (Anastasios Mpithas)
@@ -1567,44 +1571,44 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 26. AIRAC (1810) - EGBB ATIS Frequency Update - thanks to @JoshRiley (Josh Riley)
 
 # Changes from release 2018/08 to 2018/09
-1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden (Harry Sugden)
+1. Enhancement - LTC_CTR temporary note/comment removed - thanks to @hsugden
 2. AIRAC (1808) - EGBB SIDs removed - thanks to @daleb99 (Dale Brooksby)
 3. Enhancement - Add Scilly Isles/St Mary's SMR - thanks to @luke11brown (Luke Brown) (Added in 2018/08 but uncredited)
-4. Enhancement - Removed old EGGP SIDs - thanks to @hsugden (Harry Sugden)
-5. Enhancement - Reordered EGSS SIDs to reflect permanent CLN1E and DET1D RNAVs - thanks to @hsugden (Harry Sugden)
-6. Enhancement - Removed old EGGW SIDs - thanks to @hsugden (Harry Sugden)
+4. Enhancement - Removed old EGGP SIDs - thanks to @hsugden
+5. Enhancement - Reordered EGSS SIDs to reflect permanent CLN1E and DET1D RNAVs - thanks to @hsugden
+6. Enhancement - Removed old EGGW SIDs - thanks to @hsugden
 7. AIRAC (1809) - Guernsey runway heading update - thanks to @indianbhaji (Eric Liu)
 8. AIRAC (1809) - Removed holding point A2 from EGTE - thanks to @indianbhaji (Eric Liu)
 9. AIRAC (1809) - Bristol runway heading update - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1809) - EGGW frequency update - thanks to @indianbhaji (Eric Liu)
 11. AIRAC (1809) - EGPH SMR updates (H2/M4 removed, Stand 32 positioned) - thanks to @lmullenvatsim (Luke Mullen)
 12. AIRAC (1809) - EGGW stands amended - thanks to @lmullenvatsim (Luke Mullen)
-13. Enhancement - Removed old EGLL DVR SIDs - thanks to @hsugden (Harry Sugden)
-14. Enhancement - Removed old EGSS DVR SIDs - thanks to @hsugden (Harry Sugden)
-15. Enhancement - Removed duplicate Manchester TMA drawing in SIDs (as well as ARTCC High) - thanks to @hsugden (Harry Sugden)
-16. AIRAC (1803) - EGHI frequencies updated in doc file (8.33 spacing) - thanks to @hsugden (Harry Sugden)
-17. Enhancement - Removed old EGPH SIDs - thanks to @hsugden (Harry Sugden)
-18. Enhancement - Removed old EGWU SIDs - thanks to @hsugden (Harry Sugden)
+13. Enhancement - Removed old EGLL DVR SIDs - thanks to @hsugden
+14. Enhancement - Removed old EGSS DVR SIDs - thanks to @hsugden
+15. Enhancement - Removed duplicate Manchester TMA drawing in SIDs (as well as ARTCC High) - thanks to @hsugden
+16. AIRAC (1803) - EGHI frequencies updated in doc file (8.33 spacing) - thanks to @hsugden
+17. Enhancement - Removed old EGPH SIDs - thanks to @hsugden
+18. Enhancement - Removed old EGWU SIDs - thanks to @hsugden
 19. AIRAC (1806) - Airways updates - thanks to @daleb99 (Dale Brooksby)
 20. AIRAC (1809) - EGTC frequency update - thanks to @indianbhaji (Eric Liu)
 21. AIRAC (1807) - EGPC Runway Heading update - thanks to @drenahmeti22 (Dren Ahmeti) & @cpawley (Chris Pawley)
-22. Enhancement - Removed old EGCC SIDs - thanks to @hsugden (Harry Sugden)
+22. Enhancement - Removed old EGCC SIDs - thanks to @hsugden
 23. AIRAC (1806) - Upper Airways converted to RNAV and corresponding new fixes added - thanks to @daleb99 (Dale Brooksby)
-24. Enhancement - Removed old EGNX SIDs - thanks to @hsugden (Harry Sugden)
+24. Enhancement - Removed old EGNX SIDs - thanks to @hsugden
 25. Enhancement - Fixed UCAS regions near Gloucester and removed unnecessary FL195 airspace bases - thanks to @daleb99 (Dale Brooksby)
-26. Enhancement - Removed old EGNM SIDs - thanks to @hsugden (Harry Sugden)
-27. Bug - Fixed Daventry->TCNW EGHI/HH inbounds via BAMBO (150) agreement display - thanks to @hsugden (Harry Sugden)
+26. Enhancement - Removed old EGNM SIDs - thanks to @hsugden
+27. Bug - Fixed Daventry->TCNW EGHI/HH inbounds via BAMBO (150) agreement display - thanks to @hsugden
 28. AIRAC (1808) - NITON CTA Established - thanks to @daleb99 (Dale Brooksby)
 29. AIRAC (1809) - EGPB Runway Heading update - thanks to @NickMarinov (Nick Marinov)
 30. Enhancement - Amended agreements for EGNX inbounds - thanks to @cpawley (Chris Pawley)
 31. Bug - Fixed Sector Entries for Scottish Approach Units - thanks to @cpawley (Chris Pawley)
 32. Enhancement - Added Agreement S -> W6 for ADKIK - thanks to @NickMarinov (Nick Marinov)
 33. AIRAC (1808) - EGSC SMR Update - thanks to @tasosb (Anastasios Mpithas)
-34. Enhancement - Removed old EGKK ADMAG1X SID, replaced by ADMAG2X in 1606 - thanks to @hsugden (Harry Sugden)
-35. AIRAC (1806) - Archived KENET SIDs from 26L/26R, and KENET RNAV SIDs (replaced by IMVUR/NOVMA) - thanks to @hsugden (Harry Sugden)
+34. Enhancement - Removed old EGKK ADMAG1X SID, replaced by ADMAG2X in 1606 - thanks to @hsugden
+35. AIRAC (1806) - Archived KENET SIDs from 26L/26R, and KENET RNAV SIDs (replaced by IMVUR/NOVMA) - thanks to @hsugden
 36. AIRAC (1805) - Update EGGW SIDs - thanks to @trevorhannant (Trevor Hannant)
 37. AIRAC (1809) - EGJB SMR Update - thanks to @trevorhannant (Trevor Hannant)
-38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden (Harry Sugden)
+38. Enhancement - Amended line display for LTC N and LTC SE - thanks to @hsugden
 39. Bug - Corrected EGHI VRP name (BUTSER HILL MAST) - thanks to @NickMarinov (NickMarinov)
 
 # Changes from release 2018/07 to 2018/08
@@ -1618,7 +1622,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 8. AIRAC (1808) - EGTK frequency update - thanks to @indianbhaji (Eric Liu)
 9. AIRAC (1808) - EGLC frequency update - thanks to @indianbhaji (Eric Liu)
 10. AIRAC (1808) - EGBB frequency update - thanks to @indianbhaji (Eric Liu)
-11. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden (Harry Sugden)
+11. Bug - Corrected EGKK SID designator LAM4V->LAM5V - thanks to @hsugden
 12. AIRAC (1807) - EGSS frequency update - thanks to @indianbhaji (Eric Liu)
 13. AIRAC (1805) - EGNR, EGNT and EGSH frequency updates - thanks to @indianbhaji (Eric Liu)
 14. Bug - Fixed placement of M5 Avon Bridge VRP at Bristol - thanks to @inventor02 (George Peppard)
@@ -1691,7 +1695,7 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 4. AIRAC (1802) - Farnborough Runway Heading Update - thanks to @trevorhannant (Trevor Hannant)
 5. AIRAC (1802) - M605 and UM605 airways are now RNAV airways - @lpetersctc (Luke Peters)
 6. AIRAC (1802) - Farnborough Tower Freq Change - thanks to @trevorhannant (Trevor Hannant)
-7. AIRAC (1801) - Danger area EG R157 updated - thanks to @hsugden (Harry Sugden)
+7. AIRAC (1801) - Danger area EG R157 updated - thanks to @hsugden
 8. BUG - EGKK LAM4M Updated to LAM5M - thanks to @trevorhannant (Trevor Hannant)
 9. Enhancement - Add Warton Basic Info - thanks to @trevorhannant (Trevor Hannant)
 10. Enhancement - Update EGPE SMR and General Information thanks to @trevorhannant (Trevor Hannant)
@@ -1724,30 +1728,30 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 15. AIRAC (1712) - EGSC STARs amended - thanks to @inventor02 (George Peppard)
 16. Enhancement - Added agreed levels between S6 and AC Worthing for 1712 STARs - thanks to @cpawley (Chris Pawley)
 17. Bug - Move D3 label at Blackpool (EGNH) to the correct place - thanks to @inventor02 (George Peppard)
-18. Enhancement - Removed outdated (since AIRAC 1405) EGBB SIDs and STARs, along with other redundant 'General RNAV' fixes - thanks to @hsugden (Harry Sugden)
+18. Enhancement - Removed outdated (since AIRAC 1405) EGBB SIDs and STARs, along with other redundant 'General RNAV' fixes - thanks to @hsugden
 19. Enhancement - Simplified Belfast Aldergrove SMR - thanks to @sw104 (Sam White)
-20. AIRAC (1712) - Updated Doncaster (EGCN) SMR ground layout - thanks to @hsugden (Harry Sugden)
+20. AIRAC (1712) - Updated Doncaster (EGCN) SMR ground layout - thanks to @hsugden
 21. Enhancement - Added CAT I holding points to London Heathrow (EGLL) SMR - thanks to @james-yuen (James Yuen)
-22. Bug - corrected Oxford (EGTK) SMR formatting so 'Oxford' now appears in Display Settings\Regions - thanks to @hsugden (Harry Sugden)
+22. Bug - corrected Oxford (EGTK) SMR formatting so 'Oxford' now appears in Display Settings\Regions - thanks to @hsugden
 23. AIRAC (1713) - EGMC SMR Update - thanks to @inventor02 (George Peppard)
-24. Enhancement - Added online rings for Solent (EGHI and EGHH) - thanks to @hsugden (Harry Sugden)
-25. Enhancement - Added online rings for Cardiff TWR to display to London - thanks to @hsugden (Harry Sugden)
-26. Enhancement - Added online rings for Bristol TWR/GND to display to London - thanks to @hsugden (Harry Sugden) and @trevorhannant (Trevor Hannant)
-27. Bug - Corrected airport line display references to 'London AC West' - thanks to @hsugden (Harry Sugden)
-28. DEVELOPERS ONLY - Added new 'Doc' to keep track of runway track changes that need further attention - thanks to @hsugden (Harry Sugden)
+24. Enhancement - Added online rings for Solent (EGHI and EGHH) - thanks to @hsugden
+25. Enhancement - Added online rings for Cardiff TWR to display to London - thanks to @hsugden
+26. Enhancement - Added online rings for Bristol TWR/GND to display to London - thanks to @hsugden and @trevorhannant (Trevor Hannant)
+27. Bug - Corrected airport line display references to 'London AC West' - thanks to @hsugden
+28. DEVELOPERS ONLY - Added new 'Doc' to keep track of runway track changes that need further attention - thanks to @hsugden
 29. AIRAC (1801) - EGSS Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 30. AIRAC (1713) - EGCN Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 31. AIRAC (1801) - EGNV Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 32. AIRAC (1801) - EGTK Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
-33. AIRAC (1712) - Holyhead, Strangford and Irish Sea CTAs added (ARTCC High, 'OCAS' Black Regions, Airspace Bases) - thanks to @hsugden (Harry Sugden) and @daleb99 (Dale Brooksby)
+33. AIRAC (1712) - Holyhead, Strangford and Irish Sea CTAs added (ARTCC High, 'OCAS' Black Regions, Airspace Bases) - thanks to @hsugden and @daleb99 (Dale Brooksby)
 34. AIRAC (1801) - EGNT Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 35. AIRAC (1801) - EGTE Runway Heading Updated - thanks to @trevorhannant (Trevor Hannant)
 36. AIRAC (1713) - EGJJ Runway Heading Update - thanks to @trevorhannant (Trevor Hannant)
-37. Enhancement - Added Jersey Zone split position and improved line display to LON - thanks to @hsugden (Harry Sugden)
-38. Enhancement - Added Jersey (JJ), Guernsey (JB) and Alderney (JA) online rings - thanks to @hsugden (Harry Sugden)
-39. AIRAC (1713) - Removed N864 controlled airspace (FL155-195) portion between DCS and WAL - thanks to @hsugden (Harry Sugden)
-40. Bug - Added missing coordinate to West CTA (ARTCC High) - thanks to @hsugden (Harry Sugden)
-41. Enhancement/Bug - Added Solent APP positions online ring visibility for TC NW and London S6, and corrected display conditions - thanks to @hsugden (Harry Sugden)
+37. Enhancement - Added Jersey Zone split position and improved line display to LON - thanks to @hsugden
+38. Enhancement - Added Jersey (JJ), Guernsey (JB) and Alderney (JA) online rings - thanks to @hsugden
+39. AIRAC (1713) - Removed N864 controlled airspace (FL155-195) portion between DCS and WAL - thanks to @hsugden
+40. Bug - Added missing coordinate to West CTA (ARTCC High) - thanks to @hsugden
+41. Enhancement/Bug - Added Solent APP positions online ring visibility for TC NW and London S6, and corrected display conditions - thanks to @hsugden
 
 # Changes from release 2017/12 to 2017/13
 1. Bug - Fixed Lossie Tower and Lossie Approach frequencies - thanks to @AndyTWF (Andy Ford)
@@ -1782,12 +1786,12 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 
 # Changes from release 2017/10 to 2017/11
 1. Bug - Missing lines on SCO_WD fixed - thanks to @luke11brown (Luke Brown)
-2. Bug - Added missing ownership for North Sea CTA 2 delegated airspace (EHAA) - thanks to @hsugden (Harry Sugden)
+2. Bug - Added missing ownership for North Sea CTA 2 delegated airspace (EHAA) - thanks to @hsugden
 3. Enhancement - Edinburgh (EGPH) Extended centrelines extended - thanks to @luke11brown (Luke Brown)
-4. AIRAC (1711) - Updated Hawarden (EGNR) squawk code allocation range - thanks to @hsugden (Harry Sugden)
-5. Bug - Updated Glasgow (EGPF) squawk code allocation range - thanks to @hsugden (Harry Sugden)
-6. Enhancement - ScAC East static sector boundary defined - thanks to @hsugden (Harry Sugden)
-7. AIRAC (1710) - Updated West CTA coordinates and formatting - thanks to @hsugden (Harry Sugden)
+4. AIRAC (1711) - Updated Hawarden (EGNR) squawk code allocation range - thanks to @hsugden
+5. Bug - Updated Glasgow (EGPF) squawk code allocation range - thanks to @hsugden
+6. Enhancement - ScAC East static sector boundary defined - thanks to @hsugden
+7. AIRAC (1710) - Updated West CTA coordinates and formatting - thanks to @hsugden
 8. Bug - Online ring for EGNT incorrect displayfixed - thanks to @luke11brown (Luke Brown)
 9. AIRAC (1711) - EGNT Stand 32 Added - thanks to @luke11brown (Luke Brown)
 10. Enhancement - Add Newquay (EGHQ) Extended centrelines - thanks to @luke11brown (Luke Brown)
@@ -1946,11 +1950,11 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 25. Changed Luton SMR colour scheme and edited data to more closely match real SMR - thanks to @sw104 (Sam White)
 26. AIRAC (1703) - Various airway redesignations and updates - thanks to @agentsquash (Alex Ashley)
 27. AIRAC (1609) - Manchester (EGCC) ground layout updated - thanks to @acrix (Matthew Moy)
-28. Enhancement - updated VATSIM frequencies doc with entry for Southend Tower - thanks to @hsugden (Harry Sugden)
+28. Enhancement - updated VATSIM frequencies doc with entry for Southend Tower - thanks to @hsugden
 29. AIRAC (1703) - Updated Leeds (EGNM) radar frequency - thanks to @agentsquash (Alex Ashley)
 
 # Changes from release 2016/12 to 2017/01
-1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
+1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden
 2. Removed LIVSU fix from FIXES_OLD to prevent issue with UL980 - thanks to @agent_squash (Alex Ashley)
 3. Corrected General RNAV fix names on Glasgow (EGPF) TLA5A SID - thanks to @lpeters (Luke Peters)
 4. AIRAC (1613) - Updated Southampton (EGHI) ATIS frequency - thanks to @lpeters (Luke Peters)
@@ -1959,23 +1963,23 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 7. AIRAC (1701) - Scottish TMA naming conventions changed - thanks to @lpeters (Luke Peters)
 8. AIRAC (1613) - Airways Y96 and UY96 replaced by RNAV Y96 - thanks to @lpeters (Luke Peters)
 9. AIRAC (1613) - Various other airways updates - thanks to @lpeters (Luke Peters)
-10. AIRAC (1613) - Various removals, additions and updates to name-code designators (fixes) - thanks to @lpeters (Luke Peters) and @hsugden (Harry Sugden)
-11. AIRAC (1613) - Doncaster (EGCN) FNY1D STAR redesignated FNY2D, beginning at EMBOR - thanks to @lpeters (Luke Peters) and @hsugden (Harry Sugden)
+10. AIRAC (1613) - Various removals, additions and updates to name-code designators (fixes) - thanks to @lpeters (Luke Peters) and @hsugden
+11. AIRAC (1613) - Doncaster (EGCN) FNY1D STAR redesignated FNY2D, beginning at EMBOR - thanks to @lpeters (Luke Peters) and @hsugden
 12. Updated Brize Norton (EGVN) threshold co-ordinates - thanks to @trevorhannant
 13. Updated Guernsey (EGJB) SKERY SID designators - thanks to @trevorhannant
-14. AIRAC (1701) - removal of 5 danger areas - thanks to @hsugden (Harry Sugden)
-15. AIRAC (1611) - East Midlands (EGNX) runway track updated - thanks to @hsugden (Harry Sugden)
-16. AIRAC (1610) - Various airway redesignations and updates, incl. Shoreham (EGKA) runway redesignation - thanks to @hsugden (Harry Sugden)
-17. Amended N864 airspace base between BHD and 5NM before EXMOR to FL65 - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1701) - removal of 5 danger areas - thanks to @hsugden
+15. AIRAC (1611) - East Midlands (EGNX) runway track updated - thanks to @hsugden
+16. AIRAC (1610) - Various airway redesignations and updates, incl. Shoreham (EGKA) runway redesignation - thanks to @hsugden
+17. Amended N864 airspace base between BHD and 5NM before EXMOR to FL65 - thanks to @hsugden
 18. AIRAC (1610) - Doncaster (EGCN) Hold G1 Added, Removed stands 11 and 15 - thanks to @arcticash (Ash Kirby)
 19. AIRAC (1610) - Leeds Bradford (EGNM) Holds GA/GB added, Holds L1/L2/L3/F1/F2/F3 redesignated into L1/L2/F1/F2, Old hold line F1 and L1 removed - thanks to @arcticash (Ash Kirby)
-20. AIRAC (1607) - Heathrow (EGLL) SATUN hold respositioned and Link 25 removed - thanks to @hsugden (Harry Sugden)
-21. AIRAC (1701) - Heathrow (EGLL) SMR updated, removing/adding various construction areas - thanks to @hsugden (Harry Sugden)
+20. AIRAC (1607) - Heathrow (EGLL) SATUN hold respositioned and Link 25 removed - thanks to @hsugden
+21. AIRAC (1701) - Heathrow (EGLL) SMR updated, removing/adding various construction areas - thanks to @hsugden
 22. AIRAC (1611) - East Midlands (EGNX) Holds M4 and M5 Added - thanks to @arcticash (Ash Kirby)
-23. AIRAC (1609) - Southend (EGMC) stands 12-16 replaced by stands 11-14 - thanks to @hsugden (Harry Sugden)
-24. Fixed Carlisle (EGNC) online ring display to MAN positions - thanks to @hsugden (Harry Sugden)
-25. Added London City (EGLC) / London CTR helicopter reporting point freetext - thanks to @hsugden (Harry Sugden)
-26. Corrected Southern CTA coordinates on northern boundary - thanks to @hsugden (Harry Sugden)
+23. AIRAC (1609) - Southend (EGMC) stands 12-16 replaced by stands 11-14 - thanks to @hsugden
+24. Fixed Carlisle (EGNC) online ring display to MAN positions - thanks to @hsugden
+25. Added London City (EGLC) / London CTR helicopter reporting point freetext - thanks to @hsugden
+26. Corrected Southern CTA coordinates on northern boundary - thanks to @hsugden
 27. AIRAC (1607) - Luton (EGGW) stand 16L replaced with stands 16, 17, 18, and 19 - thanks to @orhodes (Oliver Rhodes)
 28. AIRAC (1613) - Luton (EGGW) stands 43L, 44L, 44R, and 45R - thanks to @orhodes (Oliver Rhodes)
 29. Simplified Luton (EGGW) stand labelling (20R, 21L/R, 22L, 41L/R, and 42L/R) and added some missing stands (14L, 15R, 42R and 71) - thanks to @sw104 (Sam White)
@@ -1983,10 +1987,10 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 31. Bugfix - Corrected a typo on the Handcross Gatwick (EGKK) VRP - thanks to @arcticash (Ash Kirby)
 32. Updated Luton (EGGW) SMR - thanks to @sw104 (Sam White) and Luke Brown
 33. Fixed Luton (EGGW) stand 16L apron box, fixed holding ponts C2 and A4E representation and added stand 71 area outline - thanks to @sw104 (Sam White)
-34. AIRAC (1511) - Gatwick (EGKK) Pier 1 reinstated and holds A2 & A3 repositioned - thanks to @hsugden (Harry Sugden)
-35. AIRAC (1701) - Leeds (EGNM) stands updated - thanks to @hsugden (Harry Sugden)
-36. AIRAC (1701) - Doncaster (EGCN) stand updates and reconfiguration of taxiway E - thanks to @hsugden (Harry Sugden)
-37. AIRAC (1609) - Cambridge (EGSC) runway tracks and holds updated - thanks to @hsugden (Harry Sugden)
+34. AIRAC (1511) - Gatwick (EGKK) Pier 1 reinstated and holds A2 & A3 repositioned - thanks to @hsugden
+35. AIRAC (1701) - Leeds (EGNM) stands updated - thanks to @hsugden
+36. AIRAC (1701) - Doncaster (EGCN) stand updates and reconfiguration of taxiway E - thanks to @hsugden
+37. AIRAC (1609) - Cambridge (EGSC) runway tracks and holds updated - thanks to @hsugden
 
 # Changes from release 2016/09 to 2016/12
 1. AIRAC (1610) - Stansted (EGSS) and Luton (EGGW) SIDs and STARs updated - thanks to @luke-brown (Luke Brown)
@@ -1994,59 +1998,59 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 3. AIRAC (1610) - Aldergrove (EGAA) ground position reinstated - thanks to @agent_squash (Alex Ashley)
 4. Removed danger area EG D121 - thanks to @agent_squash (Alex Ashley)
 5. AIRAC (1612) - Lands End (EGHC) RNAV fix BAVMA redesignated BAVKI - thanks to @agent_squash (Alex Ashley)
-6. AIRAC (1610) - Amended agreements between SS FIN and TC NW for truncated Stansted (EGSS) SIDs - thanks to @hsugden (Harry Sugden)
+6. AIRAC (1610) - Amended agreements between SS FIN and TC NW for truncated Stansted (EGSS) SIDs - thanks to @hsugden
 7. AIRAC (1610) - Added danger area EG D138C - thanks to @agent_squash (Alex Ashley)
 8. AIRAC (1610) - Worthing and Southern CTAs amended - thanks to @agent_squash (Alex Ashley)
 9. Removed defunct Manchester (EGCC) LIVSU SIDs - thanks to @agent_squash (Alex Ashley)
 10. AIRAC (1610) - Added Leeds East (EGCM) basic airport details - thanks to @agent_squash (Alex Ashley)
 11. AIRAC (1610) - Significant point (FIXES) updates, and removal of INS VOR - thanks to @agent_squash (Alex Ashley)
 12. AIRAC (1610) - Various airway redesignations and updates - thanks to @agent_squash (Alex Ashley)
-13. AIRAC (1610) - Added new Strumble CTA to ARTCC High - thanks to @hsugden (Harry Sugden)
-14. AIRAC (1612) - Runway track updates at Cardiff (EGFF), Edinburgh (EGPH) and Aberdeen (EGPD) - thanks to @hsugden (Harry Sugden)
-15. AIRAC (1611) - Cardiff (EGFF) RNAV approaches and associated airfield fixes - thanks to @hsugden (Harry Sugden)
+13. AIRAC (1610) - Added new Strumble CTA to ARTCC High - thanks to @hsugden
+14. AIRAC (1612) - Runway track updates at Cardiff (EGFF), Edinburgh (EGPH) and Aberdeen (EGPD) - thanks to @hsugden
+15. AIRAC (1611) - Cardiff (EGFF) RNAV approaches and associated airfield fixes - thanks to @hsugden
 
 # Changes from release 2016/07 to 2016/09
-1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden (Harry Sugden)
-2. Added AC West sector static boundary - thanks to @hsugden (Harry Sugden)
+1. Fixed AC North static boundary, adding previously missed lines - thanks to @hsugden
+2. Added AC West sector static boundary - thanks to @hsugden
 3. Added Ronaldsway (EGNS) VRPs - thanks to @agent_squash (Alex Ashley)
-4. Amended agreement between Heathrow INT S and TC SW and added CPT radar gate - thanks to @hsugden (Harry Sugden)
+4. Amended agreement between Heathrow INT S and TC SW and added CPT radar gate - thanks to @hsugden
 5. AIRAC (1608) - Liverpool (EGGP) RNAV approach fixes added - thanks to @agent_squash (Alex Ashley)
-6. Added squawk ranges to various London ACC event only splits - thanks to @hsugden (Harry Sugden)
-7. Added La Manche delegated airspace as ARTCC High data - thanks to @hsugden (Harry Sugden)
-8. AIRAC (1607) - Belfast (EGAA) runway coordinates and 07/25 extended centreline updated - thanks to @hsugden (Harry Sugden)
-9. AIRAC (1608) - Kirkwall (EGPA) RNAV approach fixes added - thanks to @hsugden (Harry Sugden)
-10. AIRAC (1609) - Barra (EGPR), Islay (EGPI) and Land's End (EGHC) RNAV approach fixes added - thanks to @hsugden (Harry Sugden)
-11. AIRAC (1609) - Birmingham (EGBB) Runway 15 2Y RNAV SIDs now permanent procedure - thanks to @hsugden (Harry Sugden)
-12. AIRAC (1609) - Southampton (EGHI) radar frequency updated to 122.720 - thanks to @hsugden (Harry Sugden)
-13. Sector Line, Ownership and Agreement changes relating to TC East and TC South airspace changes - thanks to @hsugden (Harry Sugden)
-14. Added EGPK, EGAE, EGPE and EGNC GND/TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-15. AIRAC (1609) - Shoreham (EGKA) runway track and coordinate updates - thanks to @hsugden (Harry Sugden)
-16. AIRAC (1609) - N552 and N562 now RNAV routes, and N552 route updated - thanks to @hsugden (Harry Sugden)
+6. Added squawk ranges to various London ACC event only splits - thanks to @hsugden
+7. Added La Manche delegated airspace as ARTCC High data - thanks to @hsugden
+8. AIRAC (1607) - Belfast (EGAA) runway coordinates and 07/25 extended centreline updated - thanks to @hsugden
+9. AIRAC (1608) - Kirkwall (EGPA) RNAV approach fixes added - thanks to @hsugden
+10. AIRAC (1609) - Barra (EGPR), Islay (EGPI) and Land's End (EGHC) RNAV approach fixes added - thanks to @hsugden
+11. AIRAC (1609) - Birmingham (EGBB) Runway 15 2Y RNAV SIDs now permanent procedure - thanks to @hsugden
+12. AIRAC (1609) - Southampton (EGHI) radar frequency updated to 122.720 - thanks to @hsugden
+13. Sector Line, Ownership and Agreement changes relating to TC East and TC South airspace changes - thanks to @hsugden
+14. Added EGPK, EGAE, EGPE and EGNC GND/TWR/APP sector rings to display to Area - thanks to @hsugden
+15. AIRAC (1609) - Shoreham (EGKA) runway track and coordinate updates - thanks to @hsugden
+16. AIRAC (1609) - N552 and N562 now RNAV routes, and N552 route updated - thanks to @hsugden
 
 # Changes from airac-16-06 to airac-16-07
 1. Adjusted default visibility centre and 'scaling' - thanks to @jpfox (Jamie Fox)
-2. Added missing Scottish TMA 5 Class D airspace base label - thanks to @hsugden (Harry Sugden)
-3. Fixed ordering of Birmingham (EGBB) RWY 33 DTY SIDs - thanks to @hsugden (Harry Sugden)
-4. Fixed longitudinal indicator in Gatwick (EGKK) KKE10 coordinate - thanks to @hsugden (Harry Sugden)
-5. Added EGNX GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-6. Added EGBB GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-7. Added KEGUN arrivals to EGNR Stars.txt file - thanks to @hsugden (Harry Sugden)
-8. Added missing Newcastle (EGNT) ground position - thanks to @hsugden (Harry Sugden)
-9. Added EGNT GND/TWR sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+2. Added missing Scottish TMA 5 Class D airspace base label - thanks to @hsugden
+3. Fixed ordering of Birmingham (EGBB) RWY 33 DTY SIDs - thanks to @hsugden
+4. Fixed longitudinal indicator in Gatwick (EGKK) KKE10 coordinate - thanks to @hsugden
+5. Added EGNX GND/TWR sector rings to display to Area - thanks to @hsugden
+6. Added EGBB GND/TWR sector rings to display to Area - thanks to @hsugden
+7. Added KEGUN arrivals to EGNR Stars.txt file - thanks to @hsugden
+8. Added missing Newcastle (EGNT) ground position - thanks to @hsugden
+9. Added EGNT GND/TWR sector rings to display to Area - thanks to @hsugden
 10. Added missing Biggin (EGKB) [RNAV] STARs and transitions - thanks to @agent_squash (Alex Ashley)
 11. Added missing Cranfield (EGTC) RNAV fix 'DOTIT' - thanks to @agent_squash (Alex Ashley)
-12. AIRAC (1607) - Benbecula (BEN) VOR/DME now DME only - thanks to @hsugden (Harry Sugden)
+12. AIRAC (1607) - Benbecula (BEN) VOR/DME now DME only - thanks to @hsugden
 13. AIRAC (1607) - Barrow/Walney Island (EGNL) RNAV approaches and associated airfield fixes - thanks to @agent_squash (Alex Ashley)
-14. AIRAC (1607) - Campbeltown (EGEC) and Wick (EGPC) RNAV approaches and associated airfield fixes - thanks to @hsugden (Harry Sugden)
-15. AIRAC (1607) - Carlisle (EGNC) runway track and coordinate updates - thanks to @hsugden (Harry Sugden)
-16. AIRAC (1513) - Removed Belfast (EGAA) ground position - thanks to @hsugden (Harry Sugden)
-17. Added EGAA TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
+14. AIRAC (1607) - Campbeltown (EGEC) and Wick (EGPC) RNAV approaches and associated airfield fixes - thanks to @hsugden
+15. AIRAC (1607) - Carlisle (EGNC) runway track and coordinate updates - thanks to @hsugden
+16. AIRAC (1513) - Removed Belfast (EGAA) ground position - thanks to @hsugden
+17. Added EGAA TWR/APP sector rings to display to Area - thanks to @hsugden
 18. Added new Newquay (EGHQ) ground map - thanks to @agent_squash (Alex Ashley)
 
 # Changes from airac-16-03 to airac-16-06
-1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden (Harry Sugden)
-2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden (Harry Sugden)
-3. Updated LTC sector line display, particularly for LTC_SW - thanks to @hsugden (Harry Sugden)
+1. Fixed Antrim callsign suffix, fixing ownership/position identification - thanks to @hsugden
+2. Fixed erroneous longitudinal prefix in KKS17 (BOGNA/HARDY EGKK SIDs) - thanks to @hsugden
+3. Updated LTC sector line display, particularly for LTC_SW - thanks to @hsugden
 4. AIRAC - Added BUZAD and WOBUN to UL10 airway - thanks to @lpeters (Luke Peters)
 5. Updated EGWU threshold coordinates and magnetic headings - thanks to @trevorhannant
 6. Improved Essex COPX prediction (Luton Gate and SSINT->FIN) - thanks to @samw (Sam White)
@@ -2059,36 +2063,36 @@ x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks
 # Changes from airac-16-02 to airac-16-03
 1. Added EG R220 - thanks to @acriX (Matthew Moy)
 2. Military runway designator updates (includes EGOV/QL/QS/VN) - thanks to @trevorhannant
-3. Removed geo lines from JACKO/GURLU to the start of the EGLC point merge arc - thanks to @hsugden (Harry Sugden)
-4. Added correct sector ownership for ENSV and EKDK thus also fixing some line display - thanks to @hsugden (Harry Sugden)
-5. Removed remaining references to Manston (EGMH) in agreements and in adjacent airport setup - thanks to @hsugden (Harry Sugden)
+3. Removed geo lines from JACKO/GURLU to the start of the EGLC point merge arc - thanks to @hsugden
+4. Added correct sector ownership for ENSV and EKDK thus also fixing some line display - thanks to @hsugden
+5. Removed remaining references to Manston (EGMH) in agreements and in adjacent airport setup - thanks to @hsugden
 6. Added EG R219 - thanks to @samw (Sam White)
 7. Added EGGP and EGPH GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
-8. Added EGCC GND/TWR/APP sector rings to display to Area - thanks to @hsugden (Harry Sugden)
-9. Added adjacent airports ownership for Scottish positions (000A Show adjacent departure airports) - thanks to @hsugden (Harry Sugden)
-10. Corrected Stornoway (EGPO) top-down priority - thanks to @hsugden (Harry Sugden)
-11. Added FL245 shelf/portion of the EGPX/EISN FIR - thanks to @hsugden (Harry Sugden)
-12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions - thanks to @hsugden (Harry Sugden)
+8. Added EGCC GND/TWR/APP sector rings to display to Area - thanks to @hsugden
+9. Added adjacent airports ownership for Scottish positions (000A Show adjacent departure airports) - thanks to @hsugden
+10. Corrected Stornoway (EGPO) top-down priority - thanks to @hsugden
+11. Added FL245 shelf/portion of the EGPX/EISN FIR - thanks to @hsugden
+12. Fixed Lossiemouth/Kinloss MATZ airspace to fit ARTCC low naming conventions - thanks to @hsugden
 13. Added EGPF GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 14. Added Southern CTA bases and moved Clacton CTA base - thanks to @lpeters (Luke Peters)
 15. Added missing fixes on Gatwick STARs (TIMBA1J/1K/3F/2G) - thanks to @lpeters (Luke Peters)
 16. Added EGPD GND/TWR/APP sector rings to display to Area - thanks to @lpeters (Luke Peters)
 17. Added LTC SE and SW sector static boundaries - thanks to @samw (Sam White)
-18. Added AC Daventry sector static boundary - thanks to @hsugden (Harry Sugden)
-19. Added LTC NE and NW sector static boundaries - thanks to @hsugden (Harry Sugden)
-20. Reformatted RMA whitespace - thanks to @samw (Sam White) and @hsugden (Harry Sugden)
-21. Added missing Y3 airspace base (to the east of the EGGD CTA) - thanks to @hsugden (Harry Sugden)
+18. Added AC Daventry sector static boundary - thanks to @hsugden
+19. Added LTC NE and NW sector static boundaries - thanks to @hsugden
+20. Reformatted RMA whitespace - thanks to @samw (Sam White) and @hsugden
+21. Added missing Y3 airspace base (to the east of the EGGD CTA) - thanks to @hsugden
 22. Added EGPD COPX agreements - thanks to @lpeters (Luke Peters)
 23. Added Essex Radar to Stansted Director automatic handoff - thanks to @samw (Sam White)
-24. Added missing agreements to/from PEAPP - thanks to @hsugden (Harry Sugden)
+24. Added missing agreements to/from PEAPP - thanks to @hsugden
 25. Removed Manchester stand 50 - thanks to @acrix (Matthew Moy)
 26. AIRAC - Removed Manchester holding point W2 - thanks to @acrix (Matthew Moy)
-27. Adjusted CC INT/FIN sectors and inbound agreements with MAN - thanks to @hsugden (Harry Sugden)
-28. Added AC Dover sector static boundary - thanks to @hsugden (Harry Sugden)
-29. Added AC Clacton sector static boundary - thanks to @hsugden (Harry Sugden)
-30. Added AC Worthing sector static boundary - thanks to @hsugden (Harry Sugden)
+27. Adjusted CC INT/FIN sectors and inbound agreements with MAN - thanks to @hsugden
+28. Added AC Dover sector static boundary - thanks to @hsugden
+29. Added AC Clacton sector static boundary - thanks to @hsugden
+30. Added AC Worthing sector static boundary - thanks to @hsugden
 31. Updated French CTRs, added the Lille CTR, and updated the Deauville and Lille TMAs - thanks to @pierr3 (Pierre Ferran)
-32. AIRAC - CAE NDB withdrawn; fix FERAS withdrawn; EG D323A danger area updated - thanks to @hsugden (Harry Sugden)
+32. AIRAC - CAE NDB withdrawn; fix FERAS withdrawn; EG D323A danger area updated - thanks to @hsugden
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
-35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden (Harry Sugden)
+35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hsugden
