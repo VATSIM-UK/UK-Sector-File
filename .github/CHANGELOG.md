@@ -1,6 +1,9 @@
 # Changes from release 2022/11 to 2022/12
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
 2. AIRAC (2212) - Amended en-route 5LNC fixes - thanks to @luke11brown (Luke Brown)
+3. AIRAC (2212) - Amended ATS Routes (UP59,P58,Y96,N866,L7,N601) - thanks to @luke11brown (Luke Brown)
+4. AIRAC (2212) - TACAN Route Fixes updated - thanks to @robbo599 (Lee Roberts)
+x. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks to @robbo599 (Lee Roebrts)
 X. Procedure Change - Implemented new LoAs with MUAC (Dutch vACC & VATSIM Germany) - thanks to @hsugden
 
 # Changes from release 2022/10a to 2022/11
