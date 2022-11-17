@@ -7,6 +7,7 @@
 6. AIRAC (2212) - Updated Birmingham (EGBB) BRUMI SID - thanks to @robbo599 (Lee Roberts)
 7. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Roberts)
 8. Bug - Fixed Farnborough (EGLF) VRP coordinates - thanks to @luke11brown (Luke Brown)
+9. AIRAC (2212) - Added new ATS routes (P38,P39,P40,P43,P48) - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
