@@ -25,7 +25,6 @@ London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-:0301:0377::
 
 ;Scottish
 Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Tay:Scottish Control:124.500:STT:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose North:Scottish Control:132.475:SMN:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Montrose South:Scottish Control:126.925:SMS:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Galloway North:Scottish Control:121.375:STGN:S:STC:CTR:-:-:3601:3632::
