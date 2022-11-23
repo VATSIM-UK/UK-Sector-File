@@ -9,6 +9,7 @@
 8. Bug - Fixed Farnborough (EGLF) VRP coordinates - thanks to @luke11brown (Luke Brown)
 9. AIRAC (2212) - Added new ATS routes (P38,P39,P40,P43,P48) - thanks to @luke11brown (Luke Brown)
 10. Procedure Change - Implemented new LoAs with MUAC (Dutch vACC & VATSIM Germany) - thanks to @hazzas-99
+11. Bug - Updated Wycombe Air Park/Booker (EGTB) runway headings - thanks to @hazzas-99
 
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
