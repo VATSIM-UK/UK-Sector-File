@@ -11,6 +11,7 @@
 10. Procedure Change - Implemented new LoAs with MUAC (Dutch vACC & VATSIM Germany) - thanks to @hazzas-99
 11. AIRAC (2211) - Updated Newquay (EGHQ) Squawk Ranges & Allocation - thanks to @danielbutton
 12. Bug - Updated Wycombe Air Park/Booker (EGTB) runway headings - thanks to @hazzas-99
+13. Bug - LUVUM box added - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2022/10a to 2022/11
 1. AIRAC (2211) - Removed WCO2Y SID at Birmingham (EGBB) - thanks to @PLM1995 (Peter Mooney)
