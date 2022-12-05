@@ -1,4 +1,4 @@
-x. AIRAC (2212) - Updated Wick (WIK) VOR coordinates - thanks to @talalio (Talal)
+x. AIRAC (2213) - Updated Wick (WIK) VOR coordinates - thanks to @talalio (Talal)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
