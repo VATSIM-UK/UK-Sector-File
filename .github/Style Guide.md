@@ -197,6 +197,7 @@ Within the Sector File itself //TODO
   Airports should be written as `Name (ICAO)`. The ICAO should be capitalised.
   <br>✅`Bristol (EGGD)`
   <br>❌`bristol`
+- Belfast Aldergrove (EGAA)'s name should be written as 'Belfast Aldergrove' in all aspects of the SF, e.g. its SMR, rather than 'Belfast-Aldergrove', 'Aldergrove', etc.
 
 **Coordinates**:
   Coordinates should be shortened to `coord(s)`.
