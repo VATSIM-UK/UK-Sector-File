@@ -1,6 +1,9 @@
+# Ignore accidental inclusions of compiler output
 *.ese
 *.sct
 .build/**
 .bin/**
-
+# Ignore accidental inclusions of .exe files - note does not work with Linux/Mac, so these need to be manually removed
 *.exe
+# Ignore accidental inclusions of desktop.inis that are made when generating SCTs
+**/desktop.ini
