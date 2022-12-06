@@ -200,7 +200,6 @@ Within the Sector File itself //TODO
 - Generally, the name should be as written in the AIP (in all aspects of the SF, e.g. SMRs) - EGAA would be 'Belfast Aldergrove', rather than 'Belfast-Aldergrove' or 'Belfast/Aldergrove'
 - However, some airports do not conform to this, most notably the London airports, which typically have London omitted. This is being left as it would require significant changes to conform.
 
-
 **Coordinates**:
   Coordinates should be shortened to `coord(s)`.
 
