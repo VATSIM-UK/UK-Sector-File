@@ -5,6 +5,7 @@ on:
 
 jobs:
   build:
+    if: ${{ false }}  # disable for now as we're compiling on branches
     name: "Validate Sectorfile"
     runs-on: ubuntu-latest
     env:
