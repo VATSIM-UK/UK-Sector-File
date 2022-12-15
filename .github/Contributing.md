@@ -3,7 +3,7 @@
 Welcome to the UK Sector File repository, for everything sector related in the UK!  Thank you for your interest in contributing to the project.  Full details and guidelines on how to ensure this project is managed well are included below.
 
 # Contributor license agreement
-By submitting code as an individual you agree that VATSIM UK can use your ammendments, fixes, patches, changes, modifications, submissions and creations in the production of the UK Sector File and that the ownership of your submissions transfers to VATSIM UK in their entirety.
+By submitting code as an individual you agree that VATSIM UK can use your amendments, fixes, patches, changes, modifications, submissions and creations in the production of the UK Sector File and that the ownership of your submissions transfers to VATSIM UK in their entirety.
 
 # Helping others
 Please help other UK Sector File users wherever you can (everybody starts somewhere).  If you require assistance (or wish to provide additional assistance) you can find our contributors in the VATSIM UK Discord.
