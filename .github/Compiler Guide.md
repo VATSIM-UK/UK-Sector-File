@@ -5,7 +5,7 @@
 The Sector File Compiler is the open-source tool that is used to transform the files that make up the Sector File repository into the .sct, .ese, and .rwy files that Euroscope uses. The link to the repository is [here](https://github.com/VATSIM-UK/sector-file-compiler), and if you should have any issues with the Compiler not working as intended (a verifiable bug), or suggestions to improve it, then do feel free to leave an issue on that repository. If you have questions about its use or aren't quite sure how to do something, do put a message in the #sector_file_development channel in the VATSIM UK Discord.
 
 The Compiler, aside from just merely putting the files into the correct places in the Sector File, is also capable of validating input. This makes it incredibly useful, bordering on essential, for developing 'correct' sector files that work as intended and catching very understandable human error when dealing with Euroscope's esoteric syntax requirements. For example, coordinates entered in the wrong format will produce the following message:
-![image](https://user-images.githubusercontent.com/14115426/208726651-1ff76baa-a197-4120-acb6-1e9f7061d013.png)
+![image](https://user-images.githubusercontent.com/14115426/209001320-39882fee-a397-4f6d-bf84-b9d6fb49b593.png)
 
 We will explore understanding these error messages later.
 
@@ -20,10 +20,10 @@ It is very much possible to use the Compiler under completely contrary circumsta
 
 ## Downloading the Compiler
 
-To download the compiler, first navigate to the [Compiler releases page](https://github.com/VATSIM-UK/sector-file-compiler/releases). Then, download the latest release - marked with a green label of 'Latest and will be at the top of the list. You will want to click the 'cli-windows-x64' button - this should trigger a download:
+To download the compiler, first navigate to the [Compiler releases page](https://github.com/VATSIM-UK/sector-file-compiler/releases). Then, download the latest release - marked with a green label of 'Latest' and will be at the top of the list. You will want to click the 'cli-windows-x64' button - this should trigger a download:
 ![image](https://user-images.githubusercontent.com/14115426/208726535-de2d20d0-0b00-45fd-b2f8-9d79974dc850.png)
 
-Once this has downloaded, open your Downloads folder, and rename the 'cli-windows-x64' file to 'cli-windows-x64.exe'. This allows Windows to run it. It then needs to be moved by cutting-and-pasting it into your local repository folder. If you are using GitHub Desktop, this will be in your Documents->GitHub->UK-Sector-File. It needs to go into that final folder, i.e. Documents/GitHub/UK-Sector-File/cli-compiler-x64.exe. Don't worry about Git picking this up - all .EXEs are automatically excluded, as are the filenames.
+Once this has downloaded, open your Downloads folder, and rename the 'cli-windows-x64' file to 'cli-windows-x64.exe'. This allows Windows to run it. It then needs to be moved by cutting-and-pasting it into your local repository folder. If you are using GitHub Desktop, this will probably be in your Documents->GitHub->UK-Sector-File. If you are unable to find the folder, open the repository in GitHub Desktop and hit either `Ctrl+Shift+F` or  press the 'Show in Explorer' button in the 'Repository' menu at the top. It needs to go into that final folder, e.g. Documents/GitHub/UK-Sector-File/cli-compiler-x64.exe. Don't worry about Git picking this up - all .EXEs are automatically excluded, as are the filenames.
 
 ## Checking the setup works
 
@@ -46,7 +46,7 @@ The `--config-file` flag sets the config file (the file that the compiler uses t
 If all you wish to do is use the compiler to generate the Sector File locally, then you are done! A few things to bear in mind:
 
 - The command must be run after each set of changes have been made (it does not run automatically)
-- You must reload the sector file each time you generate a new one (as it is loaded completely into memory and does not re-read it)
+- You must reload the sector file each time you generate a new one (as it is loaded completely into memory and Euroscope does not re-read it without being prompted)
 - If you attempt to generate a sector file and it fails, then it will still clear the files - this means if you then attempt to reload them you will just be reloading a blank sector file. You must successfully generate a sector file and then reload it.
 
 ## Using the compiler - continued
@@ -61,7 +61,7 @@ The error messages the compiler can generate are numerous and well-written, and 
 - The number of the line in which it occurs
 
 Returning to the example previously, we can see that it is an error in coordinate formatting, quoting the coordinate in which it can be found, it is in /Airports/EGCE/Basic.txt, and it's on line 2.
-![image](https://user-images.githubusercontent.com/14115426/208726651-1ff76baa-a197-4120-acb6-1e9f7061d013.png)
+![image](https://user-images.githubusercontent.com/14115426/209001320-39882fee-a397-4f6d-bf84-b9d6fb49b593.png)
 
 ### Compiler options
 
