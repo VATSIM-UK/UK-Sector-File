@@ -32,6 +32,7 @@ You will need to run the compiler in either the CMD or Powershell. The easiest w
 
 Hit enter and Powershell should open in that folder. To test that the steps so far have been successful, run the following command: `./cli-windows-x64.exe` in Powershell. You should see a message that looks something like this:
 ![image](https://user-images.githubusercontent.com/14115426/208726459-9f516496-18e3-46b5-9701-20c13ab6e208.png)
+
 If that doesn't work, you can also try `.\cli-windows-x64.exe`.
 If that also doesn't work, then check that you have renamed the file with .exe, and that it is in the correct folder. If those are both correct, then put a screenshot or copy of the error message in #sector_file_development for assistance.
 
