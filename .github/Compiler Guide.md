@@ -69,7 +69,7 @@ Returning to the example previously, we can see that it is an error in coordinat
 Various flags may be specified to the compiler to change its behaviour. Add them to the end of the command to use them (e.g. `./cli-windows-x64 --config-file compiler.config.json --validate`)
 
 - `--validate` - the compiler will just validate the input files and will not output a completed sector file
-- `--no-wait` - the compiler will not display the 'Press any key to exit message' after it has run and will instead just exit
+- `--no-wait` - the compiler will not display the 'Press any key to exit' message after it has run and will instead just exit
 - `--check-config` - the compiler will just check that the config file provided is in the correct format
 
 Other flags can be found in the README on the [Compiler GitHub repository](https://github.com/VATSIM-UK/sector-file-compiler).
