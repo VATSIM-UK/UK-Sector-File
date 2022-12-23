@@ -1,3 +1,5 @@
+x. AIRAC (2213) - Archived London/City (EGLC) Conventional SIDs - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2213) - Updated Wick (WIK) VOR coordinates - thanks to @talalio (Talal)
