@@ -4,6 +4,7 @@
 3. AIRAC (2213) - Removed Wycombe Air Park/Booker (EGTB) Runway 35 - thanks to @hazzas-99
 4. AIRAC (2213) - Editorial consistency of Belfast Aldergrove AD name - thanks to @hazzas-99
 5. AIRAC (2212) - Removed Fairford (EGVA) OKDID & GIBMI SIDs - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2013) - Removed completely procedures withdrawn in AIRAC 2013 - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/11 to 2022/12 
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
