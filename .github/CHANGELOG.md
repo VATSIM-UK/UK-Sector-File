@@ -1,3 +1,5 @@
+
+
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2213) - Updated Wick (WIK) VOR coordinates - thanks to @talalio (Talal)
@@ -6,6 +8,7 @@
 5. AIRAC (2212) - Removed Fairford (EGVA) OKDID & GIBMI SIDs - thanks to @danielbutton (Daniel Button)
 6. Procedure Change - Reassigned Kirkwall (EGPA) ATIS frequency to VHF - thanks to @hazzas-99
 7. AIRAC (2013) - Removed completely procedures withdrawn in AIRAC 2013 - thanks to @PLM1995 (Peter Mooney)
+8. AIRAC (2213) - Archived London City (EGLC) conventional SIDs - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/11 to 2022/12 
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
