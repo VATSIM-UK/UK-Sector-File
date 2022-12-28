@@ -5,6 +5,7 @@
 4. AIRAC (2213) - Editorial consistency of Belfast Aldergrove AD name - thanks to @hazzas-99
 5. AIRAC (2212) - Removed Fairford (EGVA) OKDID & GIBMI SIDs - thanks to @danielbutton (Daniel Button)
 6. Procedure Change - Reassigned Kirkwall (EGPA) ATIS frequency to VHF - thanks to @hazzas-99
+7. Procedure Change - Removed Doncaster Sheffield (EGCN) Airspace & Position-related data - thanks to @hazzas-99
 
 # Changes from release 2022/11 to 2022/12 
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
