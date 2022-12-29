@@ -9,6 +9,7 @@
 6. Procedure Change - Reassigned Kirkwall (EGPA) ATIS frequency to VHF - thanks to @hazzas-99
 7. AIRAC (2013) - Removed completely procedures withdrawn in AIRAC 2013 - thanks to @PLM1995 (Peter Mooney)
 8. AIRAC (2213) - Archived London City (EGLC) conventional SIDs - thanks to @PLM1995 (Peter Mooney)
+9. Bug - Corrected BAKUR RFC Area coordinates - thanks to @hazzas-99
 
 # Changes from release 2022/11 to 2022/12 
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
