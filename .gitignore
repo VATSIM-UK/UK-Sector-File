@@ -3,7 +3,10 @@
 *.sct
 .build/**
 .bin/**
-# Ignore accidental inclusions of .exe files - note does not work with Linux/Mac, so these need to be manually removed
+# Ignore accidental inclusions of .exe files + the (current) file names the compiler exports
 *.exe
+**/cli-linux-x64
+**/cli-mac-x64
+**/cli-windows-x64
 # Ignore accidental inclusions of desktop.inis that are made when generating SCTs
 **/desktop.ini
