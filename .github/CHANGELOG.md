@@ -9,6 +9,7 @@
 8. AIRAC (2213) - Archived London City (EGLC) conventional SIDs - thanks to @PLM1995 (Peter Mooney)
 9. Bug - Corrected BAKUR RFC Area coordinates - thanks to @hazzas-99
 10. Bug - Added missing COPX display for LC deps via N601 from TC NW -> TC WEL (Daventry) - thanks to @hazzas-99
+11. Procedure Change - Removed Doncaster Sheffield (EGCN) Airspace & Position-related data - thanks to @hazzas-99
 
 # Changes from release 2022/11 to 2022/12 
 1. AIRAC (2212) - Birmingham (EGBB) LUVUM RWY 15 SID redesignated - thanks to @lewishh (Lewis Hardcastle)
