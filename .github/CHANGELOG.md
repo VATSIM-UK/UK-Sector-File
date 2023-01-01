@@ -1,3 +1,6 @@
+# Changes from release 2022/13 to 2023/01
+1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
+
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2213) - Updated Wick (WIK) VOR coordinates - thanks to @talalio (Talal)
