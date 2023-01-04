@@ -12,6 +12,7 @@ Cambridge Approach		120.965, 120.975 on VATSIM (8.33 kHz-spaced frequency - no e
 Guernsey ATIS			109.400, 118.900 on VATSIM (Guernsey radar freq)
 Hawarden Radar			120.055, 120.075 on VATSIM (8.33 kHz-spaced frequency - unknown conflict)
 Inverness ATIS			109.200, 124.700 on VATSIM (ATIS frequency shared with Inverness VOR)
+Kirkwall ATIS			108.600, 119.425 (ATIS frequency shared with Kirkwall VOR)
 London/Luton ATIS		120.585, 120.575 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
 Oxford Director		125.090, 125.100 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
 Southend Director		128.965, 128.950 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
