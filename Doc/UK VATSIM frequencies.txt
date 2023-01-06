@@ -22,6 +22,7 @@ St Athan ATIS           130.565, 130.550 on VATSIM (8.33 kHz-spaced frequency - 
 Stornoway APP/TWR/AFIS  123.500, 119.470 on VATSIM (8.33 kHz-spaced frequency)
 Stornoway ATIS          115.100, 121.600 on VATSIM (ATIS frequency shared with Stornoway VOR)
 Wick ATIS               113.600, 121.625 on VATSIM (ATIS frequency shared with Wick VOR)
+Stapleford Radio        122.800m, 122.825 on VATSIM (Radio frequency shared with UNICOM)
 
 Note: For reasons of brevity, only those frequencies with a real world 8.33 kHz channel that doesn't have an 
 equivalent 25 kHz spacing channel are listed above.
