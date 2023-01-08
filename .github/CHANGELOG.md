@@ -1,3 +1,5 @@
+X. AIRAC(2301) - Moved East Midlands (EGNX) K1 Holding Point - thanks to @WillShaw1100 (William Shaw)
+
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
 2. Bug - Added Stansted (EGSS) and Cambridge (EGSC) SILVA1L STAR fix LOREL - thanks to @zippy77777 (Darren Faux)
