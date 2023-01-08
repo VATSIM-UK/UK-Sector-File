@@ -2,7 +2,7 @@
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
 2. Bug - Added Stansted (EGSS) and Cambridge (EGSC) SILVA1L STAR fix LOREL - thanks to @zippy77777 (Darren Faux)
 3. Bug - Changed Stapleford (EGSG) frequency from 122.800 to 122.825 - thanks to @bbrushfield (William Brushfield)
-4. AIRAC (2301) - Changed BCN to DME only
+4. AIRAC (2301) - Changed BCN to DME only - thanks to @Genau6502 (Hugo Carter)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
