@@ -3,7 +3,10 @@
 2. Bug - Added Stansted (EGSS) and Cambridge (EGSC) SILVA1L STAR fix LOREL - thanks to @zippy77777 (Darren Faux)
 3. Bug - Changed Stapleford (EGSG) frequency from 122.800 to 122.825 - thanks to @bbrushfield (William Brushfield)
 4. AIRAC (2301) - Added Winstone (WIN) DME - thanks to @Grosey (Harrison Grose)
-5. AIRAC (2301) - Barra (EGPR) BRR NDB coordinates updated - thanks to @Grosey (Harrison Grose)
+5. AIRAC (2301) - Updated Manchester (EGCC) RWY 05R threshold coords - thanks to @Genau6502 (Hugo Carter)
+6. AIRAC (2301) - Updated Tiree (TIR) VOR coordinates - thanks to @Grosey (Harrison Grose)
+7. AIRAC (2301) - Changed BCN to DME only - thanks to @Genau6502 (Hugo Carter)
+8. AIRAC (2301) - Barra (EGPR) BRR NDB coordinates updated - thanks to @Grosey (Harrison Grose)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
