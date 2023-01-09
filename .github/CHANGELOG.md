@@ -5,6 +5,7 @@
 4. AIRAC (2301) - Added Winstone (WIN) DME - thanks to @Grosey (Harrison Grose)
 5. AIRAC (2301) - Updated Manchester (EGCC) RWY 05R threshold coords - thanks to @Genau6502 (Hugo Carter)
 6. AIRAC (2301) - Updated Tiree (TIR) VOR coordinates - thanks to @Grosey (Harrison Grose)
+7. AIRAC (2301) - Changed BCN to DME only - thanks to @Genau6502 (Hugo Carter)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
