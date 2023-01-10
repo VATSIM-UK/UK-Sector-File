@@ -5,11 +5,10 @@
 4. AIRAC (2301) - Added Winstone (WIN) DME - thanks to @Grosey (Harrison Grose)
 5. AIRAC (2301) - Updated Manchester (EGCC) RWY 05R threshold coords - thanks to @Genau6502 (Hugo Carter)
 6. AIRAC (2301) - Updated Tiree (TIR) VOR coordinates - thanks to @Grosey (Harrison Grose)
-7. AIRAC (2301) - Changed BCN to DME only - thanks to @Genau6502 (Hugo Carter)
+7. AIRAC (2301) - Changed Brecon (BCN) VOR to DME only - thanks to @Genau6502 (Hugo Carter)
 8. AIRAC (2301) - Barra (EGPR) BRR NDB coordinates updated - thanks to @Grosey (Harrison Grose)
 9. AIRAC (2301) - Moved East Midlands (EGNX) K1 Holding Point - thanks to @WillShaw1100 (William Shaw)
 10. Procedure Change (2213) - Updated Manchester (EGCC) inbound release COPX display - thanks to @hazzas-99
-
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
@@ -32,7 +31,7 @@
 4. AIRAC (2212) - TACAN Route Fixes updated - thanks to @robbo599 (Lee Roberts)
 5. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks to @robbo599 (Lee Roberts)
 6. AIRAC (2212) - Updated Birmingham (EGBB) BRUMI SID - thanks to @robbo599 (Lee Roberts)
-7. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Rbeerts)
+7. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Roberts)
 8. Bug - Fixed Farnborough (EGLF) VRP coordinates - thanks to @luke11brown (Luke Brown)
 9. AIRAC (2212) - Added new ATS routes (P38,P39,P40,P43,P48) - thanks to @luke11brown (Luke Brown)
 10. Procedure Change - Implemented new LoAs with MUAC (Dutch vACC & VATSIM Germany) - thanks to @hazzas-99
