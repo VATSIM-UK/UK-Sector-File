@@ -6,10 +6,11 @@
 5. AIRAC (2301) - Updated Manchester (EGCC) RWY 05R threshold coords - thanks to @Genau6502 (Hugo Carter)
 6. AIRAC (2301) - Updated Tiree (TIR) VOR coordinates - thanks to @Grosey (Harrison Grose)
 7. AIRAC (2301) - Changed Brecon (BCN) VOR to DME only - thanks to @Genau6502 (Hugo Carter)
-8. AIRAC (2301) - Barra (EGPR) BRR NDB coordinates updated - thanks to @Grosey (Harrison Grose)
+8. AIRAC (2301) - Updated Barra (BRR) NDB coordinates - thanks to @Grosey (Harrison Grose)
 9. AIRAC (2301) - Moved East Midlands (EGNX) K1 Holding Point - thanks to @WillShaw1100 (William Shaw)
 10. Procedure Change (2213) - Updated Manchester (EGCC) inbound release COPX display - thanks to @hazzas-99
-11. AIRAC (2301) - Updated Birmingham (EGBB) SMR Stand changes - thanks to @FabioMike06 (Fabio Mastrovito)
+11. AIRAC (2301) - Added Sumburgh (EGPB) stand 19 - thanks to @PLM1995 (Peter Mooney)
+12. AIRAC (2301) - Updated Birmingham (EGBB) SMR Stands - thanks to @FabioMike06 (Fabio Mastrovito)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
