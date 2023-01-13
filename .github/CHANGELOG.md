@@ -11,8 +11,8 @@
 10. Procedure Change (2213) - Updated Manchester (EGCC) inbound release COPX display - thanks to @hazzas-99
 11. AIRAC (2301) - Added Sumburgh (EGPB) stand 19 - thanks to @PLM1995 (Peter Mooney)
 12. AIRAC (2213) - Updated Edinburgh (EGPH) SMR - thanks to @PLM1995 (Peter Mooney)
-13. AIRAC (2301) - Updated Birmingham (EGBB) SMR Stands - thanks to @FabioMike06 (Fabio Mastrovito)
-
+13. AIRAC (2213) - Updated Walney (EGNL) SMR - thanks to @PLM1995 (Peter Mooney)
+14. AIRAC (2301) - Updated Birmingham (EGBB) SMR Stands - thanks to @FabioMike06 (Fabio Mastrovito)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
