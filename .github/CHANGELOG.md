@@ -2,7 +2,15 @@
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
 2. Bug - Added Stansted (EGSS) and Cambridge (EGSC) SILVA1L STAR fix LOREL - thanks to @zippy77777 (Darren Faux)
 3. Bug - Changed Stapleford (EGSG) frequency from 122.800 to 122.825 - thanks to @bbrushfield (William Brushfield)
-4. AIRAC (2213) - Updated Edinburgh (EGPH) SMR - thanks to @PLM1995 (Peter Mooney)
+4. AIRAC (2301) - Added Winstone (WIN) DME - thanks to @Grosey (Harrison Grose)
+5. AIRAC (2301) - Updated Manchester (EGCC) RWY 05R threshold coords - thanks to @Genau6502 (Hugo Carter)
+6. AIRAC (2301) - Updated Tiree (TIR) VOR coordinates - thanks to @Grosey (Harrison Grose)
+7. AIRAC (2301) - Changed Brecon (BCN) VOR to DME only - thanks to @Genau6502 (Hugo Carter)
+8. AIRAC (2301) - Updated Barra (BRR) NDB coordinates - thanks to @Grosey (Harrison Grose)
+9. AIRAC (2301) - Moved East Midlands (EGNX) K1 Holding Point - thanks to @WillShaw1100 (William Shaw)
+10. Procedure Change (2213) - Updated Manchester (EGCC) inbound release COPX display - thanks to @hazzas-99
+11. AIRAC (2301) - Added Sumburgh (EGPB) stand 19 - thanks to @PLM1995 (Peter Mooney)
+12. AIRAC (2213) - Updated Edinburgh (EGPH) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
@@ -25,7 +33,7 @@
 4. AIRAC (2212) - TACAN Route Fixes updated - thanks to @robbo599 (Lee Roberts)
 5. AIRAC (2212) - Removed Scampton (EGXP) data due to aerodrome closure - thanks to @robbo599 (Lee Roberts)
 6. AIRAC (2212) - Updated Birmingham (EGBB) BRUMI SID - thanks to @robbo599 (Lee Roberts)
-7. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Rbeerts)
+7. AIRAC (2212) - Amended Redhill (EGKR) runway designators - thanks to @robbo599 (Lee Roberts)
 8. Bug - Fixed Farnborough (EGLF) VRP coordinates - thanks to @luke11brown (Luke Brown)
 9. AIRAC (2212) - Added new ATS routes (P38,P39,P40,P43,P48) - thanks to @luke11brown (Luke Brown)
 10. Procedure Change - Implemented new LoAs with MUAC (Dutch vACC & VATSIM Germany) - thanks to @hazzas-99
