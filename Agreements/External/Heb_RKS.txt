@@ -1,0 +1,14 @@
+FIR_COPX:*:*:BESGA:RATSU:*:Hebrides High:BIRD South (085-345):*:*:BESGA
+FIR_COPX:*:*:BESGA:RATSU:*:Hebrides High:BIRD South (345-355):*:*:BESGA
+FIR_COPX:*:*:BESGA:RATSU:*:Hebrides High:BIRD South (355-365):*:*:BESGA
+FIR_COPX:*:*:BESGA:RATSU:*:Hebrides High:BIRD South (365-660):*:*:BESGA
+
+FIR_COPX:*:*:DEVBI:RATSU:*:Hebrides High:BIRD South (085-345):*:*:DEVBI
+FIR_COPX:*:*:DEVBI:RATSU:*:Hebrides High:BIRD South (345-355):*:*:DEVBI
+FIR_COPX:*:*:DEVBI:RATSU:*:Hebrides High:BIRD South (355-365):*:*:DEVBI
+FIR_COPX:*:*:DEVBI:RATSU:*:Hebrides High:BIRD South (365-660):*:*:DEVBI
+
+FIR_COPX:*:*:BARKU:RATSU:*:Hebrides High:BIRD South (085-345):*:*:BARKU
+FIR_COPX:*:*:BARKU:RATSU:*:Hebrides High:BIRD South (345-355):*:*:BARKU
+FIR_COPX:*:*:BARKU:RATSU:*:Hebrides High:BIRD South (355-365):*:*:BARKU
+FIR_COPX:*:*:BARKU:RATSU:*:Hebrides High:BIRD South (365-660):*:*:BARKU
