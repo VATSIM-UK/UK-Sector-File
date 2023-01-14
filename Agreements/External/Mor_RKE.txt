@@ -1,0 +1,19 @@
+FIR_COPX:*:*:OSBON:*:*:Moray High:BIRD East (085-345):*:*:OSBON
+FIR_COPX:*:*:OSBON:*:*:Moray High:BIRD East (345-355):*:*:OSBON
+FIR_COPX:*:*:OSBON:*:*:Moray High:BIRD East (355-365):*:*:OSBON
+FIR_COPX:*:*:OSBON:*:*:Moray High:BIRD East (365-660):*:*:OSBON
+
+FIR_COPX:*:*:PEMOS:*:*:Moray High:BIRD East (085-345):*:*:PEMOS
+FIR_COPX:*:*:PEMOS:*:*:Moray High:BIRD East (345-355):*:*:PEMOS
+FIR_COPX:*:*:PEMOS:*:*:Moray High:BIRD East (355-365):*:*:PEMOS
+FIR_COPX:*:*:PEMOS:*:*:Moray High:BIRD East (365-660):*:*:PEMOS
+
+FIR_COPX:*:*:RIXUN:*:*:Moray High:BIRD East (085-345):*:*:RIXUN
+FIR_COPX:*:*:RIXUN:*:*:Moray High:BIRD East (345-355):*:*:RIXUN
+FIR_COPX:*:*:RIXUN:*:*:Moray High:BIRD East (355-365):*:*:RIXUN
+FIR_COPX:*:*:RIXUN:*:*:Moray High:BIRD East (365-660):*:*:RIXUN
+
+FIR_COPX:*:*:SOSAR:*:*:Moray High:BIRD East (085-345):*:*:SOSAR
+FIR_COPX:*:*:SOSAR:*:*:Moray High:BIRD East (345-355):*:*:SOSAR
+FIR_COPX:*:*:SOSAR:*:*:Moray High:BIRD East (355-365):*:*:SOSAR
+FIR_COPX:*:*:SOSAR:*:*:Moray High:BIRD East (365-660):*:*:SOSAR
