@@ -13,6 +13,7 @@
 12. AIRAC (2213) - Updated Edinburgh (EGPH) SMR - thanks to @PLM1995 (Peter Mooney)
 13. AIRAC (2213) - Updated Walney (EGNL) SMR - thanks to @PLM1995 (Peter Mooney)
 14. AIRAC (2301) - Updated Birmingham (EGBB) SMR stands - thanks to @FabioMike06 (Fabio Mastrovito)
+15. AIRAC (2301) - Updated Wycombe Air Park/Booker (EGTB) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
