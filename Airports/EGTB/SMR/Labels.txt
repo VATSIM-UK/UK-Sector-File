@@ -5,3 +5,9 @@
 "B1" N051.36.35.297 W000.48.44.684 standHold
 "B2" N051.36.39.570 W000.48.31.739 standHold
 "B3" N051.36.41.056 W000.48.26.730 standHold
+"R" N051.36.44.417 W000.48.13.525 standHold
+"X" N051.36.40.706 W000.48.09.935 standHold
+"Z" N051.36.48.084 W000.48.16.971 standHold
+
+;Helicopter Training Area
+"HTA-N" N051.36.46.010 W000.48.38.460 standHold

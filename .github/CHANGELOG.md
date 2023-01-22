@@ -16,6 +16,7 @@
 15. Procedure Change (2301) - Revised London AC West event split ownership orders and callsigns - thanks to @hazzas-99
 16. Procedure Change (2301) - Amended Dublin Group inbound COPX from PC W (IoM) to Dublin ACC - thanks to @hazzas-99
 17. Bug - Updated COPX for EGLF/Solent outbounds and Essex SILVA inbounds between TC SW and TC NW - thanks to @hazzas-99
+18. AIRAC (2301) - Updated Wycombe Air Park/Booker (EGTB) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
