@@ -13,6 +13,11 @@
 12. AIRAC (2213) - Updated Edinburgh (EGPH) SMR - thanks to @PLM1995 (Peter Mooney)
 13. AIRAC (2213) - Updated Walney (EGNL) SMR - thanks to @PLM1995 (Peter Mooney)
 14. AIRAC (2301) - Updated Birmingham (EGBB) SMR stands - thanks to @FabioMike06 (Fabio Mastrovito)
+15. Procedure Change (2301) - Revised London AC West event split ownership orders and callsigns - thanks to @hazzas-99
+16. Procedure Change (2301) - Amended Dublin Group inbound COPX from PC W (IoM) to Dublin ACC - thanks to @hazzas-99
+17. Bug - Updated COPX for EGLF/Solent outbounds and Essex SILVA inbounds between TC SW and TC NW - thanks to @hazzas-99
+18. AIRAC (2301) - Updated Wycombe Air Park/Booker (EGTB) SMR - thanks to @PLM1995 (Peter Mooney)
+19. AIRAC (2212) - Updated Swansea (EGFH) SMR - thanks to @PLM1995 (Peter Mooney)
 15. AIRAC (2212) - Updated Northampton/Sywell (EGBK) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/12 to 2022/13
