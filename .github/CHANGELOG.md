@@ -12,7 +12,10 @@
 11. AIRAC (2301) - Added Sumburgh (EGPB) stand 19 - thanks to @PLM1995 (Peter Mooney)
 12. AIRAC (2213) - Updated Edinburgh (EGPH) SMR - thanks to @PLM1995 (Peter Mooney)
 13. AIRAC (2213) - Updated Walney (EGNL) SMR - thanks to @PLM1995 (Peter Mooney)
-14. Procedure Change (2301) - Amended Dublin Group inbound COPX from PC W (IoM) to Dublin ACC - thanks to @hazzas-99
+
+14. AIRAC (2301) - Updated Birmingham (EGBB) SMR stands - thanks to @FabioMike06 (Fabio Mastrovito)
+15. Procedure Change (2301) - Revised London AC West event split ownership orders and callsigns - thanks to @hazzas-99
+16. Procedure Change (2301) - Amended Dublin Group inbound COPX from PC W (IoM) to Dublin ACC - thanks to @hazzas-99
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
