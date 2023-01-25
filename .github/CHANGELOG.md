@@ -19,6 +19,7 @@
 18. AIRAC (2301) - Updated Wycombe Air Park/Booker (EGTB) SMR - thanks to @PLM1995 (Peter Mooney)
 19. AIRAC (2212) - Updated Swansea (EGFH) SMR - thanks to @PLM1995 (Peter Mooney)
 20. AIRAC (2212) - Updated Northampton/Sywell (EGBK) SMR - thanks to @PLM1995 (Peter Mooney)
+21. AIRAC (2210) - Updated Heathrow (EGLL) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
