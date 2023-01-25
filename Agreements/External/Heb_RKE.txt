@@ -1,0 +1,9 @@
+FIR_COPX:*:*:BESGA:MATIK:*:Hebrides High:BIRD East (055-345):*:*:BESGA
+FIR_COPX:*:*:BESGA:MATIK:*:Hebrides High:BIRD East (345-355):*:*:BESGA
+FIR_COPX:*:*:BESGA:MATIK:*:Hebrides High:BIRD East (355-365):*:*:BESGA
+FIR_COPX:*:*:BESGA:MATIK:*:Hebrides High:BIRD East (365-660):*:*:BESGA
+
+FIR_COPX:*:*:NALAN:*:*:Hebrides High:BIRD East (055-345):*:*:NALAN
+FIR_COPX:*:*:NALAN:*:*:Hebrides High:BIRD East (345-355):*:*:NALAN
+FIR_COPX:*:*:NALAN:*:*:Hebrides High:BIRD East (355-365):*:*:NALAN
+FIR_COPX:*:*:NALAN:*:*:Hebrides High:BIRD East (365-660):*:*:NALAN

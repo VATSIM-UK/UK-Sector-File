@@ -20,6 +20,7 @@
 19. AIRAC (2212) - Updated Swansea (EGFH) SMR - thanks to @PLM1995 (Peter Mooney)
 20. AIRAC (2212) - Updated Northampton/Sywell (EGBK) SMR - thanks to @PLM1995 (Peter Mooney)
 21. AIRAC (2210) - Updated Heathrow (EGLL) SMR - thanks to @PLM1995 (Peter Mooney)
+22. Procedure Change (2211) - Amended Reykjavik (BIRD) definition and COPX to ensure traffic via RATSU is xfer'ed to BIRD South - thanks to @hazzas-99
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
