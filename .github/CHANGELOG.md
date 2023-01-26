@@ -1,3 +1,7 @@
+# Changes from release 2023/01 to 2023/02
+1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
+2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
+
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
 2. Bug - Added Stansted (EGSS) and Cambridge (EGSC) SILVA1L STAR fix LOREL - thanks to @zippy77777 (Darren Faux)
