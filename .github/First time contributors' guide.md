@@ -153,6 +153,7 @@ Simply ensure 'upstream/master' remains selected.
 # Something broke
 
 If you get an error to do with authentication (shown below), simply log in and out of the desktop client. This is under File -> Options -> Accounts -> Sign out.
+
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101294746-75fc4a80-3811-11eb-8827-841c250205d8.png)
 
 If you get an error that the 'directory could not be located', just click 'clone again'.
