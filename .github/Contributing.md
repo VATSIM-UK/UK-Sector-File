@@ -26,7 +26,8 @@ Please have a thorough read of the 1st-time Contributor's Guide: https://github.
 
 ## Testing the sector file
 
-For each PR opened within the repository, the Sector File Compiler will generate a 'dev' version of the .sct, .ese and .rwy file for you to test out your changes. The compiler will also tell you if there are any errors. Click 'Details' in the **Checks** section of the Pull Request to check the errors.
+It is recommended that you compile the sector file locally prior to creating a pull request to test functionality, check for errors and see that it all looks correct. There is a guide on how to use the compiler [here](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/Compiler%20Guide.md).
+Once a PR has been opened within the repository, the Sector File Compiler will automatically generate a 'dev' version of the .sct, .ese and .rwy file as well as tell you if there are any errors. Click 'Details' in the **Checks** section of the Pull Request to check the errors.
 
 ## Issue Tracking
 
