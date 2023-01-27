@@ -37,7 +37,7 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 * When opening an issue, a template is provided for you.  Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
 * Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
 
-**If you can't assign yourself to an issue** please comment on the issue or reach out to us in Discord and we will add you to the repository contributors list so you can assign yourself in future.
+**If you can't assign yourself to an issue** please comment on the issue to let people know you're taking it on. Once you've completed your first successful PR, we'll add you to the repository contributors so you can assign yourself to issues in future!
 
 ## Pull Requests
 
