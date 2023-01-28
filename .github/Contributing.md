@@ -48,7 +48,7 @@ If you wish to add a new feature or you spot a bug that you wish to fix, **pleas
 
 The work-flow for submitting a new pull request is designed to be simple, but also to ensure consistency from **all** contributors:
 * Fork the project into your personal space on GitHub.com (optional).
-* Create a new branch (with the name `issue-[issue_number]`, replacing [issue_number] with the issue number you're resolving), e.g. `issue-1234`
+* Create a new branch (with the name `issue-[issue_number]`, replacing [issue_number] with the issue number you're resolving), e.g. `issue-1234`.
 * Commit your changes.
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
