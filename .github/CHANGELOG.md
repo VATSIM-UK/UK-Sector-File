@@ -1,3 +1,8 @@
+# Changes from release 2023/01 to 2023/02
+1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
+2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
+3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
+
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
 2. Bug - Added Stansted (EGSS) and Cambridge (EGSC) SILVA1L STAR fix LOREL - thanks to @zippy77777 (Darren Faux)
@@ -19,6 +24,8 @@
 18. AIRAC (2301) - Updated Wycombe Air Park/Booker (EGTB) SMR - thanks to @PLM1995 (Peter Mooney)
 19. AIRAC (2212) - Updated Swansea (EGFH) SMR - thanks to @PLM1995 (Peter Mooney)
 20. AIRAC (2212) - Updated Northampton/Sywell (EGBK) SMR - thanks to @PLM1995 (Peter Mooney)
+21. AIRAC (2210) - Updated Heathrow (EGLL) SMR - thanks to @PLM1995 (Peter Mooney)
+22. Procedure Change (2211) - Amended Reykjavik (BIRD) definition and COPX to ensure traffic via RATSU is xfer'ed to BIRD South - thanks to @hazzas-99
 
 # Changes from release 2022/12 to 2022/13
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
