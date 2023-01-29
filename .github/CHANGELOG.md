@@ -1,5 +1,5 @@
 # Changes from release 2023/02 to 2023/03
-x. AIRAC - ENR 3.2 update - multiple airways amended = thanks to @robbo599 (Lee Roebrts)
+x. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due to West systemisation - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2023/01 to 2023/02
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
