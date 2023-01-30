@@ -1,3 +1,6 @@
+# Changes from release 2023/02 to 2023/03
+x. AIRAC (2303) - EGGT West FRA depiction - thanks to @robbo599 (Lee Roberts)
+
 # Changes from release 2023/01 to 2023/02
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
