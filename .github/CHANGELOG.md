@@ -3,6 +3,7 @@
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
 4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
+x. Enhancement - Checked and removed a number of closed airfields (see #4577) - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
