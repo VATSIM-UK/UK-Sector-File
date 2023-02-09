@@ -1,4 +1,6 @@
 # Changes from release 2023/02 to 2023/03
+x. AIRAC (2303) - Added EGTT FRA West depiction - thanks to @robbo599 (Lee Roberts)
+x. AIRAC (2303) - Updated Fixes to match ENR 4.4 - thanks to @PLM1995 (Peter Mooney)
 x. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due to West systemisation - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2023/01 to 2023/02
@@ -6,6 +8,7 @@ x. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
 4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
+5. Enhancement - Added Duxford (EGSU) ATZ - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
