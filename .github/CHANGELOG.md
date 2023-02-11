@@ -4,6 +4,7 @@
 3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
 4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
 5. Enhancement - Added Duxford (EGSU) ATZ - thanks to @chssn (Chris Parkinson)
+6. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
