@@ -5,6 +5,7 @@
 4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
 5. Enhancement - Added Duxford (EGSU) ATZ - thanks to @chssn (Chris Parkinson)
 6. Enhancement - Added Derby (EGBD) ATZ - thanks to @chssn (Chris Parkinson)
+7. Enhancement - Added Sandtoft (EGCF) ATZ - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
