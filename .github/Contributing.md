@@ -8,36 +8,37 @@ By submitting code as an individual you agree that VATSIM UK can use your amendm
 # Helping others
 Please help other UK Sector File users wherever you can (everybody starts somewhere).  If you require assistance (or wish to provide additional assistance) you can find our contributors in the VATSIM UK Discord.
 
-To access Discord, you can visit https://www.vatsim.uk/discord and follow the registration instructions.  Once you've logged in, find the channel "#sector_file".
+To access Discord, you can visit https://www.vatsim.uk/discord and follow the registration instructions.  Once you've logged in, find the channel "#sector_file_development".
 
 # I want to contribute!
 
-If you wish to contribute to the UK Sector File project, there's many ways in which you can help out.
+If you wish to contribute to the UK Sector File project, there are many ways in which you can help out.
 
 ## Contributing to the data
 
-If you're just getting started with GitHub (and project contributions) then we suggest you take a look at issues marked with both the "up-for-grabs" and/or "good first issue" labels.  These issues will be of reasonable size and challenge while not being as overly complex as others and a good introduction for anyone who wants to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
+If you're just getting started with GitHub (and project contributions) then we suggest you take a look at issues marked with both the "up-for-grabs" and/or "good-first-issue" labels.  These issues will be of reasonable size and challenge while not being as overly complex as others and a good introduction for anyone who wants to start contributing to the project.  [This was inspired by an article by Ken C. Dodds](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.wior7p101).
 
 If you're comfortable with contributing to Open Source projects on GitHub please ensure you read our expectations for issue tracking, feature proposals and merge requests.
 
-**Please avoid** adding airac related commits until you've seen an issue created for them - anything else is fair game.
+**Please avoid** adding AIRAC related commits until you've seen an issue created for them - anything else is fair game.
 
 Please have a thorough read of the 1st-time Contributor's Guide: https://github.com/VATSIM-UK/UK-Sector-File/wiki/First-Time-Contributor's-Guide.
 
 ## Testing the sector file
 
-At present there isn't a publicly accessible auto-generation tool for the data within the repository.  We're working hard to make our current tool stable enough to release into the public domain so that open source contributions can be made to that, too, and others can use (and test) the latest development version.
+It is recommended that you compile the sector file locally prior to creating a pull request to test functionality, check for errors and see that it all looks correct. There is a guide on how to use the compiler [here](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/Compiler%20Guide.md).
+Once a PR has been opened within the repository, the Sector File Compiler will automatically generate a 'dev' version of the .sct, .ese and .rwy file as well as tell you if there are any errors. Click 'Details' in the **Checks** section of the Pull Request to check the errors.
 
 ## Issue Tracking
 
-If you require **support** with the Sector File or EuroScope, please utilise our Discord channels or the [VATSIM UK Helpdesk](https://helpdesk.vatsim.uk).  Issues regarding the features and functions of Euroscope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
+If you require **support** with the Sector File or EuroScope, please use our Discord channels or the [VATSIM UK Helpdesk](https://helpdesk.vatsim.uk).  Issues regarding the features and functions of EuroScope or how to load the Sector File will not be handled.  The issue tracker is for feature requests and bugs concerning the UK Sector File itself.
 
 When submitting an issue, there's a few guidelines we'd ask you to respect to make it easier to manage (and for others to understand):
 * **Search the issue tracker** before you submit your issue - it may already be present.
 * When opening an issue, a template is provided for you.  Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
 * Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
 
-**In order to be 'assigned' an issue**, please comment on the issue itself - we can then assign your GitHub account to that particular issue.
+**If you can't assign yourself to an issue** please comment on the issue to let people know you're taking it on. Once you've completed your first successful PR, we'll add you to the repository contributors so you can assign yourself to issues in future!
 
 ## Pull Requests
 
@@ -47,7 +48,7 @@ If you wish to add a new feature or you spot a bug that you wish to fix, **pleas
 
 The work-flow for submitting a new pull request is designed to be simple, but also to ensure consistency from **all** contributors:
 * Fork the project into your personal space on GitHub.com (optional).
-* Create a new branch (with the name issue-issue_number, replacing issue_number with the issue number you're resolving).
+* Create a new branch (with the name `issue-[issue_number]`, replacing [issue_number] with the issue number you're resolving), e.g. `issue-1234`.
 * Commit your changes.
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
