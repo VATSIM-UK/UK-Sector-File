@@ -34,9 +34,15 @@ West CTA                     N049.54.58.000 W002.30.11.000 N049.48.01.000 W003.1
 West CTA                     N049.48.01.000 W003.10.25.000 N050.16.48.000 W003.33.32.000
 West CTA                     N050.16.48.000 W003.33.32.000 N050.16.48.000 W003.44.50.000
 West CTA                     N050.16.48.000 W003.44.50.000 N050.24.59.000 W003.43.51.000
-West CTA                     N050.24.59.000 W003.43.51.000 N051.39.37.000 W003.29.26.000
+West CTA                     N050.24.59.000 W003.43.51.000 N050.28.37.000 W003.43.10.000 ;Additional point to align with Berry Head CTA 9
+West CTA                     N050.28.37.000 W003.43.10.000 N050.45.06.000 W003.40.02.000 ;Additional point to align with Berry Head CTA 8and9
+West CTA                     N050.45.06.000 W003.40.02.000 N050.56.55.000 W003.37.46.000 ;Additional point to align with Berry Head CTA 8
+West CTA                     N050.56.55.000 W003.37.46.000 N051.39.37.000 W003.29.26.000
 West CTA                     N051.39.37.000 W003.29.26.000 N051.40.39.000 W003.34.49.000
-West CTA                     N051.40.39.000 W003.34.49.000 N051.52.54.000 W005.14.13.000
+West CTA                     N051.40.39.000 W003.34.49.000 N051.41.31.000 W003.41.29.000 ;Additional point to align with Strumble CTA 3and4
+West CTA                     N051.41.31.000 W003.41.29.000 N051.43.09.000 W003.54.06.000 ;Additional point to align with Strumble CTA 3and2
+West CTA                     N051.43.09.000 W003.54.06.000 N051.44.12.000 W004.02.23.000 ;Additional point to align with Strumble CTA 2and1
+West CTA                     N051.44.12.000 W004.02.23.000 N051.52.54.000 W005.14.13.000
 West CTA                     N051.52.54.000 W005.14.13.000 N051.53.41.000 W005.33.38.000
 West CTA                     N051.53.41.000 W005.33.38.000 N051.52.34.000 W006.04.31.000
 West CTA                     N051.52.34.000 W006.04.31.000 N052.00.49.000 W006.07.20.000
