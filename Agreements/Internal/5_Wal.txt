@@ -1,9 +1,11 @@
 COPX:*:*:AXCIS:EGCC:*:London S5:Wallasey:*:20000:AXCIS
+COPX:*:*:AXCIS:EGCB:*:London S5:Wallasey:*:20000:AXCIS
 COPX:*:*:AXCIS:EGNH:*:London S5:Wallasey:*:20000:AXCIS
 COPX:*:*:AXCIS:EGNO:*:London S5:Wallasey:*:20000:AXCIS
 COPX:*:*:AXCIS:EGNM:*:London S5:Wallasey:*:20000:AXCIS
 
 COPX:*:*:AVTIC:EGCC:*:London S5:Wallasey:*:20000:AVTIC
+COPX:*:*:AVTIC:EGCB:*:London S5:Wallasey:*:20000:AVTIC
 COPX:*:*:AVTIC:EGNH:*:London S5:Wallasey:*:20000:AVTIC
 COPX:*:*:AVTIC:EGNO:*:London S5:Wallasey:*:20000:AVTIC
 COPX:*:*:AVTIC:EGNM:*:London S5:Wallasey:*:20000:AVTIC
