@@ -3,6 +3,7 @@ x. AIRAC (2303) - Added EGTT FRA West depiction - thanks to @robbo599 (Lee Rober
 x. AIRAC (2303) - Updated Fixes to match ENR 4.4 - thanks to @PLM1995 (Peter Mooney)
 x. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due to West systemisation - thanks to @robbo599 (Lee Roberts)
 x. AIRAC (2303) - Updated UK SIDs/STARs (West Airspace Deployment LD1.1) - thanks to @khardern
+x. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/02
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
