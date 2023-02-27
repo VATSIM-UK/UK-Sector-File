@@ -1,0 +1,11 @@
+COPX:MEDOG:*:*:EIDW:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EIME:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EIWT:*:London S35:London S8:*:36000:|MEDOG
+
+COPX:MEDOG:*:*:EGAA:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EGAC:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EGAD:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EGAE:*:London S35:London S8:*:36000:|MEDOG
+
+COPX:FELCA:*:*:EIWF:*:London S35:London S8:*:36000:|FELCA
+COPX:FELCA:*:*:EICK:*:London S35:London S8:*:36000:|FELCA
