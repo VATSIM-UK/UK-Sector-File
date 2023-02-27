@@ -7,6 +7,7 @@
 6. Enhancement - Added Derby (EGBD) ATZ - thanks to @chssn (Chris Parkinson)
 7. Enhancement - Added Sandtoft (EGCF) ATZ - thanks to @chssn (Chris Parkinson)
 8. Procedure Change - Removed all Doncaster Sheffield (EGCN) standing agreements - thanks to @chssn (Chris Parkinson)
+x. Procedure Change (2303) - Updated external agreements from LAC South due to new French vACC LoA - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
