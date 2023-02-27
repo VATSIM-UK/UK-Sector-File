@@ -19,11 +19,13 @@ COPX:*:*:*:EGVO:*:London S36:London S6:*:31000:|
 COPX:*:*:*:EGTD:*:London S36:London S6:*:31000:|
 COPX:*:*:*:EGHL:*:London S36:London S6:*:31000:|
 
-COPX:*:*:*:EGHI:*:London S36:London S6:*:31000:|
-COPX:*:*:*:EGHH:*:London S36:London S6:*:31000:|
-
 COPX:*:*:*:EGBB:*:London S36:London S6:*:31000:|
 
 COPX:*:*:*:EGJJ:*:London S36:London S6:*:31000:|
 COPX:*:*:*:EGJB:*:London S36:London S6:*:31000:|
 COPX:*:*:*:EGJA:*:London S36:London S6:*:31000:|
+
+COPX:*:*:*:EGVN:*:London S36:London S6:*:31000:|
+COPX:*:*:*:EGVA:*:London S36:London S6:*:31000:|
+COPX:*:*:*:EGBJ:*:London S36:London S6:*:31000:|
+COPX:*:*:*:EGBP:*:London S36:London S6:*:31000:|
