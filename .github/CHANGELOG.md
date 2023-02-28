@@ -8,6 +8,7 @@
 7. Enhancement - Added Sandtoft (EGCF) ATZ - thanks to @chssn (Chris Parkinson)
 8. Procedure Change - Removed all Doncaster Sheffield (EGCN) standing agreements - thanks to @chssn (Chris Parkinson)
 9. Enhancement - Added Humberside (EGNJ) ATZ - thanks to @robbo599 (Lee Roberts)
+10. Enhancement - Added Gamston (EGNE) ATZ - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
