@@ -3,7 +3,6 @@ COPX:EGWU:*:*:*:*:London S6:London S36:*:30000:^
 
 COPX:EGKK:*:*:*:*:London S6:London S36:*:30000:^
 
-COPX:EGSS:*:*:*:*:London S6:London S36:*:30000:^
 COPX:EGGW:*:*:*:*:London S6:London S36:*:30000:^
 COPX:EGSC:*:*:*:*:London S6:London S36:*:30000:^
 
