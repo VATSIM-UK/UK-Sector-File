@@ -4,7 +4,12 @@
 3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
 4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
 5. Enhancement - Added Duxford (EGSU) ATZ - thanks to @chssn (Chris Parkinson)
-6. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
+6. Enhancement - Added Derby (EGBD) ATZ - thanks to @chssn (Chris Parkinson)
+7. Enhancement - Added Sandtoft (EGCF) ATZ - thanks to @chssn (Chris Parkinson)
+8. Procedure Change - Removed all Doncaster Sheffield (EGCN) standing agreements - thanks to @chssn (Chris Parkinson)
+9. Enhancement - Added Humberside (EGNJ) ATZ - thanks to @robbo599 (Lee Roberts)
+10. Enhancement - Added Gamston (EGNE) ATZ - thanks to @robbo599 (Lee Roberts)
+11. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
