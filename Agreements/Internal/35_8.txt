@@ -24,4 +24,4 @@ COPX:AVZAC:*:*:EGTF:*:London S35:London S8:*:36000:|AVZAC
 COPX:AVZAC:*:*:EGVO:*:London S35:London S8:*:36000:|AVZAC
 COPX:AVZAC:*:*:EGTD:*:London S35:London S8:*:36000:|AVZAC
 
-COPX:AVZAC:*:*:EGMC:*:London S35:London S8:*:27000:|AVZAC
+COPX:AVZAC:*:*:EGMC:*:London S35:London S8:*:36000:|AVZAC
