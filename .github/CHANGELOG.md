@@ -1,4 +1,4 @@
-# Changes from release 2023/01 to 2023/02
+# Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
@@ -10,7 +10,7 @@
 9. Enhancement - Added Humberside (EGNJ) ATZ - thanks to @robbo599 (Lee Roberts)
 10. Enhancement - Added Gamston (EGNE) ATZ - thanks to @robbo599 (Lee Roberts)
 11. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
-X. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
+12. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
