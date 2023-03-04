@@ -12,6 +12,7 @@
 11. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
 12. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
 13. AIRAC (2212) - Added Northolt (EGWU) RNAV SIDs - thanks to @danielbutton (Daniel Button)
+14. Enhancement - Checked and removed a number of closed airfields (see #4577) - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
