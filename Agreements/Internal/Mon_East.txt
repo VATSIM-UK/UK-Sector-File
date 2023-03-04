@@ -3,7 +3,6 @@ COPX:*:*:TILNI:EGGP:*:Montrose:East:*:25000:TILNI
 COPX:*:*:TILNI:EGNR:*:Montrose:East:*:25000:TILNI
 COPX:*:*:TILNI:EGNH:*:Montrose:East:*:25000:TILNI
 COPX:*:*:TILNI:EGNO:*:Montrose:East:*:25000:TILNI
-COPX:*:*:TILNI:EGCN:*:Montrose:East:*:25000:TILNI
 
 COPX:*:*:TILNI:EGNM:*:Montrose:East:*:23000:TILNI
 

@@ -17,4 +17,3 @@ COPX:*:*:*:EGAA:*:Rathlin:Antrim:*:26000:|
 COPX:*:*:*:EGAC:*:Rathlin:Antrim:*:26000:|
 COPX:*:*:*:EGAE:*:Rathlin:Antrim:*:26000:|
 COPX:*:*:*:EGAD:*:Rathlin:Antrim:*:26000:|
-COPX:*:*:*:EGAL:*:Rathlin:Antrim:*:26000:|

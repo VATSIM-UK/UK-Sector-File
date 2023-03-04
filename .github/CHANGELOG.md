@@ -1,4 +1,18 @@
-# Changes from release 2023/02 to 2023/03
+# Changes from release 2023/01 to 2023/03
+1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
+2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
+3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
+4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
+5. Enhancement - Added Duxford (EGSU) ATZ - thanks to @chssn (Chris Parkinson)
+6. Enhancement - Added Derby (EGBD) ATZ - thanks to @chssn (Chris Parkinson)
+7. Enhancement - Added Sandtoft (EGCF) ATZ - thanks to @chssn (Chris Parkinson)
+8. Procedure Change - Removed all Doncaster Sheffield (EGCN) standing agreements - thanks to @chssn (Chris Parkinson)
+9. Enhancement - Added Humberside (EGNJ) ATZ - thanks to @robbo599 (Lee Roberts)
+10. Enhancement - Added Gamston (EGNE) ATZ - thanks to @robbo599 (Lee Roberts)
+11. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
+12. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
+13. AIRAC (2212) - Added Northolt (EGWU) RNAV SIDs - thanks to @danielbutton (Daniel Button)
+14. Enhancement - Checked and removed a number of closed airfields (see #4577) - thanks to @chssn (Chris Parkinson)
 x. AIRAC (2303) - Added EGTT FRA West depiction - thanks to @robbo599 (Lee Roberts)
 x. AIRAC (2303) - Updated Fixes to match ENR 4.4 - thanks to @PLM1995 (Peter Mooney)
 x. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due to West systemisation - thanks to @robbo599 (Lee Roberts)
@@ -7,13 +21,6 @@ x. AIRAC (2303) - Updated controlled airspace structures (ARTCC display, airspac
 x. AIRAC (2303) - Updated Brize Norton (EGVN) SIDs/STARs (due to West Airspace Deployment) - thanks to @hazzas-99
 x. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
 X. Procedure Change (2303) - Updated internal LAC West agreements (event split only) - thanks to @hazzas-99
-
-# Changes from release 2023/01 to 2023/02
-1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
-2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
-3. Bug - Corrected Duxford (EGSU) holding point and runway names - thanks to @chssn (Chris Parkinson)
-4. Bug - Removed files and references relating to Kinloss (EGQK) - thanks to @chssn (Chris Parkinson)
-5. Enhancement - Added Duxford (EGSU) ATZ - thanks to @chssn (Chris Parkinson)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
