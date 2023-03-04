@@ -5,6 +5,7 @@ x. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due
 x. AIRAC (2303) - Updated UK SIDs/STARs (West Airspace Deployment LD1.1) - thanks to @khardern
 x. AIRAC (2303) - Updated controlled airspace structures (ARTCC display, airspace base labels and OCAS regions) - thanks to @luke11brown (Luke Brown) & @hazzas-99
 x. AIRAC (2303) - Updated Brize Norton (EGVN) SIDs/STARs (due to West Airspace Deployment) - thanks to @hazzas-99
+x. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/02
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
