@@ -1,1 +1,1 @@
-COPX:*:*:ABDUK:EGBB:*:London S8:London S23:*:25000:ABDUK
+COPX:*:*:ICOSA:EGBB:*:London S8:London S23:*:25000:ICOSA

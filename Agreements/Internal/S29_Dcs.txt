@@ -1,4 +1,3 @@
 COPX:EGCC:*:ERGAB:*:*:Sector 29:Deancross:*:28000:^ERGAB
 COPX:EGGP:*:ERGAB:*:*:Sector 29:Deancross:*:28000:^ERGAB
 COPX:EGNR:*:ERGAB:*:*:Sector 29:Deancross:*:28000:^ERGAB
-COPX:EGCN:*:ERGAB:*:*:Sector 29:Deancross:*:28000:^ERGAB
