@@ -14,9 +14,9 @@ FIR_COPX:*:*:TIBGA:EIDW:*:London S8:Dublin South High:*:24000:TIBGA
 FIR_COPX:*:*:TIBGA:EIWT:*:London S8:Dublin South High:*:24000:TIBGA
 FIR_COPX:*:*:TIBGA:EIME:*:London S8:Dublin South High:*:24000:TIBGA
 
-FIR_COPX:*:*:VATRY:EIDW:*:London S8:Dublin South High:*:24000:VATRY10
-FIR_COPX:*:*:VATRY:EIWT:*:London S8:Dublin South High:*:24000:VATRY10
-FIR_COPX:*:*:VATRY:EIME:*:London S8:Dublin South High:*:24000:VATRY10
+FIR_COPX:*:*:VATRY:EIDW:*:London S8:Dublin South High:*:24000:VATRY
+FIR_COPX:*:*:VATRY:EIWT:*:London S8:Dublin South High:*:24000:VATRY
+FIR_COPX:*:*:VATRY:EIME:*:London S8:Dublin South High:*:24000:VATRY
 
 ;NIRIF COP traffic to be re-routed via VATRY
 FIR_COPX:*:*:NIRIF:EIDW:*:London S8:Dublin South High:*:24000:REROUTE
