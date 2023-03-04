@@ -1,0 +1,27 @@
+COPX:MEDOG:*:*:EIDW:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EIME:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EIWT:*:London S35:London S8:*:36000:|MEDOG
+
+COPX:MEDOG:*:*:EGAA:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EGAC:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EGAD:*:London S35:London S8:*:36000:|MEDOG
+COPX:MEDOG:*:*:EGAE:*:London S35:London S8:*:36000:|MEDOG
+
+COPX:FELCA:*:*:EIWF:*:London S35:London S8:*:36000:|FELCA
+COPX:FELCA:*:*:EICK:*:London S35:London S8:*:36000:|FELCA
+
+COPX:AVZAC:*:*:EGLL:*:London S35:London S8:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGWU:*:London S35:London S8:*:36000:|AVZAC
+
+COPX:AVZAC:*:*:EGKK:*:London S35:London S8:*:36000:|AVZAC
+
+COPX:AVZAC:*:*:EGHI:*:London S35:London S8:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGHH:*:London S35:London S8:*:36000:|AVZAC
+
+COPX:AVZAC:*:*:EGLF:*:London S35:London S8:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGLK:*:London S35:London S8:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGTF:*:London S35:London S8:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGVO:*:London S35:London S8:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGTD:*:London S35:London S8:*:36000:|AVZAC
+
+COPX:AVZAC:*:*:EGMC:*:London S35:London S8:*:36000:|AVZAC

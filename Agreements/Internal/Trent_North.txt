@@ -5,5 +5,3 @@ COPX:*:*:DENBY:EGNH:*:Trent:North:12000:*:DENBY10
 COPX:*:*:DENBY:EGNO:*:Trent:North:12000:*:DENBY10
 COPX:*:*:BOLBI:EGNH:*:Trent:North:12000:*:POL25
 COPX:*:*:BOLBI:EGNO:*:Trent:North:12000:*:POL25
-
-COPX:*:*:EVSON:EGCN:*:Trent:North:12000:*:EVSON

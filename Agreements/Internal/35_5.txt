@@ -1,18 +1,18 @@
-COPX:*:*:*:EGLL:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGWU:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGSS:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGGW:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGSC:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGKK:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGLC:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGKB:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGMC:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGTO:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGLF:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGLK:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGTF:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGVO:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGTD:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGHL:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGHI:*:London S35:London S5:*:34000:|
-COPX:*:*:*:EGHH:*:London S35:London S5:*:34000:|
+COPX:INFEC:*:*:EGNT:*:London S35:London S5:*:36000:|KISWO
+COPX:INFEC:*:*:EGNV:*:London S35:London S5:*:36000:|KISWO
+COPX:INFEC:*:*:EGNJ:*:London S35:London S5:*:36000:|KISWO
+
+COPX:AZCAL:*:*:EGNT:*:London S35:London S5:*:36000:|KISWO
+COPX:AZCAL:*:*:EGNV:*:London S35:London S5:*:36000:|KISWO
+COPX:AZCAL:*:*:EGNJ:*:London S35:London S5:*:36000:|KISWO
+
+COPX:AVZAC:*:*:EGSS:*:London S35:London S5:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGGW:*:London S35:London S5:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGSC:*:London S35:London S5:*:36000:|AVZAC
+
+COPX:AVZAC:*:*:EGLC:*:London S35:London S5:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGKB:*:London S35:London S5:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGTO:*:London S35:London S5:*:36000:|AVZAC
+
+COPX:AVZAC:*:*:EGUN:*:London S35:London S5:*:36000:|AVZAC
+COPX:AVZAC:*:*:EGUL:*:London S35:London S5:*:36000:|AVZAC
