@@ -22,6 +22,7 @@ x. AIRAC (2303) - Updated Brize Norton (EGVN) SIDs/STARs (due to West Airspace D
 x. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
 X. Procedure Change (2303) - Updated internal LAC West agreements (event split only) - thanks to @hazzas-99
 x. Procedure Change (2303) - Updated delegated airspace from LAC West to Cardiff/Bristol - thanks to @hazzas-99
+x. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
