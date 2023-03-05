@@ -9,6 +9,3 @@ COPX:EGNH:*:*:TELBA:*:Sector 29:London S27:28000:*:^LISTO
 
 COPX:EGNJ:*:*:HON:*:Sector 29:London S27:28000:*:^LISTO
 COPX:EGNJ:*:*:TELBA:*:Sector 29:London S27:28000:*:^LISTO
-
-COPX:EGCN:*:*:HON:*:Sector 29:London S27:28000:*:^LISTO
-COPX:EGCN:*:*:TELBA:*:Sector 29:London S27:28000:*:^LISTO
