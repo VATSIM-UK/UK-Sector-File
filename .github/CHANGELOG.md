@@ -10,10 +10,22 @@
 9. Enhancement - Added Humberside (EGNJ) ATZ - thanks to @robbo599 (Lee Roberts)
 10. Enhancement - Added Gamston (EGNE) ATZ - thanks to @robbo599 (Lee Roberts)
 11. Bug - Fixed PC SE -> PC NE EGNM inbound COPX display - thanks to @hazzas-99
-12. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
-13. AIRAC (2212) - Added Northolt (EGWU) RNAV SIDs - thanks to @danielbutton (Daniel Button)
-14. Enhancement - Checked and removed a number of closed airfields (see #4577) - thanks to @chssn (Chris Parkinson)
-15. Procedure Change (2303) - Updated external agreements from LAC South due to new French vACC LoA - thanks to @hazzas-99
+12. AIRAC (2212) - Added Northolt (EGWU) RNAV SIDs - thanks to @danielbutton (Daniel Button)
+13. Enhancement - Checked and removed a number of closed airfields (see #4577) - thanks to @chssn (Chris Parkinson)
+14. Procedure Change (2303) - Updated external agreements from LAC South due to new French vACC LoA - thanks to @hazzas-99
+15. AIRAC (2303) - Added EGTT FRA West depiction - thanks to @robbo599 (Lee Roberts)
+16. AIRAC (2303) - Updated Fixes to match ENR 4.4 - thanks to @PLM1995 (Peter Mooney)
+17. AIRAC (2303) - ENR 3.2 update - various ATS route removals and amendments due to West systemisation - thanks to @robbo599 (Lee Roberts)
+18. AIRAC (2303) - Updated UK SIDs/STARs (West Airspace Deployment LD1.1) - thanks to @khardern
+19. AIRAC (2303) - Updated controlled airspace structures (ARTCC display, airspace base labels and OCAS regions) - thanks to @luke11brown (Luke Brown) & @hazzas-99
+20. AIRAC (2303) - Updated Brize Norton (EGVN) SIDs/STARs (due to West Airspace Deployment) - thanks to @hazzas-99
+21. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
+22. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
+23. Procedure Change (2303) - Updated internal LAC West agreements (event split only) - thanks to @hazzas-99
+23. Procedure Change (2303) - Updated delegated airspace from LAC West to Cardiff/Bristol - thanks to @hazzas-99
+24. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
+25. Procedure Change (2303) - Updated LAC West airport agreements (West Airspace Deployment) - thanks to @hazzas-99
+26. Procedure Change (2303) - Updated LAC West UK internal agreements (West Airspace Deployment) - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
