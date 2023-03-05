@@ -9,23 +9,19 @@ COPX:*:*:*:EGNT:*:London S34:London S28:*:30000:|MAMUL25
 COPX:*:*:*:EGNV:*:London S34:London S28:*:30000:|MAMUL25
 
 COPX:*:*:EVSON:EGNJ:*:London S34:London S28:*:30000:|PIPIN
-COPX:*:*:EVSON:EGCN:*:London S34:London S28:*:30000:|PIPIN
 
 COPX:*:*:DENBY:EGNM:*:London S34:London S28:*:30000:|AKUPA
 COPX:*:*:DENBY:EGNH:*:London S34:London S28:*:30000:|AKUPA
 
 COPX:*:*:DENBY:EGNO:*:London S34:London S28:*:30000:|WELIN
 COPX:*:*:DENBY:EGNJ:*:London S34:London S28:*:30000:|WELIN
-COPX:*:*:DENBY:EGCN:*:London S34:London S28:*:30000:|WELIN
 
 COPX:*:*:TNT:EGNM:*:London S34:London S28:*:30000:|EBOTO
 COPX:*:*:TNT:EGNH:*:London S34:London S28:*:30000:|EBOTO
 COPX:*:*:TNT:EGNO:*:London S34:London S28:*:30000:|EBOTO
 COPX:*:*:TNT:EGNJ:*:London S34:London S28:*:30000:|EBOTO
-COPX:*:*:TNT:EGCN:*:London S34:London S28:*:30000:|EBOTO
 
 COPX:*:*:TNT:EGNM:*:London S34:London S28:*:30000:|WELIN
 COPX:*:*:TNT:EGNH:*:London S34:London S28:*:30000:|WELIN
 COPX:*:*:TNT:EGNO:*:London S34:London S28:*:30000:|WELIN
 COPX:*:*:TNT:EGNJ:*:London S34:London S28:*:30000:|WELIN
-COPX:*:*:TNT:EGCN:*:London S34:London S28:*:30000:|WELIN

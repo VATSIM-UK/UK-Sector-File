@@ -1,1 +1,3 @@
 FIR_COPX:EIDW:*:BAKUR:*:*:Dublin South High:London S8:23000:*:^BAKUR
+FIR_COPX:EIWT:*:BAKUR:*:*:Dublin South High:London S8:23000:*:^BAKUR
+FIR_COPX:EIME:*:BAKUR:*:*:Dublin South High:London S8:23000:*:^BAKUR

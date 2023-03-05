@@ -4,7 +4,6 @@ COPX:*:*:MAKUX:EGNR:*:Rathlin:Isle of Man:*:27000:MAKUX
 COPX:*:*:MAKUX:EGNH:*:Rathlin:Isle of Man:*:27000:MAKUX
 COPX:*:*:MAKUX:EGNO:*:Rathlin:Isle of Man:*:27000:MAKUX
 COPX:*:*:MAKUX:EGNM:*:Rathlin:Isle of Man:*:27000:MAKUX
-COPX:*:*:MAKUX:EGCN:*:Rathlin:Isle of Man:*:27000:MAKUX
 
 COPX:*:*:MAKUX:EGBB:*:Rathlin:Isle of Man:*:27000:MAKUX
 COPX:*:*:MAKUX:EGNX:*:Rathlin:Isle of Man:*:27000:MAKUX

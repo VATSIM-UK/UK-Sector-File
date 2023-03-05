@@ -1,1 +1,0 @@
-FIR_COPX:*:*:ABLIN:EIDW:*:London S5:Dublin South High:*:20000:BADSI

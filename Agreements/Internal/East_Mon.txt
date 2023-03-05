@@ -3,7 +3,6 @@ COPX:EGGP:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
 COPX:EGNR:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
 COPX:EGNH:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
 COPX:EGNO:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
-COPX:EGCN:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
 
 COPX:EGNX:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
 COPX:EGBB:*:ARSAT:*:*:East:Montrose:27000:*:ARSAT
@@ -14,7 +13,6 @@ COPX:EGGP:*:TILNI:*:*:East:Montrose:27000:*:TILNI
 COPX:EGNR:*:TILNI:*:*:East:Montrose:27000:*:TILNI
 COPX:EGNH:*:TILNI:*:*:East:Montrose:27000:*:TILNI
 COPX:EGNO:*:TILNI:*:*:East:Montrose:27000:*:TILNI
-COPX:EGCN:*:TILNI:*:*:East:Montrose:27000:*:TILNI
 
 COPX:EGNX:*:TILNI:*:*:East:Montrose:27000:*:TILNI
 COPX:EGBB:*:TILNI:*:*:East:Montrose:27000:*:TILNI

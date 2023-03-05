@@ -1,5 +1,4 @@
 COPX:*:*:DCS:EGCC:*:Deancross:Galloway:*:26000:DCS
-COPX:*:*:DCS:EGCN:*:Deancross:Galloway:*:26000:DCS
 COPX:*:*:DCS:EGGP:*:Deancross:Galloway:*:26000:DCS
 COPX:*:*:DCS:EGNR:*:Deancross:Galloway:*:26000:DCS
 COPX:*:*:DCS:EGNM:*:Deancross:Galloway:*:26000:DCS
