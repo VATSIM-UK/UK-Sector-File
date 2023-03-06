@@ -26,6 +26,7 @@
 24. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
 25. Procedure Change (2303) - Updated LAC West airport agreements (West Airspace Deployment) - thanks to @hazzas-99
 26. Procedure Change (2303) - Updated LAC West UK internal agreements (West Airspace Deployment) - thanks to @hazzas-99
+X. Enhancement - Added Observing SCO_WD_CTR alternative sector ownership option for mentoring/observing - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
