@@ -27,6 +27,7 @@
 25. Procedure Change (2303) - Updated LAC West airport agreements (West Airspace Deployment) - thanks to @hazzas-99
 26. Procedure Change (2303) - Updated LAC West UK internal agreements (West Airspace Deployment) - thanks to @hazzas-99
 27. Bug - Corrected Inverness (EGPE) SMAA label - thanks to @PLM1995 (Peter Mooney)
+28. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
