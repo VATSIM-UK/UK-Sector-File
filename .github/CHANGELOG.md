@@ -22,7 +22,7 @@ x. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lef
 19. AIRAC (2303) - Updated controlled airspace structures (ARTCC display, airspace base labels and OCAS regions) - thanks to @luke11brown (Luke Brown) & @hazzas-99
 20. AIRAC (2303) - Updated Brize Norton (EGVN) SIDs/STARs (due to West Airspace Deployment) - thanks to @hazzas-99
 21. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
-22. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
+22. Procedure Change (2303) - Implemented new London AC West/Lakes/South and TC SW/NW sectorisation (due to WAD) - thanks to @hazzas-99
 23. Procedure Change (2303) - Updated internal LAC West agreements (event split only) - thanks to @hazzas-99
 23. Procedure Change (2303) - Updated delegated airspace from LAC West to Cardiff/Bristol - thanks to @hazzas-99
 24. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
@@ -30,6 +30,7 @@ x. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lef
 26. Procedure Change (2303) - Updated LAC West UK internal agreements (West Airspace Deployment) - thanks to @hazzas-99
 27. Bug - Corrected Inverness (EGPE) SMAA label - thanks to @PLM1995 (Peter Mooney)
 28. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
+29. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
