@@ -30,6 +30,7 @@
 28. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
 29. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 30. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
+x. Enhancement - Added Haverfordwest (EGFE) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
