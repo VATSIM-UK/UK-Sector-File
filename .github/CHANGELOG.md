@@ -1,5 +1,3 @@
-x. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
-
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
@@ -31,6 +29,7 @@ x. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lef
 27. Bug - Corrected Inverness (EGPE) SMAA label - thanks to @PLM1995 (Peter Mooney)
 28. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
 29. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
+30. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
