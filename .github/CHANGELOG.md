@@ -20,7 +20,7 @@
 19. AIRAC (2303) - Updated controlled airspace structures (ARTCC display, airspace base labels and OCAS regions) - thanks to @luke11brown (Luke Brown) & @hazzas-99
 20. AIRAC (2303) - Updated Brize Norton (EGVN) SIDs/STARs (due to West Airspace Deployment) - thanks to @hazzas-99
 21. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
-22. Procedure Change (2303) - Implemented new London AC West/Lakes sectorisation (due to WAD) - thanks to @hazzas-99
+22. Procedure Change (2303) - Implemented new London AC West/Lakes/South and TC SW/NW sectorisation (due to WAD) - thanks to @hazzas-99
 23. Procedure Change (2303) - Updated internal LAC West agreements (event split only) - thanks to @hazzas-99
 23. Procedure Change (2303) - Updated delegated airspace from LAC West to Cardiff/Bristol - thanks to @hazzas-99
 24. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
