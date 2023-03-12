@@ -31,6 +31,7 @@
 30. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 31. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
 32. Enhancement - Added Observing SCO_WD_CTR alternative sector ownership option for mentoring/observing - thanks to @hazzas-99
+x. AIRAC (2303) - Updated lots of VRPs per new AIRAC - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
