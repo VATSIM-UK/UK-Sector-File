@@ -5,4 +5,4 @@
 *Padeswood Cement Factory:N053.09.16.000:W003.03.42.000
 *Point of Ayr Lighthouse:N053.21.25.240:W003.19.19.850
 *Poulton (Disused AD):N053.07.56.000:W002.53.30.000
-*Vicars Cross Roundabout:N053.11.42.000:W002.50.38.000
+*Vicars Cross Rbt:N053.11.42.000:W002.50.38.000
