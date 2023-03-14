@@ -29,6 +29,7 @@
 27. Bug - Corrected Inverness (EGPE) SMAA label - thanks to @PLM1995 (Peter Mooney)
 28. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
 29. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
+30. Bug - Corrected TC sector line in Burnham (BUR) area - thanks to @hazzas-99
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
