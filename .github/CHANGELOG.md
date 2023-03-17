@@ -34,6 +34,7 @@
 33. Enhancement - Added Dunkeswell (EGTU) ATZ and Runway - thanks to @robbo599 (Lee Roberts)
 34. Enhancement - Added Andrewsfield (EGSL) Runway and Position data - thanks to @robbo599 (Lee Roberts)
 35. Enhancement - Added Haverfordwest (EGFE) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
+36. Enhancement - Added Netherthorpe (EGNF) ATZ, Runways, position - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
