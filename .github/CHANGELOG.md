@@ -36,6 +36,7 @@
 35. Enhancement - Added Haverfordwest (EGFE) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
 36. Enhancement - Added Netherthorpe (EGNF) ATZ, Runways, position - thanks to @robbo599 (Lee Roberts)
 37. Enhancement - Added Sherburn in Elmet (EGCJ) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
+38. Enhancement - Added Stapleford (EGSG) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
