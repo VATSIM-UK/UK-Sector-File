@@ -22,15 +22,18 @@
 21. AIRAC (2303) - Updated Exter (EGTE) inbound/outbound routeings - thanks to @hazzas-99
 22. Procedure Change (2303) - Implemented new London AC West/Lakes/South and TC SW/NW sectorisation (due to WAD) - thanks to @hazzas-99
 23. Procedure Change (2303) - Updated internal LAC West agreements (event split only) - thanks to @hazzas-99
-23. Procedure Change (2303) - Updated delegated airspace from LAC West to Cardiff/Bristol - thanks to @hazzas-99
-24. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
-25. Procedure Change (2303) - Updated LAC West airport agreements (West Airspace Deployment) - thanks to @hazzas-99
-26. Procedure Change (2303) - Updated LAC West UK internal agreements (West Airspace Deployment) - thanks to @hazzas-99
-27. Bug - Corrected Inverness (EGPE) SMAA label - thanks to @PLM1995 (Peter Mooney)
-28. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
-29. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
-30. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
-x. Enhancement - Added Haverfordwest (EGFE) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
+24. Procedure Change (2303) - Updated delegated airspace from LAC West to Cardiff/Bristol - thanks to @hazzas-99
+25. Procedure Change (2303) - Amended external agreements (VATeir & French vACC) to coincide with new LoAs for WAD - thanks to @hazzas-99
+26. Procedure Change (2303) - Updated LAC West airport agreements (West Airspace Deployment) - thanks to @hazzas-99
+27. Procedure Change (2303) - Updated LAC West UK internal agreements (West Airspace Deployment) - thanks to @hazzas-99
+28. Bug - Corrected Inverness (EGPE) SMAA label - thanks to @PLM1995 (Peter Mooney)
+29. AIRAC (2303) - Updated Newquay (EGHQ) Standard Departure and Arrival routes (due to WAD) - thanks to @danielbutton (Daniel Button)
+30. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
+31. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
+32. Enhancement - Added Observing SCO_WD_CTR alternative sector ownership option for mentoring/observing - thanks to @hazzas-99
+33. Enhancement - Added Dunkeswell (EGTU) ATZ and Runway - thanks to @robbo599 (Lee Roberts)
+34. Enhancement - Added Andrewsfield (EGSL) Runway and Position data - thanks to @robbo599 (Lee Roberts)
+35. Enhancement - Added Haverfordwest (EGFE) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
