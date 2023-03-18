@@ -42,6 +42,7 @@
 41. Bug - Corrected TC sector line in Burnham (BUR) area - thanks to @hazzas-99
 42. Enhancement - Added Barra (EGPR) Information position definition - thanks to @hazzas-99
 43. Enhancement - Adjusted land mass default colour to be less 'blue' - thanks to @hazzas-99 and @SamLefevre
+44. Enhancement - Added fixes for Stansted (EGSS) Air network - thanks to @Craigstewart4717 (Craig Stewart)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
