@@ -12,8 +12,8 @@
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
-#define land 5324604
-;Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
+#define land 3947580
+; @preserveComment Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
 #define OCASregion 0

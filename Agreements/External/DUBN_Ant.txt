@@ -16,4 +16,3 @@ FIR_COPX:*:*:NEVRI:EGAA:*:Dublin North High:Antrim:*:14000:|NEVRI
 FIR_COPX:*:*:NEVRI:EGAC:*:Dublin North High:Antrim:*:14000:|NEVRI
 FIR_COPX:*:*:NEVRI:EGAE:*:Dublin North High:Antrim:*:14000:|NEVRI
 FIR_COPX:*:*:NEVRI:EGAD:*:Dublin North High:Antrim:*:14000:|NEVRI
-FIR_COPX:*:*:NEVRI:EGAL:*:Dublin North High:Antrim:*:14000:|NEVRI
