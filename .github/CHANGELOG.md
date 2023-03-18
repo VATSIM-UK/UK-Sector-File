@@ -31,7 +31,19 @@
 30. AIRAC (2303) - Updated Oxford (EGTK) SMR - thanks to @PLM1995 (Peter Mooney)
 31. AIRAC (2213) - Added Southend RMA regions - thanks to @SamLefevre (Samuel Lefevre)
 32. Enhancement - Added Observing SCO_WD_CTR alternative sector ownership option for mentoring/observing - thanks to @hazzas-99
-x. AIRAC (2303) - Updated lots of VRPs per new AIRAC - thanks to @PLM1995 (Peter Mooney)
+33. Enhancement - Added Dunkeswell (EGTU) ATZ and Runway - thanks to @robbo599 (Lee Roberts)
+34. Enhancement - Added Andrewsfield (EGSL) Runway and Position data - thanks to @robbo599 (Lee Roberts)
+35. Enhancement - Added Haverfordwest (EGFE) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
+36. Enhancement - Added Netherthorpe (EGNF) ATZ, Runways, position - thanks to @robbo599 (Lee Roberts)
+37. Enhancement - Added Sherburn in Elmet (EGCJ) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
+38. Enhancement - Added Stapleford (EGSG) ATZ, Runways, Position - thanks to @robbo599 (Lee Roberts)
+39. Enhancement - Added Bedford (EGBF) Runway and position - thanks to @robbo599 (Lee Roberts)
+40. Enhancement - Added Leeds East (EGCM) ATZ, runway, position - thanks to @robbo599 (Lee Roberts)
+41. Bug - Corrected TC sector line in Burnham (BUR) area - thanks to @hazzas-99
+42. Enhancement - Added Barra (EGPR) Information position definition - thanks to @hazzas-99
+43. Enhancement - Adjusted land mass default colour to be less 'blue' - thanks to @hazzas-99 and @SamLefevre
+44. Enhancement - Added fixes for Stansted (EGSS) Air network - thanks to @Craigstewart4717 (Craig Stewart)
+45. AIRAC (2303) - Updated lots of VRPs per new AIRAC - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
