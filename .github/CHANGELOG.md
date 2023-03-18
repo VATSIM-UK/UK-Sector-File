@@ -40,6 +40,7 @@
 39. Enhancement - Added Bedford (EGBF) Runway and position - thanks to @robbo599 (Lee Roberts)
 40. Enhancement - Added Leeds East (EGCM) ATZ, runway, position - thanks to @robbo599 (Lee Roberts)
 41. Bug - Corrected TC sector line in Burnham (BUR) area - thanks to @hazzas-99
+42. Enhancement - Adjusted land mass default colour to be less 'blue' - thanks to @hazzas-99 and @SamLefevre
 
 # Changes from release 2022/13 to 2023/01
 1. Enhancement - Changed Liverpool (EGGP) SMR holding point labels from red to white - thanks to @zippy77777 (Darren Faux)
