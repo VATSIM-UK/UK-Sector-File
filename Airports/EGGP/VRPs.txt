@@ -1,6 +1,6 @@
 *Aintree:N053.28.36.000:W002.56.35.000
 *Burtonwood Services:N053.25.00.000:W002.38.17.000
-*Fiddlers Ferry Power Station:N053.22.18.390:W002.41.16.030
+*Fiddlers Ferry Power Stn:N053.22.18.390:W002.41.16.030
 *Frodsham Hill:N053.17.13.750:W002.43.29.270
 *Garston Docks:N053.21.09.960:W002.54.24.360
 *Hale Head Lighthouse:N053.19.21.000:W002.47.40.000
