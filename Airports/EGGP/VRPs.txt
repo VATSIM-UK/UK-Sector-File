@@ -3,7 +3,7 @@
 *Fiddlers Ferry Power Stn:N053.22.18.390:W002.41.16.030
 *Frodsham Hill:N053.17.13.750:W002.43.29.270
 *Garston Docks:N053.21.09.960:W002.54.24.360
-*Hale Head Lighthouse:N053.19.21.000:W002.47.40.000
+*Hale Head L'house:N053.19.21.000:W002.47.40.000
 *Helsby Hill:N053.16.24.310:W002.45.47.640
 *Jaguar Car Factory:N053.21.12.660:W002.50.08.800
 *Kirkby:N053.28.48.000:W002.52.54.000

@@ -1,18 +1,18 @@
-*Alderney Lighthouse:N049.43.44.830:W002.09.51.240
+*Alderney L'house:N049.43.44.830:W002.09.51.240
 *Cap de la Hague:N049.43.00.000:W001.56.00.000
-*Carteret Lighthouse:N049.22.24.000:W001.48.24.000
-*Casquets Lighthouse:N049.43.20.000:W002.22.37.000
-*Corbiere Lighthouse:N049.10.47.000:W002.15.00.000
+*Carteret L'house:N049.22.24.000:W001.48.24.000
+*Casquets L'house:N049.43.20.000:W002.22.37.000
+*Corbiere L'house:N049.10.47.000:W002.15.00.000
 *Fort Le Marchant:N049.30.32.000:W002.31.07.000
 *Fremont TV Mast:N049.15.06.000:W002.07.53.000
-*Hanois Lighthouse:N049.26.06.000:W002.42.09.000
+*Hanois L'house:N049.26.06.000:W002.42.09.000
 *Heauville:N049.34.59.000:W001.48.07.000
 *Herm Island:N049.28.18.070:W002.26.55.460
 *Les Landes Racecourse:N049.15.11.000:W002.14.45.000
 *Minquies:N048.58.00.000:W002.08.00.000
-*Noirmont Point Lighthouse:N049.09.55.000:W002.10.05.000
+*Noirmont Point L'house:N049.09.55.000:W002.10.05.000
 *Pointe de Rozel:N049.28.59.000:W001.50.59.000
-*Roches Douvres Lighthouse:N049.06.15.000:W002.48.48.000
+*Roches Douvres L'house:N049.06.15.000:W002.48.48.000
 *Seymour Tower:N049.09.27.000:W002.00.28.000
 *St Germain:N049.14.00.000:W001.38.00.000
 *St Martin's Point:N049.25.18.000:W002.31.42.000
