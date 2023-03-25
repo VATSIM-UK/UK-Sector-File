@@ -1,3 +1,6 @@
+# Changes from release 2023/03 to 2023/04
+X. Bug - Fixed agreement display: TC NW -> Worthing EGSS/SC deps via AC West FL160 lvl CPT-11 - thanks to @hazzas-99
+
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
