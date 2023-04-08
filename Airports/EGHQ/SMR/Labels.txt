@@ -1,4 +1,4 @@
-; Stands/Parking
+;Stands
 "17"      N050.26.42.801 W005.00.00.209 standHold
 "18"      N050.26.43.980 W005.00.03.434 standHold
 "19"      N050.26.45.749 W005.00.08.480 standHold
@@ -7,11 +7,14 @@
 "22"      N050.26.48.529 W005.00.17.311 standHold
 "23"      N050.26.49.625 W005.00.20.115 standHold
 "24"      N050.26.50.888 W005.00.22.498 standHold
+"41"      N050.26.28.969 W005.00.20.251 standHold
+"42"      N050.26.26.893 W005.00.31.498 standHold
+"B747"    N050.26.16.823 W004.59.45.531 standHold
 "GA"      N050.26.39.599 W004.59.49.976 standHold
 "H"       N050.25.59.330 W004.59.01.475 standHold
 "SAR"     N050.26.37.999 W004.59.38.342 standHold
 
-; Holding Points
+;Holding Points
 "A1"      N050.26.51.647 W005.00.42.544 standHold
 "A2"      N050.26.49.365 W005.00.28.160 standHold
 "A3"      N050.26.09.656 W004.58.45.825 standHold

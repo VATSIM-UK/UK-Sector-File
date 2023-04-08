@@ -1,12 +1,7 @@
-COPX:*:*:ROBEM:EGNX:*:Tyne:Montrose:*:33000:ROBEM
-COPX:*:*:ROBEM:EGBB:*:Tyne:Montrose:*:33000:ROBEM
-COPX:*:*:ROBEM:EGBE:*:Tyne:Montrose:*:33000:ROBEM
-
 COPX:*:*:*:EGPD:*:Tyne:Montrose:*:26000:|NEXUS
 
-COPX:*:*:ROBEM:EGCC:*:Tyne:Montrose:*:25000:ROBEM
-COPX:*:*:ROBEM:EGGP:*:Tyne:Montrose:*:25000:ROBEM
-COPX:*:*:ROBEM:EGNR:*:Tyne:Montrose:*:25000:ROBEM
-COPX:*:*:ROBEM:EGNM:*:Tyne:Montrose:*:25000:ROBEM
-COPX:*:*:ROBEM:EGNC:*:Tyne:Montrose:*:25000:ROBEM
-COPX:*:*:ROBEM:EGCN:*:Tyne:Montrose:*:25000:ROBEM
+COPX:*:*:ROBEM:EGCC:*:Tyne:Tay:*:25000:ROBEM
+COPX:*:*:ROBEM:EGGP:*:Tyne:Tay:*:25000:ROBEM
+COPX:*:*:ROBEM:EGNR:*:Tyne:Tay:*:25000:ROBEM
+COPX:*:*:ROBEM:EGNM:*:Tyne:Tay:*:25000:ROBEM
+COPX:*:*:ROBEM:EGNC:*:Tyne:Tay:*:25000:ROBEM

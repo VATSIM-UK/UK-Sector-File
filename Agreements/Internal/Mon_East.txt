@@ -1,12 +1,14 @@
-COPX:*:*:TILNI:EGCC:*:Montrose:East:*:23000:TILNI
-COPX:*:*:TILNI:EGGP:*:Montrose:East:*:23000:TILNI
-COPX:*:*:TILNI:EGNR:*:Montrose:East:*:23000:TILNI
-COPX:*:*:TILNI:EGNM:*:Montrose:East:*:23000:TILNI
-COPX:*:*:TILNI:EGCN:*:Montrose:East:*:23000:TILNI
+COPX:*:*:TILNI:EGCC:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGGP:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGNR:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGNH:*:Montrose:East:*:25000:TILNI
+COPX:*:*:TILNI:EGNO:*:Montrose:East:*:25000:TILNI
 
-COPX:*:*:BINTI:EGNX:*:Montrose:East:*:27000:BINTI
-COPX:*:*:BINTI:EGBB:*:Montrose:East:*:27000:BINTI
-COPX:*:*:BINTI:EGBE:*:Montrose:East:*:27000:BINTI
+COPX:*:*:TILNI:EGNM:*:Montrose:East:*:23000:TILNI
+
+COPX:*:*:RAPUM:EGNX:*:Montrose:East:*:28000:RAPUM
+COPX:*:*:RAPUM:EGBB:*:Montrose:East:*:28000:RAPUM
+COPX:*:*:RAPUM:EGBE:*:Montrose:East:*:28000:RAPUM
 
 COPX:*:*:ERKIT:EGSH:*:Montrose:East:*:27000:ERKIT
 COPX:*:*:ERKIT:EGUL:*:Montrose:East:*:27000:ERKIT

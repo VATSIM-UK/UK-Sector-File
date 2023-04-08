@@ -12,8 +12,8 @@
 #define grass 6919785
 #define grey 10534048
 #define hold 820613
-#define land 5324604
-;Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
+#define land 3947580
+; @preserveComment Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
 #define OCASregion 0
@@ -105,6 +105,10 @@
 #define smrOrange 43775
 #define smrPGDisused 11911865
 #define smrPGBuildings 1973790
+#define smrPHApron 9868950
+#define smrPHGrass 7237230
+#define smrPHHold 16777045
+#define smrPink 11052799
 #define smrRarea 125
 #define smrRed 255
 #define smrRoad 6908265
@@ -117,18 +121,16 @@
 #define smrTaxiway 0
 #define smrTaxiwayLine 8313850
 #define smrTEAVGAS 6488184
-#define smrTEAVTUR 6712064
 #define smrTEBuilding 4023169
 #define smrTEDisused 6250335
-#define smrTEFlybe 9671575
 #define smrTEGrassBdy 2377274
 #define smrTEGrassTaxi 2707265
-#define smrTERed 202
 #define smrTERunway 4934475
 #define smrTEStand 59107
 #define smrTETaxiway 7106162
 #define smrTFGrass 4487739
 #define smrTFTaxiway 3498623
+#define smrTugPoint 16755690
 #define smrWhite 13494510
 #define smrYellow 65535
 

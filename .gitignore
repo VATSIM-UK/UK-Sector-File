@@ -1,6 +1,12 @@
+# Ignore accidental inclusions of compiler output
 *.ese
 *.sct
 .build/**
 .bin/**
-
+# Ignore accidental inclusions of .exe files + the (current) file names the compiler exports
 *.exe
+**/cli-linux-x64
+**/cli-mac-x64
+**/cli-windows-x64
+# Ignore accidental inclusions of desktop.inis that are made when generating SCTs
+**/desktop.ini
