@@ -4,4 +4,4 @@
 *Redcar Racecourse:N054.36.26.000:W001.03.51.000
 *Sedgefield Racecourse:N054.38.45.000:W001.28.06.000
 *Stokesley:N054.28.11.000:W001.11.41.000
-*Hardwick Hall:N054.39.27:W001.27.570
+*Hardwick Hall:N054.39.27.000:W001.27.57.000
