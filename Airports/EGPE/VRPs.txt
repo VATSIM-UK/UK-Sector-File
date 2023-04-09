@@ -1,5 +1,12 @@
-*Invergordon:N057.41.32.000:W004.10.03.000
+*Invergordon Port:N057.41.32.000:W004.10.03.000
 *Lochindorb:N057.24.10.000:W003.42.57.000
-*Tomatin:N057.20.02.000:W003.59.30.000
+*Tomatin A9 Bridge:N057.20.02.000:W003.59.30.000
 *Dores:N057.22.55.000:W004.19.55.000
-*Dingwall:N057.35.58.000:W004.25.53.000
+*Dingwall Station:N057.35.58.000:W004.25.53.000
+*Beauly Rail Bridge:N057.28.340:W004.27.440
+*Cawdor Castle:N057.31.240:W003.55.42
+*Culloden Viaduct:N057.28.400:W004.03.450
+*Dumaglass Windfarm:N0571432:W004.15.200
+*Kinloss (Dissued AD):N057.38.57:W003.33.42
+*Munlochy Bay Point:N057.32.31:W004.12.39
+*RoseMarkie Mast:N057.38.02:W004.04.22
