@@ -1,3 +1,5 @@
+X.Enhancement - Updated fixes for EGSS (Stansted) Air Network to make the circuit tighter - thanks to @Craigstewart4717 (Craig Stewart)
+
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
 2. Enhancement - Added UK Overseas Territory TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
