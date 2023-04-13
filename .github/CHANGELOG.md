@@ -1,5 +1,8 @@
 # Changes from release 2023/03 to 2023/04
-1. Bug - Corrected Biggin Hill (EGKB) STARs following WAD (removed BEDEK and added SIRIC) - thanks to @hazzas-99
+1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
+2. Bug - Added St Athan (EGSY) STARs - thanks to @danielbutton (Daniel Button)
+3. Bug - Fixed OCAS region coordinates abeam Boscombe Down (Cotswold CTA) - thanks to @hazzas-99
+4. Bug - Corrected Biggin Hill (EGKB) STARs following WAD (removed BEDEK and added SIRIC) - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
