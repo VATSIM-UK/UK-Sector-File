@@ -14,4 +14,4 @@
 *Penicuik:N055.49.55.000:W003.13.25.000
 *M9 Jct 2 (Philpstoun):N055.58.54.000:W003.30.43.000
 *M9 Jct 4 (Polmont):N055.59.20.000:W003.41.00.000
-*West Linton Golf Course:N055.45.10.000:W003.21.27.000
+*West Linton Golf Course:N055.45.09.000:W003.22.44.000
