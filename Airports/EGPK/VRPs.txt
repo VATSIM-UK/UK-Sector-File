@@ -4,7 +4,7 @@
 *B742 Jct (Dalrymple):N055.23.50.000:W004.35.33.000
 *Heads of Ayr:N055.25.58.000:W004.42.47.000
 *Irvine Harbour:N055.36.39.000:W004.41.55.000
-*Kilmarnock Railway Station:N055.36.45.000:W004.29.54.000
+*Kilmarnock Rail Stn:N055.36.45.000:W004.29.54.000
 *A76 Jct (Mauchline):N055.30.57.000:W004.22.45.000
 *Pladda:N055.25.35.000:W005.07.04.000
 *West Kilbride Beach:N055.41.08.000:W004.52.05.000
