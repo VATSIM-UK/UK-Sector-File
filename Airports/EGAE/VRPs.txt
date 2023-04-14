@@ -5,6 +5,6 @@
 *Dungiven:N054.55.42.000:W006.55.30.000
 *Letterkenny Cathedral:N054.57.54.000:W007.43.51.000
 *Lifford Bridge:N054.49.53.000:W007.28.47.000
-*Moville Quay:N055.11.24.000:W007.02.24.000
+*Moville Quay:N055.11.11.000:W007.02.31.000
 *New Buildings:N054.57.30.000:W007.21.30.000
 *Newton Cunningham:N054.59.54.000:W007.30.24.000
