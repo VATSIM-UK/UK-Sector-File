@@ -1,6 +1,6 @@
 *Buncrana Pier:N055.07.36.000:W007.27.51.000
 *Carrowkeel:N055.07.30.000:W007.11.42.000
-*Claudy Crossroads:N054.55.14.000:W007.09.12.000
+*Claudy Crossroads:N054.54.42.000:W007.09.12.000
 *Coleraine A37 Bridge:N055.07.54.000:W006.40.18.000
 *Dungiven:N054.55.42.000:W006.55.30.000
 *Letterkenny Cathedral:N054.57.02.000:W007.44.24.000
