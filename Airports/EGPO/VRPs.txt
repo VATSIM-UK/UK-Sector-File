@@ -1,4 +1,4 @@
-*Achmore Viliage:N058.10.02.000:W006.33.43.000
+*Achmore Village:N058.10.02.000:W006.33.43.000
 *Arnish Fabrication Yard:N058.11.19.000:W006.22.41.000
 *Butt Of Lewis Lighthouse:N058.30.56.000:W006.15.39.000
 *Scalpay Island:N057.51.57.000:W006.40.25.000
