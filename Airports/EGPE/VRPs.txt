@@ -9,4 +9,4 @@
 *Dunmaglass Windfarm:N057.14.32.000:W004.15.20.000
 *Kinloss (Dissued AD):N057.38.57.000:W003.33.42.000
 *Munlochy Bay Point:N057.32.31.000:W004.12.39.000
-*RoseMarkie Mast:N057.38.02.000:W004.04.22.000
+*Rosemarkie Mast:N057.38.02.000:W004.04.22.000
