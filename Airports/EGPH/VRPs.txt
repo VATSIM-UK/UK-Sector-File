@@ -13,5 +13,5 @@
 *Musselburgh Racecourse:N055.56.50.000:W003.02.25.000
 *Penicuik:N055.49.55.000:W003.13.25.000
 *M9 J2 (Philpstoun):N055.58.54.000:W003.30.43.000
-*M9 Jct 4 (Polmont):N055.59.20.000:W003.41.00.000
+*M9 J4 (Polmont):N055.59.20.000:W003.41.00.000
 *West Linton Golf Course:N055.45.09.000:W003.22.44.000
