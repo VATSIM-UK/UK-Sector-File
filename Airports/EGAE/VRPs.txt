@@ -1,4 +1,4 @@
-*Buncrana Pier:N055.08.00.000:W007.27.24.000
+*Buncrana Pier:N055.07.36.000:W007.27.51.000
 *Carrowkeel:N055.07.30.000:W007.11.42.000
 *Claudy Crossroads:N054.55.14.000:W007.09.12.000
 *Coleraine A37 Bridge:N055.07.54.000:W006.40.18.000
