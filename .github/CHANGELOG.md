@@ -4,6 +4,7 @@
 3. Bug - Fixed OCAS region coordinates abeam Boscombe Down (Cotswold CTA) - thanks to @hazzas-99
 4. Bug - Corrected Biggin Hill (EGKB) STARs following WAD (removed BEDEK and added SIRIC) - thanks to @hazzas-99
 5. Bug - Fixed Lakes/North Sea Alternative sector ownership for observing/mentoring - thanks to @hazzas-99
+6. Enhancement - Added Bristol (EGGD) Stand 18 and renamed stands 13-15 to 14-16 - thanks to @rishab-alt
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
