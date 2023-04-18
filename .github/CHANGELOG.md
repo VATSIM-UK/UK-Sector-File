@@ -6,6 +6,7 @@
 5. Bug - Fixed Lakes/North Sea Alternative sector ownership for observing/mentoring - thanks to @hazzas-99
 6. Bug - Fixed agreement display: TC NW -> Worthing EGSS/SC deps via AC West FL160 lvl CPT-11 - thanks to @hazzas-99
 7. Bug - Fixed TC SW -> S23 agreement for LL/KK/WU outbounds via DIDZA - thanks to @lennycolton (Lenny Colton)
+X. Procedure Change - Updated EGFF/SY/GD inbound agreements between AC Lakes/MPC and AC West - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
