@@ -4,6 +4,7 @@
 3. Bug - Fixed OCAS region coordinates abeam Boscombe Down (Cotswold CTA) - thanks to @hazzas-99
 4. Bug - Corrected Biggin Hill (EGKB) STARs following WAD (removed BEDEK and added SIRIC) - thanks to @hazzas-99
 5. Bug - Fixed Lakes/North Sea Alternative sector ownership for observing/mentoring - thanks to @hazzas-99
+6. Bug - Fixed agreement display: TC NW -> Worthing EGSS/SC deps via AC West FL160 lvl CPT-11 - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
