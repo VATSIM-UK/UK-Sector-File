@@ -13,6 +13,7 @@
 12. Enhancement - Updated fixes for EGSS (Stansted) Air Network to make the circuit tighter - thanks to @Craigstewart4717 (Craig Stewart)
 13. Bug - Fixed line display to SS+GW INT combined (ESSEX_APP) when London online - thanks to @hazzas-99
 14. AIRAC (2304) - Labelled grass taxiways at Oxford (EGTK) - thanks to @PLM1995 (Peter Mooney)
+15. Procedure Change - Updated EGFF/SY/GD inbound agreements between AC Lakes/MPC and AC West - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
