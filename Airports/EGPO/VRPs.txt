@@ -1,0 +1,9 @@
+*Achmore Village:N058.10.02.000:W006.33.43.000
+*Arnish Fabrication Yard:N058.11.19.000:W006.22.41.000
+*Butt Of Lewis L'house:N058.30.56.000:W006.15.39.000
+*Scalpay Island:N057.51.57.000:W006.40.25.000
+*Scarp Island:N058.01.27.000:W007.08.01.000
+*Shiant Isles:N057.53.34.000:W006.21.17.000
+*The Braighe:N058.12.22.000:W006.17.45.000
+*Tiumpan Head L'house:N058.15.39.000:W006.08.19.000
+*Tolsta Beach:N058.21.18.000:W006.12.00.000
