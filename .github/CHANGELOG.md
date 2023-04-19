@@ -80,7 +80,6 @@
 22. Procedure Change (2211) - Amended Reykjavik (BIRD) definition and COPX to ensure traffic via RATSU is xfer'ed to BIRD South - thanks to @hazzas-99
 
 # Changes from release 2022/12 to 2022/13
-
 1. Enhancement - Enhanced Newquay (EGHQ) SMR - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2213) - Updated Wick (WIK) VOR coordinates - thanks to @talalio (Talal)
 3. AIRAC (2213) - Removed Wycombe Air Park/Booker (EGTB) Runway 35 - thanks to @hazzas-99
@@ -1058,7 +1057,6 @@
 50. Procedure Change - Updated LF->TCSW and TCSW->LF Agreements - thanks to @AleksMax (Aleks Nieszczerzewski)
 
 # Changes from release 2020/05 to 2020/06
-
 1. Enhancement - Add EGMD Lydd VRPs - thanks to @trevorhannant (Trevor Hannant)
 2. Bug - Update EGMD Lydd Tower Frequency - thanks to @trevorhannant (Trevor Hannant)
 3. Bug - Re-order SKERY and OYSTA SIDs from EGJJ - thanks to @trevorhannant (Trevor Hannant)
