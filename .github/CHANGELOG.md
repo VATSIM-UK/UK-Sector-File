@@ -11,6 +11,7 @@
 10. Enhancement - Added pseudo Clacton ownership to ensure correct agreement display of EGKK/Essex inbounds via BULAM/KEGIT - thanks to @hazzas-99
 11. Bug - Fixed PC West (Wal) -> AC West (S5) MTMA outbound agreement display via NOKIN - thanks to @hazzas-99
 12. Enhancement - Updated fixes for EGSS (Stansted) Air Network to make the circuit tighter - thanks to @Craigstewart4717 (Craig Stewart)
+13. Bug - Fixed line display to SS+GW INT combined (ESSEX_APP) when London online - thanks to @hazzas-99
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
