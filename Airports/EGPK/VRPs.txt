@@ -9,4 +9,3 @@
 *Pladda:N055.25.35.000:W005.07.04.000
 *West Kilbride Beach:N055.41.08.000:W004.52.05.000
 *Milelnnium Footbridge:N055.26.25.000:W004.39.03.000
-
