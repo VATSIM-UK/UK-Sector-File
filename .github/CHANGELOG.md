@@ -14,6 +14,7 @@
 13. Bug - Fixed line display to SS+GW INT combined (ESSEX_APP) when London online - thanks to @hazzas-99
 14. AIRAC (2304) - Labelled grass taxiways at Oxford (EGTK) - thanks to @PLM1995 (Peter Mooney)
 15. Procedure Change - Updated EGFF/SY/GD inbound agreements between AC Lakes/MPC and AC West - thanks to @hazzas-99
+16. Bug - Fixesw to Blackpool (EGNH) VRP Names and Renamed M55 Jnct4 to M55 J4 - Thanks to @rishab-alt (Rishab Saddiq)
 
 # Changes from release 2023/01 to 2023/03
 1. Bug - Corrected UK TACAN frequencies and coordinates as defined in UK MIL AIP - thanks to @chssn (Chris Parkinson)
