@@ -1,3 +1,6 @@
+# Changes from release 2023/04 to 2023/05
+X. Enhancement - Removed procedures and fixes more than 2 years out of date - thanks to @hazzas-99
+
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
 2. Bug - Added St Athan (EGSY) STARs - thanks to @danielbutton (Daniel Button)
