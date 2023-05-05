@@ -1,5 +1,5 @@
 # Changes from release 2023/04 to 2023/05
-X. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
+1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
