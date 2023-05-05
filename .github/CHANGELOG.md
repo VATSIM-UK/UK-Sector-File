@@ -1,5 +1,6 @@
 # Changes from release 2023/04 to 2023/05
-1. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
+1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
+2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
