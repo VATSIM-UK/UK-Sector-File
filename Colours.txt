@@ -6,6 +6,7 @@
 #define centrelinecolour 15790135
 #define col_gate 3953980
 #define coast 32896
+; @preserveComment Alternative colours for the above line, change to your preference. STC/PC (Grey) 5324604 Blue 9076039
 #define Edge 6589540
 #define Filled 6316128
 #define fire 2894694
