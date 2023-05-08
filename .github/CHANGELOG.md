@@ -3,6 +3,7 @@
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
 3. Enhancement - Corrected Manchester (EGCC) Zulu lines to colours Orange and Blue - thanks to @rishab-alt (Rishab Saddiq)
 4. Enhancement - Added coastline colour options - thanks to @SamLefevre (Samuel Lefevre)
+5. Bug - Fixed Blackpool (EGNH) VRP Names e.g. Renamed M55 Jnct4 to M55 J4 - Thanks to @rishab-alt (Rishab Saddiq)
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
