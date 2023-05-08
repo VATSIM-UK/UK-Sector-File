@@ -2,6 +2,7 @@
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
 3. Enhancement - Corrected Manchester (EGCC) Zulu lines to colours Orange and Blue - thanks to @rishab-alt (Rishab Saddiq)
+4. AIRAC (2305) - Added depiction of Manchester (EGCC) T2 Construction Area and stand update - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
