@@ -10,6 +10,7 @@
 9. AIRAC (2305) - Updated Wolverhampton (EGBO) SMR & Runways - thanks to @rishab-alt
 10. AIRAC (2305) - Added depiction of Manchester (EGCC) T2 Construction Area and stand update - thanks to @PLM1995 (Peter Mooney)
 11. AIRAC (2305) - Added New Luton (EGGW) Delta Apron and stands - thanks to @rishab-alt
+12. Bug - Added TCNW_TCSW missing agreement - thanks to @rishab-alt
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
