@@ -7,6 +7,7 @@
 6. AIRAC (2305) - Updated Jersey (EGJJ) SMR holding point A3 and A4 positions - thanks to @rishab-alt
 7. Enhancement - Removed procedures and fixes more than 2 years out of date - thanks to @hazzas-99
 8. AIRAC (2305) - Renumbered Sumburgh (EGPB) Stand 19 to stand 2 - thanks to @rishab-alt
+9. AIRAC (2305) - Updated Wolverhampton (EGBO) SMR & Runways - thanks to @rishab-alt
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
