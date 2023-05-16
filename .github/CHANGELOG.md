@@ -11,6 +11,7 @@
 10. AIRAC (2305) - Added depiction of Manchester (EGCC) T2 Construction Area and stand update - thanks to @PLM1995 (Peter Mooney)
 11. AIRAC (2305) - Added New Luton (EGGW) Delta Apron and stands - thanks to @rishab-alt
 12. AIRAC (2305) - Updated Dunkeswell (EGTU) Threshold Coordinates - thanks to @rishab-alt
+13. Bug - Added TCNW -> TCSW LF/Wessex Inbound Agreement via DIGUT - thanks to @rishab-alt
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
