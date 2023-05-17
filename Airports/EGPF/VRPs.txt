@@ -10,4 +10,4 @@
 *Inverkip Power Stn:N055.53.54.000:W004.53.12.000
 *Kilmacolm:N055.53.40.000:W004.37.39.000
 *Kingston Bridge:N055.51.22.000:W004.16.11.000
-*Kilmarnock:N055.36.45.000:W004.29.54.000
+*Kilmarnock Rail Stn:N055.36.45.000:W004.29.54.000
