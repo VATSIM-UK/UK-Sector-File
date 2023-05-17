@@ -3,7 +3,7 @@
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
 3. Enhancement - Corrected Manchester (EGCC) Zulu lines to colours Orange and Blue - thanks to @rishab-alt (Rishab Saddiq)
 4. Enhancement - Added coastline colour options - thanks to @SamLefevre (Samuel Lefevre)
-5. Bug - Fixed Blackpool (EGNH) VRP Names e.g. Renamed M55 Jnct4 to M55 J4 - Thanks to @rishab-alt (Rishab Saddiq)
+5. Bug - Fixed Blackpool (EGNH) VRP Names e.g. Renamed M55 Jnct4 to M55 J4 - thanks to @rishab-alt (Rishab Saddiq)
 6. AIRAC (2305) - Updated Jersey (EGJJ) SMR holding point A3 and A4 positions - thanks to @rishab-alt
 7. Enhancement - Removed procedures and fixes more than 2 years out of date - thanks to @hazzas-99
 8. AIRAC (2305) - Renumbered Sumburgh (EGPB) Stand 19 to stand 2 - thanks to @rishab-alt
@@ -12,6 +12,7 @@
 11. AIRAC (2305) - Added New Luton (EGGW) Delta Apron and stands - thanks to @rishab-alt
 12. AIRAC (2305) - Updated Dunkeswell (EGTU) Threshold Coordinates - thanks to @rishab-alt
 13. Bug - Added TCNW -> TCSW LF/Wessex Inbound Agreement via DIGUT - thanks to @rishab-alt
+14. AIRAC (2305) - Added Chalgrove (EGLJ) Runway 12/30 definition - thanks to @rishab-alt
 
 # Changes from release 2023/03 to 2023/04
 1. Enhancement - Added Oxford (EGTK) RWY 19 extended centreline - thanks to @hazzas-99
