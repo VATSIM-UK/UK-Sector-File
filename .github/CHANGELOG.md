@@ -1,3 +1,6 @@
+# Changes from release 2023/05 to 2023/06
+X. Bug - Fixed online ring display for ESSEX_APP (now shows 1x ring rather than 3x) - thanks to @hazzas-99
+
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
