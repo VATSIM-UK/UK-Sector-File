@@ -24,7 +24,7 @@ DISPLAY:London TC SE:London TC SE:Only LCAPP
 DISPLAY:London TC JACKO:London TC JACKO:Only LCAPP
 DISPLAY:London TC SABER:London TC SABER:Only LCAPP
 
-CIRCLE_SECTORLINE:Only Thames:EGLC:6
+CIRCLE_SECTORLINE:Only Thames:EGLC:5
 DISPLAY:London TC NW:London TC NW:Only Thames
 DISPLAY:London TC NE:London TC NE:Only Thames
 DISPLAY:London TC LAM:London TC LAM:Only Thames
