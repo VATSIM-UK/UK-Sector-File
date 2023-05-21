@@ -1,3 +1,6 @@
+# Changes from release 2023/05 to 2023/06
+x. AIRAC (2305) - Updated Various MIL RWY Headings - thanks to @DuanBoomer (Chirag)
+
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
@@ -2214,4 +2217,3 @@
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hazzas-99
-36. AIRAC - Updated Various MIL RWY Headings - thanks to @DuanBoomer(Chirag)
