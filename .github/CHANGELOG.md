@@ -1,3 +1,6 @@
+# Changes from release 2023/05 to 2023/06
+1. Enhancement - Update Glasgow (EGPF) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
+
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
