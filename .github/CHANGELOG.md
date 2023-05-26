@@ -3,6 +3,7 @@
 2. Bug - Fixed online ring display for ESSEX_APP (now shows 1x ring rather than 3x) - thanks to @hazzas-99
 3. AIRAC (2306) - Updated Humberside (EGNJ) Runway Headings - thanks to @AmanT0mar (Aman Tomar)
 4. AIRAC (2305) - Updated Various MIL RWY Headings - thanks to @DuanBoomer (Chirag)
+5. AIRAC (2306) - Added primary radar hole for Neart na Gaoithe TMZ - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
