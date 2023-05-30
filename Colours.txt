@@ -19,6 +19,7 @@
 #define motorway 2631720
 #define OCASregion 0
 #define OCASregionGrey 3749687
+#define PFFAVA 11842560
 #define PHFAVA 13158600
 #define rangering 4227200
 #define river 4915200
