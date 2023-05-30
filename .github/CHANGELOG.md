@@ -6,7 +6,7 @@
 5. Enhancement - Changed default coastline colour - thanks to @SamLefevre (Samuel Lefevre)
 6. Enhancement - Updated Edinburgh (EGPH) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
 7. Enhancement - Updated Glasgow (EGPF) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
-
+8. AIRAC (2306) - Updated Islay (EGPI) Runway 26 Threshold Co-ordinates - thanks to @rishab-alt (Rishab Saddiq(Rish))
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
 2. Bug - Swapped Stansted (EGSS) stands 64R and 64L around to correct positions - thanks to @rishab-alt
