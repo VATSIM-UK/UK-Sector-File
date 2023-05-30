@@ -4,6 +4,7 @@
 3. AIRAC (2306) - Updated Humberside (EGNJ) Runway Headings - thanks to @AmanT0mar (Aman Tomar)
 4. AIRAC (2305) - Updated Various MIL RWY Headings - thanks to @DuanBoomer (Chirag)
 5. Enhancement - Changed default coastline colour - thanks to @SamLefevre (Samuel Lefevre)
+6. Enhancement - Updated Edinburgh (EGPH) FAVA Colour - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
