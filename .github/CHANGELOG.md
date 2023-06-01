@@ -6,6 +6,7 @@
 5. Enhancement - Changed default coastline colour - thanks to @SamLefevre (Samuel Lefevre)
 6. Enhancement - Updated Edinburgh (EGPH) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
 7. Enhancement - Updated Glasgow (EGPF) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
+8. AIRAC (2306) - Added EG D148 KEEVIL - thanks to @rishab-alt (Rish Saddiq)
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
