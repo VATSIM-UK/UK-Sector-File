@@ -6,7 +6,11 @@
 5. Enhancement - Changed default coastline colour - thanks to @SamLefevre (Samuel Lefevre)
 6. Enhancement - Updated Edinburgh (EGPH) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
 7. Enhancement - Updated Glasgow (EGPF) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
-8. AIRAC (2306) - Updated Lerwick/Tingwall (EGET) Runway Headings - thanks to @rishab-alt (Rishab Saddiq(Rish))
+8. AIRAC (2306) - Added EG D148 KEEVIL - thanks to @rishab-alt (Rish Saddiq)
+9. Enhancement - Added Liverpool RMA - thanks to @SamLefevre (Samuel Lefevre)
+10. AIRAC (2306) - Added Sherburn-In-Elmet (EGCJ) RNP Fixes - thanks to @rishab-alt (Rish Saddiq)
+11. AIRAC (2306) - Updated Islay (EGPI) Runway 26 Threshold Co-ordinates - thanks to @rishab-alt (Rish Saddiq)
+12. AIRAC (2306) - Updated Lerwick/Tingwall (EGET) Runway Headings - thanks to @rishab-alt (Rish Saddiq)
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
