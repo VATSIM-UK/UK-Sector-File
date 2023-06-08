@@ -12,6 +12,7 @@
 11. AIRAC (2306) - Updated Islay (EGPI) Runway 26 Threshold Co-ordinates - thanks to @rishab-alt (Rish Saddiq)
 12. AIRAC (2306) - Updated Lerwick/Tingwall (EGET) Runway Headings - thanks to @rishab-alt (Rish Saddiq)
 13. Bug - Corrected Manchester (EGCC) Stand 12 Positon - thanks to @rishab-alt (Rish Saddiq)
+14. Bug - Moved EGAC APP ownership to the EGAA file to ensure correct ordering and functionality - thanks to @hazzas-99
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
