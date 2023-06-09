@@ -13,7 +13,9 @@
 12. AIRAC (2306) - Updated Lerwick/Tingwall (EGET) Runway Headings - thanks to @rishab-alt (Rish Saddiq)
 13. Bug - Corrected Manchester (EGCC) Stand 12 Positon - thanks to @rishab-alt (Rish Saddiq)
 14. AIRAC (2306) - Added primary radar hole for Neart na Gaoithe TMZ - thanks to @PLM1995 (Peter Mooney)
-15. Bug - Moved EGAC APP ownership to the EGAA file to ensure correct ordering and functionality - thanks to @hazzas-99
+15. AIRAC (2306) - Updated Walney (EGNL) SMR Hold names - thanks to @PLM1995 (Peter Mooney)
+16. Procedure Change (2306) - Amended EICK arrivals COP to BANBA - thanks to @hazzas-99
+17. Bug - Moved EGAC APP ownership to the EGAA file to ensure correct ordering and functionality - thanks to @hazzas-99
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
