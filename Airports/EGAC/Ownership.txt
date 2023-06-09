@@ -16,3 +16,5 @@ ALTOWNER:Mentoring TWR/APP:ACTM:ACT:ACAM:ACF:ACRM:ACR:AARM:AAR:STA:SL:SRE:SR:SW:
 BORDER:ACTWR
 DEPAPT:EGAC
 ARRAPT:EGAC
+
+;ACAPP sector ownership included in Airports/EGAA/Ownership.txt for correct ordering in the ESE
