@@ -45,19 +45,10 @@ jobs:
           name: UK Sector File
           path: ".bin/UK.*"
 
-      - name: Trigger Repository Dispatch
-        uses: actions/github-script@v5
+      - name: Trigger Workflow in UK Controller Pack
+        uses: peter-evans/repository-dispatch@v1
         with:
-          github-token: ${{ secrets.WEBHOOK_TOKEN }}
-          script: |
-            const event = {
-              event_type: 'released'
-            };
-
-            const response = await github.repos.createDispatchEvent({
-              owner: 'VATSIM-UK',
-              repo: 'uk-controller-pack',
-              event_type: event.event_type,
-            });
-            
-            console.log(`Repository Dispatch event triggered with status ${response.status}`);
+          token: ${{ secrets.UK_CONTROLLER_PACK_ACCESS_TOKEN }}
+          repository: VATSIM-UK/uk-controller-pack
+          event-type: process-artifact
+          client-payload: '{"artifact_name": "UK Sector File"}'
