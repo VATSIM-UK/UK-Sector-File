@@ -49,6 +49,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.UK_CONTROLLER_PACK_ACCESS_TOKEN }}
-          repository: VATSIM-UK/uk-controller-pack
+          repository: chssn/uk-controller-pack
           event-type: process-artifact
           client-payload: '{"artifact_name": "UK Sector File"}'
