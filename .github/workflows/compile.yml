@@ -46,9 +46,9 @@ jobs:
           path: ".bin/UK.*"
 
       - name: Trigger Workflow in UK Controller Pack
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.UK_CONTROLLER_PACK_ACCESS_TOKEN }}
           repository: chssn/uk-controller-pack
-          event-type: process-artifact
-          client-payload: '{"artifact_name": "UK Sector File"}'
+          event-type: auto_airac_actions
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
