@@ -1,4 +1,29 @@
-x. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
+# Changes from release 2023/06 to 2023/07
+1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
+2. AIRAC (2307) - Updated Compton Abbas (EGHA) ARP - thanks to @stu612 (Stuart Duncan)
+3. AIRAC (2307) - Updated NDB LBA Coordinates - thanks to @TechieHelper (Alice Ford)
+4. Enhancement - Added Cambridge (EGSC) SMAA Altitudes - thanks to @SamLefevre (Samuel Lefevre)
+5. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
+
+# Changes from release 2023/05 to 2023/06
+1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
+2. Bug - Fixed online ring display for ESSEX_APP (now shows 1x ring rather than 3x) - thanks to @hazzas-99
+3. AIRAC (2306) - Updated Humberside (EGNJ) Runway Headings - thanks to @AmanT0mar (Aman Tomar)
+4. AIRAC (2305) - Updated Various MIL RWY Headings - thanks to @DuanBoomer (Chirag)
+5. Enhancement - Changed default coastline colour - thanks to @SamLefevre (Samuel Lefevre)
+6. Enhancement - Updated Edinburgh (EGPH) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
+7. Enhancement - Updated Glasgow (EGPF) FAVA colour - thanks to @SamLefevre (Samuel Lefevre)
+8. AIRAC (2306) - Added EG D148 KEEVIL - thanks to @rishab-alt (Rish Saddiq)
+9. Enhancement - Added Liverpool RMA - thanks to @SamLefevre (Samuel Lefevre)
+10. AIRAC (2306) - Added Sherburn-In-Elmet (EGCJ) RNP Fixes - thanks to @rishab-alt (Rish Saddiq)
+11. AIRAC (2306) - Updated Islay (EGPI) Runway 26 Threshold Co-ordinates - thanks to @rishab-alt (Rish Saddiq)
+12. AIRAC (2306) - Updated Lerwick/Tingwall (EGET) Runway Headings - thanks to @rishab-alt (Rish Saddiq)
+13. Bug - Corrected Manchester (EGCC) Stand 12 Positon - thanks to @rishab-alt (Rish Saddiq)
+14. AIRAC (2306) - Added primary radar hole for Neart na Gaoithe TMZ - thanks to @PLM1995 (Peter Mooney)
+15. AIRAC (2306) - Updated Walney (EGNL) SMR Hold names - thanks to @PLM1995 (Peter Mooney)
+16. Procedure Change (2306) - Amended EICK arrivals COP to BANBA - thanks to @hazzas-99
+17. Bug - Moved EGAC APP ownership to the EGAA file to ensure correct ordering and functionality - thanks to @hazzas-99
+18. Procedure Change (2306) - Changes associated with revised VATeir LoA - thanks to @hazzas-99
 
 # Changes from release 2023/04 to 2023/05
 1. Enhancement - Added TDA D597 - thanks to @robbo599 (Lee Roberts)
