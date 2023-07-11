@@ -3,6 +3,7 @@
 2. AIRAC (2307) - Updated Compton Abbas (EGHA) ARP - thanks to @stu612 (Stuart Duncan)
 3. AIRAC (2307) - Updated NDB LBA Coordinates - thanks to @TechieHelper (Alice Ford)
 4. Enhancement - Added Cambridge (EGSC) SMAA Altitudes - thanks to @SamLefevre (Samuel Lefevre)
+5. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
