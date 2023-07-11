@@ -1,3 +1,5 @@
+x. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
+
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
 2. Bug - Fixed online ring display for ESSEX_APP (now shows 1x ring rather than 3x) - thanks to @hazzas-99
