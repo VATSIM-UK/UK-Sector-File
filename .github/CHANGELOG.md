@@ -9,6 +9,7 @@
 8. Bug - Updated Belfast Aldergrove (EGAA) Stands - thanks to @PLM1995 (Peter Mooney)
 9. AIRAC (2307) - Added Guernsey (EGJB) stands 2A and 3A and hold point F line to SMR - thanks to @PLM1995 (Peter Mooney)
 10. AIRAC (2307) - Updated Prestwick (EGPK) SMAA - thanks to @PLM1995 (Peter Mooney)
+11. AIRAC (2307) - Removed Gatwick (EGKK) stand 551 - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
