@@ -6,6 +6,7 @@
 5. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
 6. AIRAC (2307) - Updated London City (EGLC) Runway Data - thanks to @TechieHelper (Alice Ford)
 7. AIRAC (2307) - Updated Fairford (EGVA) SID Designators - thanks to @rishab-alt
+8. Bug - Updated Belfast Aldergrove (EGAA) Stands - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
