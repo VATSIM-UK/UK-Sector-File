@@ -27,3 +27,6 @@
 "West Aprons" N051.16.39.510 W000.47.06.380 smrWhite
 "East Apron" N051.16.59.520 W000.45.44.150 smrWhite
 "South Aprons" N051.16.21.050 W000.46.29.600 smrWhite
+"T" N051.16.58.610 W000.46.34.623 smrWhite
+"TG" N051.16.57.982 W000.46.30.383 smrWhite
+"B" N051.16.56.190 W000.46.26.293 smrWhite
