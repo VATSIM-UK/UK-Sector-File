@@ -1,4 +1,4 @@
-# Changes from release 2023/05 to 2023/06
+# Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Updated Prestwick (EGPK) SMAA - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/05 to 2023/06
