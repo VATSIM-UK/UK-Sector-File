@@ -1,5 +1,12 @@
 # Changes from release 2023/06 to 2023/07
-1. Bug - Updated Belfast Aldergrove (EGAA) Stands - thanks to @PLM1995 (Peter Mooney)
+1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
+2. AIRAC (2307) - Updated Compton Abbas (EGHA) ARP - thanks to @stu612 (Stuart Duncan)
+3. AIRAC (2307) - Updated NDB LBA Coordinates - thanks to @TechieHelper (Alice Ford)
+4. Enhancement - Added Cambridge (EGSC) SMAA Altitudes - thanks to @SamLefevre (Samuel Lefevre)
+5. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
+6. AIRAC (2307) - Updated London City (EGLC) Runway Data - thanks to @TechieHelper (Alice Ford)
+7. AIRAC (2307) - Updated Fairford (EGVA) SID Designators - thanks to @rishab-alt
+8. Bug - Updated Belfast Aldergrove (EGAA) Stands - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
