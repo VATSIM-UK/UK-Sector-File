@@ -1,5 +1,5 @@
 # Changes from release 2023/06 to 2023/07
-1. AIRAC (2307), Enhancement - Update Manchester (EGCC) Q1 position, added Q2 
+1. AIRAC (2307) - Updated Manchester (EGCC) hold Q1 position and added hold Q2
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
