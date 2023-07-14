@@ -1,3 +1,6 @@
+# Changes from release 2023/07 to 2023/08
+1. Enhancement - Add EGNC (Carlisle) Taxiway Lines - thanks to @TechieHelper (Alice Ford)
+
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
 2. AIRAC (2307) - Updated Compton Abbas (EGHA) ARP - thanks to @stu612 (Stuart Duncan)
