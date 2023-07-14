@@ -1,5 +1,5 @@
 # Changes from release 2023/07 to 2023/08
-1. Enhancement - Improved Southend (EGMC) SMR Display - Thanks to @TechieHelper (Alice Ford)
+1. Enhancement - Added Tug Point to Southend (EGMC) SMR - Thanks to @TechieHelper (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
