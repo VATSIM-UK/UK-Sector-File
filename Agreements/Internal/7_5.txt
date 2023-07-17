@@ -4,8 +4,5 @@ COPX:*:*:MONTY:EGGD:*:London S7:London S5:*:29000:|MONTY
 COPX:*:*:KARNO:EGFF:*:London S7:London S5:*:29000:|KARNO
 COPX:*:*:MONTY:EGFF:*:London S7:London S5:*:29000:|MONTY
 
-COPX:*:*:KARNO:EGTE:*:London S7:London S5:*:29000:|KARNO
-COPX:*:*:MONTY:EGTE:*:London S7:London S5:*:29000:|MONTY
-
 COPX:*:*:KARNO:EGSY:*:London S7:London S5:*:29000:|KARNO
 COPX:*:*:MONTY:EGSY:*:London S7:London S5:*:29000:|MONTY
