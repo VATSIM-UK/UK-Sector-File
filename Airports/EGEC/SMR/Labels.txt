@@ -5,3 +5,6 @@
 
 ;Apron
 "Apron" N055.26.10.610 W005.39.47.440 standHold
+
+;Helipad
+"H" N055.26.11.790 W005.39.47.750 standHold
