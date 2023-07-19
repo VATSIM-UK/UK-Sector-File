@@ -1,5 +1,5 @@
 # Changes from release 2023/07 to 2023/08
-1. Enhancement - Remove unused Ground Map data - thanks to @PLM1995 (Peter Mooney)
+1. Enhancement - Removed unused Ground Map data - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
