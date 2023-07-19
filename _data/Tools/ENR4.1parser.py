@@ -41,7 +41,7 @@ with open("output.txt", "w") as f:
         try:
             float(freq)
         except ValueError:
-            if identifier == "LON":  # LON is weird
+            if identifier == "LON":  # LON's freq is not defined in eAIP
                 freq = "113.600"
             else:
                 freq = list(list(list(row.children)[2].children)[3].children)[1].string
