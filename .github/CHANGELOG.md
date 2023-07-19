@@ -1,5 +1,5 @@
 # Changes from release 2023/06 to 2023/07
-1. AIRAC (2307) - Add London city (EGLC) Stand 10L - thanks to @rishab-alt
+1. AIRAC (2307) - Add London City (EGLC) Stand 10L - thanks to @rishab-alt
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
