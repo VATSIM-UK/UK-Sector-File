@@ -40,7 +40,7 @@ class Airac:
         numberOfDays = (numberOfCycles + 1) * self.cycleDays + 1
         return self.baseDate + datetime.timedelta(days=numberOfDays)
 
-    def url(self, next:bool=False):
+    def url(self, next:bool=True):
         # Return a generated URL based on the AIRAC cycle start date
         baseUrl = "https://www.aurora.nats.co.uk/htmlAIP/Publications/"
         if next:
