@@ -39,13 +39,13 @@ class TestAirac(unittest.TestCase):
     def test_url(self):
         # next_cycle = False
         self.airac.initialise("2020-01-02")
-        self.assertEqual(self.airac.url(), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2020-01-02-AIRAC/html/eAIP/") # 0 date
+        self.assertEqual(self.airac.url(next_cycle=False), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2020-01-02-AIRAC/html/eAIP/") # 0 date
         self.airac.initialise("2021-05-16")
-        self.assertEqual(self.airac.url(), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2021-04-22-AIRAC/html/eAIP/") # random date
+        self.assertEqual(self.airac.url(next_cycle=False), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2021-04-22-AIRAC/html/eAIP/") # random date
         self.airac.initialise("2023-12-27")
-        self.assertEqual(self.airac.url(), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-11-30-AIRAC/html/eAIP/") # edge case
+        self.assertEqual(self.airac.url(next_cycle=False), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-11-30-AIRAC/html/eAIP/") # edge case
         self.airac.initialise("2023-12-28")
-        self.assertEqual(self.airac.url(), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-12-28-AIRAC/html/eAIP/") # edge case
+        self.assertEqual(self.airac.url(next_cycle=False), "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-12-28-AIRAC/html/eAIP/") # edge case
 
         # next_cycle = True
         self.airac.initialise("2020-01-02")
