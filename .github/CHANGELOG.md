@@ -1,5 +1,5 @@
 # Changes from release 2023/07 to 2023/8
-X. AIRAC (2308) - Add Agreement for EGSH and EGNJ inbounds via RAVLO - Thanks to @kye-taylor (Kye Taylor)
+X. AIRAC (2308) - Added Agreement for EGSH and EGNJ inbounds via RAVLO - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
