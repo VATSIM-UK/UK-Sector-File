@@ -1,5 +1,5 @@
 # Changes from release 2023/07 to 2023/08
-x. Enhancement - Add Exeter (EGTE) ATZ - thanks to @danielbutton (Daniel Button)
+x. Enhancement - Added Exeter (EGTE) ATZ - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
