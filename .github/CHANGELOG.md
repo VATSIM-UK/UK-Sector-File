@@ -1,5 +1,9 @@
 # Changes from release 2023/07 to 2023/08
-1. Enhancement - Added Belfast City (EGAC) Stands 21 and 24 - thanks to @TechieHelper (Alice Ford)
+1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
+2. Bug - Renamed Cardiff (EGFF) Holding Point C - thanks to @TechieHelper (Alice Ford)
+3. Enhancement - Added Exeter (EGTE) ATZ - thanks to @danielbutton (Daniel Button)
+4. Bug - Removed Leeds Bradford (EGNM) Holding Point M1 - thanks to @TechieHelper (Alice Ford)
+5. Enhancement - Added Belfast City (EGAC) Stands 21 and 24 - thanks to @TechieHelper (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
