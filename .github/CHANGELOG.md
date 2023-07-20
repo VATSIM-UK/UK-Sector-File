@@ -1,5 +1,24 @@
+# Changes from release 2023/07 to 2023/08
+1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
+2. Bug - Renamed Cardiff (EGFF) Holding Point C - thanks to @TechieHelper (Alice Ford)
+3. Enhancement - Added Exeter (EGTE) ATZ - thanks to @danielbutton (Daniel Button)
+4. Bug - Removed Leeds Bradford (EGNM) Holding Point M1 - thanks to @TechieHelper (Alice Ford)
+5. Enhancement - Added Belfast City (EGAC) Stands 21 and 24 - thanks to @TechieHelper (Alice Ford)
+6. AIRAC (2307) - Added London City (EGLC) Stand 10L - thanks to @rishab-alt
+
 # Changes from release 2023/06 to 2023/07
-1. AIRAC (2307) - Add London City (EGLC) Stand 10L - thanks to @rishab-alt
+1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
+2. AIRAC (2307) - Updated Compton Abbas (EGHA) ARP - thanks to @stu612 (Stuart Duncan)
+3. AIRAC (2307) - Updated NDB LBA Coordinates - thanks to @TechieHelper (Alice Ford)
+4. Enhancement - Added Cambridge (EGSC) SMAA Altitudes - thanks to @SamLefevre (Samuel Lefevre)
+5. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
+6. AIRAC (2307) - Updated London City (EGLC) Runway Data - thanks to @TechieHelper (Alice Ford)
+7. AIRAC (2307) - Updated Fairford (EGVA) SID Designators - thanks to @rishab-alt
+8. Bug - Updated Belfast Aldergrove (EGAA) Stands - thanks to @PLM1995 (Peter Mooney)
+9. AIRAC (2307) - Added Guernsey (EGJB) stands 2A and 3A and hold point F line to SMR - thanks to @PLM1995 (Peter Mooney)
+10. AIRAC (2307) - Updated Prestwick (EGPK) SMAA - thanks to @PLM1995 (Peter Mooney)
+11. AIRAC (2307) - Removed Gatwick (EGKK) stand 551 - thanks to @PLM1995 (Peter Mooney)
+12. AIRAC (2307) - Updated Manchester (EGCC) hold Q1 position and added hold Q2
 
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
