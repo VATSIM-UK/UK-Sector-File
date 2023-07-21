@@ -44,3 +44,6 @@
 
 ;Apron Names
 "South Apron" N051.34.07.070 E000.41.47.020 smrWhite
+
+;Tug Release Points
+"TP-D" N051.34.16.930 E000.41.16.280 smrTugPoint
