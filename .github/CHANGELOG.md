@@ -7,6 +7,7 @@
 6. AIRAC (2307) - Added London City (EGLC) Stand 10L - thanks to @rishab-alt
 7. AIRAC (2308) - Added Agreement for EGSH and EGNJ inbounds via RAVLO - thanks to @kye-taylor (Kye Taylor)
 8. Enhancement - Added Campbeltown (EGEC) SMR - thanks to @TechieHelper (Alice Ford)
+9. Enhancement - Added Kemble (EGBP) Stands 1-4 - thanks to @TechieHelper (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
