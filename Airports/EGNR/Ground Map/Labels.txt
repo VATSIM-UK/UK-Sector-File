@@ -1,8 +1,0 @@
-;Holding Points
-"A" N053.10.40.548 W002.58.50.448 standHold
-"B" N053.10.36.120 W002.58.38.532 standHold
-"C" N053.11.04.596 W002.57.59.724 standHold
-"D" N053.10.34.644 W002.59.00.240 standHold
-"F" N053.10.44.857 W002.58.24.874 standHold
-"G" N053.10.49.944 W002.58.34.032 standHold
-"N" N053.11.07.152 W002.58.09.408 standHold
