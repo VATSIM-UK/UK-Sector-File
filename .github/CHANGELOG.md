@@ -10,6 +10,7 @@
 9. Enhancement - Added Kemble (EGBP) Stands 1-4 - thanks to @TechieHelper (Alice Ford)
 10. Bug - Renamed Birmingham (EGBB) Holding Point J1 - thanks to @TechieHelper (Alice Ford)
 11. Enhancement - Removed unused Ground Map data - thanks to @PLM1995 (Peter Mooney)
+12. Enhancement - Improved Redhill (EGKR) SMR Display - thanks to @TechieHelper (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
