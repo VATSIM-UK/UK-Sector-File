@@ -1,5 +1,5 @@
 # Changes from release 2023/07 to 2023/08
-1. Bug - Fix lots of runway definitions - thanks to @TechieHelper (Alice Ford)
+1. Bug - Fixed lots of runway definitions and removed unnecessary ones - thanks to @TechieHelper (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
