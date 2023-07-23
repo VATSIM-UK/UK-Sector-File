@@ -1,3 +1,4 @@
+;Helipads
 "H" N050.56.19.469 W002.39.52.593 standHold
 "H" N050.56.18.892 W002.39.46.083 standHold
 "H" N050.56.19.798 W002.39.35.118 standHold

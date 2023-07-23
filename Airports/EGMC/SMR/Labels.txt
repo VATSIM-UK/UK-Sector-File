@@ -1,4 +1,4 @@
-;Holds
+;Holding Points
 "A1" N051.34.27.978 E000.42.17.936 standHold
 "A2" N051.34.24.554 E000.42.12.745 standHold
 "A3" N051.34.19.657 E000.42.09.357 standHold
