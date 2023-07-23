@@ -17,6 +17,7 @@
 16. Enhancement - Added White Waltham (EGLM) SMR - thanks to @TechieHelper (Alice Ford)
 17. AIRAC (2308) - Removed Bristol (EGGD) Z3 and Z4 Holds - thanks to @rishab-alt
 18. AIRAC (2308) - Updated Bournemouth (BIA) NDB Coordinate - thanks to @rishab-alt
+19. Bug - Fixed lots of runway definitions and removed unnecessary ones - thanks to @TechieHelper (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
