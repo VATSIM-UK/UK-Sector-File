@@ -10,8 +10,10 @@ class TestUtil(unittest.TestCase):
         self.assertEqual(util.capitalise("hElLo"), "Hello")  # random, 1 word
 
     def test_ukCoordsToSectorFile(self):
-        self.assertEqual(util.ukCoordsToSectorFile("ABCDEF.GHN", "ABCDEFG.HIW"), ("N0AB.CD.EF.GH0", "WABC.DE.FG.HI0"))  # abstract
+        with self.assertRaises(ValueError):
+            util.ukCoordsToSectorFile("ABCDEF.GHN", "ABCDEFG.HIW")
         self.assertEqual(util.ukCoordsToSectorFile("503011.88N", "0032833.64W"), ("N050.30.11.880", "W003.28.33.640"))  # random
+        self.assertEqual(util.ukCoordsToSectorFile("503011N", "0032833W"), ("N050.30.11.000", "W003.28.33.000"))  # no decimal
 
 
 if __name__ == '__main__':

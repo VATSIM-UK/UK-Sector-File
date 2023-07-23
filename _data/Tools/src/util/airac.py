@@ -24,7 +24,7 @@ class Airac:
 
         self.cycles = -1
 
-    def initialise(self, date_in="") -> int:
+    def initialise(self, date_in=0) -> int:
         """Calculate the number of AIRAC cycles between any given date and the start date"""
 
         if date_in:
