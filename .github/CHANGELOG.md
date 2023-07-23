@@ -15,6 +15,7 @@
 14. AIRAC (2308) - Removed Haverfordwest (HAV) NDB - thanks to @rishab-alt
 15. Bug - Fixed incorrect Non-UK FIX coordinates (Netherlands) - thanks to @TechieHelper (Alice Ford)
 16. Enhancement - Added White Waltham (EGLM) SMR - thanks to @TechieHelper (Alice Ford)
+17. AIRAC (2308) - Removed Bristol (EGGD) Z3 and Z4 Holds - thanks to @rishab-alt
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
