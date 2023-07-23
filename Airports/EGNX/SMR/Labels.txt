@@ -1,4 +1,4 @@
-;Labels
+;Holding Points
 "A1" N052.49.49.882 W001.18.26.705 standHold
 "A2" N052.49.47.879 W001.18.30.171 standHold
 "A3" N052.49.47.479 W001.18.53.648 standHold
