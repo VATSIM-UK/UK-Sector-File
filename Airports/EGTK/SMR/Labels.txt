@@ -20,7 +20,7 @@
 "19" N051.49.58.670 W001.19.01.530 standHold
 "20" N051.49.58.600 W001.19.02.940 standHold
 "25" N051.50.03.510 W001.18.59.740 standHold
-;Hold Labels
+;Holding Points
 "A1" N051.49.48.269 W001.19.13.651 standHold
 "A2" N051.49.49.585 W001.18.58.325 standHold
 "A3" N051.49.54.061 W001.18.55.743 standHold

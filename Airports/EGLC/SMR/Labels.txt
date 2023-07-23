@@ -23,7 +23,7 @@
 "27" N051.30.14.330 E000.03.17.890 smrWhite
 "28" N051.30.14.240 E000.03.20.340 smrWhite
 
-;Holds
+;Holding Points
 "A" N051.30.18.071 E000.02.41.049 standHold
 "B" N051.30.18.018 E000.02.43.999 standHold
 "C" N051.30.17.598 E000.02.57.812 standHold
