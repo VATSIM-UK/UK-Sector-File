@@ -1,5 +1,5 @@
 # Changes from release 2023/07 to 2023/08
-1. Enhancement - Added SID Lines and VFR Lanes to East Midlands (EGNX)
+1. Enhancement - Added SID Lines and VFR Lanes to East Midlands (EGNX) - thanks to @MattDean97
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
