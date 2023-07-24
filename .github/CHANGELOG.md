@@ -19,6 +19,7 @@
 18. AIRAC (2308) - Updated Bournemouth (BIA) NDB Coordinate - thanks to @rishab-alt
 19. Bug - Fixed lots of runway definitions and removed unnecessary ones - thanks to @TechieHelper (Alice Ford)
 20. Enhancement - Added SID Lines and VFR Lanes to East Midlands (EGNX) - thanks to @MattDean97
+21. Bug - Corrected Edinburgh (EGPH) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
