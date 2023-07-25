@@ -20,6 +20,7 @@
 19. Bug - Fixed lots of runway definitions and removed unnecessary ones - thanks to @TechieHelper (Alice Ford)
 20. Enhancement - Added SID Lines and VFR Lanes to East Midlands (EGNX) - thanks to @MattDean97
 21. Bug - Corrected Guernsey (EGJB) Approach Position Identifiers - thanks to @danielbutton (Daniel Button)
+22. Enhancement - Removed unused Active_Runway.txt files - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
