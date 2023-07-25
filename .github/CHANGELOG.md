@@ -23,6 +23,7 @@
 22. Enhancement - Removed unused Active_Runway.txt files - thanks to @AliceFord (Alice Ford)
 23. AIRAC (2308) - Updated Cambridge (EGSC) SMR Taxiway J and Holding Point J - thanks to @AliceFord (Alice Ford)
 24. AIRAC (2308) - Removed Oxford (EGTK) Holding point G - thanks to @rishab-alt
+25. AIRAC (2308) - Updated Bournemouth (EGHH) runway threshold coordinates - thanks to @rishab-alt
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
