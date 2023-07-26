@@ -27,6 +27,7 @@
 26. AIRAC (2308) - Updated Bournemouth (EGHH) runway threshold coordinates - thanks to @rishab-alt
 27. Enhancement - Added Missing Humberside (EGNJ) RNP Approach fixes - thanks to @rishab-alt
 28. AIRAC (2308) - Added Leeds East (EGCM) RNP Fixes - thanks to @rishab-alt
+29. AIRAC (2308) - Belfast Aldergrove (EGAA) SMR updates - thanks to @DuckWhsiperer (Matt Owen)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
