@@ -1,3 +1,4 @@
+;Holding Points
 "A1" N052.31.01.461 W002.16.11.444 standHold
 "A2" N052.30.56.632 W002.16.06.237 standHold
 "A3" N052.30.55.803 W002.16.00.127 standHold
@@ -7,5 +8,6 @@
 "D" N052.30.59.025 W002.15.46.164 standHold
 "F1" N052.30.46.320 W002.15.18.429 standHold
 "F2" N052.30.56.197 W002.15.13.811 standHold
+;Runway Labels
 "16" N052.31.11.374 W002.15.43.520 standHold
 "22" N052.31.11.046 W002.15.39.631 standHold
