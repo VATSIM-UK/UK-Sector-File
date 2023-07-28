@@ -32,10 +32,23 @@ class Runner:
                     currentData[i] = f"{vorID} {dataAboutVORDME['frequency']} {' '.join(dataAboutVORDME['coordinates'])} ; {dataAboutVORDME['name']}"
 
             self.writeLines("Navaids/VOR_UK.txt", currentData)
+        
+        elif self.args["page"] == "ENR4.4" or self.args["page"] == "all":
+            currentData = self.readCurrentData("Navaids/FIXES_UK.txt")
+
+            newData = self.aipApi.parseENR4_4()
+
+            for i, line in enumerate(currentData):
+                fixID = line.split(" ")[0]
+                if fixID in newData.keys():
+                    dataAboutFix = newData[fixID]
+                    currentData[i] = f"{fixID} {' '.join(dataAboutFix['coordinates'])}"
+
+            self.writeLines("Navaids/FIXES_UK.txt", currentData)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Parse parts of the UK eAIP, using our AIP API")
-    parser.add_argument("page", help="The part of the AIP to parse", choices=["all", "ENR4.1"])
+    parser.add_argument("page", help="The part of the AIP to parse", choices=["all", "ENR4.1", "ENR4.4"])
 
     args = vars(parser.parse_args())
 

@@ -1,4 +1,4 @@
-from src.util import airac, util
+from util import airac, util
 
 import requests
 from bs4 import BeautifulSoup
@@ -62,4 +62,35 @@ class AipAPI:
 
             outputs[identifier] = {"name": name, "frequency": freq, "coordinates": coords}
         
+        return outputs
+    
+    def parseENR4_4(self):
+        """Parse the AIP ENR4.4 page
+
+        Returns:
+            dict[str,dict[str,many]]: A dictionary containing the FIX identifier and some information about it (see example below)
+            {
+                "ABBEW": {"coordinates": ("N050.30.11.880", "W003.28.33.640")},  # coordinates
+                ...
+            }
+        """
+        url = self.rootUrl + "EG-ENR-4.4-en-GB.html"
+        text = requests.get(url).text
+        soup = BeautifulSoup(text, "html.parser")
+
+        # get table rows from heading
+
+        table = soup.find("table", attrs={"class": "ENR-table"})
+        rows = list(list(table.children)[1].children)
+
+        outputs = {}
+
+        for row in rows:
+            fixName = list(list(row.children)[0].children)[1].string
+            coordA = list(list(list(row.children)[1].children)[0].children)[1].string
+            coordB = list(list(list(row.children)[1].children)[1].children)[1].string
+            coords = util.ukCoordsToSectorFile(coordA, coordB)
+
+            outputs[fixName] = {"coordinates": coords}
+
         return outputs
