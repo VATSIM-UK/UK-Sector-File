@@ -1,4 +1,4 @@
-from util import airac, util
+from src.util import airac, util
 
 import requests
 from bs4 import BeautifulSoup
