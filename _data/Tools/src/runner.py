@@ -29,7 +29,7 @@ class Runner:
                 if vorID in newData.keys():  # only rewrite if the VOR/DME is in both the old data and the new data, otherwise existing data is kept
                     # if the VOR/DME is in both the old data and the new data, write the new data onto the old data (if the data is the same we still write, just no change will be visible because the written data is the same as the stored data)
                     dataAboutVORDME = newData[vorID]
-                    currentData[i] = f"{vorID} {dataAboutVORDME[1]} {' '.join(dataAboutVORDME[2])} ; {dataAboutVORDME[0]}"
+                    currentData[i] = f"{vorID} {dataAboutVORDME['frequency']} {' '.join(dataAboutVORDME['coordinates'])} ; {dataAboutVORDME['name']}"
 
             self.writeLines("Navaids/VOR_UK.txt", currentData)
 

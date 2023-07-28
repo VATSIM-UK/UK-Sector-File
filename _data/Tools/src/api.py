@@ -15,9 +15,9 @@ class AipAPI:
         """Parse the AIP ENR4.1 page
 
         Returns:
-            dict[str,list]: A dictionary containing the VOR identifier and some information about it (see example below)
+            dict[str,dict[str,many]]: A dictionary containing the VOR identifier and some information about it (see example below)
             {
-                "ADN": ["Aberdeen", "114.300", ("N057.18.37.620", "W002.16.01.950")],  # name, frequency, coords
+                "ADN": {"name": "Aberdeen", "frequency": "114.300", "coordinates": ("N057.18.37.620", "W002.16.01.950")},  # name, frequency, coordinates
                 ...
             }
         """
@@ -60,6 +60,6 @@ class AipAPI:
 
             # logger.debug(f"{identifier} {freq} {' '.join(coords)} ; {name}")
 
-            outputs[identifier] = [name, freq, coords]
+            outputs[identifier] = {"name": name, "frequency": freq, "coordinates": coords}
         
         return outputs
