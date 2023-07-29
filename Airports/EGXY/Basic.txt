@@ -1,0 +1,3 @@
+Syerston
+N053.01.23.950 W000.54.41.900
+121.825 ;Ground_frequency
