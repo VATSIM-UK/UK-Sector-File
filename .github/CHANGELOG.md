@@ -28,7 +28,7 @@
 27. Enhancement - Added Missing Humberside (EGNJ) RNP Approach fixes - thanks to @rishab-alt
 28. AIRAC (2308) - Added Leeds East (EGCM) RNP Fixes - thanks to @rishab-alt
 29. Bug - Fixed incorrect VOR/NDB Coordinates - thanks to @TechieHelper (Alice Ford)
-30. Enhancement - Added Prestwick (EGPK) missing holding points
+30. Enhancement - Added Prestwick (EGPK) missing holding points - thanks to @rishab-alt 
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
