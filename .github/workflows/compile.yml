@@ -48,7 +48,7 @@ jobs:
       - name: Trigger Workflow in UK Controller Pack
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.UK_CONTROLLER_PACK_ACCESS_TOKEN }}
+          token: ${{ secrets.PUBLIC_PAT }}
           repository: VATSIM-UK/uk-controller-pack
           event-type: auto_airac_actions
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
