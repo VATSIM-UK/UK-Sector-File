@@ -26,7 +26,9 @@
 25. Enhancement - Added Culdrose (EGDR) Stand Numbers - thanks to @rishab-alt
 26. AIRAC (2308) - Updated Bournemouth (EGHH) runway threshold coordinates - thanks to @rishab-alt
 27. Enhancement - Added Missing Humberside (EGNJ) RNP Approach fixes - thanks to @rishab-alt
-28. Enhancement - Added Missing Brize Norton (EGVN) Holding Points and Updated Holding Points - thanks to @AdiZ-1579887
+28. AIRAC (2308) - Added Leeds East (EGCM) RNP Fixes - thanks to @rishab-alt
+29. Bug - Fixed incorrect VOR/NDB Coordinates - thanks to @TechieHelper (Alice Ford)
+30. Enhancement - Added Missing Brize Norton (EGVN) Holding Points and Updated Holding Points - thanks to @AdiZ-1579887
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
