@@ -17,9 +17,12 @@
 ; @preserveComment Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
+#define NXsidlines 9346559
+#define NXlanes 16777215
 #define OCASregion 0
 #define OCASregionGrey 3749687
 #define PFFAVA 11842560
+#define PHCentreline 12517375
 #define PHFAVA 13158600
 #define rangering 4227200
 #define river 4915200
