@@ -55,24 +55,72 @@ class Runner:
             upperAirways = os.listdir("../../Airways/RNAV/Upper")
 
             for airway in newData.keys():
-                minLower = 66000
-                maxUpper = 0
-                for waypoint in newData[airway]["waypoints"]:
+                prevLowerIndex = None
+                prevUpperIndex = None
+                firstLower = True
+                firstUpper = True
+                lowerLines = []
+                upperLines = []
+                for i, waypoint in enumerate(newData[airway]["waypoints"]):
                     try:
-                        if waypoint["lowerlimit"] < minLower:
-                            minLower = waypoint["lowerlimit"]
-                        if waypoint["upperlimit"] > maxUpper:
-                            maxUpper = waypoint["upperlimit"]
+                        lowerLimit = waypoint["lowerlimit"]
                     except KeyError:
-                        pass
+                        lowerLimit = 0
+
+                    try:
+                        upperLimit = waypoint["upperlimit"]
+                    except KeyError:
+                        upperLimit = 0
+
+                    lb = False
+
+                    if i == len(newData[airway]["waypoints"]) - 1: # special logic for last wpt: only include in lower if previous wpt is also in lower
+                        if prevLowerIndex == i - 1:
+                            lowerLines.append(waypoint["name"])
+                            lb = True
+                    
+                    if i == len(newData[airway]["waypoints"]) - 1:
+                        if prevUpperIndex == i - 1:
+                            upperLines.append(waypoint["name"])
+                            break
                 
-                if maxUpper > 255:  # upper airway
-                    if airway + ".txt" not in upperAirways:
-                        print(f"Missing upper airway: {airway}")
-                if minLower < 245: # lower airway
-                    if airway + ".txt" not in lowerAirways:
-                        print(f"Missing lower airway: {airway}")
-            
+                    if lb: 
+                        break
+                    
+                    if lowerLimit < 245:
+                        if firstLower:
+                            lowerLines.append(waypoint["name"])
+                            prevLowerIndex = i
+                            firstLower = False
+                        elif prevLowerIndex == i - 1:
+                            lowerLines.append(waypoint["name"])
+                            prevLowerIndex = i
+                        else:  # add in spacing line with a filler wpt of `XXXXX`
+                            lowerLines.append("XXXXX")
+                            lowerLines.append(waypoint["name"])
+                            prevLowerIndex = i
+                    else:
+                        if prevLowerIndex == i - 1:
+                            lowerLines.append(waypoint["name"])
+                    if upperLimit > 245:  # same logic as above
+                        if firstUpper:
+                            upperLines.append(waypoint["name"])
+                            prevUpperIndex = i
+                            firstUpper = False
+                        elif prevUpperIndex == i - 1:
+                            upperLines.append(waypoint["name"])
+                            prevUpperIndex = i
+                        else:
+                            upperLines.append("XXXXX")
+                            upperLines.append(waypoint["name"])
+                            prevUpperIndex = i
+                    else:
+                        if prevUpperIndex == i - 1:
+                            upperLines.append(waypoint["name"])
+
+
+                print(airway, lowerLines, upperLines)
+                        
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Parse parts of the UK eAIP, using our AIP API")
