@@ -20,7 +20,17 @@
 19. Bug - Fixed lots of runway definitions and removed unnecessary ones - thanks to @TechieHelper (Alice Ford)
 20. Enhancement - Added SID Lines and VFR Lanes to East Midlands (EGNX) - thanks to @MattDean97
 21. Bug - Corrected Guernsey (EGJB) Approach Position Identifiers - thanks to @danielbutton (Daniel Button)
-x. Enhancement - Updated Non-UK VORs and fixes - thanks to @AliceFord (Alice Ford)
+22. Enhancement - Removed unused Active_Runway.txt files - thanks to @AliceFord (Alice Ford)
+23. AIRAC (2308) - Updated Cambridge (EGSC) SMR Taxiway J and Holding Point J - thanks to @AliceFord (Alice Ford)
+24. AIRAC (2308) - Removed Oxford (EGTK) Holding point G - thanks to @rishab-alt
+25. Enhancement - Added Culdrose (EGDR) Stand Numbers - thanks to @rishab-alt
+26. AIRAC (2308) - Updated Bournemouth (EGHH) runway threshold coordinates - thanks to @rishab-alt
+27. Enhancement - Added Missing Humberside (EGNJ) RNP Approach fixes - thanks to @rishab-alt
+28. AIRAC (2308) - Added Leeds East (EGCM) RNP Fixes - thanks to @rishab-alt
+29. Bug - Fixed incorrect VOR/NDB Coordinates - thanks to @TechieHelper (Alice Ford)
+30. Enhancement - Added Missing Brize Norton (EGVN) Holding Points and Updated Holding Points - thanks to @AdiZ-1579887
+31. Enhancement - Added Prestwick (EGPK) missing holding points - thanks to @rishab-alt
+32. Enhancement - Updated Non-UK VORs and fixes - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
