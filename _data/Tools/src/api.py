@@ -43,8 +43,22 @@ class AipAPI:
 
             print(airwayName)
             wpts.pop(0)  # remove name
+
+            # deal with first wpt
+            wptName = list(list(wpts[0].children)[1].children)
+            if len(wptName) > 4:  # VOR/DME
+                wptName = wptName[5].string
+            else: # FIX
+                wptName = wptName[1].string
+
+            wpts.pop(0)
+
+            outputs[airwayName]["waypoints"].append({"name": wptName})
+
+            # deal with rest of wpts
+
             for i in range(0, len(wpts), 2):  # pair waypoint names with their data
-                wptHTML = wpts[i]
+                wptHTML = wpts[i + 1]
                 wptName = list(list(wptHTML.children)[1].children)
                 if len(wptName) > 4:  # VOR/DME
                     wptName = wptName[5].string
@@ -53,11 +67,11 @@ class AipAPI:
                 # print(wptName)
 
                 try:
-                    wptDataHTML = wpts[i+1]
+                    wptDataHTML = wpts[i]
 
                     upperLowerBox = list(list(wptDataHTML.children)[3].children)[0]
 
-                    if airwayName == "N22" and wptName == "FIMCA":  # for some reason only this waypoint is in a different format :facepalm:
+                    if airwayName == "N22" and wptName == "BHD":  # for some reason only this waypoint is in a different format :facepalm:
                         upperLimit = 245
                         lowerLimit = 85
                     else:
@@ -73,6 +87,9 @@ class AipAPI:
                     outputs[airwayName]["waypoints"].append({"name": wptName, "lowerlimit": int(lowerLimit), "upperlimit": int(upperLimit)})
                 except IndexError:
                     outputs[airwayName]["waypoints"].append({"name": wptName})
+                except AttributeError:
+                    print(airwayName, wptName)
+                    raise ValueError  # NATS broke something if this gets run :(
 
                 # wptLowerLimit = list(list(wpt.children)[1].children)[0].string
                 # wptUpperLimit = list(list(wpt.children)[1].children)[2].string
