@@ -1,3 +1,4 @@
+;Holding Points
 "A" N052.12.36.067 E000.10.57.656 standHold
 "B" N052.12.34.051 E000.10.53.118 standHold
 "C" N052.12.26.323 E000.10.37.233 standHold
