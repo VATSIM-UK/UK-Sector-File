@@ -44,3 +44,12 @@ jobs:
         with:
           name: UK Sector File
           path: ".bin/UK.*"
+
+      - name: Trigger Workflow in UK Controller Pack
+        if: github.event_name == 'release' && github.event.action == 'published'
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PUBLIC_PAT }}
+          repository: VATSIM-UK/uk-controller-pack
+          event-type: auto_airac_actions
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
