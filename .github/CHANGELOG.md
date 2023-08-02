@@ -35,6 +35,7 @@
 34. Enhancement - Checked and updated Fairford (EGVA) Fixes and STARs - thanks to @danielbutton (Daniel Button)
 35. Bug - Corrected Edinburgh (EGPH) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
 36. Enhancement - Updated Non-UK VORs and fixes - thanks to @AliceFord (Alice Ford)
+37. AIRAC (2308) - Removed Gamston (EGNE) Heli Stand - thanks to @rishab-alt
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
