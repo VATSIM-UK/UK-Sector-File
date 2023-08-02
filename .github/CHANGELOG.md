@@ -32,6 +32,7 @@
 31. Enhancement - Added Prestwick (EGPK) missing holding points - thanks to @rishab-alt
 32. Bug - Added Gamston (EGNE) STARs - thanks to @AdiZ-1579887 (Adi Zaveri)
 33. Enhancement - Added the Hawarden (EGNR) RMA - thanks to @kye-taylor (Kye Taylor)
+34. Enhancement - Checked and updated Fairford (EGVA) Fixes and STARs - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
