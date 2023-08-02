@@ -28,7 +28,14 @@
 27. Enhancement - Added Missing Humberside (EGNJ) RNP Approach fixes - thanks to @rishab-alt
 28. AIRAC (2308) - Added Leeds East (EGCM) RNP Fixes - thanks to @rishab-alt
 29. Bug - Fixed incorrect VOR/NDB Coordinates - thanks to @TechieHelper (Alice Ford)
-30. AIRAC (2308) - Removed Gamston (EGNE) Heli Stand - thanks to @rishab-alt
+30. Enhancement - Added Missing Brize Norton (EGVN) Holding Points and Updated Holding Points - thanks to @AdiZ-1579887
+31. Enhancement - Added Prestwick (EGPK) missing holding points - thanks to @rishab-alt
+32. Bug - Added Gamston (EGNE) STARs - thanks to @AdiZ-1579887 (Adi Zaveri)
+33. Enhancement - Added the Hawarden (EGNR) RMA - thanks to @kye-taylor (Kye Taylor)
+34. Enhancement - Checked and updated Fairford (EGVA) Fixes and STARs - thanks to @danielbutton (Daniel Button)
+35. Bug - Corrected Edinburgh (EGPH) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
+36. Enhancement - Updated Non-UK VORs and fixes - thanks to @AliceFord (Alice Ford)
+37. AIRAC (2308) - Removed Gamston (EGNE) Heli Stand - thanks to @rishab-alt
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
