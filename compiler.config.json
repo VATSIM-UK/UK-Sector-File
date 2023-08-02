@@ -356,7 +356,7 @@
                     "folder": "Navaids",
                     "recursive": true,
                     "pattern": "FIXES_"
-                },
+                }
             ],
             "ndbs": {
                 "type": "folder",
@@ -429,7 +429,7 @@
                 "folder": "Misc",
                 "recursive": true,
                 "pattern": "SID_"
-                },
+                }
             ],
             "star_airspace": [
                 {
