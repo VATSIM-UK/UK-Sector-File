@@ -40,6 +40,7 @@
 39. Bug - Updated UK VOR/DME definitions (added GLO and DUD DMEs) - thanks to @chssn
 40. Bug - Removed redundant air network fixes - thanks to @hazzas-99
 41. Procedure Change - Removed Kirkwall (EGPA) and Benbecula (EGPL) AFIS position definitions (not used) - thanks to @hazzas-99
+42. Bug - Added and Updated Military Runway Definitions - thanks to @AdiZ-1579887 (Adi Zaveri)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
