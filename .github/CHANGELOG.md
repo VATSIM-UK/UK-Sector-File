@@ -38,6 +38,8 @@
 37. AIRAC (2308) - Removed Gamston (EGNE) Heli Stand - thanks to @rishab-alt
 38. AIRAC (2308) - Updated Marham (EGYM) runway 05/23 designator - thanks to @rishab-alt
 39. Bug - Updated UK VOR/DME definitions (added GLO and DUD DMEs) - thanks to @chssn
+40. Bug - Removed redundant air network fixes - thanks to @hazzas-99
+41. Procedure Change - Removed Kirkwall (EGPA) and Benbecula (EGPL) AFIS position definitions (not used) - thanks to @hazzas-99
 x. Enhancement - Update all VRPs - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
