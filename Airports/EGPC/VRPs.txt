@@ -3,4 +3,4 @@
 *Keiss Village:N058.32.00.000:W003.07.24.000
 *Loch Watten:N058.29.00.000:W003.20.06.000
 *Lybster Village:N058.18.00.000:W003.17.06.000
-*Thrumster Masts:N058.23.37.900:W003.07.27.520
+*Thrumster Masts:N058.23.37.907:W003.07.27.528
