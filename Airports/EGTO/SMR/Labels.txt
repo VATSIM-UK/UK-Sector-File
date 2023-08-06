@@ -1,3 +1,4 @@
+;Helipads
 "H" N051.21.23.416 E000.30.24.265 standhold
 "H" N051.20.53.855 E000.30.23.045 standhold
 "H" N051.20.53.178 E000.30.13.870 standhold
