@@ -2,6 +2,10 @@ COPX:PENIL:*:*:EIDW:*:London S7:Isle of Man:*:29000:|PENIL
 COPX:PENIL:*:*:EIWT:*:London S7:Isle of Man:*:29000:|PENIL
 COPX:PENIL:*:*:EIME:*:London S7:Isle of Man:*:29000:|PENIL
 
+COPX:BOFUM:*:*:EGCC:*:London S7:Isle of Man:*:29000:|MALUD
+
+COPX:LIFFY:*:*:EGCC:*:London S7:Isle of Man:*:29000:|MALUD
+
 COPX:*:*:DONAX:EGNX:*:London S7:Isle of Man:*:29000:DONAX
 COPX:*:*:DONAX:EGBB:*:London S7:Isle of Man:*:29000:DONAX
 COPX:*:*:DONAX:EGBE:*:London S7:Isle of Man:*:29000:DONAX

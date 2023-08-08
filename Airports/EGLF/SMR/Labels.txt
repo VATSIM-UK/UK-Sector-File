@@ -16,6 +16,7 @@
 "W" N051.16.31.100 W000.46.30.050 standHold
 "Y" N051.16.27.200 W000.46.41.800 standHold
 "Z" N051.16.20.890 W000.46.59.631 standHold
+;Other
 "Tower" N051.16.45.790 W000.46.38.600 smrWhite
 "Terminal" N051.16.59.320 W000.46.37.520 smrWhite
 "Bay 1" N051.16.56.340 W000.46.41.960 smrWhite
@@ -27,3 +28,6 @@
 "West Aprons" N051.16.39.510 W000.47.06.380 smrWhite
 "East Apron" N051.16.59.520 W000.45.44.150 smrWhite
 "South Aprons" N051.16.21.050 W000.46.29.600 smrWhite
+"T" N051.16.58.610 W000.46.34.623 smrWhite
+"TG" N051.16.57.982 W000.46.30.383 smrWhite
+"B" N051.16.56.190 W000.46.26.293 smrWhite

@@ -1,3 +1,4 @@
+;Holding Points
 "A1" N052.18.04.587 W000.47.41.531 standhold
 "A2" N052.18.07.144 W000.47.35.406 standhold
 "B1" N052.18.31.273 W000.47.22.398 standhold
@@ -5,6 +6,7 @@
 "C"  N052.18.08.143 W000.47.29.228 standhold
 "D1" N052.18.07.035 W000.47.47.514 standhold
 "23" N052.18.21.207 W000.47.10.337 standhold
+;Heli Markings
 "H"  N052.18.09.098 W000.47.25.008 standhold ;Main Apron
 "H"  N052.18.05.571 W000.47.32.995 standhold ;Near A2
 "H"  N052.18.11.183 W000.47.50.569 standhold ;Western Hangar

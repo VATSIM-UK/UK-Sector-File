@@ -4,8 +4,9 @@
 #define building 10534048
 #define CCFAVA 11206655
 #define centrelinecolour 15790135
+#define coast 9076039
+; @preserveComment Alternative colours for the above line, change to your preference. STC/PC (Grey) 5324604 Yellow 32896
 #define col_gate 3953980
-#define coast 32896
 #define Edge 6589540
 #define Filled 6316128
 #define fire 2894694
@@ -16,8 +17,13 @@
 ; @preserveComment Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
+#define NXsidlines 9346559
+#define NXlanes 16777215
 #define OCASregion 0
 #define OCASregionGrey 3749687
+#define PFFAVA 11842560
+#define PHCentreline 12517375
+#define PHFAVA 13158600
 #define rangering 4227200
 #define river 4915200
 #define road 6908265
