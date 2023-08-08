@@ -40,7 +40,11 @@
 39. Bug - Updated UK VOR/DME definitions (added GLO and DUD DMEs) - thanks to @chssn
 40. Bug - Removed redundant air network fixes - thanks to @hazzas-99
 41. Procedure Change - Removed Kirkwall (EGPA) and Benbecula (EGPL) AFIS position definitions (not used) - thanks to @hazzas-99
-x. Enhancement - Update all VRPs - thanks to @AliceFord (Alice Ford)
+42. Bug - Added and Updated Military Runway Definitions - thanks to @AdiZ-1579887 (Adi Zaveri)
+43. Bug - Updated Upper / Lower airway structure - thanks to @AliceFord (Alice Ford)
+44. Enhancement - Added Holding Point Numbers to Valley (EGOV) - thanks to @lucak1011 (Luca Kulaga)
+45. Enhancement - Added all Northolt (EGWU) Stands to the SMR along with lables - thanks to @lucak1011 (Luca Kulaga)
+46. Enhancement - Checked / Updated all VRPs - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
