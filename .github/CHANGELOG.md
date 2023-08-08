@@ -44,6 +44,7 @@
 43. Bug - Updated Upper / Lower airway structure - thanks to @AliceFord (Alice Ford)
 44. Enhancement - Added Holding Point Numbers to Valley (EGOV) - thanks to @lucak1011 (Luca Kulaga)
 45. Enhancement - Added all Northolt (EGWU) Stands to the SMR along with lables - thanks to @lucak1011 (Luca Kulaga)
+46. Enhancement - Checked / Updated all VRPs - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/06 to 2023/07
 1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
