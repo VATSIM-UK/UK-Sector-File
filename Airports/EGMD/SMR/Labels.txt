@@ -1,9 +1,9 @@
 ;Holding Points
 "A"  N050.57.37.133 E000.56.32.429 standHold
 "B"  N050.57.21.297 E000.56.12.993 standHold
-"C (South)"  N050.57.15.607 E000.56.10.561 standHold
 "C (North)"  N050.57.19.145 E000.56.10.105 standHold
-"03D"  N050.57.09.756 E000.56.05.301 standHold
+"C (South)"  N050.57.15.607 E000.56.10.561 standHold
+"D"  N050.57.09.756 E000.56.05.301 standHold
 ;Stands
 "1"  N050.57.22.109 E000.56.04.965 standHold
 "2"  N050.57.23.234 E000.56.03.509 standHold
