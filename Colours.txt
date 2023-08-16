@@ -42,6 +42,7 @@
 #define smrBBgrass 657930
 #define smrBBgrey 12299677
 #define smrBBhold 8388607
+#define smrBBlabelstd 7895160
 #define smrBBpath 1973790
 #define smrBBstand 5000268
 #define smrBBrunway 4210752
