@@ -104,6 +104,7 @@
 #define smrNTbackground 2430482
 #define smrNTbuildings 22015
 #define smrNTholdingpoints 13303807
+#define smrNTgrass 3051799
 #define smrNTperitrack 1164543
 #define smrNTstandoutline 11464447
 #define smrNTstands 7855324
