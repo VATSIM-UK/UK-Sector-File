@@ -37,11 +37,15 @@
 ;SMR Colours
 #define smrACapron 10526880
 #define smrApron 5197647
-#define smrBBbuilding 4823767
+#define smrBBbuilding 12632256
 #define smrBBdisused 5393408
-#define smrBBgrass 3051799
+#define smrBBgrass 657930
 #define smrBBgrey 12299677
-#define smrBBstand 9012347
+#define smrBBhold 8388607
+#define smrBBlabelstd 7895160
+#define smrBBpath 1973790
+#define smrBBstand 5000268
+#define smrBBrunway 4210752
 #define smrBlastpad 16777088
 #define smrBlue 3932160
 #define smrBuilding 0
@@ -99,6 +103,7 @@
 #define smrNTapron 5262926
 #define smrNTbackground 2430482
 #define smrNTbuildings 22015
+#define smrNTgrass 3051799
 #define smrNTholdingpoints 13303807
 #define smrNTperitrack 1164543
 #define smrNTstandoutline 11464447
