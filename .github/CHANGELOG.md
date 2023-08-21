@@ -1,5 +1,6 @@
 # Changes from release 2023/08 to 2023/09
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
+2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
