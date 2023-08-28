@@ -7,4 +7,4 @@
 *Lenwade Lakes:N052.43.07.000:E001.06.09.000
 *Norfolk Showground:N052.39.01.000:E001.11.07.000
 *Stoke Holy Cross Masts:N052.34.30.000:E001.19.53.000
-*Thorpe Rbt:N052.37.37.000:E001.22.42.000
+*Thorpe Rbts:N052.37.37.000:E001.22.42.000

@@ -1,3 +1,72 @@
+# Changes from release 2023/08 to 2023/09
+1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
+2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
+3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
+4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
+
+# Changes from release 2023/07 to 2023/08
+1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
+2. Bug - Renamed Cardiff (EGFF) Holding Point C - thanks to @TechieHelper (Alice Ford)
+3. Enhancement - Added Exeter (EGTE) ATZ - thanks to @danielbutton (Daniel Button)
+4. Bug - Removed Leeds Bradford (EGNM) Holding Point M1 - thanks to @TechieHelper (Alice Ford)
+5. Enhancement - Added Belfast City (EGAC) Stands 21 and 24 - thanks to @TechieHelper (Alice Ford)
+6. AIRAC (2307) - Added London City (EGLC) Stand 10L - thanks to @rishab-alt
+7. AIRAC (2308) - Added Agreement for EGSH and EGNJ inbounds via RAVLO - thanks to @kye-taylor (Kye Taylor)
+8. Enhancement - Added Campbeltown (EGEC) SMR - thanks to @TechieHelper (Alice Ford)
+9. Enhancement - Added Kemble (EGBP) Stands 1-4 - thanks to @TechieHelper (Alice Ford)
+10. Bug - Renamed Birmingham (EGBB) Holding Point J1 - thanks to @TechieHelper (Alice Ford)
+11. Enhancement - Removed unused Ground Map data - thanks to @PLM1995 (Peter Mooney)
+12. Enhancement - Improved Redhill (EGKR) SMR Display - thanks to @TechieHelper (Alice Ford)
+13. Bug - Updated all incorrect fixes for RNAV sids / approaches - thanks to @TechieHelper (Alice Ford)
+14. AIRAC (2308) - Removed Haverfordwest (HAV) NDB - thanks to @rishab-alt
+15. Bug - Fixed incorrect Non-UK FIX coordinates (Netherlands) - thanks to @TechieHelper (Alice Ford)
+16. Enhancement - Added White Waltham (EGLM) SMR - thanks to @TechieHelper (Alice Ford)
+17. AIRAC (2308) - Removed Bristol (EGGD) Z3 and Z4 Holds - thanks to @rishab-alt
+18. AIRAC (2308) - Updated Bournemouth (BIA) NDB Coordinate - thanks to @rishab-alt
+19. Bug - Fixed lots of runway definitions and removed unnecessary ones - thanks to @TechieHelper (Alice Ford)
+20. Enhancement - Added SID Lines and VFR Lanes to East Midlands (EGNX) - thanks to @MattDean97
+21. Bug - Corrected Guernsey (EGJB) Approach Position Identifiers - thanks to @danielbutton (Daniel Button)
+22. Enhancement - Removed unused Active_Runway.txt files - thanks to @AliceFord (Alice Ford)
+23. AIRAC (2308) - Updated Cambridge (EGSC) SMR Taxiway J and Holding Point J - thanks to @AliceFord (Alice Ford)
+24. AIRAC (2308) - Removed Oxford (EGTK) Holding point G - thanks to @rishab-alt
+25. Enhancement - Added Culdrose (EGDR) Stand Numbers - thanks to @rishab-alt
+26. AIRAC (2308) - Updated Bournemouth (EGHH) runway threshold coordinates - thanks to @rishab-alt
+27. Enhancement - Added Missing Humberside (EGNJ) RNP Approach fixes - thanks to @rishab-alt
+28. AIRAC (2308) - Added Leeds East (EGCM) RNP Fixes - thanks to @rishab-alt
+29. Bug - Fixed incorrect VOR/NDB Coordinates - thanks to @TechieHelper (Alice Ford)
+30. Enhancement - Added Missing Brize Norton (EGVN) Holding Points and Updated Holding Points - thanks to @AdiZ-1579887
+31. Enhancement - Added Prestwick (EGPK) missing holding points - thanks to @rishab-alt
+32. Bug - Added Gamston (EGNE) STARs - thanks to @AdiZ-1579887 (Adi Zaveri)
+33. Enhancement - Added the Hawarden (EGNR) RMA - thanks to @kye-taylor (Kye Taylor)
+34. Enhancement - Checked and updated Fairford (EGVA) Fixes and STARs - thanks to @danielbutton (Daniel Button)
+35. Bug - Corrected Edinburgh (EGPH) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
+36. Enhancement - Updated Non-UK VORs and fixes - thanks to @AliceFord (Alice Ford)
+37. AIRAC (2308) - Removed Gamston (EGNE) Heli Stand - thanks to @rishab-alt
+38. AIRAC (2308) - Updated Marham (EGYM) runway 05/23 designator - thanks to @rishab-alt
+39. Bug - Updated UK VOR/DME definitions (added GLO and DUD DMEs) - thanks to @chssn
+40. Bug - Removed redundant air network fixes - thanks to @hazzas-99
+41. Procedure Change - Removed Kirkwall (EGPA) and Benbecula (EGPL) AFIS position definitions (not used) - thanks to @hazzas-99
+42. Bug - Added and Updated Military Runway Definitions - thanks to @AdiZ-1579887 (Adi Zaveri)
+43. Bug - Updated Upper / Lower airway structure - thanks to @AliceFord (Alice Ford)
+44. Enhancement - Added Holding Point Numbers to Valley (EGOV) - thanks to @lucak1011 (Luca Kulaga)
+45. Enhancement - Added all Northolt (EGWU) Stands to the SMR along with lables - thanks to @lucak1011 (Luca Kulaga)
+46. Enhancement - Checked / Updated all VRPs - thanks to @AliceFord (Alice Ford)
+47. Procedure Change - Added NANTI and REXAM alt SIDs at Liverpool (EGGP) - thanks to @khardern
+
+# Changes from release 2023/06 to 2023/07
+1. AIRAC (2307) - Add Farnborough (EGLF) Apron B - Thanks to @rishab-alt
+2. AIRAC (2307) - Updated Compton Abbas (EGHA) ARP - thanks to @stu612 (Stuart Duncan)
+3. AIRAC (2307) - Updated NDB LBA Coordinates - thanks to @TechieHelper (Alice Ford)
+4. Enhancement - Added Cambridge (EGSC) SMAA Altitudes - thanks to @SamLefevre (Samuel Lefevre)
+5. Enhancement - Added Edinburgh (EGPH) 10-20nm centerline - thanks to @SamLefevre (Samuel Lefevre)
+6. AIRAC (2307) - Updated London City (EGLC) Runway Data - thanks to @TechieHelper (Alice Ford)
+7. AIRAC (2307) - Updated Fairford (EGVA) SID Designators - thanks to @rishab-alt
+8. Bug - Updated Belfast Aldergrove (EGAA) Stands - thanks to @PLM1995 (Peter Mooney)
+9. AIRAC (2307) - Added Guernsey (EGJB) stands 2A and 3A and hold point F line to SMR - thanks to @PLM1995 (Peter Mooney)
+10. AIRAC (2307) - Updated Prestwick (EGPK) SMAA - thanks to @PLM1995 (Peter Mooney)
+11. AIRAC (2307) - Removed Gatwick (EGKK) stand 551 - thanks to @PLM1995 (Peter Mooney)
+12. AIRAC (2307) - Updated Manchester (EGCC) hold Q1 position and added hold Q2
+
 # Changes from release 2023/05 to 2023/06
 1. AIRAC (2305), Enhancement - Redrawn Bristol (EGGD) SMR incl. new holding points Z3 & Z4 - thanks to @danielbutton (Daniel Button)
 2. Bug - Fixed online ring display for ESSEX_APP (now shows 1x ring rather than 3x) - thanks to @hazzas-99
