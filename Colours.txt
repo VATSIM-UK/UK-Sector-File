@@ -30,6 +30,9 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
+#define JJCAS 7484470
+#define JJLand 14195320
+#define JJOCAS 12432285
 
 ;SMR Colours
 #define smrACapron 10526880
