@@ -1,6 +1,9 @@
 # Changes from release 2023/08 to 2023/09
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
+3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
+4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
+5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
 
 x. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
 
