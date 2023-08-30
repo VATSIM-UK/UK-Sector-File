@@ -6,6 +6,7 @@
 5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
 6. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
+8. Bug - Renamed Waddington (EGXW) holding points - thanks to @calwe (Callum Webb)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
