@@ -8,7 +8,7 @@
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
 8. Bug - Renamed Waddington (EGXW) holding points - thanks to @calwe (Callum Webb)
 9. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
-X. AIRAC (2309) - Dover VOR/DME coordinates updated - thanks to @luke11brown (Luke Brown)
+X. AIRAC (2309) - Updated Dover (DVR) VOR/DME coordinates - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
