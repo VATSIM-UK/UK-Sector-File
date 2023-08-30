@@ -4,6 +4,8 @@
 3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
 4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
 
+x. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
+
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
 2. Bug - Renamed Cardiff (EGFF) Holding Point C - thanks to @TechieHelper (Alice Ford)
