@@ -3,7 +3,15 @@
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
 3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
 4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
-X. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
+5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
+6. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
+7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
+8. Bug - Renamed Waddington (EGXW) holding points - thanks to @calwe (Callum Webb)
+9. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
+10. AIRAC (2309) - Updated Dover (DVR) VOR/DME coordinates - thanks to @luke11brown (Luke Brown)
+11. AIRAC (2309) - Added EG D713 (Fast Jet Area South) & EG D901 (Fast Jet Area North) - thanks to @luke11brown (Luke Brown)
+12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
+13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
