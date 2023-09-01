@@ -15,8 +15,7 @@
 14. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
 15. Enhancement - Added Yeovilton (EGDY) stand numbers - thanks to @calwe (Callum Webb)
 16. AIRAC (2309) - Updated ADN, IOM, LND and TNT VOR Coordinates - thanks to @Dev-Destructor (Debobrata Pal)
-
-x. Procedure Change (2309) - 8.33 Trial (AD Phase 1) - Transition EGLL/PH/SS/GP Frequencies - thanks to @AliceFord (Alice Ford)
+17. Procedure Change (2309) - 8.33 Trial (AD Phase 1) - Transition EGLL/PH/SS/GP Frequencies - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
