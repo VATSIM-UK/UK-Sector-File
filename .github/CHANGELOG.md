@@ -13,6 +13,7 @@
 12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
 13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
 14. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
+15. Enhancement - Added Yeovilton (EGDY) stand numbers - thanks to @calwe (Callum Webb)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
