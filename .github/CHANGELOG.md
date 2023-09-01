@@ -13,7 +13,7 @@
 11. AIRAC (2309) - Added EG D713 (Fast Jet Area South) & EG D901 (Fast Jet Area North) - thanks to @luke11brown (Luke Brown)
 12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
 13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
-14. AIRAC (2309) - Updated ADN VOR coordinates to N057.18.37.620 W002.16.02.090 - thanks to @Dev-Destructor (Debobrata Pal)
+14. AIRAC (2309) - Updated ADN, IOM, LND and TNT VOR Coordinates - thanks to @Dev-Destructor (Debobrata Pal)
 15. AIRAC (2309) - Updated IOM VOR coordinates to N054.04.01.120 W004.45.48.500 - thanks to @Dev-Destructor (Debobrata Pal)
 16. AIRAC (2309) - Updated LND VOR coordinates to N050.08.10.540 W005.38.13.060 - thanks to @Dev-Destructor (Debobrata Pal)
 17. AIRAC (2309) - Updated TNT VOR coordinates to N053.03.14.230 W001.40.11.900 - thanks to @Dev-Destructor (Debobrata Pal)
