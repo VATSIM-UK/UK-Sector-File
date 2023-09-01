@@ -17,8 +17,8 @@
 ; @preserveComment Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
-#define NXsidlines 9346559
-#define NXlanes 16777215
+#define NXsidlines 255
+#define NXlanes 12632256
 #define OCASregion 0
 #define OCASregionGrey 3749687
 #define PFFAVA 11842560
@@ -33,6 +33,9 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
+#define JJCAS 7484470
+#define JJLand 6189439
+#define JJOCAS 6249039
 
 ;SMR Colours
 #define smrACapron 10526880
