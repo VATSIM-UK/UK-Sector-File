@@ -10,7 +10,9 @@
 9. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
 10. AIRAC (2309) - Updated Dover (DVR) VOR/DME coordinates - thanks to @luke11brown (Luke Brown)
 11. AIRAC (2309) - Added EG D713 (Fast Jet Area South) & EG D901 (Fast Jet Area North) - thanks to @luke11brown (Luke Brown)
-12. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
+12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
+13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
+14. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
