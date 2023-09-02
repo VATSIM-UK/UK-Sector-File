@@ -16,7 +16,7 @@
 15. Enhancement - Added Yeovilton (EGDY) stand numbers - thanks to @calwe (Callum Webb)
 16. AIRAC (2309) - Updated ADN, IOM, LND and TNT VOR Coordinates - thanks to @Dev-Destructor (Debobrata Pal)
 17. Procedure Change (2309) - 8.33 Trial (AD Phase 1) - Transition EGLL/PH/SS/GP Frequencies - thanks to @AliceFord (Alice Ford)
-18. AIRAC (2309) - Update Wattisham (EGUW) Tower frequency - thanks to @rishab-alt
+18. AIRAC (2309) - Updated Wattisham (EGUW) Tower frequency - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
