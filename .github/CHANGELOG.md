@@ -19,6 +19,7 @@
 18. AIRAC (2309) - Removed Bristol (EGGD) stands 31R & 33L - thanks to @rishab-alt
 19. Enhancement - Added Leeds East (EGCM) SMR - thanks to @rishab-alt
 20. AIRAC (2309) - Added Waddignton (EGXW) RNP approach fixes - thanks to @luke11brown (Luke Brown)
+21. Enhancement - Update Barton (EGCB) SMR - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
