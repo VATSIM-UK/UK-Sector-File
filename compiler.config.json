@@ -283,7 +283,7 @@
                 "pattern": "Positions_"
             }
         },
-         "misc": {
+        "misc": {
             "agreements": [
                 {
                     "type": "folder",
