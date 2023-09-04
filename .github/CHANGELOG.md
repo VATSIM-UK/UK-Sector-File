@@ -8,7 +8,17 @@
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
 8. Bug - Renamed Waddington (EGXW) holding points - thanks to @calwe (Callum Webb)
 9. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
-X. AIRAC (2309) - Added Waddignton (EGXW) RNP approach fixes - thanks to @luke11brown (Luke Brown)
+10. AIRAC (2309) - Updated Dover (DVR) VOR/DME coordinates - thanks to @luke11brown (Luke Brown)
+11. AIRAC (2309) - Added EG D713 (Fast Jet Area South) & EG D901 (Fast Jet Area North) - thanks to @luke11brown (Luke Brown)
+12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
+13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
+14. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
+15. Enhancement - Added Yeovilton (EGDY) stand numbers - thanks to @calwe (Callum Webb)
+16. AIRAC (2309) - Updated ADN, IOM, LND and TNT VOR Coordinates - thanks to @Dev-Destructor (Debobrata Pal)
+17. Procedure Change (2309) - 8.33 Trial (AD Phase 1) - Transition EGLL/PH/SS/GP Frequencies - thanks to @AliceFord (Alice Ford)
+18. AIRAC (2309) - Removed Bristol (EGGD) stands 31R & 33L - thanks to @rishab-alt
+19. Enhancement - Added Leeds East (EGCM) SMR - thanks to @rishab-alt
+20. AIRAC (2309) - Added Waddignton (EGXW) RNP approach fixes - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
