@@ -22,6 +22,7 @@
 21. AIRAC (2309) - Updated Wattisham (EGUW) Tower frequency - thanks to @rishab-alt
 22. Bug - Fixed Farnborough (EGLF) Inbound Agreements from the north via CPT. - thanks to @kye-taylor (Kye Taylor)
 23. AIRAC (2309) - Added Biggin Hill (EGKR) new taxiway - thanks to @rishab-alt
+24. Enhancement - Updated Barton (EGCB) SMR - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
