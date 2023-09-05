@@ -20,4 +20,4 @@
 "Heli West" N053.28.20.836 W002.23.28.624 standHold
 "Heli East" N053.28.23.402 W002.23.13.003 standHold
 "Heliport" N053.28.04.783 W002.23.35.786 standHold
-"Police_air_support" N053.28.07.832 W002.23.37.232 standHold
+"Police Air Support" N053.28.07.832 W002.23.37.232 standHold
