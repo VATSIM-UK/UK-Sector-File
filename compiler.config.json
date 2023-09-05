@@ -293,7 +293,16 @@
                 {
                     "type": "folder",
                     "folder": "Agreements/Internal",
-                    "recursive": true
+                    "recursive": true,
+                    "exclude": [
+                        "TCCOW_TCCPT.txt"
+                    ]
+                },
+                {
+                    "type": "files",
+                    "files": [
+                        "Agreements/Internal/TCCOW_TCCPT.txt"
+                    ]
                 },
                 {
                     "type": "folder",

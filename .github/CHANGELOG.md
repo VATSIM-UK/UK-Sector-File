@@ -20,6 +20,7 @@
 19. Enhancement - Added Leeds East (EGCM) SMR - thanks to @rishab-alt
 20. AIRAC (2309) - Added Waddignton (EGXW) RNP approach fixes - thanks to @luke11brown (Luke Brown)
 21. AIRAC (2309) - Updated Wattisham (EGUW) Tower frequency - thanks to @rishab-alt
+22. Bug - Fixed Farnborough (EGLF) Inbound Agreements from the north via CPT. - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
