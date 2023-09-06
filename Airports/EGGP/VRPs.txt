@@ -14,7 +14,7 @@
 *Seaforth Dock:N053.27.41.000:W003.02.05.000
 *Stretton (Disused AD):N053.20.46.000:W002.31.35.000
 *Tarbock Island:N053.23.53.860:W002.48.30.410
-*Tarporley Roundabout:N053.09.51.000:W002.40.34.000
+*Tarporley Rbt:N053.09.51.000:W002.40.34.000
 *Tarvin Rbt:N053.11.41.960:W002.46.37.800
 *The Liver Building (Pier Head):N053.24.20.730:W002.59.45.190
 *Vicars Cross Rbt:N053.11.42.000:W002.50.38.000

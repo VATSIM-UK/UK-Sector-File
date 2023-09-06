@@ -17,8 +17,8 @@
 ; @preserveComment Alternative colours for the above line, change to your preference. Light 8158332 Dark 1777181
 #define LTMACAS 4915200
 #define motorway 2631720
-#define NXsidlines 9346559
-#define NXlanes 16777215
+#define NXsidlines 255
+#define NXlanes 12632256
 #define OCASregion 0
 #define OCASregionGrey 3749687
 #define PFFAVA 11842560
@@ -33,15 +33,22 @@
 #define terminal 2108486
 #define water 9204580
 #define geoDefault 5787205
+#define JJCAS 7484470
+#define JJLand 6189439
+#define JJOCAS 6249039
 
 ;SMR Colours
 #define smrACapron 10526880
 #define smrApron 5197647
-#define smrBBbuilding 4823767
+#define smrBBbuilding 12632256
 #define smrBBdisused 5393408
-#define smrBBgrass 3051799
+#define smrBBgrass 657930
 #define smrBBgrey 12299677
-#define smrBBstand 9012347
+#define smrBBhold 8388607
+#define smrBBlabelstd 7895160
+#define smrBBpath 1973790
+#define smrBBstand 5000268
+#define smrBBrunway 4210752
 #define smrBlastpad 16777088
 #define smrBlue 3932160
 #define smrBuilding 0
@@ -99,6 +106,7 @@
 #define smrNTapron 5262926
 #define smrNTbackground 2430482
 #define smrNTbuildings 22015
+#define smrNTgrass 3051799
 #define smrNTholdingpoints 13303807
 #define smrNTperitrack 1164543
 #define smrNTstandoutline 11464447

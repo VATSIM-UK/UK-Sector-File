@@ -1,6 +1,6 @@
 *Beaulieu (Disused AD):N050.48.15.000:W001.30.14.000
 *Bishops Waltham:N050.57.17.000:W001.12.35.000
-*Bullington Cross: N051.10.30.610:W001.20.21.490
+*Bullington Cross:N051.10.30.610:W001.20.21.490
 *Butser Hill Mast:N050.58.36.000:W000.58.56.000
 *Calshot Beach:N050.48.45.000:W001.18.39.000
 *Cowes:N050.45.41.270:W001.17.35.130
@@ -8,6 +8,7 @@
 *Needles L'house:N050.39.45.000:W001.35.29.000
 *New Alresford:N051.05.19.700:W001.08.59.100
 *Romsey:N050.59.27.000:W001.29.45.000
+;*Southampton (SAM) VOR:N050.57.18.900:W001.20.42.200
 *Spinnaker Tower:N050.47.44.000:W001.06.31.000
 *St Catherine's Point:N050.34.35.000:W001.17.53.000
 *West Meon Cross Roads:N051.01.52.900:W001.04.30.220

@@ -15,4 +15,4 @@
 *Roches Douvres L'house:N049.06.15.000:W002.48.48.000
 *Seymour Tower:N049.09.27.000:W002.00.28.000
 *St Germain:N049.14.00.000:W001.38.00.000
-*St Martin's Point:N049.25.18.000:W002.31.42.000
+*St Martin's Point:N049.25.17.970:W002.31.41.940
