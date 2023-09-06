@@ -25,6 +25,7 @@
 24. Enhancement - Updated Barton (EGCB) SMR - thanks to @rishab-alt
 25. Enhancement - Added Haverfordwest (EGFE) SMR - thanks to @lucak1011
 26. AIRAC (2308) - Updated Belfast Aldergrove (EGAA) SMR - thanks to @DuckWhsiperer (Matt Owen)
+27. AIRAC (2309) - Added Fairoaks (EGTF) disused taxiway - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
