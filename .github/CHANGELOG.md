@@ -1,3 +1,6 @@
+# Changes from release 2023/09a to 2023/10
+1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
+
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
 2. Bug - Corrected 8.33kHz trial ATIS frequencies - thanks to @PLM1995 (Peter Mooney)
