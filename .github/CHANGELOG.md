@@ -1,5 +1,6 @@
 # Changes from release 2023/09a to 2023/10
 1. Bug - Edited STC_M_CTR prefix - thanks to @rishab-alt
+2. Enchancment - Added Brize Norton (EGVN) Stand Numbers - thanks to @rishab-alt
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
