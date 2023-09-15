@@ -1,3 +1,11 @@
+# Changes from release 2023/09a to 2023/10
+1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
+2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
+
+# Changes from release 2023/09 to 2023/09a
+1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
+2. Bug - Corrected 8.33kHz trial ATIS frequencies - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2023/08 to 2023/09
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
@@ -8,7 +16,24 @@
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
 8. Bug - Renamed Waddington (EGXW) holding points - thanks to @calwe (Callum Webb)
 9. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
-X. Enhancement - added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike & @luke11brown (Luke Brown)
+10. AIRAC (2309) - Updated Dover (DVR) VOR/DME coordinates - thanks to @luke11brown (Luke Brown)
+11. AIRAC (2309) - Added EG D713 (Fast Jet Area South) & EG D901 (Fast Jet Area North) - thanks to @luke11brown (Luke Brown)
+12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
+13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
+14. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
+15. Enhancement - Added Yeovilton (EGDY) stand numbers - thanks to @calwe (Callum Webb)
+16. AIRAC (2309) - Updated ADN, IOM, LND and TNT VOR Coordinates - thanks to @Dev-Destructor (Debobrata Pal)
+17. Procedure Change (2309) - 8.33 Trial (AD Phase 1) - Transition EGLL/PH/SS/GP Frequencies - thanks to @AliceFord (Alice Ford)
+18. AIRAC (2309) - Removed Bristol (EGGD) stands 31R & 33L - thanks to @rishab-alt
+19. Enhancement - Added Leeds East (EGCM) SMR - thanks to @rishab-alt
+20. AIRAC (2309) - Added Waddignton (EGXW) RNP approach fixes - thanks to @luke11brown (Luke Brown)
+21. AIRAC (2309) - Updated Wattisham (EGUW) Tower frequency - thanks to @rishab-alt
+22. Bug - Fixed Farnborough (EGLF) Inbound Agreements from the north via CPT. - thanks to @kye-taylor (Kye Taylor)
+23. AIRAC (2309) - Added Biggin Hill (EGKR) new taxiway - thanks to @rishab-alt
+24. Enhancement - Updated Barton (EGCB) SMR - thanks to @rishab-alt
+25. Enhancement - Added Haverfordwest (EGFE) SMR - thanks to @lucak1011
+26. AIRAC (2308) - Updated Belfast Aldergrove (EGAA) SMR - thanks to @DuckWhsiperer (Matt Owen)
+27. AIRAC (2309) - Added Fairoaks (EGTF) disused taxiway - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)
