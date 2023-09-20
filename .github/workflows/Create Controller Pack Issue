@@ -35,7 +35,7 @@ jobs:
           echo "::set-output name=pr_title::$pr_title"
           echo "::set-output name=pr_body::$pr_body"
 
-      - name: Create Issue in Repository 2
+      - name: Create Issue in Controller Pack
         if: steps.check-label.outputs.should_create_issue == 'true'
         run: |
           curl -X POST -H "Authorization: token ${{ secrets.PUBLIC_PAT }}" \
