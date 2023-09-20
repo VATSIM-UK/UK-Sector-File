@@ -1,7 +1,11 @@
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
 2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
-3. AIRAC (2310) - Renamed & updated Prestwick (EGPK) VRPs - thanks to @ChrisXPP (Christoph Reule)
+3. Bug - Corrected EGAA inbounds to descend via BELZU - thanks to @ChrisXPP (Christoph Reule)
+4. Bug - Removed duplicate fix definitions - thanks to @AliceFord (Alice Ford)
+5. Enhancement - Defined Blackpool (EGNH) ATZ - thanks to @PLM1995 (Peter Mooney)
+6. AIRAC (2310) - Updated BEL, BHD, OTR, POL, SFD, STU, TLA & TRN VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+7. AIRAC (2310) - Renamed Prestwick (EGPK) VRPs - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
