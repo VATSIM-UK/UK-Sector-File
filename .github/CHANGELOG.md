@@ -4,7 +4,7 @@
 3. Bug - Corrected EGAA inbounds to descend via BELZU - thanks to @ChrisXPP (Christoph Reule)
 4. Bug - Removed duplicate fix definitions - thanks to @AliceFord (Alice Ford)
 5. Enhancement - Defined Blackpool (EGNH) ATZ - thanks to @PLM1995 (Peter Mooney)
-6. AIRAC (2310) - Updated BEL, BHD VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+6. AIRAC (2310) - Updated BEL, BHD & TRN VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
