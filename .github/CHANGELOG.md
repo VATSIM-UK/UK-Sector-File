@@ -5,6 +5,7 @@
 4. Bug - Removed duplicate fix definitions - thanks to @AliceFord (Alice Ford)
 5. Enhancement - Defined Blackpool (EGNH) ATZ - thanks to @PLM1995 (Peter Mooney)
 6. AIRAC (2310) - Updated BEL, BHD, OTR, POL, SFD, STU, TLA & TRN VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+7. AIRAC (2310) - Renamed Prestwick (EGPK) VRPs - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
