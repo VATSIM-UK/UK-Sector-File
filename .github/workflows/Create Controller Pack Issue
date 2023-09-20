@@ -1,0 +1,43 @@
+name: Create Issue on PR Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if PR was merged with the specific label
+        id: check-label
+        run: |
+          labels=$(curl -s -H "Authorization: Bearer ${{ secrets.PAT_FOR_REPO_2 }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/labels" | jq -r '.[].name')
+
+          if [[ $labels == *"your-specific-label"* ]]; then
+            echo "::set-output name=should_create_issue::true"
+          else
+            echo "::set-output name=should_create_issue::false"
+          fi
+
+      - name: Get PR Details
+        id: pr-details
+        if: steps.check-label.outputs.should_create_issue == 'true'
+        run: |
+          pr_data=$(curl -s -H "Authorization: Bearer ${{ secrets.PAT_FOR_REPO_2 }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}")
+
+          pr_title=$(echo "$pr_data" | jq -r '.title')
+          pr_body=$(echo "$pr_data" | jq -r '.body')
+
+          echo "::set-output name=pr_title::$pr_title"
+          echo "::set-output name=pr_body::$pr_body"
+
+      - name: Create Issue in Repository 2
+        if: steps.check-label.outputs.should_create_issue == 'true'
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.PAT_FOR_REPO_2 }}" \
+            -d '{"title":"'"${{ steps.pr-details.outputs.pr_title }}"'","body":"'"${{ steps.pr-details.outputs.pr_body }}"'"}' \
+            "https://api.github.com/repos/REPO2_OWNER/REPO2_NAME/issues"
