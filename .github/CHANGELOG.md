@@ -4,7 +4,7 @@
 3. Bug - Corrected EGAA inbounds to descend via BELZU - thanks to @ChrisXPP (Christoph Reule)
 4. Bug - Removed duplicate fix definitions - thanks to @AliceFord (Alice Ford)
 5. Enhancement - Defined Blackpool (EGNH) ATZ - thanks to @PLM1995 (Peter Mooney)
-#. Procedure Change (2310) - 8.33 kHz Trial (ENR Phase 2) - Transition all UK enroute non-event frequencies - thanks to @ChrisXPP (Christoph Reule)
+6. Procedure Change (2310) - 8.33 kHz Trial (ENR Phase 2) - Transitioned all UK enroute non-event frequencies - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
