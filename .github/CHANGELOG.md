@@ -9,6 +9,8 @@
 8. AIRAC (2310) - Updated Oxford (EGTK) SMR hold points - thanks to @PLM1995 (Peter Mooney)
 9. Procedure Change (2310) - 8.33 kHz Trial (ENR Phase 2) - Transitioned all UK enroute non-event frequencies - thanks to @ChrisXPP (Christoph Reule)
 
+10. Enhancement - Updated all conventional SIDs - thanks to @AliceFord (Alice Ford)
+
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
 2. Bug - Corrected 8.33kHz trial ATIS frequencies - thanks to @PLM1995 (Peter Mooney)
