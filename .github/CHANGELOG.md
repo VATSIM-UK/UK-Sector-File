@@ -12,7 +12,8 @@
 11. Enhancement - Added Brize Norton (EGVN) Stand Numbers - thanks to @rishab-alt
 12. AIRAC (2310) - Changed "Hawarden Director" callsign to "Hawarden Radar" - thanks to @ChrisXPP (Christoph Reule)
 13. Bug - Updated Leuchars (EGQL) SMR - thanks to @PLM1995 (Peter Mooney)
-X. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
+14. Enhancement - Added tickless centrelines for LTC displays - thanks to @SamLefevre (Samuel Lefevre)
+15. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
