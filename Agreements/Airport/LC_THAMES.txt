@@ -1,8 +1,0 @@
-;Westerlies
-;CPT and BPK
-COPX:EGLC:27:D231G:*:*:LCTWR:Thames:3000:*:SID
-;CLN, DVR, LYD and SAM
-COPX:EGLC:27:D075R:*:*:LCTWR:Thames:3000:*:SID
-;Easterlies
-;CLN, DVR, LYD and SAM
-COPX:EGLC:09:D020N:*:*:LCTWR:Thames:3000:*:SID
