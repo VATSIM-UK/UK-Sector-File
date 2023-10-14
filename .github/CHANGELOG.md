@@ -1,3 +1,6 @@
+# Changes from release 2023/10 to 2023/11
+#. AIRAC (2311) - Updated Blackbushe (EGLK) runway threshold coordinates - thanks to @ChrisXPP (Christoph Reule)
+
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
 2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
