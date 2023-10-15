@@ -1,3 +1,6 @@
+# Changes from release 2023/10 to 2023/11
+1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
+
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
 2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
@@ -11,7 +14,9 @@
 10. Procedure Change (2310) - 8.33 kHz Trial (AD Phase 2) - Transitioned EGKK frequencies - thanks to @ChrisXPP (Christoph Reule)
 11. Enhancement - Added Brize Norton (EGVN) Stand Numbers - thanks to @rishab-alt
 12. AIRAC (2310) - Changed "Hawarden Director" callsign to "Hawarden Radar" - thanks to @ChrisXPP (Christoph Reule)
-13. AIRAC (2310) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
+13. Bug - Updated Leuchars (EGQL) SMR - thanks to @PLM1995 (Peter Mooney)
+14. Enhancement - Added tickless centrelines for LTC displays - thanks to @SamLefevre (Samuel Lefevre)
+15. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
