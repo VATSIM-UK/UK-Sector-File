@@ -3,6 +3,7 @@
 2. AIRAC (2311) - Updated SUM VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
 3. Enhancement - Removed all data withdrawn prior to AIRAC 2021/11 (2111) - thanks to @hazzas-99
 4. AIRAC (2311) - Updated Blackbushe (EGLK) runway threshold coordinates - thanks to @ChrisXPP (Christoph Reule)
+x. AIRAC (2311) - Updated Mold Town VRP name - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
