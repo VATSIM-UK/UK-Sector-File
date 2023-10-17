@@ -5,6 +5,7 @@
 4. AIRAC (2311) - Updated Blackbushe (EGLK) runway threshold coordinates - thanks to @ChrisXPP (Christoph Reule)
 5. AIRAC (2311) - Updated Mold Town VRP name - thanks to @ChrisXPP (Christoph Reule)
 6. Bug - Fixed Thames agreement display to TC NE via BPK and CLN (ODUKU) - thanks to @hazzas-99
+7. Enhancement - Added basic Benbecula (EGPL) sector ownership to enable auto METAR display to Scottish - thanks to @hazzas-99
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
