@@ -1,3 +1,15 @@
+# Changes from release 2023/10 to 2023/11
+1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
+2. AIRAC (2311) - Updated SUM VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+3. Enhancement - Removed all data withdrawn prior to AIRAC 2021/11 (2111) - thanks to @hazzas-99
+4. AIRAC (2311) - Updated Blackbushe (EGLK) runway threshold coordinates - thanks to @ChrisXPP (Christoph Reule)
+5. AIRAC (2311) - Updated Mold Town VRP name - thanks to @ChrisXPP (Christoph Reule)
+6. Bug - Fixed Thames agreement display to TC NE via BPK and CLN (ODUKU) - thanks to @hazzas-99
+7. Enhancement - Added basic Benbecula (EGPL) sector ownership to enable auto METAR display to Scottish - thanks to @hazzas-99
+8. Procedure Change (2311) - Added temporary Cardiff (EGFF) positions for WorldFlight - thanks to @ChrisXPP (Christoph Reule)
+9. Procedure Change (2311) - 8.33 Transition (External) - Frequencies updated for Belux and French vACCs - thanks to @hazzas-99
+10. Bug - Removed Prestwick (EGPK) ground position - thanks to @hazzas-99
+
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
 2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
@@ -9,6 +21,11 @@
 8. AIRAC (2310) - Updated Oxford (EGTK) SMR hold points - thanks to @PLM1995 (Peter Mooney)
 9. Procedure Change (2310) - 8.33 kHz Trial (ENR Phase 2) - Transitioned all UK enroute non-event frequencies - thanks to @ChrisXPP (Christoph Reule)
 10. Procedure Change (2310) - 8.33 kHz Trial (AD Phase 2) - Transitioned EGKK frequencies - thanks to @ChrisXPP (Christoph Reule)
+11. Enhancement - Added Brize Norton (EGVN) Stand Numbers - thanks to @rishab-alt
+12. AIRAC (2310) - Changed "Hawarden Director" callsign to "Hawarden Radar" - thanks to @ChrisXPP (Christoph Reule)
+13. Bug - Updated Leuchars (EGQL) SMR - thanks to @PLM1995 (Peter Mooney)
+14. Enhancement - Added tickless centrelines for LTC displays - thanks to @SamLefevre (Samuel Lefevre)
+15. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
