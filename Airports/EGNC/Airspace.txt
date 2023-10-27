@@ -1,0 +1,2 @@
+;EGNC Carlisle ATZ
+@ARC(region EGNC Carlisle ATZ centre N054.56.15.000 W002.48.32.000 radius 2)
