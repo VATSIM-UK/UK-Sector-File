@@ -1,0 +1,2 @@
+;EGTB Wycombe Air Park/Booker ATZ
+@ARC(region EGTB Wycombe Air Park/Booker ATZ centre N051.36.42.000 W000.48.30.000 radius 2)
