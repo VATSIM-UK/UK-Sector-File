@@ -10,6 +10,7 @@
 9. Procedure Change (2311) - 8.33 Transition (External) - Frequencies updated for Belux and French vACCs - thanks to @hazzas-99
 10. Bug - Removed Prestwick (EGPK) ground position - thanks to @hazzas-99
 11. Procedure Change (2311) - 8.33 Transition (External) - Frequencies and sectorisation updated for Copenhagen and Ireland - thanks to @hazzas-99
+12. Bug - Removed 'catch all' COPX lines to prevent incorrect NFL display for inbounds from MUAC Delta to Clacton - thanks to @hazzas-99
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
