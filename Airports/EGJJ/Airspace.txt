@@ -1,0 +1,2 @@
+;EGJJ Jersey ATZ
+@ARC(region EGJJ Jersey ATZ centre N049.12.29.000 W002.11.44.000 radius 2)
