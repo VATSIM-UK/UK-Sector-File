@@ -1,0 +1,2 @@
+;EGSR Earls Colne ATZ
+@ARC(region EGSR Earls Colne ATZ centre N051.54.52.000 E000.40.57.000 radius 2)
