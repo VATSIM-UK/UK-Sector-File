@@ -1,0 +1,2 @@
+;EGCW Welshpool ATZ
+@ARC(region EGCW Welshpool ATZ centre N052.37.43.000 W003.09.12.000 radius 2)

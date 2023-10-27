@@ -1,0 +1,2 @@
+;EGBW Wellesbourne Mountford ATZ
+@ARC(region EGBW Wellesbourne Mountford ATZ centre N052.11.32.000 W001.36.52.000 radius 2)
