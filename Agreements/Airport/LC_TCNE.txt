@@ -1,3 +1,0 @@
-;Easterlies
-;CPT and BPK
-COPX:EGLC:09:D149L:*:*:LCTWR:London TC NE:3000:*:SID
