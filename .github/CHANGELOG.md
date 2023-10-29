@@ -13,6 +13,7 @@
 12. Bug - Removed 'catch all' COPX lines to prevent incorrect NFL display for inbounds from MUAC Delta to Clacton - thanks to @hazzas-99
 13. Enhancement - Updated all Conventional SIDs - thanks to @AliceFord (Alice Ford)
 14. AIRAC (2311) - Updated Honington (EGXH) basic information - thanks to @ChrisXPP (Christoph Reule)
+15. AIRAC (2311) - Added Topcliffe (EGXZ) runway 07/25 - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
