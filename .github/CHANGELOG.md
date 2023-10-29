@@ -11,6 +11,7 @@
 10. Bug - Removed Prestwick (EGPK) ground position - thanks to @hazzas-99
 11. Procedure Change (2311) - 8.33 Transition (External) - Frequencies and sectorisation updated for Copenhagen and Ireland - thanks to @hazzas-99
 12. Bug - Removed 'catch all' COPX lines to prevent incorrect NFL display for inbounds from MUAC Delta to Clacton - thanks to @hazzas-99
+x. Enhancement - Updated all Conventional SIDs - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
@@ -28,7 +29,6 @@
 13. Bug - Updated Leuchars (EGQL) SMR - thanks to @PLM1995 (Peter Mooney)
 14. Enhancement - Added tickless centrelines for LTC displays - thanks to @SamLefevre (Samuel Lefevre)
 15. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
-x. Enhancement - Updated all Conventional SIDs - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/09 to 2023/09a
 1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
