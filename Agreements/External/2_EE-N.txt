@@ -1,2 +1,4 @@
+FIR_COPX:EGGW:*:ELTEG:*:*:London S2:LFEE N:35000:*:^ELTEG
+
 FIR_COPX:*:*:RINTI:*:*:London S2:LFEE N:*:*:ELTEG
 FIR_COPX:*:*:MOTOX:*:*:London S2:LFEE N:*:*:ING

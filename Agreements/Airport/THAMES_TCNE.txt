@@ -1,7 +1,11 @@
-;CPT and BPK
-COPX:EGLC:*:BPK:*:*:Thames:London TC NE:3000:*:BPK
-;CLN
-COPX:EGLC:*:CLN27:*:*:Thames:London TC NE:4000:*:CLN
+;27 - via BPK
+COPX:EGLC:*:LCN05:*:*:Thames:London TC NE:3000:*:BPK
+;09 - via BPK
+COPX:EGLC:*:LCN03:*:*:Thames:London TC NE:3000:*:BPK
+
+;ODUKU-CLN
+COPX:EGLC:*:ODUKU:*:*:Thames:London TC NE:4000:*:ODUKU
+COPX:EGLC:*:*:CLN:*:Thames:London TC NE:4000:*:ODUKU
 
 ;Southend EVNAS and LAM
 COPX:EGMC:*:LAM:*:*:Thames:London TC NE:4000:*:^LAM
