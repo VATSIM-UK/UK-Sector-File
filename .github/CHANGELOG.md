@@ -16,6 +16,7 @@
 15. AIRAC (2311) - Added Topcliffe (EGXZ) runway 07/25 - thanks to @ChrisXPP (Christoph Reule)
 16. AIRAC (2311) - Topcliffe (EGXZ) MATZ updated - thanks to @robbo599	(Lee Roberts)
 17. Enhancement - Added basic information for Syerston (EGXY) - thanks to @ChrisXPP (Christoph Reule)
+18. Procedure Change (2311) - Added Dover -> Reims North agreements for EGKK/GW outbounds via RINTI-ELTEG - thanks to @hazzas-99
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
