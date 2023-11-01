@@ -1,0 +1,2 @@
+;Syerston ATZ G SFC-2000
+@ARC(region EGXY Syerston ATZ centre N053.01.24.000 W000.54.42.000 radius 2.0)
