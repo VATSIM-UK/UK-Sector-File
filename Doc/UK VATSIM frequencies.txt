@@ -4,26 +4,12 @@ However, sometimes the frequency published for VATSIM needs to be different. Thi
 
 - A frequency conflict with another VATSIM ATC position
 - VOR frequencies used for ATIS (which are impossible to use with current pilot clients)
-- 8.33 kHz-spaced frequencies, which can't be selected in FS/pilot client
 
 The following is a list of published UK VATSIM frequencies that differ from their real-world counterpart:
 
-Cambridge Approach      120.965, 120.975 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
 Guernsey ATIS           109.400, 118.900 on VATSIM (Guernsey radar freq)
-Hawarden Radar          120.055, 120.075 on VATSIM (8.33 kHz-spaced frequency - unknown conflict)
 Inverness ATIS          109.200, 124.700 on VATSIM (ATIS frequency shared with Inverness VOR)
 Kirkwall ATIS           108.600, 119.425 (ATIS frequency shared with Kirkwall VOR)
-London/Luton ATIS       120.585, 120.575 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
-Oxford Director         125.090, 125.100 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
-Southend Director       128.965, 128.950 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
-Southend Tower          127.730, 126.725 on VATSIM (8.33 kHz-spaced frequency - not 127.720 due conflict with Langen)
-Stapleford Radio        122.800, 122.825 on VATSIM (Radio frequency shared with UNICOM)
-St Athan Tower          122.865, 122.875 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
-St Athan ATIS           130.565, 130.550 on VATSIM (8.33 kHz-spaced frequency - no equivalent 25 kHz channel)
-Stornoway APP/TWR/AFIS  123.500, 119.470 on VATSIM (8.33 kHz-spaced frequency)
+Stapleford Radio        122.800, 122.805 on VATSIM (Radio frequency shared with UNICOM)
 Stornoway ATIS          115.100, 121.600 on VATSIM (ATIS frequency shared with Stornoway VOR)
 Wick ATIS               113.600, 121.625 on VATSIM (ATIS frequency shared with Wick VOR)
-
-
-Note: For reasons of brevity, only those frequencies with a real world 8.33 kHz channel that doesn't have an 
-equivalent 25 kHz spacing channel are listed above.

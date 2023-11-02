@@ -1,1 +1,1 @@
-EGBW_I_TWR:Wellesbourne Information:124.025:BWIN:E:EGBW:TWR:-:-:::N052.11.32.000:W001.32.52.000::
+EGBW_I_TWR:Wellesbourne Information:124.030:BWIN:E:EGBW:TWR:-:-:::N052.11.32.000:W001.32.52.000::
