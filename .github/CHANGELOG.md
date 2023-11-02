@@ -19,6 +19,7 @@
 18. Procedure Change (2311) - Added Dover -> Reims North agreements for EGKK/GW outbounds via RINTI-ELTEG - thanks to @hazzas-99
 19. AIRAC (2311) - Added Southampton (EGHI) runway extension - thanks to @rishab-alt
 20. Bug - Corrected sector ownership (West/Daventry/Worthing) in ELSOF/DIDZA/Brize area - thanks to @hazzas-99
+21. Bug - Corrected Leeds East (EGCM) RNP 24 Approach IF CM24I - thanks to @Hxmii5490
 
 # Changes from release 2023/09a to 2023/10
 1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
