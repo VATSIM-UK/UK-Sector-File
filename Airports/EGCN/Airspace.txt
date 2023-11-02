@@ -1,2 +1,0 @@
-;EGCN Doncaster Sheffield ATZ
-@ARC(region EGCN Doncaster Sheffield ATZ centre N053.28.31.000 W001.00.15.000 radius 2.5)

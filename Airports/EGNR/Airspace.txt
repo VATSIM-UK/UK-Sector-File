@@ -1,2 +1,0 @@
-;EGNR Hawarden ATZ
-@ARC(region EGNR Hawarden ATZ centre N053.10.41.000 W002.58.40.000 radius 2.5)

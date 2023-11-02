@@ -1,2 +1,0 @@
-;EGJB Guernsey ATZ
-@ARC(region EGJB Guernsey ATZ centre N049.26.06.000 W002.36.10.000 radius 2)

@@ -1,2 +1,0 @@
-;EGJA Alderney ATZ
-@ARC(region EGJA Alderney ATZ centre N049.42.24.000 W002.12.52.000 radius 2)
