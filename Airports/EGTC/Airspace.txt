@@ -1,0 +1,2 @@
+;EGTC Cranfield ATZ
+@ARC(region EGTC Cranfield ATZ centre N052.04.20.000 W000.37.00.000 radius 2)

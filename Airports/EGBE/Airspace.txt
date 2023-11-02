@@ -1,0 +1,2 @@
+;EGBE Coventry ATZ
+@ARC(region EGBE Coventry ATZ centre N052.22.11.000 W001.28.47.000 radius 2.5)
