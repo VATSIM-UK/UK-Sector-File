@@ -1,2 +1,0 @@
-;EGWU Northolt ATZ
-@ARC(region EGWU Northolt ATZ centre N051.33.10.000 W000.25.11.000 radius 2)
