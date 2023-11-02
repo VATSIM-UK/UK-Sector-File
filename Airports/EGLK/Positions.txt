@@ -1,1 +1,1 @@
-EGLK_I_TWR:Blackbushe Information:122.300:LKIN:S:EGLK:TWR:-:-:::N051.19.26.000:W000.50.51.000::
+EGLK_I_TWR:Blackbushe Information:122.305:LKIN:S:EGLK:TWR:-:-:::N051.19.26.000:W000.50.51.000::
