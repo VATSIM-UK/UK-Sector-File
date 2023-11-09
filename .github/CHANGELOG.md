@@ -1,3 +1,6 @@
+# Changes from release 2023/11 to 2023/12
+1. AIRAC (2312) - Added New Waddington danger areas - thanks to @luke11brown (Luke Brown)
+
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
 2. AIRAC (2311) - Updated SUM VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
