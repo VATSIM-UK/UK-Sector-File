@@ -1,6 +1,7 @@
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2312) - Removed Gatwick (EGKK) HARDY 5M/5V SIDs - thanks to @ChrisXPP (Christoph Reule)
+3. AIRAC (2312) - Renamed enroute fixes - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
