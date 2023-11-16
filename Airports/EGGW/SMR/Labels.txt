@@ -1,9 +1,8 @@
-;Tug   Release points
-
-"TP-X" N051.52.48.775 W000.22.26.324 standHold
-"TP-V" N051.52.49.732 W000.22.21.866 standHold
-"TP-Y" N051.52.51.911 W000.22.17.476 standHold
-"TP-Z" N051.52.46.954 W000.22.17.653 standHold
+;Tug Release Points
+"TP-V" N051.52.49.732 W000.22.21.866 smrTugPoint
+"TP-X" N051.52.48.775 W000.22.26.324 smrTugPoint
+"TP-Y" N051.52.51.911 W000.22.17.476 smrTugPoint
+"TP-Z" N051.52.46.954 W000.22.17.653 smrTugPoint
 
 ;Stands 
 "1" N051.52.42.266 W000.22.42.627 standHold
