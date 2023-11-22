@@ -1,1 +1,1 @@
-EGEC_I_TWR:Campbeltown Information:125.900:ECIN:T:EGEC:TWR:-:-:::N055.26.15.000:W005.41.17.000::
+EGEC_I_TWR:Campbeltown Information:125.905:ECIN:T:EGEC:TWR:-:-:::N055.26.15.000:W005.41.17.000::

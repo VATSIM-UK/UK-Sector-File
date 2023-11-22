@@ -1,0 +1,2 @@
+;EGFA West Wales Aberporth ATZ
+@ARC(region EGFA West Wales Aberporth ATZ centre N052.06.53.000 W004.33.34.000 radius 2)

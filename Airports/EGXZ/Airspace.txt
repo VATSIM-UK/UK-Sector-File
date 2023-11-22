@@ -1,2 +1,5 @@
 ;EGXZ Topcliffe MATZ 
 @ARC(region EGXZ Topcliffe MATZ centre N054.12.20.260 W001.22.53.860 radius 5)
+
+;EGXZ Topcliffe ATZ
+@ARC(region EGXZ Topcliffe ATZ centre N054.12.20.000 W002.31.56.000 radius 2)
