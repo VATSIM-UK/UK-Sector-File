@@ -1,1 +1,1 @@
-EGBO_I_TWR:Halfpenny Green Information:123.000:BOIN:O:EGBO:TWR:-:-:::N052.31.03.000:W002.15.35.000::
+EGBO_I_TWR:Halfpenny Green Information:123.005:BOIN:O:EGBO:TWR:-:-:::N052.31.03.000:W002.15.35.000::

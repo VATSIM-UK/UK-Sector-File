@@ -1,0 +1,2 @@
+;EGWC Cosford ATZ
+@ARC(region EGWC Cosford ATZ centre N052.38.26.000 W002.18.19.000 radius 2)

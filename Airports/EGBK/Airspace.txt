@@ -1,0 +1,2 @@
+;EGBK Northampton/Sywell ATZ
+@ARC(region EGBK Northampton/Sywell ATZ centre N052.18.22.000 W000.47.32.000 radius 2)

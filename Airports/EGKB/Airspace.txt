@@ -1,0 +1,2 @@
+;EGKB Biggin Hill ATZ
+@ARC(region EGKB Biggin Hill ATZ centre N051.19.51.000 E000.01.57.000 radius 2.5)

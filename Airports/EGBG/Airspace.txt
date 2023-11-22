@@ -1,0 +1,2 @@
+;EGBG Leicester ATZ
+@ARC(region EGBG Leicester ATZ centre N052.36.28.000 W001.01.55.000 radius 2)

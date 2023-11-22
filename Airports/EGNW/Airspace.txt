@@ -1,0 +1,2 @@
+;EGNW Wickenby ATZ
+@ARC(region EGNW Wickenby ATZ centre N053.19.01.000 W000.20.56.000 radius 2)
