@@ -2,6 +2,7 @@
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2312) - Removed Gatwick (EGKK) HARDY 5M/5V SIDs - thanks to @ChrisXPP (Christoph Reule)
 3. AIRAC (2312) - Renamed enroute fixes - thanks to @ChrisXPP (Christoph Reule)
+4. Bug---Fixed Aldergrove Tower (EGAA_TWR) Arrival airport ownership - thanks to @VATSIM-UK-newbie
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
