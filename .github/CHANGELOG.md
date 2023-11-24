@@ -6,6 +6,7 @@
 5. Procedure Change (2312) - Removed withdrawn 25 kHz external position definitions - thanks to @ChrisXPP (Christoph Reule)
 6. Procedure Change (2312) - Removed temporary Cardiff (EGFF) positions - thanks to @ChrisXPP (Christoph Reule)
 7. Bug - Fixed Aldergrove Tower (EGAA_TWR) Arrival airport ownership - thanks to @VATSIM-UK-newbie
+8. AIRAC (2311) - Added Northolt (EGWU) stands - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
