@@ -8,6 +8,7 @@
 7. Bug - Fixed Aldergrove Tower (EGAA_TWR) Arrival airport ownership - thanks to @VATSIM-UK-newbie
 8. AIRAC (2311) - Added Northolt (EGWU) stands - thanks to @PLM1995 (Peter Mooney)
 9. Enhancement - Added Heathrow (EGLL) Transitions - thanks to @AliceFord (Alice Ford)
+10. Bug - Fixed Stornoway (EGPO) ATZ Size - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
