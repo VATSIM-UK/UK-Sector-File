@@ -5,5 +5,5 @@ FIR_COPX:*:*:EVRIN:EIME:*:London S9:EISN 4GU:*:*:EVRIN
 FIR_COPX:*:*:LEDGO:*:*:London S9:EISN 4GU:*:*:LEDGO
 FIR_COPX:*:*:LEDGO:*:*:London S9:EISN 4GS:*:*:LEDGO
 
-FIR_COPX:*:*:MOPAT:*:*:London S9:EISN 4GU:*:*:AbmOVFOX
-FIR_COPX:*:*:MOPAT:*:*:London S9:EISN 4GS:*:*:AbmOVFOX
+FIR_COPX:*:*:MOPAT:*:*:London S9:EISN 4GU:*:*:AbmIJALA
+FIR_COPX:*:*:MOPAT:*:*:London S9:EISN 4GS:*:*:AbmIJALA
