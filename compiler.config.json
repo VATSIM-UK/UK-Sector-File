@@ -406,25 +406,25 @@
             "lower_airways": [
                 {
                     "type": "folder",
-                    "folder": "Airways/RNAV/Lower"
+                    "folder": "ATS Routes/RNAV/Lower"
                 },
                 {
                     "type": "folder",
-                    "folder": "Airways/Conventional - Non-UK/Lower"
+                    "folder": "ATS Routes/Conventional - Non-UK/Lower"
                 },
                 {
                     "type": "folder",
-                    "folder": "Airways/Helicopter"
+                    "folder": "ATS Routes/Helicopter"
                 }
             ],
             "upper_airways": [
                 {
                     "type": "folder",
-                    "folder": "Airways/Other"
+                    "folder": "ATS Routes/Other"
                 },
                 {
                     "type": "folder",
-                    "folder": "Airways/RNAV/Upper"
+                    "folder": "ATS Routes/RNAV/Upper"
                 }
             ],
             "sid_airspace": [
