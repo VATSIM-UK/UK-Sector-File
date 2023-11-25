@@ -10,6 +10,7 @@
 9. Enhancement - Added Heathrow (EGLL) Transitions - thanks to @AliceFord (Alice Ford)
 10. Enhancement - Renamed `Airways` folder to `ATS Routes` - thanks to @AliceFord (Alice Ford)
 11. AIRAC (2312) - Updated and improved Luton (EGGW) SMR - thanks to @rishab-alt
+11. Enhancement - Added Halton (EGWN) AGCS Frequency - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
