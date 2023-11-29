@@ -14,6 +14,7 @@
 13. Enhancement - Updated Highlands and Islands tower/approach sectorisation and ownership - thanks to @hazzas-99
 14. Enhancement - Refactored SID and STAR fixes - thanks to @AliceFord (Alice Ford)
 15. AIRAC (2312) - Added New Waddington danger areas - thanks to @luke11brown (Luke Brown)
+16. Bug - Removed COPX lines involving TWR positions since tags are not assumed by TWR - thanks to @hazzas-99
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
