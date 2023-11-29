@@ -1,5 +1,0 @@
-;Westerlies BPK
-COPX:EGLL:*:CHT:*:*:LLDEP:London TC NE:6000:*:SID
-
-;Easterlies BPK
-COPX:EGLL:*:D196F:*:*:LLDEP:London TC NE:6000:*:SID

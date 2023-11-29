@@ -1,6 +1,0 @@
-;Westerlies DET
-COPX:EGLL:27L:EPM:*:*:LLDEP:London TC SE:6000:*:SID
-COPX:EGLL:27R:EPM:*:*:LLDEP:London TC SE:6000:*:SID
-
-;Easterlies DET
-COPX:EGLL:*:DE34A:*:*:LLDEP:London TC SE:6000:*:SID
