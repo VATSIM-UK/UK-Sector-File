@@ -1,3 +1,6 @@
+# Changes from release 2023/12 to 2023/13
+1. Bug - Corrected Waddington EGXW ATZ - thanks to @robbo599 (Lee Roberts)
+
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2312) - Removed Gatwick (EGKK) HARDY 5M/5V SIDs - thanks to @ChrisXPP (Christoph Reule)
