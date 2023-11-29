@@ -13,6 +13,7 @@
 12. Bug - Fixed Kirkwall (EGPA) ATIS ownership error - thanks to @hazzas-99
 13. Enhancement - Updated Highlands and Islands tower/approach sectorisation and ownership - thanks to @hazzas-99
 14. Enhancement - Refactored SID and STAR fixes - thanks to @AliceFord (Alice Ford)
+15. AIRAC (2312) - Added New Waddington danger areas - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
