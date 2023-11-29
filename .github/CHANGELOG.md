@@ -12,7 +12,11 @@
 11. AIRAC (2312) - Updated and improved Luton (EGGW) SMR - thanks to @rishab-alt
 12. Bug - Fixed Kirkwall (EGPA) ATIS ownership error - thanks to @hazzas-99
 13. Enhancement - Updated Highlands and Islands tower/approach sectorisation and ownership - thanks to @hazzas-99
-14. Enhancement - Added Halton (EGWN) AGCS Frequency - thanks to @AliceFord (Alice Ford)
+14. Enhancement - Refactored SID and STAR fixes - thanks to @AliceFord (Alice Ford)
+15. AIRAC (2312) - Added New Waddington danger areas - thanks to @luke11brown (Luke Brown)
+16. Bug - Removed COPX lines involving TWR positions since tags are not assumed by TWR - thanks to @hazzas-99
+17. Bug - Fixed Stornoway (EGPO) ATZ Size - thanks to @lucak1011 (Luca Kulaga)
+18. Enhancement - Added Halton (EGWN) AGCS Frequency - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
