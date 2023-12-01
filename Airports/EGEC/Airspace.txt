@@ -1,0 +1,2 @@
+;EGEC Campbeltown ATZ
+@ARC(region EGEC Campbeltown ATZ centre N055.26.15.000 W005.41.17.000 radius 2)

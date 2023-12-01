@@ -14,8 +14,6 @@ jobs:
   build:
     name: "Compile Sectorfile"
     runs-on: ubuntu-latest
-    env:
-      COMPILER_VERSION: 1.13.0
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -25,7 +23,7 @@ jobs:
 
       - name: Download Compiler
         run: |
-          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/download/$COMPILER_VERSION/cli-linux-x64
+          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64
           chmod +x ./compiler
 
       - name: Set Build Version
@@ -44,3 +42,12 @@ jobs:
         with:
           name: UK Sector File
           path: ".bin/UK.*"
+
+      - name: Trigger Workflow in UK Controller Pack
+        if: github.event_name == 'release' && github.event.action == 'published'
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PUBLIC_PAT }}
+          repository: VATSIM-UK/uk-controller-pack
+          event-type: auto_airac_actions
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'

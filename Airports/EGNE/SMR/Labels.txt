@@ -5,4 +5,3 @@
 "C1" N053.16.43.636 W000.57.35.768 standhold
 ;Helipads
 "H"  N053.16.52.798 W000.56.57.497 standhold
-"H"  N053.16.51.790 W000.56.58.746 standhold

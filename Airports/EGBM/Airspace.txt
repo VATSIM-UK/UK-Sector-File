@@ -1,0 +1,2 @@
+;EGBM Tatenhill ATZ
+@ARC(region EGBM Tatenhill ATZ centre N052.48.51.000 W001.45.53.000 radius 2)

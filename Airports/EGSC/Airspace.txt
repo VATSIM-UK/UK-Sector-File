@@ -1,0 +1,2 @@
+;EGSC Cambridge ATZ
+@ARC(region EGSC Cambridge ATZ centre N052.12.18.000 E000.10.30.000 radius 2.5)

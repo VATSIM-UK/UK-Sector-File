@@ -6,4 +6,4 @@
 ;*North Terminal:N051.09.40.000:W000.10.43.280
 *Puckeridge A10/A120:N051.53.06.000:E000.00.16.000
 ;*Southern Hangar:N051.08.47.830:W000.10.22.280
-*Tunbridge Wells:N051.07.59.988:E000.15.54.000
+*Tunbridge Wells:N051.08.00.000:E000.15.54.000
