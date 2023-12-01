@@ -31,6 +31,8 @@ class AipAPI:
         outputs = {}
 
         for airway in airways:
+            if "AmdtInsertedAIRAC" in str(airway):  # skip amendments
+                continue
             tbody = list(airway.children)[2]
             wpts = list(tbody.children)
             routeTitleHTML = wpts[0]
@@ -41,7 +43,6 @@ class AipAPI:
 
             outputs[airwayName] = {"waypoints": []}
 
-            print(airwayName)
             wpts.pop(0)  # remove name
 
             # deal with first wpt
@@ -81,8 +82,6 @@ class AipAPI:
                             lowerLimit = lowerLimit[1].string[:2]
                         else:
                             lowerLimit = lowerLimit[4].string
-
-                    print(upperLimit, lowerLimit)
                     
                     outputs[airwayName]["waypoints"].append({"name": wptName, "lowerlimit": int(lowerLimit), "upperlimit": int(upperLimit)})
                 except IndexError:
