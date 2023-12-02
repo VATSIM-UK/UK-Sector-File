@@ -50,8 +50,8 @@ class Runner:
         elif self.args["page"] == "ENR3.2" or self.args["page"] == "all":
             newData = self.aipApi.parseENR3_2()
 
-            lowerAirways = os.listdir("../../Airways/RNAV/Lower")
-            upperAirways = os.listdir("../../Airways/RNAV/Upper")
+            lowerAirways = os.listdir("../../ATS Routes/RNAV/Lower")
+            upperAirways = os.listdir("../../ATS Routes/RNAV/Upper")
 
             for airway in newData.keys():
                 prevLowerIndex = None
