@@ -1,0 +1,12 @@
+;PinS 263 Instrument Approach Procedure via VH26N and VH26E 
+VH26N N052.08.53.37 W002.36.53.55
+VH26I N052.05.55.50 W002.36.11.10 ; Dupe for Approach via VH26E and VH26S
+VH26F N052.05.29.28 W002.40.59.85 ; Dupe for Approach via VH26E and VH26S
+VH26M N052.05.00.87 W002.46.10.62 ; Dupe for Approach via VH26E and VH26S
+VHM01 N052.04.34.47 W002.50.59.15 ; Dupe for Approach via VH26E and CH26S
+VHM02 N052.01.36.47 W002.50.16.06 ; Dupe for Approach via VH26S
+VH26S N052.02.57.67 W002.35.28.68 ; Dupe for approach via VH26E and VH26S
+VH26E N052.06.21.75 W002.31.22.34 ; Approach via VH26E
+
+
+
