@@ -1,6 +1,5 @@
 # Changes from release 2023/12 to 2023/13
-1. AIRAC (2313) - Remove Heathrow (EGLL) MAY SIDs - thanks to @TheoBearman
-2. AIRAC (2313) - Remove Manchester (EGCC) MONTY SIDs - thanks to @TheoBearman
+X. AIRAC (2313) - Remove Manchester (EGCC) MONTY SIDs - thanks to @TheoBearman
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
