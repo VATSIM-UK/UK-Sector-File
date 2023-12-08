@@ -1,5 +1,6 @@
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
+2. Enhancement - Added Hereford (EGVH) airport - thanks to @rishab-alt
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
