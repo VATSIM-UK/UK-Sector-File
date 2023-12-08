@@ -1,5 +1,5 @@
 # Changes from release 2023/12 to 2023/13
-X. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs - thanks to @TheoBearman
+X. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs and now unused D253O, POL36 and D079B fixes - thanks to @TheoBearman
 
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
