@@ -4,6 +4,7 @@
 3. Bug - Corrected Waddington (EGXW) ATZ - thanks to @robbo599 (Lee Roberts)
 4. AIRAC (2313) - Removed Heathrow (EGLL) MAY SIDs - thanks to @TheoBearman
 5. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs and moved the D079P definition from EGCC to EGGP - thanks to @TheoBearman
+6. AIRAC (2313) - Reinstated Upavon (EGDJ) - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
