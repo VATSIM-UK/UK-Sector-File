@@ -1,0 +1,2 @@
+;EGCK Caernarfon ATZ
+@ARC(region EGCK Caernarfon ATZ centre N053.06.07.000 W004.20.15.000 radius 2)

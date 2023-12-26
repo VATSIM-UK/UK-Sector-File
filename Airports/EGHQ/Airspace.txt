@@ -1,0 +1,2 @@
+;EGHQ Newquay ATZ
+@ARC(region EGHQ Newquay ATZ centre N050.26.27.000 W004.59.43.000 radius 2.5)

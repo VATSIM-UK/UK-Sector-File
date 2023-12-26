@@ -1,0 +1,2 @@
+;EGBN Nottingham ATZ
+@ARC(region EGBN Nottingham ATZ centre N052.55.15.000 W001.04.48.000 radius 2)

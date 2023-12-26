@@ -1,0 +1,43 @@
+name: Create Controller Pack Issue
+
+on:
+  pull_request:
+    types:
+      - merged
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if PR was merged with the controller-pack-change label
+        id: check-label
+        run: |
+          labels=$(curl -s -H "Authorization: Bearer ${{ secrets.PUBLIC_PAT }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/labels" | jq -r '.[].name')
+
+          if [[ $labels == *"controller-pack-change"* ]]; then
+            echo "::set-output name=should_create_issue::true"
+          else
+            echo "::set-output name=should_create_issue::false"
+          fi
+
+      - name: Get PR Details
+        id: pr-details
+        if: steps.check-label.outputs.should_create_issue == 'true'
+        run: |
+          pr_data=$(curl -s -H "Authorization: Bearer ${{ secrets.PUBLIC_PAT }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}")
+
+          pr_title=$(echo "$pr_data" | jq -r '.title')
+          pr_body=$(echo "$pr_data" | jq -r '.body')
+
+          echo "::set-output name=pr_title::$pr_title"
+          echo "::set-output name=pr_body::$pr_body"
+
+      - name: Create Issue in Controller Pack
+        if: steps.check-label.outputs.should_create_issue == 'true'
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.PUBLIC_PAT }}" \
+            -d '{"title":"'"${{ steps.pr-details.outputs.pr_title }}"'","body":"'"${{ steps.pr-details.outputs.pr_body }}"'"}' \
+            "https://api.github.com/repos/VATSIM-UK/uk-controller-pack/issues"

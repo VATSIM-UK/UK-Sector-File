@@ -1,8 +1,107 @@
+# Changes from release 2023/12 to 2023/13
+1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
+2. Enhancement - Added Hereford (EGVH) airport - thanks to @rishab-alt
+3. Bug - Corrected Waddington (EGXW) ATZ - thanks to @robbo599 (Lee Roberts)
+4. AIRAC (2313) - Removed Heathrow (EGLL) MAY SIDs - thanks to @TheoBearman
+5. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs and moved the D079P definition from EGCC to EGGP - thanks to @TheoBearman
+6. AIRAC (2313) - Reinstated Upavon (EGDJ) - thanks to @danielbutton (Daniel Button)
+
+# Changes from release 2023/11 to 2023/12
+1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
+2. AIRAC (2312) - Removed Gatwick (EGKK) HARDY 5M/5V SIDs - thanks to @ChrisXPP (Christoph Reule)
+3. AIRAC (2312) - Renamed enroute fixes - thanks to @ChrisXPP (Christoph Reule)
+4. Enhancement - Removed fixes withdrawn 2021/12 - thanks to @ChrisXPP (Christoph Reule)
+5. Procedure Change (2312) - Removed withdrawn 25 kHz external position definitions - thanks to @ChrisXPP (Christoph Reule)
+6. Procedure Change (2312) - Removed temporary Cardiff (EGFF) positions - thanks to @ChrisXPP (Christoph Reule)
+7. Bug - Fixed Aldergrove Tower (EGAA_TWR) Arrival airport ownership - thanks to @VATSIM-UK-newbie
+8. AIRAC (2311) - Added Northolt (EGWU) stands - thanks to @PLM1995 (Peter Mooney)
+9. Enhancement - Added Heathrow (EGLL) Transitions - thanks to @AliceFord (Alice Ford)
+10. Enhancement - Renamed `Airways` folder to `ATS Routes` - thanks to @AliceFord (Alice Ford)
+11. AIRAC (2312) - Updated and improved Luton (EGGW) SMR - thanks to @rishab-alt
+12. Bug - Fixed Kirkwall (EGPA) ATIS ownership error - thanks to @hazzas-99
+13. Enhancement - Updated Highlands and Islands tower/approach sectorisation and ownership - thanks to @hazzas-99
+14. Enhancement - Refactored SID and STAR fixes - thanks to @AliceFord (Alice Ford)
+15. AIRAC (2312) - Added New Waddington danger areas - thanks to @luke11brown (Luke Brown)
+16. Bug - Removed COPX lines involving TWR positions since tags are not assumed by TWR - thanks to @hazzas-99
+17. Bug - Fixed Stornoway (EGPO) ATZ Size - thanks to @lucak1011 (Luca Kulaga)
+18. Enhancement - Added Halton (EGWN) AGCS Frequency - thanks to @AliceFord (Alice Ford)
+
+# Changes from release 2023/10 to 2023/11
+1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
+2. AIRAC (2311) - Updated SUM VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+3. Enhancement - Removed all data withdrawn prior to AIRAC 2021/11 (2111) - thanks to @hazzas-99
+4. AIRAC (2311) - Updated Blackbushe (EGLK) runway threshold coordinates - thanks to @ChrisXPP (Christoph Reule)
+5. AIRAC (2311) - Updated Mold Town VRP name - thanks to @ChrisXPP (Christoph Reule)
+6. Bug - Fixed Thames agreement display to TC NE via BPK and CLN (ODUKU) - thanks to @hazzas-99
+7. Enhancement - Added basic Benbecula (EGPL) sector ownership to enable auto METAR display to Scottish - thanks to @hazzas-99
+8. Procedure Change (2311) - Added temporary Cardiff (EGFF) positions for WorldFlight - thanks to @ChrisXPP (Christoph Reule)
+9. Procedure Change (2311) - 8.33 Transition (External) - Frequencies updated for Belux and French vACCs - thanks to @hazzas-99
+10. Bug - Removed Prestwick (EGPK) ground position - thanks to @hazzas-99
+11. Procedure Change (2311) - 8.33 Transition (External) - Frequencies and sectorisation updated for Copenhagen and Ireland - thanks to @hazzas-99
+12. Bug - Removed 'catch all' COPX lines to prevent incorrect NFL display for inbounds from MUAC Delta to Clacton - thanks to @hazzas-99
+13. Enhancement - Updated all Conventional SIDs - thanks to @AliceFord (Alice Ford)
+14. AIRAC (2311) - Updated Honington (EGXH) basic information - thanks to @ChrisXPP (Christoph Reule)
+15. AIRAC (2311) - Added Topcliffe (EGXZ) runway 07/25 - thanks to @ChrisXPP (Christoph Reule)
+16. AIRAC (2311) - Topcliffe (EGXZ) MATZ updated - thanks to @robbo599	(Lee Roberts)
+17. Enhancement - Added basic information for Syerston (EGXY) - thanks to @ChrisXPP (Christoph Reule)
+18. Procedure Change (2311) - Added Dover -> Reims North agreements for EGKK/GW outbounds via RINTI-ELTEG - thanks to @hazzas-99
+19. AIRAC (2311) - Added Southampton (EGHI) runway extension - thanks to @rishab-alt
+20. Bug - Corrected sector ownership (West/Daventry/Worthing) in ELSOF/DIDZA/Brize area - thanks to @hazzas-99
+21. Bug - Corrected Leeds East (EGCM) RNP 24 Approach IF CM24I - thanks to @Hxmii5490
+22. Procedure Change (2311) - 8.33 Transition (All UK Aerodromes) - Updated remaining UK frequencies - thanks to @KHardern & @ChrisXPP (Christoph Reule)
+23. Bug - Updated Heathrow (EGLL) Ground Split sectors in line with taxiway K break-through - thanks to @PLM1995 (Peter Mooney) & @luke11brown (Luke Brown)
+24. Enhancement - Heathrow (EGLL) Ground Splits now runway dependant - thanks to @luke11brown (Luke Brown)
+25. Enhancement - Added missing Aerodrome Traffic Zones (ATZs) - thanks to @AliceFord (Alice Ford)
+
+# Changes from release 2023/09a to 2023/10
+1. Bug - Corrected Scottish TMA Mentor (STC_M_CTR) callsign prefix for alternative ownership functionality - thanks to @rishab-alt
+2. Enhancement - Added ground network data for Bristol (EGGD) - thanks to @MikePike-collab (Mike Pike) & @luke11brown (Luke Brown)
+3. Bug - Corrected EGAA inbounds to descend via BELZU - thanks to @ChrisXPP (Christoph Reule)
+4. Bug - Removed duplicate fix definitions - thanks to @AliceFord (Alice Ford)
+5. Enhancement - Defined Blackpool (EGNH) ATZ - thanks to @PLM1995 (Peter Mooney)
+6. AIRAC (2310) - Updated BEL, BHD, OTR, POL, SFD, STU, TLA & TRN VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
+7. AIRAC (2310) - Renamed Prestwick (EGPK) VRPs - thanks to @ChrisXPP (Christoph Reule)
+8. AIRAC (2310) - Updated Oxford (EGTK) SMR hold points - thanks to @PLM1995 (Peter Mooney)
+9. Procedure Change (2310) - 8.33 kHz Trial (ENR Phase 2) - Transitioned all UK enroute non-event frequencies - thanks to @ChrisXPP (Christoph Reule)
+10. Procedure Change (2310) - 8.33 kHz Trial (AD Phase 2) - Transitioned EGKK frequencies - thanks to @ChrisXPP (Christoph Reule)
+11. Enhancement - Added Brize Norton (EGVN) Stand Numbers - thanks to @rishab-alt
+12. AIRAC (2310) - Changed "Hawarden Director" callsign to "Hawarden Radar" - thanks to @ChrisXPP (Christoph Reule)
+13. Bug - Updated Leuchars (EGQL) SMR - thanks to @PLM1995 (Peter Mooney)
+14. Enhancement - Added tickless centrelines for LTC displays - thanks to @SamLefevre (Samuel Lefevre)
+15. Procedure Change (2310) - Change to Polaris (ENSV Stavanger) sector ownership and logon callsigns - thanks to @hazzas-99
+
+# Changes from release 2023/09 to 2023/09a
+1. Enhancement - Added Middle Wallop (EGVP) FATO (runway) and helicopter SIDs - thanks to @hazzas-99
+2. Bug - Corrected 8.33kHz trial ATIS frequencies - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2023/08 to 2023/09
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
 3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
 4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
+5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
+6. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
+7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
+8. Bug - Renamed Waddington (EGXW) holding points - thanks to @calwe (Callum Webb)
+9. AIRAC (2309) - Updated Kirknewton (EGKT) Runway Coordinate - thanks to @AliceFord (Alice Ford)
+10. AIRAC (2309) - Updated Dover (DVR) VOR/DME coordinates - thanks to @luke11brown (Luke Brown)
+11. AIRAC (2309) - Added EG D713 (Fast Jet Area South) & EG D901 (Fast Jet Area North) - thanks to @luke11brown (Luke Brown)
+12. Enhancement - Improved East Midlands (EGNX) VFR Lane and SID Line Colours - thanks to @PLM1995 (Peter Mooney)
+13. Enhancement - Added Jersey Control radar regions & colours - thanks to @luke11brown (Luke Brown)
+14. AIRAC (2309) - Added Portland Heliport (EGDP) A/G Position and Updated Basic Data - thanks to @danielbutton (Daniel Button)
+15. Enhancement - Added Yeovilton (EGDY) stand numbers - thanks to @calwe (Callum Webb)
+16. AIRAC (2309) - Updated ADN, IOM, LND and TNT VOR Coordinates - thanks to @Dev-Destructor (Debobrata Pal)
+17. Procedure Change (2309) - 8.33 Trial (AD Phase 1) - Transition EGLL/PH/SS/GP Frequencies - thanks to @AliceFord (Alice Ford)
+18. AIRAC (2309) - Removed Bristol (EGGD) stands 31R & 33L - thanks to @rishab-alt
+19. Enhancement - Added Leeds East (EGCM) SMR - thanks to @rishab-alt
+20. AIRAC (2309) - Added Waddignton (EGXW) RNP approach fixes - thanks to @luke11brown (Luke Brown)
+21. AIRAC (2309) - Updated Wattisham (EGUW) Tower frequency - thanks to @rishab-alt
+22. Bug - Fixed Farnborough (EGLF) Inbound Agreements from the north via CPT. - thanks to @kye-taylor (Kye Taylor)
+23. AIRAC (2309) - Added Biggin Hill (EGKR) new taxiway - thanks to @rishab-alt
+24. Enhancement - Updated Barton (EGCB) SMR - thanks to @rishab-alt
+25. Enhancement - Added Haverfordwest (EGFE) SMR - thanks to @lucak1011
+26. AIRAC (2308) - Updated Belfast Aldergrove (EGAA) SMR - thanks to @DuckWhsiperer (Matt Owen)
+27. AIRAC (2309) - Added Fairoaks (EGTF) disused taxiway - thanks to @rishab-alt
 
 # Changes from release 2023/07 to 2023/08
 1. Enhancement - Added Tug Point to Southend (EGMC) SMR - thanks to @TechieHelper (Alice Ford)

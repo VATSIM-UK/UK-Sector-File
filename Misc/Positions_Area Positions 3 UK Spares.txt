@@ -1,32 +1,28 @@
 ;Unallocated UK (London/Scottish ACC/TCC) frequencies
 
 ;North
-London Control:London Control:126.775:LWN:L:LON:CTR:-:-:0301:0377:: ;S11
-London Control S7:London Control:135.575:L7:L:LON:CTR:-:-:0301:0377::
+London Control:London Control:126.780:LWN:L:LON:CTR:-:-:0301:0377:: ;S11
 
 ;Central
-London Control S27:London Control:129.200:L27:L:LON:CTR:-:-:0301:0377::
+London Control S27:London Control:129.205:L27:L:LON:CTR:-:-:0301:0377::
 
 ;South
-London Control S2:London Control:127.425:L2:L:LON:CTR:-:-:0301:0377::
-
-;West
-London Control S35:London Control:135.250:L35:L:LON:CTR:-:-:0301:0377:: ;EURW_FSS
+London Control S2:London Control:127.430:L2:L:LON:CTR:-:-:0301:0377::
 
 ;TC Midlands
-London Control TC WELIN E:London Control:128.475:TCWE:L:LTC:CTR:-:-:0301:0377::
+London Control TC WELIN E:London Control:128.480:TCWE:L:LTC:CTR:-:-:0301:0377::
 
 ;TC South
-London Control TC TIMBA:London Control:120.175:TCST:L:LTC:CTR:-:-:0301:0377::
+London Control TC TIMBA:London Control:120.180:TCST:L:LTC:CTR:-:-:0301:0377::
 London Control TC GODLU:London Control:135.325:TCSG:L:LTC:CTR:-:-:0301:0377::
 
 ;TC Capital
-London Control TC VATON:London Control:127.950:TCV:L:LTC:CTR:-:-:0301:0377::
+London Control TC VATON:London Control:127.955:TCV:L:LTC:CTR:-:-:0301:0377::
 
 ;Scottish
 Scottish Control Moray Low:Scottish Control:134.850:SML:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose North:Scottish Control:132.475:SMN:E:SCO:CTR:-:-:3601:3632::
-Scottish Control Montrose South:Scottish Control:126.925:SMS:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Montrose North:Scottish Control:132.490:SMN:E:SCO:CTR:-:-:3601:3632::
+Scottish Control Montrose South:Scottish Control:126.930:SMS:E:SCO:CTR:-:-:3601:3632::
 Scottish Control Galloway North:Scottish Control:121.375:STGN:S:STC:CTR:-:-:3601:3632::
 
 ;London Info
