@@ -5,7 +5,10 @@
 4. AIRAC (2313) - Removed Heathrow (EGLL) MAY SIDs - thanks to @TheoBearman
 5. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs and moved the D079P definition from EGCC to EGGP - thanks to @TheoBearman
 6. AIRAC (2313) - Reinstated Upavon (EGDJ) - thanks to @danielbutton (Daniel Button)
-7. Procedure Change (2313) - Moved TC Midlands to permanent UK enroute position - thanks to @kye-taylor (Kye Taylor)
+7. Bug - Aligned aerodrome naming with AIP - thanks to @AliceFord (Alice Ford)
+8. AIRAC (2313) - Updated Cranfield (EGTC) SMR - thanks to @AliceFord (Alice Ford)
+9. AIRAC (2313) - Repositioned Birmingham (EGBB) Hold Y1 - thanks to @AliceFord (Alice Ford)
+10. Procedure Change (2313) - Moved TC Midlands to permanent UK enroute position - thanks to @kye-taylor (Kye Taylor)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
