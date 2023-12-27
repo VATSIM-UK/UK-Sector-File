@@ -8,7 +8,14 @@
 7. Bug - Aligned aerodrome naming with AIP - thanks to @AliceFord (Alice Ford)
 8. AIRAC (2313) - Updated Cranfield (EGTC) SMR - thanks to @AliceFord (Alice Ford)
 9. AIRAC (2313) - Repositioned Birmingham (EGBB) Hold Y1 - thanks to @AliceFord (Alice Ford)
-X. Procedure Change (2313) - PCSE Ownership change to Lakes (LNW) prior to AC North (LN) - thanks to @khardern
+10. Procedure Change (2313) - Moved TC Midlands to permanent UK enroute position - thanks to @kye-taylor (Kye Taylor)
+11. AIRAC (2313) - Updated Farnbourgh (EGLF) SMR - thanks to @rishab-alt (Rishab)
+12. AIRAC (2313) - Removed East Midlands (EGNX) BPK2P SID - thanks to @rishab-alt
+13. Procedure Change (2313) - Changed East Midlands Radar (EGNX_APP) frequency - thanks to @PLM1995 (Peter Mooney)
+14. Procedure Change (2313) - Changed SS FIN to TC NW Standing Agreement (COPX) - thanks to @AliceFord (Alice Ford)
+15. AIRAC (2313) - Updated Moray Firth TMZ Radar Hole lateral limits - thanks to @PLM1995 (Peter Mooney)
+16. Enhancement - Added Islay (EGPI) SMR - thanks to @19wintersp (Patrick Winters)
+17. Procedure Change (2313) - Changed PCSE Ownership to Lakes (LNW) prior to AC North (LN) - thanks to @khardern
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
