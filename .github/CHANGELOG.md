@@ -4,7 +4,16 @@
 3. Bug - Corrected Waddington (EGXW) ATZ - thanks to @robbo599 (Lee Roberts)
 4. AIRAC (2313) - Removed Heathrow (EGLL) MAY SIDs - thanks to @TheoBearman
 5. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs and moved the D079P definition from EGCC to EGGP - thanks to @TheoBearman
-6. Enhancement - Added Islay (EGPI) SMR - thanks to @19wintersp
+6. AIRAC (2313) - Reinstated Upavon (EGDJ) - thanks to @danielbutton (Daniel Button)
+7. Bug - Aligned aerodrome naming with AIP - thanks to @AliceFord (Alice Ford)
+8. AIRAC (2313) - Updated Cranfield (EGTC) SMR - thanks to @AliceFord (Alice Ford)
+9. AIRAC (2313) - Repositioned Birmingham (EGBB) Hold Y1 - thanks to @AliceFord (Alice Ford)
+10. Procedure Change (2313) - Moved TC Midlands to permanent UK enroute position - thanks to @kye-taylor (Kye Taylor)
+11. AIRAC (2313) - Updated Farnbourgh (EGLF) SMR - thanks to @rishab-alt (Rishab)
+12. AIRAC (2313) - Removed East Midlands (EGNX) BPK2P SID - thanks to @rishab-alt
+13. Procedure Change (2313) - Changed East Midlands Radar (EGNX_APP) frequency - thanks to @PLM1995 (Peter Mooney)
+14. Procedure Change (2313) - Changed SS FIN to TC NW Standing Agreement (COPX) - thanks to @AliceFord (Alice Ford)
+15. Enhancement - Added Islay (EGPI) SMR - thanks to @19wintersp (Patrick Winters)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
