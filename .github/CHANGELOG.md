@@ -16,6 +16,7 @@
 15. AIRAC (2313) - Updated Moray Firth TMZ Radar Hole lateral limits - thanks to @PLM1995 (Peter Mooney)
 16. Enhancement - Added Islay (EGPI) SMR - thanks to @19wintersp (Patrick Winters)
 17. Procedure Change (2313) - Changed PCSE Ownership to Lakes (LNW) prior to AC North (LN) - thanks to @khardern
+18. Procedure Change (2313) - Added Oxford (EGTK) outbound agreement from TC WELIN to CLN (S12) - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
