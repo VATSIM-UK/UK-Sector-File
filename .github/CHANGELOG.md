@@ -12,6 +12,7 @@
 11. AIRAC (2313) - Updated Farnbourgh (EGLF) SMR - thanks to @rishab-alt (Rishab)
 12. AIRAC (2313) - Removed East Midlands (EGNX) BPK2P SID - thanks to @rishab-alt
 13. Procedure Change (2313) - Changed East Midlands Radar (EGNX_APP) frequency - thanks to @PLM1995 (Peter Mooney)
+14. Procedure Change (2313) - Added Oxford (EGTK) outbound agreement from TC WELIN to CLN (S12) - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
