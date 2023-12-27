@@ -13,6 +13,7 @@
 12. AIRAC (2313) - Removed East Midlands (EGNX) BPK2P SID - thanks to @rishab-alt
 13. Procedure Change (2313) - Changed East Midlands Radar (EGNX_APP) frequency - thanks to @PLM1995 (Peter Mooney)
 14. Procedure Change (2313) - Changed SS FIN to TC NW Standing Agreement (COPX) - thanks to @AliceFord (Alice Ford)
+15. AIRAC (2313) - Updated Moray Firth TMZ Radar Hole lateral limits - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
