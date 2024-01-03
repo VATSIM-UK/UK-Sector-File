@@ -22,7 +22,7 @@ If you're comfortable with contributing to Open Source projects on GitHub please
 
 **Please avoid** adding AIRAC related commits until you've seen an issue created for them - anything else is fair game.
 
-Please have a thorough read of the 1st-time Contributor's Guide: https://github.com/VATSIM-UK/UK-Sector-File/wiki/First-Time-Contributor's-Guide.
+Please have a thorough read of the [1st-time Contributor's Guide](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/First%20time%20contributors'%20guide.md).
 
 ## Testing the sector file
 
