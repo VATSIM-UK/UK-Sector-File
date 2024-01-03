@@ -47,7 +47,7 @@ In the GitHub desktop client, under 'current repository', under your username, s
 
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101283451-5b56b100-37d2-11eb-95e6-dfeb70865cc8.png)
 
-Under 'Current branch' ensure 'master' (may also be titled 'main') is selected. 
+Under 'Current branch' ensure 'main' (may also be titled 'master') is selected.
 
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101282290-4119d480-37cc-11eb-950a-b5eb7dde9f13.png)
 
@@ -158,7 +158,7 @@ If you want to do more issues, simply follow this guide from 'create new branch'
 
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101295301-bad5b080-3814-11eb-8015-3a6b83ec2038.png)
 
-Simply ensure 'upstream/master' remains selected.
+Simply ensure 'upstream/main' remains selected.
 
 # Something broke
 
