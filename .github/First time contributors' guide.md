@@ -6,7 +6,7 @@ There is also the [Style Guide](https://github.com/VATSIM-UK/UK-Sector-File/blob
 
 As well as this textual guide, there is a [YouTube video](LINK TBA) which explains the GitHub system and process using a worked example.
 
-Thank you for your interest in contributing to the VATSIM UK Sector File. If you get stuck, contact us on [Discord](https://www.vatsim.uk/discord) in the "sector-file-development" channel.
+Thank you for your interest in contributing to the VATSIM UK Sector File. If you get stuck, and the information in [the wiki](https://github.com/VATSIM-UK/UK-Sector-File/wiki) is not enough to help you, please contact us on [Discord](https://www.vatsim.uk/discord) in the "sector-file-development" channel.
 
 # How to contribute for the first time
 
