@@ -4,7 +4,7 @@ This guide is intended for first time contributors, but should be followed along
 
 There is also the [Style Guide](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/Style%20Guide.md) which helps explain the details of how to get various aspects of the process correct.
 
-As well as this textual guide, there is a [YouTube video](LINK TBA) which explains the GitHub system and process using a worked example.
+As well as this textual guide, there is a [YouTube video](https://www.youtube.com/watch?v=FDddSD34f1o) which explains the GitHub system and process using a worked example.
 
 Thank you for your interest in contributing to the VATSIM UK Sector File. If you get stuck, and the information in [the wiki](https://github.com/VATSIM-UK/UK-Sector-File/wiki) is not enough to help you, please contact us on [Discord](https://www.vatsim.uk/discord) in the "sector-file-development" channel.
 
