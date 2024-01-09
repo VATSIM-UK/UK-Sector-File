@@ -1,3 +1,6 @@
+# Changes from release 2023/13 to 2024/01
+1. Bug - Standardised format of aerodrome files - thanks to @AliceFord (Alice Ford)
+
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
 2. Enhancement - Added Hereford (EGVH) airport - thanks to @rishab-alt
