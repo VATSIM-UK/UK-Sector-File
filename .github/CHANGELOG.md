@@ -1,5 +1,5 @@
 # Changes from release 2023/13 to 2024/01
-1. AIRAC (2401) Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
+1. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
