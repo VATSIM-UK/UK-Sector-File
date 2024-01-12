@@ -4,14 +4,13 @@
 "A3" N052.04.26.907 W000.37.11.827 standHold
 "B1" N052.04.34.648 W000.36.50.243 standHold
 "C1" N052.04.26.807 W000.37.00.574 standHold
-"D1" N052.04.13.253 W000.37.11.643 standHold
-"D2" N052.04.22.640 W000.37.12.440 standHold
 "E1" N052.04.06.319 W000.37.18.664 standHold
 "E2" N052.04.03.616 W000.37.32.649 standHold
 ;Aprons
 "Apron 1" N052.04.26.195 W000.37.23.327 standHold
 "Apron 2" N052.04.19.572 W000.37.30.756 standHold
 "Apron 3" N052.04.04.770 W000.37.35.360 standHold
+"Apron 4" N052.04.21.115 W000.37.14.966 standHold
 ;Hangars
 "Hangar 1" N052.04.25.030 W000.37.27.282 standHold
 "Hangar 2" N052.04.20.996 W000.37.33.283 standHold
