@@ -3,6 +3,7 @@
 2. AIRAC (2401) - Updated Alderney (ALD) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
 3. AIRAC (2401) - Updated Honington (EGXH) ARP and runway coordinates - thanks to @ChrisXPP (Christoph Reule)
 4. AIRAC (2401) - Removed Bristol (EGGD) Stand 4 - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
