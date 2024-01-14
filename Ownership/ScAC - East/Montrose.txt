@@ -7,7 +7,13 @@ SECTOR:Montrose (DB-660):0:66000
 OWNER:SS:SE:S
 ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
-BORDER:Cen_Mon:Mon_Heb:Mor_Mon:Tyne_Montrose:Hum_Mon:SELN03:SELN02:Mon Area A Inner:Mon Area C Inner:Mon Area D Inner:Mon EDC:Mon_DCS-N Area E02b Inner:Mon_DCS-N Area E02a Inner:Mon_Gal:Mon_DCS-N Area E01 Inner:Mon_WCoast 01  
+BORDER:Cen_Mon:Mon_Heb:Mor_Mon_excTay:WCoast-Mon_2:Mon_WCoast 01
+
+SECTOR:Montrose (255-660):25500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:Mor_Tay:Tyne_Montrose:Hum_Mon:SELN03:SELN02:Mon Area A Inner:Mon Area C Inner:Mon Area D Inner:Mon EDC:Mon_DCS-N Area E02b Inner:Mon_DCS-N Area E02a Inner:Mon_Gal:Mon_DCS-N Area E01 Inner:WCoast-Mon_2
 
 SECTOR:Montrose Area A2 (285-660):28500:66000
 OWNER:SS:SE:S
