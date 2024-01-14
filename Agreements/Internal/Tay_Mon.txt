@@ -1,0 +1,1 @@
+COPX:EGPD:*:RITSI:*:*:Tay:Montrose:25000:*:RITSI
