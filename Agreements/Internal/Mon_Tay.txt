@@ -1,3 +1,3 @@
 COPX:*:*:FINDO:EGPD:*:Montrose:Tay:*:26000:FINDO15
 COPX:*:*:FINDO:EGPE:*:Montrose:Tay:*:26000:FINDO15
-COPX:*:*:*:EGPD:NEXUS:Montrose:Tay:*:26000:|NEXUS
+COPX:*:*:NEXUS:EGPD:*:Montrose:Tay:*:26000:|NEXUS
