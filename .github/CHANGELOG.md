@@ -5,6 +5,7 @@
 4. AIRAC (2401) - Removed Bristol (EGGD) Stand 4 - thanks to @danielbutton (Daniel Button)
 5. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
 6. Bug - Corrected callsigns for Edinburgh (EGPH) and Glasgow (EGPF) "Director" positions - thanks to @ChrisXPP (Christoph Reule)
+x. Enhancement - Added Heathrow RMA for NODE displays - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
