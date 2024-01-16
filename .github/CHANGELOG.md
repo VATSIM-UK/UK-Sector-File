@@ -1,5 +1,11 @@
 # Changes from release 2023/13 to 2024/01
-#. AIRAC (2401) - Updated Brize Norton (EGVN) holding point names - thanks to @ChrisXPP (Christoph Reule)
+1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
+2. AIRAC (2401) - Updated Alderney (ALD) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
+3. AIRAC (2401) - Updated Honington (EGXH) ARP and runway coordinates - thanks to @ChrisXPP (Christoph Reule)
+4. AIRAC (2401) - Removed Bristol (EGGD) Stand 4 - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
+6. Bug - Corrected callsigns for Edinburgh (EGPH) and Glasgow (EGPF) "Director" positions - thanks to @ChrisXPP (Christoph Reule)
+7. AIRAC (2401) - Updated Brize Norton (EGVN) holding point names - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
