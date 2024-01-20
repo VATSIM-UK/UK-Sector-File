@@ -1,0 +1,30 @@
+name: Lint
+
+on:
+  push:
+    branches:
+      - '*'
+      - '**'
+
+jobs:
+  build:
+    name: "Lint Sectorfile"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Download Linter
+        run: |
+          curl -L --output linter.zip https://github.com/AliceFord/vuk-sf-linter/archive/refs/heads/main.zip
+          unzip linter.zip
+          rm linter.zip
+
+      - name: Install npm dependencies
+        run: |
+          cd vuk-sf-linter-main
+          npm install
+    
+      - name: Run Linter
+        run: |
+          npx ts-node ./vuk-fs-linter-main/standalone-linter/linter.ts
