@@ -1,1 +1,8 @@
 COPX:EGPD:*:RITSI:*:*:Tay:Montrose:25000:*:RITSI
+COPX:EGPH:*:*:*:*:Tay:Montrose:25000:*:PTH35
+COPX:EGPF:*:*:*:*:Tay:Montrose:25000:*:PTH35
+COPX:EGPK:*:*:*:*:Tay:Montrose:25000:*:PTH35
+COPX:EGPN:*:*:*:*:Tay:Montrose:25000:*:PTH35
+COPX:EGPG:*:*:*:*:Tay:Montrose:25000:*:PTH35
+COPX:EGQL:*:*:*:*:Tay:Montrose:25000:*:PTH35
+COPX:EGPH:*:*:*:*:Tay:Montrose:25000:*:PTH35
