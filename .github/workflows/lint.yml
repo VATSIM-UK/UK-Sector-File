@@ -29,4 +29,5 @@ jobs:
     
       - name: Run Linter
         run: |
+          ls
           npx ts-node ../vuk-sf-linter-main/standalone-linter/linter.ts
