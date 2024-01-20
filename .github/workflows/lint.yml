@@ -24,7 +24,9 @@ jobs:
         run: |
           cd vuk-sf-linter-main
           npm install
+          npm install ts-node
     
       - name: Run Linter
         run: |
+          pwd
           npx ts-node ./vuk-fs-linter-main/standalone-linter/linter.ts
