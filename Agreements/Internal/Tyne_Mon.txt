@@ -1,1 +1,0 @@
-COPX:*:*:*:EGPD:*:Tyne:Montrose:*:26000:|NEXUS
