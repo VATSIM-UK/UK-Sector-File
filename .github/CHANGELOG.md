@@ -1,3 +1,6 @@
+X. Enhancement - Updated agreements and created Tay subsector for events only - thanks to @KHardern
+X. Procedure Change (2401) - Midlands climbing traffic via TILNI agreement change to FL280
+
 # Changes from release 2023/10 to 2023/11
 1. AIRAC (2311) - Updated Blackbushe (EGLK) SMR - thanks to @rishab-alt
 2. AIRAC (2311) - Updated SUM VOR coordinates - thanks to @ChrisXPP (Christoph Reule)
