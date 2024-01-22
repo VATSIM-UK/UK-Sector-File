@@ -38,11 +38,11 @@ GUEST:PKR:*:EGPK
 
 SECTOR:Westcoast (Tay):0:0
 OWNER:TAY:SL:SS:SE:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SS:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
 
 SECTOR:Westcoast (Tay) (DB-255):0:25500
 OWNER:TAY:SL:SS:SE:S
-ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SS:SE:S
-ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
 BORDER:Cen_Mon:Mon_Heb:Mor_WCoast-Mon:WCoast-Mon_Tay:WCoast-Mon_Gal:WCoast-Mon_WCoast-Cen
