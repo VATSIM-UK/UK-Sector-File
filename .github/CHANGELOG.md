@@ -1,5 +1,12 @@
-# Changes from release 2023/13 to 2023/14
-1. AIRAC (2401) - Updated Stansted (EGSS) SMR - Thanks to @rishab-alt
+# Changes from release 2023/13 to 2024/01
+1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
+2. AIRAC (2401) - Updated Alderney (ALD) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
+3. AIRAC (2401) - Updated Honington (EGXH) ARP and runway coordinates - thanks to @ChrisXPP (Christoph Reule)
+4. AIRAC (2401) - Removed Bristol (EGGD) Stand 4 - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
+6. Bug - Corrected callsigns for Edinburgh (EGPH) and Glasgow (EGPF) "Director" positions - thanks to @ChrisXPP (Christoph Reule)
+7. AIRAC (2401) - Updated Brize Norton (EGVN) holding point names - thanks to @ChrisXPP (Christoph Reule)
+8. AIRAC (2401) - Updated Stansted (EGSS) SMR - Thanks to @rishab-alt
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
@@ -7,6 +14,19 @@
 3. Bug - Corrected Waddington (EGXW) ATZ - thanks to @robbo599 (Lee Roberts)
 4. AIRAC (2313) - Removed Heathrow (EGLL) MAY SIDs - thanks to @TheoBearman
 5. AIRAC (2313) - Removed Manchester (EGCC) MONTY SIDs and moved the D079P definition from EGCC to EGGP - thanks to @TheoBearman
+6. AIRAC (2313) - Reinstated Upavon (EGDJ) - thanks to @danielbutton (Daniel Button)
+7. Bug - Aligned aerodrome naming with AIP - thanks to @AliceFord (Alice Ford)
+8. AIRAC (2313) - Updated Cranfield (EGTC) SMR - thanks to @AliceFord (Alice Ford)
+9. AIRAC (2313) - Repositioned Birmingham (EGBB) Hold Y1 - thanks to @AliceFord (Alice Ford)
+10. Procedure Change (2313) - Moved TC Midlands to permanent UK enroute position - thanks to @kye-taylor (Kye Taylor)
+11. AIRAC (2313) - Updated Farnbourgh (EGLF) SMR - thanks to @rishab-alt (Rishab)
+12. AIRAC (2313) - Removed East Midlands (EGNX) BPK2P SID - thanks to @rishab-alt
+13. Procedure Change (2313) - Changed East Midlands Radar (EGNX_APP) frequency - thanks to @PLM1995 (Peter Mooney)
+14. Procedure Change (2313) - Changed SS FIN to TC NW Standing Agreement (COPX) - thanks to @AliceFord (Alice Ford)
+15. AIRAC (2313) - Updated Moray Firth TMZ Radar Hole lateral limits - thanks to @PLM1995 (Peter Mooney)
+16. Enhancement - Added Islay (EGPI) SMR - thanks to @19wintersp (Patrick Winters)
+17. Procedure Change (2313) - Changed PCSE Ownership to Lakes (LNW) prior to AC North (LN) - thanks to @khardern
+18. Procedure Change (2313) - Added Oxford (EGTK) outbound agreement from TC WELIN to CLN (S12) - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/11 to 2023/12
 1. Bug - Fixed Henton (HEN) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
