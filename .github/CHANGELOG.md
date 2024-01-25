@@ -8,7 +8,7 @@
 7. AIRAC (2401) - Updated Brize Norton (EGVN) holding point names - thanks to @ChrisXPP (Christoph Reule)
 8. AIRAC (2401) - Updated Stansted (EGSS) SMR - thanks to @rishab-alt
 9. Procedure Change (2401) - Amended Clacton (S13) to Dover (S26) agreements for Severn & Midlands group inbounds - thanks to @khardern
-10. Bug - Corrected the ICAO code for EGBG - thanks to @RedstonePilot (Ben Walker)
+10. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
