@@ -9,6 +9,7 @@
 8. AIRAC (2401) - Updated Stansted (EGSS) SMR - thanks to @rishab-alt
 9. Procedure Change (2401) - Amended Clacton (S13) to Dover (S26) agreements for Severn & Midlands group inbounds - thanks to @khardern
 10. Enhancement - Updated agreements and created Tay sub-sector for events only - thanks to @KHardern
+11. AIRAC (2401) - Updated Teeside International (EGNV) Draken Stands and SMR - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
