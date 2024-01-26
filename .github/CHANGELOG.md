@@ -1,3 +1,6 @@
+# Changes from release 2024/01 to 2024/02
+1. AIRAC (2402) - Added ANMAZ, BAZNA, IDDEC, OFCOT and TOWTE - thanks to @rhys1573 (Rhys Worlock)
+
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2401) - Updated Alderney (ALD) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
