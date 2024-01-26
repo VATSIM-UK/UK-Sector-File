@@ -1,0 +1,1 @@
+COPX:EGPE:*:*:INBAS:*:PEAPP:Westcoast (Tay):12000:*:^N560
