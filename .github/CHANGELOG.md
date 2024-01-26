@@ -1,5 +1,5 @@
 # Changes from release 2024/01 to 2024/02
-1. AIRAC (2402) - Added the position definition the Land's End ATIS (EGHC_ATIS 122.830) - thanks to @RedstonePilot (Ben Walker)
+1. AIRAC (2402) - Added Land's End ATIS (EGHC_ATIS) position definition - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
