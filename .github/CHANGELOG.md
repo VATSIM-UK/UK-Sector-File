@@ -1,3 +1,6 @@
+# Changes from release 2024/01 to 2024/02
+1. AIRAC (2401) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
+
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2401) - Updated Alderney (ALD) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
