@@ -1,3 +1,6 @@
+# Changes from release 2024/01 to 2024/02
+1. AIRAC - Add EG D514 danger area - thanks to @rishab-alt
+
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
 2. Enhancement - Added Hereford (EGVH) airport - thanks to @rishab-alt
