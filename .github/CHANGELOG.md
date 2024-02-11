@@ -1,5 +1,7 @@
 # Changes from release 2024/01 to 2024/02
-1. AIRAC (2402) - Added ANMAZ, BAZNA, IDDEC, OFCOT and TOWTE - thanks to @rhys1573 (Rhys Worlock)
+1. AIRAC (2401) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
+2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
+3. AIRAC (2402) - Added ANMAZ, BAZNA, IDDEC, OFCOT and TOWTE - thanks to @rhys1573 (Rhys Worlock)
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
@@ -9,6 +11,11 @@
 5. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
 6. Bug - Corrected callsigns for Edinburgh (EGPH) and Glasgow (EGPF) "Director" positions - thanks to @ChrisXPP (Christoph Reule)
 7. AIRAC (2401) - Updated Brize Norton (EGVN) holding point names - thanks to @ChrisXPP (Christoph Reule)
+8. AIRAC (2401) - Updated Stansted (EGSS) SMR - thanks to @rishab-alt
+9. Procedure Change (2401) - Amended Clacton (S13) to Dover (S26) agreements for Severn & Midlands group inbounds - thanks to @khardern
+10. Enhancement - Updated agreements and created Tay sub-sector for events only - thanks to @KHardern
+11. AIRAC (2401) - Updated Teeside International (EGNV) Draken Stands and SMR - thanks to @AliceFord (Alice Ford)
+12. AIRAC (2401) - Removed Coventry (EGBE) North Apron and reduced runway 23 stopway - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
