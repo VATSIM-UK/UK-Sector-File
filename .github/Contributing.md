@@ -22,7 +22,7 @@ If you're comfortable with contributing to Open Source projects on GitHub please
 
 **Please avoid** adding AIRAC related commits until you've seen an issue created for them - anything else is fair game.
 
-Please have a thorough read of the 1st-time Contributor's Guide: https://github.com/VATSIM-UK/UK-Sector-File/wiki/First-Time-Contributor's-Guide.
+Please have a thorough read of the [1st-time Contributor's Guide](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/First%20time%20contributors'%20guide.md).
 
 ## Testing the sector file
 
@@ -52,9 +52,9 @@ The work-flow for submitting a new pull request is designed to be simple, but al
 * Commit your changes.
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
-* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md).
+* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/CHANGELOG.md).
 * Push the commit(s) to your fork.
-* Submit a pull request (PR) to the master branch.
+* Submit a pull request (PR) to the main branch.
 * The PR title should describe the change that has been made.
 * The PR description should confirm what changes have been made and how you know they're correct (with references).
  * Please include any relevant screenshots to prove the changes work - this is particularly important for SMRs. 
