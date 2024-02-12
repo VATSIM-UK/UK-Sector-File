@@ -1,5 +1,5 @@
 # Changes from release 2024/01 to 2024/02
-1. AIRAC (2402) - Added EG D514 danger area - thanks to @rishab-alt
+1. AIRAC (2402) - Replaced temporary danger area EGD597 with permanent EGD514 - thanks to @rishab-alt & @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
