@@ -2,6 +2,7 @@
 1. AIRAC (2401) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
 2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
 3. AIRAC (2402) - Added ANMAZ, BAZNA, IDDEC, OFCOT and TOWTE - thanks to @rhys1573 (Rhys Worlock)
+4. Bug - Corrected French ATS Routes A30, B24 and G273 - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
