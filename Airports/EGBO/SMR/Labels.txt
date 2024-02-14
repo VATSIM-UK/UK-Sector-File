@@ -11,3 +11,8 @@
 ;Runway Labels
 "16" N052.31.11.374 W002.15.43.520 standHold
 "22" N052.31.11.046 W002.15.39.631 standHold
+;Heli Points
+"S" N052.30.46.597 W002.15.29.114 standHold
+"SE" N052.30.51.691 W002.15.17.851 standHold
+"NE" N052.31.02.642 W002.15.25.477 standHold
+"NW" N052.31.06.382 W002.15.55.468 standHold
