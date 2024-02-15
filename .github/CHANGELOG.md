@@ -1,7 +1,7 @@
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2401) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
 2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
-3. Bug - Corrected SA for EGGW ITVIP departures - Thanks to @Lucak1011 (Luca Kulaga)
+3. Bug - Refined TC East LTMA outbound standing agreements to improve correct display - thanks to @Lucak1011 (Luca Kulaga) and @hazzas-99
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
