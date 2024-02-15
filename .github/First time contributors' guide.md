@@ -1,3 +1,13 @@
+# Introduction
+
+This guide is intended for first time contributors, but should be followed alongside the [General Contributing Guide](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/Contributing.md).
+
+There is also the [Style Guide](https://github.com/VATSIM-UK/UK-Sector-File/blob/main/.github/Style%20Guide.md) which helps explain the details of how to get various aspects of the process correct.
+
+As well as this textual guide, there is a [YouTube video](https://www.youtube.com/watch?v=FDddSD34f1o) which explains the GitHub system and process using a worked example.
+
+Thank you for your interest in contributing to the VATSIM UK Sector File. If you get stuck, and the information in [the wiki](https://github.com/VATSIM-UK/UK-Sector-File/wiki) is not enough to help you, please contact us on [Discord](https://www.vatsim.uk/discord) in the "sector-file-development" channel.
+
 # How to contribute for the first time
 
 If you haven't already, make a GitHub account and log in.
@@ -37,7 +47,7 @@ In the GitHub desktop client, under 'current repository', under your username, s
 
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101283451-5b56b100-37d2-11eb-95e6-dfeb70865cc8.png)
 
-Under 'Current branch' ensure 'master' (may also be titled 'main') is selected. 
+Under 'Current branch' ensure 'main' (may also be titled 'master') is selected.
 
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101282290-4119d480-37cc-11eb-950a-b5eb7dde9f13.png)
 
@@ -148,7 +158,7 @@ If you want to do more issues, simply follow this guide from 'create new branch'
 
 ![enter image description here](https://user-images.githubusercontent.com/14115426/101295301-bad5b080-3814-11eb-8015-3a6b83ec2038.png)
 
-Simply ensure 'upstream/master' remains selected.
+Simply ensure 'upstream/main' remains selected.
 
 # Something broke
 
