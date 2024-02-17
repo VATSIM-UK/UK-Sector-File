@@ -1,0 +1,2 @@
+COPX:NALAX:*:*:EGNT:*:London S11:London S10:*:36000:|NALAX
+COPX:NALAX:*:*:EGNV:*:London S11:London S10:*:36000:|NALAX
