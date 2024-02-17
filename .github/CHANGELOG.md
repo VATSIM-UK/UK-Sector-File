@@ -7,7 +7,7 @@
 6. Enhancement - Added missing Gatwick (EGKK) Taxiway Labels - thanks to @AliceFord (Alice Ford)
 7. Enhancement - Added Heathrow RMA for NODE displays - thanks to @SamLefevre (Samuel Lefevre)
 8. Enhancement - Added London CTR Heli Route Labels Freetext option - thanks to @PLM1995 (Peter Mooney)
-9. Procedure Change - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
+9. Procedure Change (2402) - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
