@@ -11,6 +11,7 @@
 10. Bug - Corrected slightly incorrect agreemnts (8_SNB, RR_JJ, 27_TCCOW) - thanks to @AliceFord (Alice Ford)
 11. Bug - Standardised formating across multiple files - thanks to @AliceFord (Alice Ford)
 12. AIRAC (2402) - Added new Brussels fixes (IMPOH and KOZUF) and associated standing agreements - thanks to @khardern
+13. Bug - Refined TC East LTMA outbound standing agreements to improve correct display - thanks to @Lucak1011 (Luca Kulaga) and @hazzas-99
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
