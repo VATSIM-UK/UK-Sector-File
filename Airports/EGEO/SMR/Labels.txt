@@ -1,7 +1,7 @@
 ;Holding Points
 "A" N056.28.07.071 W005.23.52.085 standhold
 "B" N056.27.59.437 W005.23.55.147 standhold
-"C" N056.27.55.230 W005.23.55.935 standhold 
+"C" N056.27.55.230 W005.23.55.935 standhold
 "E" N056.27.42.924 W005.23.58.677 standhold
 "F" N056.27.36.523 W005.23.59.577 standhold
 "G" N056.27.50.203 W005.24.04.293 standhold
