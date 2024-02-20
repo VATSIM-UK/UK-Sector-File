@@ -1,3 +1,20 @@
+# Changes from release 2024/01 to 2024/02
+1. AIRAC (2402) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
+2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
+3. AIRAC (2402) - Added ANMAZ, BAZNA, IDDEC, OFCOT and TOWTE - thanks to @rhys1573 (Rhys Worlock)
+4. Bug - Corrected French ATS Routes A30, B24 and G273 - thanks to @AliceFord (Alice Ford)
+5. AIRAC (2402) - Replaced temporary danger area EGD597 with permanent EGD514 - thanks to @rishab-alt & @PLM1995 (Peter Mooney)
+6. Enhancement - Added missing Gatwick (EGKK) Taxiway Labels - thanks to @AliceFord (Alice Ford)
+7. Enhancement - Added Heathrow RMA for NODE displays - thanks to @SamLefevre (Samuel Lefevre)
+8. Enhancement - Added London CTR Heli Route Labels Freetext option - thanks to @PLM1995 (Peter Mooney)
+9. AIRAC (2402) - Added Land's End ATIS (EGHC_ATIS) position definition - thanks to @RedstonePilot (Ben Walker)
+10. Bug - Corrected slightly incorrect agreemnts (8_SNB, RR_JJ, 27_TCCOW) - thanks to @AliceFord (Alice Ford)
+11. Bug - Standardised formating across multiple files - thanks to @AliceFord (Alice Ford)
+12. AIRAC (2402) - Added new Brussels fixes (IMPOH and KOZUF) and associated standing agreements - thanks to @khardern
+13. Bug - Refined TC East LTMA outbound standing agreements to improve correct display - thanks to @Lucak1011 (Luca Kulaga) and @hazzas-99
+14. Procedure Change (2402) - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
+15. Enhancement - Added SF Linter to Github Workflow - thanks to @AliceFord (Alice Ford)
+
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2401) - Updated Alderney (ALD) NDB coordinates - thanks to @ChrisXPP (Christoph Reule)
@@ -6,7 +23,11 @@
 5. AIRAC (2401) - Removed Southampton (EGHI) Stand 1 - thanks to @rishab-alt
 6. Bug - Corrected callsigns for Edinburgh (EGPH) and Glasgow (EGPF) "Director" positions - thanks to @ChrisXPP (Christoph Reule)
 7. AIRAC (2401) - Updated Brize Norton (EGVN) holding point names - thanks to @ChrisXPP (Christoph Reule)
-8. Enhancement - Added SF Linter to Github Workflow - thanks to @AliceFord (Alice Ford)
+8. AIRAC (2401) - Updated Stansted (EGSS) SMR - thanks to @rishab-alt
+9. Procedure Change (2401) - Amended Clacton (S13) to Dover (S26) agreements for Severn & Midlands group inbounds - thanks to @khardern
+10. Enhancement - Updated agreements and created Tay sub-sector for events only - thanks to @KHardern
+11. AIRAC (2401) - Updated Teeside International (EGNV) Draken Stands and SMR - thanks to @AliceFord (Alice Ford)
+12. AIRAC (2401) - Removed Coventry (EGBE) North Apron and reduced runway 23 stopway - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
