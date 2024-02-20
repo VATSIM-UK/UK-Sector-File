@@ -7,7 +7,12 @@
 6. Enhancement - Added missing Gatwick (EGKK) Taxiway Labels - thanks to @AliceFord (Alice Ford)
 7. Enhancement - Added Heathrow RMA for NODE displays - thanks to @SamLefevre (Samuel Lefevre)
 8. Enhancement - Added London CTR Heli Route Labels Freetext option - thanks to @PLM1995 (Peter Mooney)
-9. Procedure Change (2402) - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
+9. AIRAC (2402) - Added Land's End ATIS (EGHC_ATIS) position definition - thanks to @RedstonePilot (Ben Walker)
+10. Bug - Corrected slightly incorrect agreemnts (8_SNB, RR_JJ, 27_TCCOW) - thanks to @AliceFord (Alice Ford)
+11. Bug - Standardised formating across multiple files - thanks to @AliceFord (Alice Ford)
+12. AIRAC (2402) - Added new Brussels fixes (IMPOH and KOZUF) and associated standing agreements - thanks to @khardern
+13. Bug - Refined TC East LTMA outbound standing agreements to improve correct display - thanks to @Lucak1011 (Luca Kulaga) and @hazzas-99
+14. Procedure Change (2402) - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
