@@ -1,7 +1,7 @@
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2401) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
 2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
-3. Enhancement - Added Redhill Hover spots - thanks to @lucak1011 (Luca Kulaga)
+3. Enhancement - Added Redhill (EGKR) Hover spots and Heli Training Areas to SMR - thanks to @lucak1011 (Luca Kulaga) and @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
