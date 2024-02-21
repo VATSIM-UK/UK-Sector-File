@@ -15,6 +15,7 @@
 14. Procedure Change (2402) - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
 15. AIRAC (2402) - Added Wolverhampton (EGBO) Helipads and updated SMR - thanks to @RedstonePilot (Ben Walker)
 16. Enhancement - Added Redhill (EGKR) Hover spots and Heli Training Areas to SMR - thanks to @lucak1011 (Luca Kulaga) and @PLM1995 (Peter Mooney)
+17. Procedure Change (2402) - Updated Bremen (A) frequency and corrected Jever top-down order - thanks to @khardern
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
