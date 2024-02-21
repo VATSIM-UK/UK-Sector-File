@@ -3,7 +3,7 @@
 2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
 3. AIRAC (2402) - Added ANMAZ, BAZNA, IDDEC, OFCOT and TOWTE - thanks to @rhys1573 (Rhys Worlock)
 4. Bug - Corrected French ATS Routes A30, B24 and G273 - thanks to @AliceFord (Alice Ford)
-5. AIRAC (2402) - Replaced temporary danger area EGD597 with permanent EGD514 - thanks to @rishab-alt & @PLM1995 (Peter Mooney)
+5. AIRAC (2402) - Replaced temporary danger area EGD597 with permanent EGD514 - thanks to @rishab-alt and @PLM1995 (Peter Mooney)
 6. Enhancement - Added missing Gatwick (EGKK) Taxiway Labels - thanks to @AliceFord (Alice Ford)
 7. Enhancement - Added Heathrow RMA for NODE displays - thanks to @SamLefevre (Samuel Lefevre)
 8. Enhancement - Added London CTR Heli Route Labels Freetext option - thanks to @PLM1995 (Peter Mooney)
@@ -14,6 +14,7 @@
 13. Bug - Refined TC East LTMA outbound standing agreements to improve correct display - thanks to @Lucak1011 (Luca Kulaga) and @hazzas-99
 14. Procedure Change (2402) - Added event-only LUS (S1) to WOR (S18) Paris inbound agreements - thanks to @hazzas-99
 15. AIRAC (2402) - Added Wolverhampton (EGBO) Helipads and updated SMR - thanks to @RedstonePilot (Ben Walker)
+16. Enhancement - Added Redhill (EGKR) Hover spots and Heli Training Areas to SMR - thanks to @lucak1011 (Luca Kulaga) and @PLM1995 (Peter Mooney)
 
 # Changes from release 2023/13 to 2024/01
 1. AIRAC (2401) - Updated Kirkwall (EGPA) ATIS frequency - thanks to @ChrisXPP (Christoph Reule)
