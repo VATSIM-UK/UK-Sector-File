@@ -1,5 +1,5 @@
 # Changes from release 2024/02 to 2024/03
-#. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP
+#. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2402) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
