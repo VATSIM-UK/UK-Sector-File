@@ -1,3 +1,6 @@
+# Changes from release 2024/02 to 2024/03
+1. Enhancement - Added Leeds Bradford (EGNM) Airspace Gates - thanks to @AliceFord (Alice Ford)
+
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2402) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
 2. Bug - Corrected the ICAO code for EGBG_R_TWR position definition - thanks to @RedstonePilot (Ben Walker)
