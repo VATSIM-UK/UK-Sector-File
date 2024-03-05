@@ -1,5 +1,5 @@
 # Changes from release 2024/02 to 2024/03
- 1. AIRAC (2403) - Update Honington (EGXH) Runway Coordinates - thanks to @WentuM (WentuM)
+ 1. AIRAC (2403) - Update Honington (EGXH) Runway Coordinates - thanks to @WentuM
 
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2402) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
