@@ -2,5 +2,5 @@
 ; @preserveComment Any corrections or amendments for this file should be directed to the Operations/ EuroScope department of the helpdesk
 ; @preserveComment helpdesk.vatsim.uk
 ; @preserveComment
-; @preserveComment Copyright VATSIM UK 2010-{YEAR}. Licensing subject to the terms available at https://github.com/VATSIM-UK/UK-Sector-File/edit/main/LICENSE.md
+; @preserveComment Copyright VATSIM UK 2010-{YEAR}. Licensing subject to the terms available at https://github.com/VATSIM-UK/UK-Sector-File/blob/main/LICENSE.md
 ; @preserveComment UK (EGTT and EGPX) {VERSION} build date {BUILD}
