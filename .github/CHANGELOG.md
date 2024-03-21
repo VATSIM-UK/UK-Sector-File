@@ -4,6 +4,7 @@
 3. AIRAC (2403) - Added Goodwood (EGHR) HAPs and updated SMR - thanks to @RedstonePilot (Ben Walker)
 4. AIRAC (2403) - Updated Honington (EGXH) Runway Coordinates - thanks to @WentuM
 5. AIRAC (2403) - Updated Gatwick (EGKK) SMR, new ER Rapid Exit Taxiway - thanks to @olivercesarczyk (Oliver Cesarczyk)
+6. Enhancement - Added Leeds Bradford (EGNM) Airspace Gates - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2402) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
