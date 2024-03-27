@@ -6,6 +6,7 @@
 5. AIRAC (2403) - Updated Gatwick (EGKK) SMR, new ER Rapid Exit Taxiway - thanks to @olivercesarczyk (Oliver Cesarczyk)
 6. Enhancement - Added Leeds Bradford (EGNM) Airspace Gates - thanks to @AliceFord (Alice Ford)
 7. Bug - Fixed Solent -> TC SW EGHI/HH departure agreement display - thanks to @hazzas-99
+8. Enhancement - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
 
 # Changes from release 2024/01 to 2024/02
 1. AIRAC (2402) - Removed Shoreham (EGKA) Helipad 7 Circle - thanks to @rishab-alt
