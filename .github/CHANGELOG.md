@@ -1,5 +1,6 @@
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
+2. AIRAC (2404) - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
