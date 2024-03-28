@@ -1,3 +1,6 @@
+# Changes from release 2024/03 to 2024/04
+1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
+
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2403) - Added Booker (EGTB) VRP - thanks to @ChrisXPP (Christoph Reule)
