@@ -1,5 +1,5 @@
 # Changes from release 2024/03 to 2024/04
-#. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
+x. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
