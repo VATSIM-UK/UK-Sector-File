@@ -1,4 +1,5 @@
 # Changes from release 2024/03 to 2024/04
+x. Bug - Removed danger area EGR612 Arbroath - thanks to @ChrisXPP (Christoph Reule)
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
 2. AIRAC (2404) - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
 3. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
