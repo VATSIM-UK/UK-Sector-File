@@ -3,6 +3,7 @@
 2. AIRAC (2404) - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
 3. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
 4. Bug - Removed danger area EGR612 Arbroath - thanks to @ChrisXPP (Christoph Reule)
+5. AIRAC (2404) - Updated Birmingham (EGBB) SMR WIP areas - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
