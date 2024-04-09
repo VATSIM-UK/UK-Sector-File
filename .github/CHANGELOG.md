@@ -1,5 +1,5 @@
 # Changes from release 2024/04 to 2024/05
-1. AIRAC (2405) - Jersey (EGJJ) Stand 32 removed - thanks to @lucak1011 (Luca Kulaga)
+1. AIRAC (2405) - Removed stand 32 from Jersey (EGJJ) SMR - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
