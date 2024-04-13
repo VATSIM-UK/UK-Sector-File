@@ -3,7 +3,8 @@
 2. AIRAC (2404) - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
 3. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
 4. Bug - Removed danger area EGR612 Arbroath - thanks to @ChrisXPP (Christoph Reule)
-5. Enhancement - Removed spaces in danger/restricted area file names - thanks to @AliceFord (Alice Ford)
+5. Enhancement - Added Thruxton (EGHO) Heli Aiming Points - thanks to @kristiankunc (Kristián Kunc)
+6. Enhancement - Removed spaces in danger/restricted area file names - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
