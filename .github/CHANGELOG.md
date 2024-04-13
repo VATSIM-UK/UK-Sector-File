@@ -7,6 +7,7 @@
 6. Enhancement - Removed spaces in danger/restricted area file names - thanks to @AliceFord (Alice Ford)
 7. AIRAC (2404) - Updated Birmingham (EGBB) SMR WIP areas - thanks to @RedstonePilot (Ben Walker)
 8. AIRAC (2403) - Added Coventry (EGBE) 05 stopway and Updated SMR  - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2404) - Updated Bristol (EGGD) SMR, added new holds and stand - thanks to @olivercesarczyk (Oliver Cesarczyk)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
