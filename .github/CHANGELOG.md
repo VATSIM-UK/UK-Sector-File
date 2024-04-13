@@ -1,9 +1,13 @@
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
-2. AIRAC (2404) - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
+2. AIRAC (2404) - Updated Benbecula ATIS frequency - thanks to @abdullahshahid95 (Abdullah Shahid)
 3. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
 4. Bug - Removed danger area EGR612 Arbroath - thanks to @ChrisXPP (Christoph Reule)
-5. AIRAC (2404) - Updated Bristol (EGGD) SMR, added new holds and stand - thanks to @olivercesarczyk (Oliver Cesarczyk)
+5. Enhancement - Added Thruxton (EGHO) Heli Aiming Points - thanks to @kristiankunc (Kristián Kunc)
+6. Enhancement - Removed spaces in danger/restricted area file names - thanks to @AliceFord (Alice Ford)
+7. AIRAC (2404) - Updated Birmingham (EGBB) SMR WIP areas - thanks to @RedstonePilot (Ben Walker)
+8. AIRAC (2403) - Added Coventry (EGBE) 05 stopway and Updated SMR  - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2404) - Updated Bristol (EGGD) SMR, added new holds and stand - thanks to @olivercesarczyk (Oliver Cesarczyk)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
