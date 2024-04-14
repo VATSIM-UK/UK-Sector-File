@@ -1,3 +1,6 @@
+# Changes from release 2024/04 to 2024/05
+1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
 2. AIRAC (2404) - Benbecula ATIS frequency updated - thanks to @abdullahshahid95 (Abdullah Shahid)
