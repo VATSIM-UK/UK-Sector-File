@@ -462,9 +462,8 @@
             },
             "regions": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Regions",
                 "recursive": true,
-                "pattern": "Regions_"
             },
             "active_runways": {
                 "type": "files",
