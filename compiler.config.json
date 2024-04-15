@@ -447,9 +447,8 @@
                 },
                 {
                     "type": "folder",
-                    "folder": "Misc",
+                    "folder": "Airspace 'STARs'",
                     "recursive": true,
-                    "pattern": "STAR_"
                 }
             ],
             "geo": {
