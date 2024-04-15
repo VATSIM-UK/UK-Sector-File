@@ -278,9 +278,8 @@
             ],
             "positions": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Area Positions",
                 "recursive": true,
-                "pattern": "Positions_"
             }
         },
         "misc": {
