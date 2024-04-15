@@ -453,11 +453,10 @@
             ],
             "geo": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Geo",
                 "recursive": true,
-                "pattern": "Geo_",
                 "exclude": [
-                    "Geo_Coastline High Detail.txt"
+                    "Coastline High Detail.txt"
                 ]
             },
             "regions": {
