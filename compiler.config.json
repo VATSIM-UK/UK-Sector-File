@@ -447,7 +447,7 @@
                 },
                 {
                     "type": "folder",
-                    "folder": "Airspace 'STARs'",
+                    "folder": "Radar Maps (Stars)",
                     "recursive": true,
                 }
             ],
