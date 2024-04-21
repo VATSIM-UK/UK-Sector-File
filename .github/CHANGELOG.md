@@ -1,5 +1,6 @@
 # Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
+2. Enhancement - Re-structured 'Misc' folder - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
@@ -12,7 +13,6 @@
 8. AIRAC (2403) - Added Coventry (EGBE) 05 stopway and Updated SMR  - thanks to @RedstonePilot (Ben Walker)
 9. AIRAC (2404) - Updated Bristol (EGGD) SMR, added new holds and stand - thanks to @olivercesarczyk (Oliver Cesarczyk)
 10. AIRAC (2404) - Updated Ronaldsway (EGNS) SMR - thanks to @kristiankunc (Kristián Kunc)
-11. Enhancement - Re-structured 'Misc' folder - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
