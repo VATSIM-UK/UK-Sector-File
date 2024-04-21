@@ -4,3 +4,7 @@
 "12" N051.12.41.576 W001.36.13.274 smrWhite
 "25" N051.12.44.826 W001.35.28.104 smrWhite
 "30" N051.12.28.383 W001.35.40.731 smrWhite
+
+;Helicopter Aiming Points
+"Heli North" N051.12.31.700 W001.36.01.368 smrWhite
+"Heli South" N051.12.16.889 W001.36.15.957 smrWhite
