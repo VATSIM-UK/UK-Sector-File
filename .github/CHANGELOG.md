@@ -1,3 +1,5 @@
+X. Procedure Change - Airspace resectorisation between AC West and AC South - thanks to @khardern
+
 # Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2405) - Removed stand 32 from Jersey (EGJJ) SMR - thanks to @lucak1011 (Luca Kulaga)
