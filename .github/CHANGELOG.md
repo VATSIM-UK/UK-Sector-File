@@ -14,6 +14,7 @@
 8. AIRAC (2403) - Added Coventry (EGBE) 05 stopway and Updated SMR  - thanks to @RedstonePilot (Ben Walker)
 9. AIRAC (2404) - Updated Bristol (EGGD) SMR, added new holds and stand - thanks to @olivercesarczyk (Oliver Cesarczyk)
 10. AIRAC (2404) - Updated Ronaldsway (EGNS) SMR - thanks to @kristiankunc (Kristián Kunc)
+11. AIRAC (2404) - Updated Leuchars (EGQL) frequencies - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
