@@ -2,6 +2,7 @@
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2405) - Removed stand 32 from Jersey (EGJJ) SMR - thanks to @lucak1011 (Luca Kulaga)
 3. Enhancement - Removed old STARs from 2022/05 or earlier - thanks to @hazzas-99
+4. AIRAC(2405) - Changed Prestwick (EGPK) Runway designator 03/21 to 02/20 - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
