@@ -1,5 +1,5 @@
-# Changes from release 2024/04 to 2024/04
-X. AIRAC(2405) - Added Airbus Hangar and Helipads to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
+# Changes from release 2024/05 to 2024/06
+1. AIRAC(2406) - Added Airbus Hangar and Helipads to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
