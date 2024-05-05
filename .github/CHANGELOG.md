@@ -1,5 +1,5 @@
-# Changes from release 2024/04 to 2024/05
-1. AIRAC (2405) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt 
+# Changes from release 2024/05 to 2024/06
+1. AIRAC (2406) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt 
 
 # Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
