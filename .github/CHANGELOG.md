@@ -1,4 +1,7 @@
 # Changes from release 2024/04 to 2024/05
+1. AIRAC (2405) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt 
+
+# Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
 2. AIRAC (2405) - Removed stand 32 from Jersey (EGJJ) SMR - thanks to @lucak1011 (Luca Kulaga)
 3. Enhancement - Removed old STARs from 2022/05 or earlier - thanks to @hazzas-99
