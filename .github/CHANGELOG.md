@@ -1,4 +1,4 @@
-X. Procedure Change - COWLY/S27 airspace base changes - thanks to @khardern
+X. Procedure Change - Sectorisation: Transfer of airspace from DTY (S27/32) to TC Mids (COWLY) - thanks to @khardern
 
 # Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
