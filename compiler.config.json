@@ -278,9 +278,8 @@
             ],
             "positions": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Area Positions",
                 "recursive": true,
-                "pattern": "Positions_"
             }
         },
         "misc": {
@@ -331,7 +330,7 @@
             ],
             "freetext": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Other",
                 "recursive": true,
                 "pattern": "Freetext_"
             },
@@ -356,7 +355,7 @@
             "pre_positions": {
                 "type": "files",
                 "files": [
-                    "Misc/Pre-Positions.txt"
+                    "Misc Other/Pre-Positions.txt"
                 ]
             },
             "fixes": [
@@ -386,13 +385,13 @@
             "radars": {
                 "type": "files",
                 "files": [
-                    "Misc/Radar Sites.txt"
+                    "Misc Other/Radar Sites.txt"
                 ]
             },
             "radar_holes": {
                 "type": "files",
                 "files": [
-                    "Misc/Radar Holes.txt"
+                    "Misc Other/Radar Holes.txt"
                 ]
             },
             "artcc_low": {
@@ -435,7 +434,7 @@
                 },
                 {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Other",
                 "recursive": true,
                 "pattern": "SID_"
                 }
@@ -448,25 +447,22 @@
                 },
                 {
                     "type": "folder",
-                    "folder": "Misc",
+                    "folder": "Radar Maps (Stars)",
                     "recursive": true,
-                    "pattern": "STAR_"
                 }
             ],
             "geo": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Geo",
                 "recursive": true,
-                "pattern": "Geo_",
                 "exclude": [
-                    "Geo_Coastline High Detail.txt"
+                    "Coastline High Detail.txt"
                 ]
             },
             "regions": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Regions",
                 "recursive": true,
-                "pattern": "Regions_"
             },
             "active_runways": {
                 "type": "files",
