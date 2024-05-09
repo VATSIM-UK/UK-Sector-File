@@ -1,3 +1,28 @@
+# Changes from release 2024/04 to 2024/05
+1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
+2. AIRAC (2405) - Removed stand 32 from Jersey (EGJJ) SMR - thanks to @lucak1011 (Luca Kulaga)
+3. Enhancement - Removed old STARs from 2022/05 or earlier - thanks to @hazzas-99
+4. AIRAC (2404) - Changed Mona (EGOQ) Tower frequency - thanks to @kristiankunc (Kristián Kunc)
+5. AIRAC (2404) - Changed Valley (EGOV) frequencies - thanks to @kristiankunc (Kristián Kunc)
+6. AIRAC (2404) - Updated Leuchars (EGQL) frequencies - thanks to @lucak1011 (Luca Kulaga)
+7. AIRAC (2405) - Changed Prestwick (EGPK) Runway designator 03/21 to 02/20 - thanks to @lucak1011 (Luca Kulaga)
+8. Enhancement - Re-structured 'Misc' folder - thanks to @PLM1995 (Peter Mooney)
+9. AIRAC (2405) - Updated Fairford (EGVA) Runway coordinates - thanks to @danielbutton (Daniel Button)
+10. Bug - Fixed Fairford (EGVA) ATZ coordinates - thanks to @danielbutton (Daniel Button)
+11. Procedure Change (2405) - Updated agreed level (EHAM departure via LONAM) - thanks to @khardern
+
+# Changes from release 2024/03 to 2024/04
+1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
+2. AIRAC (2404) - Updated Benbecula ATIS frequency - thanks to @abdullahshahid95 (Abdullah Shahid)
+3. AIRAC (2401) - Updated Stansted (EGSS) VRPs - thanks to @ChrisXPP (Christoph Reule)
+4. Bug - Removed danger area EGR612 Arbroath - thanks to @ChrisXPP (Christoph Reule)
+5. Enhancement - Added Thruxton (EGHO) Heli Aiming Points - thanks to @kristiankunc (Kristián Kunc)
+6. Enhancement - Removed spaces in danger/restricted area file names - thanks to @AliceFord (Alice Ford)
+7. AIRAC (2404) - Updated Birmingham (EGBB) SMR WIP areas - thanks to @RedstonePilot (Ben Walker)
+8. AIRAC (2403) - Added Coventry (EGBE) 05 stopway and Updated SMR  - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2404) - Updated Bristol (EGGD) SMR, added new holds and stand - thanks to @olivercesarczyk (Oliver Cesarczyk)
+10. AIRAC (2404) - Updated Ronaldsway (EGNS) SMR - thanks to @kristiankunc (Kristián Kunc)
+
 # Changes from release 2024/02 to 2024/03
 1. AIRAC (2403) - Redesignated Islay (EGPI) runways - thanks to @ChrisXPP (Christoph Reule)
 2. AIRAC (2403) - Added Booker (EGTB) VRP - thanks to @ChrisXPP (Christoph Reule)
