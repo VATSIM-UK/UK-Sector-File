@@ -7,8 +7,9 @@
 6. AIRAC (2404) - Updated Leuchars (EGQL) frequencies - thanks to @lucak1011 (Luca Kulaga)
 7. AIRAC (2405) - Changed Prestwick (EGPK) Runway designator 03/21 to 02/20 - thanks to @lucak1011 (Luca Kulaga)
 8. Enhancement - Re-structured 'Misc' folder - thanks to @PLM1995 (Peter Mooney)
-X. Procedure Change - Removed ENSV_E_CTR from sectors 10,11,15 and add ENOR_SC_CTR to top-down order - thanks to @khardern
-X. Bug - Remove EURN_FSS from top-down order of Stavanger low sectors - thanks to @khardern
+9. AIRAC (2405) - Updated Fairford (EGVA) Runway coordinates - thanks to @danielbutton (Daniel Button)
+10. Procedure Change - Removed ENSV_E_CTR from sectors 10,11,15 and added ENOR_SC_CTR to top-down order - thanks to @khardern
+11. Bug - Removed EURN_FSS from top-down order of Stavanger low sectors - thanks to @khardern
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
