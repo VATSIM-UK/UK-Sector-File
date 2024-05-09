@@ -8,6 +8,7 @@
 7. AIRAC (2405) - Changed Prestwick (EGPK) Runway designator 03/21 to 02/20 - thanks to @lucak1011 (Luca Kulaga)
 8. Enhancement - Re-structured 'Misc' folder - thanks to @PLM1995 (Peter Mooney)
 9. AIRAC (2405) - Updated Fairford (EGVA) Runway coordinates - thanks to @danielbutton (Daniel Button)
+10. Bug - Fixed Fairford (EGVA) ATZ coordinates - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
