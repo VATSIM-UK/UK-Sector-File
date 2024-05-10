@@ -10,6 +10,7 @@
 9. AIRAC (2405) - Updated Fairford (EGVA) Runway coordinates - thanks to @danielbutton (Daniel Button)
 10. Bug - Fixed Fairford (EGVA) ATZ coordinates - thanks to @danielbutton (Daniel Button)
 11. Procedure Change (2405) - Updated agreed level (EHAM departure via LONAM) - thanks to @khardern
+12. Bug - Corrected Glasgow (EGPF) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
