@@ -1,3 +1,6 @@
+# Changes from release 2024/04 to 2024/05
+X. AIRAC (2313) - Updated Southampton (EGHI) stands 2-5 - thanks to @RedstonePilot (Ben Walker)
+
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
 2. AIRAC (2404) - Updated Benbecula ATIS frequency - thanks to @abdullahshahid95 (Abdullah Shahid)
