@@ -15,7 +15,10 @@
 14. Bug - Removed EURN_FSS from top-down order of Stavanger low sectors - thanks to @khardern
 15. Enhancement - Defined the Ostend (EBOS) TMA and updated agreed levels - thanks to @khardern
 16. Bug - Corrected Glasgow (EGPF) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
-X. Enhancement - Added Glasgow Campisie line - thanks to @khardern
+17. AIRAC (2313) - Updated Southampton (EGHI) stands 2-5 - thanks to @RedstonePilot (Ben Walker)
+18. Bug - Corrected Bournemouth (EGHH) SMR definition errors - thanks to @PLM1995 (Peter Mooney)
+19. Enhancement - Added GND and DEL Automatic Airport Selection functionality - thanks to @PLM1995 (Peter Mooney)
+20. Enhancement - Added Glasgow (EGPF) Campsie line - thanks to @khardern
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
