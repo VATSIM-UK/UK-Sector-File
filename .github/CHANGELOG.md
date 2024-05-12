@@ -11,8 +11,9 @@
 10. Bug - Fixed Fairford (EGVA) ATZ coordinates - thanks to @danielbutton (Daniel Button)
 11. Procedure Change (2405) - Updated agreed level (EHAM departure via LONAM) - thanks to @khardern
 12. AIRAC (2405) - Updated Manchester (EGCC) SMR - thanks to @rishab-alt
-13. Procedure Change - Removed ENSV_E_CTR from sectors 10,11,15 and added ENOR_SC_CTR to top-down order - thanks to @khardern
+13. Procedure Change (2405) - Removed ENSV_E_CTR from sectors 10,11,15 and added ENOR_SC_CTR to top-down order - thanks to @khardern
 14. Bug - Removed EURN_FSS from top-down order of Stavanger low sectors - thanks to @khardern
+15. Enhancement - Defined the Ostend (EBOS) TMA and updated agreed levels - thanks to @khardern
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
