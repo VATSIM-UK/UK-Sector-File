@@ -14,6 +14,7 @@
 13. Procedure Change (2405) - Removed ENSV_E_CTR from sectors 10,11,15 and added ENOR_SC_CTR to top-down order - thanks to @khardern
 14. Bug - Removed EURN_FSS from top-down order of Stavanger low sectors - thanks to @khardern
 15. Enhancement - Defined the Ostend (EBOS) TMA and updated agreed levels - thanks to @khardern
+16. Bug - Corrected Glasgow (EGPF) Tower automatic arrival airport selection - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
