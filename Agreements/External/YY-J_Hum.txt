@@ -1,5 +1,5 @@
 FIR_COPX:*:*:RENEQ:*:*:EDYY Jever:Humber:*:*:RENEQ
 
-FIR_COPX:EHAM:*:LONAM:*:*:EDYY Jever:Humber:30000:*:^LONAM
+FIR_COPX:EHAM:*:LONAM:*:*:EDYY Jever:Humber:32000:*:^LONAM
 
 FIR_COPX:*:*:LONAM:*:*:EDYY Jever:Humber:*:*:LONAM
