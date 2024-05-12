@@ -124,7 +124,9 @@
 #define smrPFCenterLines 6381921
 #define smrPFDisused 6052952
 #define smrPFGrass 8093822
+#define smrPFHoldLabels 2829099
 #define smrPFHoldLines 160
+#define smrPFStandLabels 10329501
 #define smrPFRwyOuter 10329501
 #define smrPGDisused 11911865
 #define smrPGBuildings 1973790
