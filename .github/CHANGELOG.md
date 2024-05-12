@@ -13,6 +13,7 @@
 12. AIRAC (2405) - Updated Manchester (EGCC) SMR - thanks to @rishab-alt
 13. Procedure Change - Removed ENSV_E_CTR from sectors 10,11,15 and added ENOR_SC_CTR to top-down order - thanks to @khardern
 14. Bug - Removed EURN_FSS from top-down order of Stavanger low sectors - thanks to @khardern
+15. Enhancement - Updated Glasgow (EGPF) SMR to new style - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
