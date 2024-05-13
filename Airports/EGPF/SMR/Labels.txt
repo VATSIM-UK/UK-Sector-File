@@ -66,4 +66,4 @@
 "82" N055.52.08.280 W004.25.53.570 smrPFStandLabels
 
 ;Heli Parking
-"H" N055.52.16.038 W004.25.32.678 smrPFHoldLabels
+"H" N055.52.15.891 W004.25.32.673 smrPFStandLabels
