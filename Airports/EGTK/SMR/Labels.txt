@@ -48,6 +48,16 @@
 "Heli 5" N051.50.04.940 W001.19.00.381 standHold
 "Heli 6" N051.50.04.974 W001.18.54.528 standHold
 "Heli 7" N051.50.06.062 W001.18.53.397 standHold
+"Heli 10" N051.50.03.150 W001.18.49.576 standHold
+"Heli 11" N051.50.04.228 W001.18.49.487 standHold
+"Heli 21" N051.50.19.808 W001.18.41.280 standHold
+"Heli 22" N051.50.19.619 W001.18.43.442 standHold
+"Heli 23" N051.50.20.010 W001.18.45.021 standHold
+"Heli 24" N051.50.20.397 W001.18.46.749 standHold
+"Heli 25" N051.50.20.882 W001.18.48.528 standHold
+"Heli 26" N051.50.21.374 W001.18.50.514 standHold
+"Heli 27" N051.50.21.863 W001.18.52.067 standHold
+"Heli 28" N051.50.23.189 W001.18.53.105 standHold
 ;Grass Taxiways
 "F" N051.50.03.157 W001.19.07.757 standHold
 "P" N051.49.53.680 W001.19.01.937 standHold
