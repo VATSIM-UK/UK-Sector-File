@@ -1,5 +1,5 @@
 # Changes from release 2024/06 to 2024/07
-1. AIRAC (2407) - Update Jersey (JSY) VOR coordinates - thanks to @chssn
+1. AIRAC (2407) - Updated Jersey (JSY) VOR coordinates - thanks to @chssn
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt
