@@ -1,3 +1,5 @@
+x. AIRAC (2407) - Lashenden NDB removed - thanks to @Bucklerz (Reece Buckley)
+
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt
 2. AIRAC (2406) - Added Airbus Hangar and Helipads to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
