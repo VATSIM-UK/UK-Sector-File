@@ -1,4 +1,4 @@
-x. AIRAC (2407) - Lashenden NDB removed - thanks to @Bucklerz (Reece Buckley)
+x. AIRAC (2407) - Removed Lashenden NDB (LSH) - thanks to @Bucklerz (Reece Buckley)
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt
