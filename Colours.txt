@@ -117,6 +117,17 @@
 #define smrNXtarmac 3815994
 #define smrOldStand 8421631
 #define smrOrange 43775
+#define smrPFApron 2829099
+#define smrPFBackground 6379617
+#define smrPFBoundary 5787275
+#define smrPFBuilding 9296611
+#define smrPFCenterLines 6381921
+#define smrPFDisused 6052952
+#define smrPFGrass 8093822
+#define smrPFHoldLabels 2829099
+#define smrPFHoldLines 160
+#define smrPFStandLabels 10329501
+#define smrPFRwyOuter 10329501
 #define smrPGDisused 11911865
 #define smrPGBuildings 1973790
 #define smrPHApron 9868950

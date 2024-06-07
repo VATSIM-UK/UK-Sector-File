@@ -24,6 +24,7 @@
 19. Enhancement - Added GND and DEL Automatic Airport Selection functionality - thanks to @PLM1995 (Peter Mooney)
 20. Enhancement - Added Glasgow (EGPF) Campsie line - thanks to @khardern
 21. Enhancement - Added Burnham Box (Bristol/Cardiff) - thanks to @khardern
+22. Enhancement - Updated Glasgow (EGPF) SMR to new style - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
