@@ -1,3 +1,6 @@
+# Changes from release 2024/06 to 2024/07
+1. AIRAC (2407) - Updated Brize Norton (EGVN) Frequencies - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt
 2. AIRAC (2406) - Added Airbus Hangar and Helipads to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
