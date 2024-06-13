@@ -7,6 +7,7 @@
 6. Procedure Change (2406) - Sectorisation: Transfer of airspace from West (S5) to South LMS (S25) - thanks to @khardern
 7. Procedure Change (2406) - Sectorisation: Transfer of airspace from DTY (S27/32) to TC Mids (COWLY) - thanks to @khardern
 8. Procedure Change (2406) - Sectorisation: Transfer of airspace from North Sea (S10/S11) to DTY (S28/S34) and CLN (S12)
+9. Enhancement - Updated Bristol (EGGD) Delegated Airspace - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
