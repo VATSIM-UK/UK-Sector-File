@@ -223,57 +223,57 @@
         "enroute": {
             "sector_lines": {
                 "type": "folder",
-                "folder": "Sectors/"
+                "folder": "Sector Boundaries/"
             },
             "ownership": [
                 {
                     "type": "folder",
-                    "folder": "Ownership/TC - LTC"
+                    "folder": "Sector Ownership/TC - LTC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/TC - MPC"
+                    "folder": "Sector Ownership/TC - MPC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/TC - STC"
+                    "folder": "Sector Ownership/TC - STC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - Central"
+                    "folder": "Sector Ownership/AC - Central"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - North"
+                    "folder": "Sector Ownership/AC - North"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - South"
+                    "folder": "Sector Ownership/AC - South"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - West"
+                    "folder": "Sector Ownership/AC - West"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/ScAC - East"
+                    "folder": "Sector Ownership/ScAC - East"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/ScAC - West"
+                    "folder": "Sector Ownership/ScAC - West"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Swanwick Mil"
+                    "folder": "Sector Ownership/Swanwick Mil"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Alternate",
+                    "folder": "Sector Ownership/Alternate",
                     "recursive": true
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Non-UK"
+                    "folder": "Sector Ownership/Non-UK"
                 }
             ],
             "positions": {
@@ -429,7 +429,7 @@
             "sid_airspace": [
                 {
                     "type": "folder",
-                    "folder": "Sectors/Static",
+                    "folder": "Sector Boundaries/Static",
                     "recursive": true
                 },
                 {
@@ -442,7 +442,7 @@
             "star_airspace": [
                 {
                     "type": "folder",
-                    "folder": "Sectors/Static",
+                    "folder": "Sector Boundaries/Static",
                     "recursive": true
                 },
                 {
