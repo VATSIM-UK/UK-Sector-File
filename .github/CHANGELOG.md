@@ -2,6 +2,7 @@
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2407) - Updated Jersey (JSY) VOR coordinates - thanks to @chssn
 3. AIRAC (2407) - Removed Lashenden NDB (LSH) - thanks to @Bucklerz (Reece Buckley)
+4. AIRAC (2406) - Updated Barkston Heath (EGYE) runway headings - thanks to @mid-archie 
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
