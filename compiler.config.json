@@ -77,7 +77,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true,
                     "exclude_directory": ["EGGD", "EGTE", "EGFF"]
@@ -85,7 +85,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true,
                     "exclude_directory": ["EGFF", "EGTE"]
@@ -93,7 +93,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true,
                     "exclude_directory": ["EGFF"]
@@ -101,7 +101,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true
                   }
