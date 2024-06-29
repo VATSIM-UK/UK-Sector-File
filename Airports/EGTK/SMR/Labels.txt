@@ -36,10 +36,12 @@
 "J" N051.49.53.187 W001.18.54.447 standHold
 "K" N051.49.55.256 W001.18.55.727 standHold
 "M" N051.50.03.488 W001.18.52.197 standHold
-"Heli S" N051.49.51.120 W001.19.11.170 standHold
-"Heli E" N051.50.08.760 W001.19.05.450 standHold
-"Heli N" N051.50.11.250 W001.18.57.770 standHold
-"Heli W" N051.50.10.810 W001.19.18.490 standHold
+"Heli Hold S" N051.49.51.120 W001.19.11.170 standHold
+"Heli Hold E" N051.50.08.760 W001.19.05.450 standHold
+"Heli Hold N" N051.50.11.250 W001.18.57.770 standHold
+"Heli Hold W" N051.50.10.810 W001.19.18.490 standHold
+"Heli Hold Z" N051.50.19.423 W001.18.50.340 standHold
+"Heli Hold Y" N051.50.25.421 W001.18.55.895 standHold
 ;Helipads
 "Heli 1" N051.49.50.936 W001.18.56.844 standHold
 "Heli 2" N051.49.52.213 W001.18.57.163 standHold
