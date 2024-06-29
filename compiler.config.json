@@ -130,7 +130,7 @@
                 "sectors": {
                     "type": "files",
                     "files": [
-                        "Sector.txt"
+                        "Sector_Boundaries.txt"
                     ],
                     "ignore_missing": true
                 },
