@@ -38,7 +38,6 @@
 #define JJOCAS 6249039
 
 ;SMR Colours
-#define smrKRRunup 9352594
 #define smrACapron 10526880
 #define smrApron 5197647
 #define smrBBbuilding 12632256
@@ -90,6 +89,7 @@
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
 #define smrKKBlue 16755200
+#define smrKRRunup 9352594
 #define smrLLConstruction 80
 #define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
