@@ -4,6 +4,7 @@
 3. AIRAC (2407) - Removed Lashenden NDB (LSH) - thanks to @Bucklerz (Reece Buckley)
 4. AIRAC (2407) - Updated Brize Norton (EGVN) Frequencies - thanks to @danielbutton (Daniel Button)
 5. AIRAC (2407) - Added Portland (EGDP) ATZ - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2407) - Added new run up areas to the Redhill (EGKR) SMR - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
