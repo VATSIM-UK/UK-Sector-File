@@ -1,3 +1,6 @@
+# Changes from release 2024/06 to 2024/07
+1. Bug - Corrected A-NorthWest Region naming discrepancy in GB Landmass - thanks to @matthewmoy
+
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
 2. AIRAC (2406) - Added Airbus Hangar and Helipads to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
