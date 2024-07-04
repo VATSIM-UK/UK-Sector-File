@@ -4,6 +4,7 @@
 3. AIRAC (2407) - Removed Lashenden NDB (LSH) - thanks to @Bucklerz (Reece Buckley)
 4. AIRAC (2407) - Updated Brize Norton (EGVN) Frequencies - thanks to @danielbutton (Daniel Button)
 5. AIRAC (2407) - Added Portland (EGDP) ATZ - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2407) - Updated Guernsey (EGJB) SMR holding points - thanks to @Hinshee (Will Hinshaw)
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
