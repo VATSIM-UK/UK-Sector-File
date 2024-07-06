@@ -7,6 +7,7 @@
 6. AIRAC (2407) - Updated Guernsey (EGJB) SMR holding points - thanks to @Hinshee (Will Hinshaw)
 7. AIRAC (2407) - Updated Humberside (EGNJ) SMR - thanks to @RedstonePilot (Ben Walker)
 8. AIRAC (2407) - Added new Heli Holds to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2407) - Updated East Midlands (EGNX) Stand locations - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
