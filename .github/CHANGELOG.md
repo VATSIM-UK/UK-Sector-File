@@ -1,5 +1,15 @@
 # Changes from release 2024/06 to 2024/07
-1. Bug - Corrected A-NorthWest Region naming discrepancy in GB Landmass - thanks to @matthewmoy
+1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
+2. AIRAC (2407) - Updated Jersey (JSY) VOR coordinates - thanks to @chssn
+3. AIRAC (2407) - Removed Lashenden NDB (LSH) - thanks to @Bucklerz (Reece Buckley)
+4. AIRAC (2407) - Updated Brize Norton (EGVN) Frequencies - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2407) - Added Portland (EGDP) ATZ - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2407) - Updated Guernsey (EGJB) SMR holding points - thanks to @Hinshee (Will Hinshaw)
+7. AIRAC (2407) - Updated Humberside (EGNJ) SMR - thanks to @RedstonePilot (Ben Walker)
+8. AIRAC (2407) - Added new Heli Holds to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2407) - Updated East Midlands (EGNX) Stand locations - thanks to @RedstonePilot (Ben Walker)
+10. AIRAC (2407) - Updated Land's End (EGHC) hold points - thanks to @RedstonePilot (Ben Walker)
+11. Bug - Corrected A-NorthWest Region naming discrepancy in GB Landmass - thanks to @matthewmoy
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
