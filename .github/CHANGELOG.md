@@ -10,6 +10,7 @@
 9. AIRAC (2407) - Updated East Midlands (EGNX) Stand locations - thanks to @RedstonePilot (Ben Walker)
 10. AIRAC (2407) - Updated Land's End (EGHC) hold points - thanks to @RedstonePilot (Ben Walker)
 11. Bug - Corrected A-NorthWest Region naming discrepancy in GB Landmass - thanks to @matthewmoy
+12. AIRAC (2407) - Added new run up areas to the Redhill (EGKR) SMR - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
