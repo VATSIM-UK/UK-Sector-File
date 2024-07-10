@@ -1,5 +1,5 @@
 # Changes from release 2024/07 to 2024/08
-X. AIRAC (2408) - Add Leeds Bradford (EGNM) Tug Release Points - thanks to @RedstonePilot (Ben Walker)
+1. AIRAC (2408) - Add Leeds Bradford (EGNM) Tug Release Points - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
