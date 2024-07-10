@@ -1,9 +1,29 @@
-X. Enhancement - Added Glasgow Designated Area and Glasgow Local Area boundary lines (Talla/Tay) - thanks to @khardern
-
+# Changes from release 2024/06 to 2024/07
+1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
+2. AIRAC (2407) - Updated Jersey (JSY) VOR coordinates - thanks to @chssn
+3. AIRAC (2407) - Removed Lashenden NDB (LSH) - thanks to @Bucklerz (Reece Buckley)
+4. AIRAC (2407) - Updated Brize Norton (EGVN) Frequencies - thanks to @danielbutton (Daniel Button)
+5. AIRAC (2407) - Added Portland (EGDP) ATZ - thanks to @danielbutton (Daniel Button)
+6. AIRAC (2407) - Updated Guernsey (EGJB) SMR holding points - thanks to @Hinshee (Will Hinshaw)
+7. AIRAC (2407) - Updated Humberside (EGNJ) SMR - thanks to @RedstonePilot (Ben Walker)
+8. AIRAC (2407) - Added new Heli Holds to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2407) - Updated East Midlands (EGNX) Stand locations - thanks to @RedstonePilot (Ben Walker)
+10. AIRAC (2407) - Updated Land's End (EGHC) hold points - thanks to @RedstonePilot (Ben Walker)
+11. Bug - Corrected A-NorthWest Region naming discrepancy in GB Landmass - thanks to @matthewmoy
+12. AIRAC (2407) - Added new run up areas to the Redhill (EGKR) SMR - thanks to @kristiankunc (Kristián Kunc)
+13. AIRAC (2406) - Updated Barkston Heath (EGYE) runway headings - thanks to @mid-archie
+14. Procedure Change (2407) - Updated Cambridge (EGSC) Radar Frequencies - thanks to @mid-archie
+15. Procedure Change (2407) - Updated Ronaldsway (EGNS) Radar frequencies - thanks to @AliceFord (Alice Ford)
+16. Enhancement - Added Glasgow Designated Area and Glasgow Local Area boundary lines (Talla/Tay) - thanks to @khardern
 
 # Changes from release 2024/05 to 2024/06
-1. AIRAC (2406) - Update Fleetlands (EFVF) frequency - thanks to @rishab-alt
+1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
 2. AIRAC (2406) - Added Airbus Hangar and Helipads to Oxford (EGTK) SMR - thanks to @RedstonePilot (Ben Walker)
+3. AIRAC (2406) - Added Gatwick (EGKK) ATCSMA Area 'C' - thanks to @Bucklerz (Reece Buckley)
+4. Procedure Change (2406) - Sectorisation: Transfer of airspace from West (S5) to South LMS (S25) - thanks to @khardern
+5. Procedure Change (2406) - Sectorisation: Transfer of airspace from DTY (S27/32) to TC Mids (COWLY) - thanks to @khardern
+6. Procedure Change (2406) - Sectorisation: Transfer of airspace from North Sea (S10/S11) to DTY (S28/S34) and CLN (S12)
+7. Enhancement - Updated Bristol (EGGD) Delegated Airspace - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2024/04 to 2024/05
 1. AIRAC (2405) - Added Fairford Danger Areas EGD218A-D - thanks to @danielbutton (Daniel Button)
@@ -27,6 +47,7 @@ X. Enhancement - Added Glasgow Designated Area and Glasgow Local Area boundary l
 19. Enhancement - Added GND and DEL Automatic Airport Selection functionality - thanks to @PLM1995 (Peter Mooney)
 20. Enhancement - Added Glasgow (EGPF) Campsie line - thanks to @khardern
 21. Enhancement - Added Burnham Box (Bristol/Cardiff) - thanks to @khardern
+22. Enhancement - Updated Glasgow (EGPF) SMR to new style - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/03 to 2024/04
 1. AIRAC (2404) - Changed Fairoaks (EGTF) positon from FISO to A/G - thanks to @lucak1011 (Luca Kulaga)
