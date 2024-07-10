@@ -14,6 +14,7 @@
 13. AIRAC (2406) - Updated Barkston Heath (EGYE) runway headings - thanks to @mid-archie
 14. Procedure Change (2407) - Updated Cambridge (EGSC) Radar Frequencies - thanks to @mid-archie
 15. Procedure Change (2407) - Updated Ronaldsway (EGNS) Radar frequencies - thanks to @AliceFord (Alice Ford)
+16. Enhancement - Added Glasgow Designated Area and Glasgow Local Area boundary lines (Talla/Tay) - thanks to @khardern
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
