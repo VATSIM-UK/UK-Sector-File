@@ -13,6 +13,7 @@
 12. AIRAC (2407) - Added new run up areas to the Redhill (EGKR) SMR - thanks to @kristiankunc (Kristián Kunc)
 13. AIRAC (2406) - Updated Barkston Heath (EGYE) runway headings - thanks to @mid-archie
 14. Procedure Change (2407) - Updated Cambridge (EGSC) Radar Frequencies - thanks to @mid-archie
+15. Procedure Change (2407) - Updated Ronaldsway (EGNS) Radar frequencies - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2024/05 to 2024/06
 1. AIRAC (2406) - Updated Fleetlands (EFVF) frequency - thanks to @rishab-alt
