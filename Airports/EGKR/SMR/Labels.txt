@@ -27,3 +27,9 @@
 "HTA 2" N051.12.43.330 W000.08.20.711 smrWhite
 "HTA 3" N051.12.41.607 W000.08.33.658 smrWhite
 "HTA 4" N051.12.39.495 W000.08.43.277 smrWhite
+
+;Run up areas
+"Run up 25" N051.12.57.140 W000.08.09.759 smrWhite
+"Run up 18" N051.13.03.825 W000.08.17.969 smrWhite
+"Area West (N)" N051.12.54.115 W000.08.54.982 smrWhite
+"Area West (S)" N051.12.44.617 W000.08.54.921 smrWhite
