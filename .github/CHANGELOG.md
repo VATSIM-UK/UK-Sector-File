@@ -1,3 +1,6 @@
+# Changes from release 2024/07 to 2024/08
+1. Bug - Corrected Danger Area EGD113B name - thanks to @PLM1995 (Peter Mooney)
+
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2407) - Updated Jersey (JSY) VOR coordinates - thanks to @chssn
