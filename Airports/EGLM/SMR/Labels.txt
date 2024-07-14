@@ -1,2 +1,2 @@
 ;Parking
-"Aircraft Parking" N051.30.00.990 W000.45.57.890 standHold
+"Aircraft Parking" N051.30.00.990 W000.45.57.890 smrStandHold
