@@ -1,6 +1,7 @@
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2408) - Removed holding point F2 from Southend (EGMC) SMR - thanks to @RedstonePilot (Ben Walker)
+x. AIRAC (2408) - Updated West apron on Bristol (EGGD) SMR - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
