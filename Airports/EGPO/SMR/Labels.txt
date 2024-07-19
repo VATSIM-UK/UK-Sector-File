@@ -1,20 +1,20 @@
 ;Holding Points
 
-"A1" N058.13.19.400 W006.19.49.000 standHold
-"A2" N058.13.03.370 W006.19.15.560 standHold
-"A3" N058.12.59.700 W006.19.09.640 standHold
-"B1" N058.12.53.030 W006.19.44.890 standHold
-"B2" N058.12.53.990 W006.19.27.750 standHold
-"C1" N058.12.34.290 W006.19.41.000 standHold
-"D1" N058.13.06.940 W006.19.26.290 standHold
-"D2" N058.13.13.360 W006.19.38.880 standHold
-"E1" N058.12.21.750 W006.19.51.690 standHold
-"E2" N058.12.33.560 W006.19.54.410 standHold
-"F1" N058.12.49.130 W006.19.58.180 standHold
+"A1" N058.13.19.400 W006.19.49.000 smrStandHold
+"A2" N058.13.03.370 W006.19.15.560 smrStandHold
+"A3" N058.12.59.700 W006.19.09.640 smrStandHold
+"B1" N058.12.53.030 W006.19.44.890 smrStandHold
+"B2" N058.12.53.990 W006.19.27.750 smrStandHold
+"C1" N058.12.34.290 W006.19.41.000 smrStandHold
+"D1" N058.13.06.940 W006.19.26.290 smrStandHold
+"D2" N058.13.13.360 W006.19.38.880 smrStandHold
+"E1" N058.12.21.750 W006.19.51.690 smrStandHold
+"E2" N058.12.33.560 W006.19.54.410 smrStandHold
+"F1" N058.12.49.130 W006.19.58.180 smrStandHold
 
 ;Aprons
 
-"Gaydon North" N058.13.11.040 W006.19.39.500 standHold
-"Gaydon South" N058.13.05.440 W006.19.29.020 standHold
-"Lower Apron" N058.12.48.260 W006.19.29.630 standHold
-"Main Apron" N058.12.51.920 W006.19.17.290 standHold
+"Gaydon North" N058.13.11.040 W006.19.39.500 smrStandHold
+"Gaydon South" N058.13.05.440 W006.19.29.020 smrStandHold
+"Lower Apron" N058.12.48.260 W006.19.29.630 smrStandHold
+"Main Apron" N058.12.51.920 W006.19.17.290 smrStandHold

@@ -1,3 +1,3 @@
 ;Holding Points
-"A" N060.11.19.405 W001.14.44.449 standhold
-"B" N060.11.21.998 W001.14.43.259 standhold
+"A" N060.11.19.405 W001.14.44.449 smrStandHold
+"B" N060.11.21.998 W001.14.43.259 smrStandHold

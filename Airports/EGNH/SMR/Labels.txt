@@ -1,41 +1,41 @@
 ;Stands
-"1" N053.46.35.350 W003.02.35.480 standHold
-"2" N053.46.39.180 W003.02.35.400 standHold
-"3" N053.46.39.330 W003.02.33.920 standHold
-"Fuel" N053.46.37.740 W003.02.37.680 standHold
+"1" N053.46.35.350 W003.02.35.480 smrStandHold
+"2" N053.46.39.180 W003.02.35.400 smrStandHold
+"3" N053.46.39.330 W003.02.33.920 smrStandHold
+"Fuel" N053.46.37.740 W003.02.37.680 smrStandHold
 
 ;Helicoper Parking
-"H1" N053.46.41.640 W003.02.24.680 standHold
-"H2" N053.46.41.310 W003.02.26.500 standHold
-"H3" N053.46.40.230 W003.02.26.580 standHold
-"H4" N053.46.35.730 W003.02.34.410 standHold
-"H5" N053.46.35.180 W003.02.34.280 standHold
-"H" N053.46.43.930 W003.02.11.440 standHold ;Heli_East
+"H1" N053.46.41.640 W003.02.24.680 smrStandHold
+"H2" N053.46.41.310 W003.02.26.500 smrStandHold
+"H3" N053.46.40.230 W003.02.26.580 smrStandHold
+"H4" N053.46.35.730 W003.02.34.410 smrStandHold
+"H5" N053.46.35.180 W003.02.34.280 smrStandHold
+"H" N053.46.43.930 W003.02.11.440 smrStandHold ;Heli_East
 
 ;Helicoper Aiming Points
-"H-East" N053.46.33.540 W003.02.11.670 standHold
-"H-North" N053.46.30.420 W003.02.26.170 standHold
-"H-South" N053.46.10.150 W003.02.08.390 standHold
+"H-East" N053.46.33.540 W003.02.11.670 smrStandHold
+"H-North" N053.46.30.420 W003.02.26.170 smrStandHold
+"H-South" N053.46.10.150 W003.02.08.390 smrStandHold
 
 ;Holding Points
-"A1" N053.46.31.300 W003.02.35.900 standHold
-"A2" N053.46.25.400 W003.02.39.800 standHold
-"A3" N053.46.22.600 W003.02.39.200 standHold
-"B1" N053.46.38.000 W003.02.24.900 standHold
-"B2" N053.46.38.800 W003.02.23.400 standHold
-"B3" N053.46.40.200 W003.02.15.700 standHold
-"B4" N053.46.27.180 W003.02.10.820 standHold
-"C1" N053.46.24.100 W003.02.19.000 standHold
-"D1" N053.46.23.930 W003.02.06.940 standHold
-"D2" N053.46.22.370 W003.02.07.310 standHold
-"E1" N053.46.32.090 W003.01.51.760 standHold
-"E2" N053.46.22.820 W003.01.46.940 standHold
+"A1" N053.46.31.300 W003.02.35.900 smrStandHold
+"A2" N053.46.25.400 W003.02.39.800 smrStandHold
+"A3" N053.46.22.600 W003.02.39.200 smrStandHold
+"B1" N053.46.38.000 W003.02.24.900 smrStandHold
+"B2" N053.46.38.800 W003.02.23.400 smrStandHold
+"B3" N053.46.40.200 W003.02.15.700 smrStandHold
+"B4" N053.46.27.180 W003.02.10.820 smrStandHold
+"C1" N053.46.24.100 W003.02.19.000 smrStandHold
+"D1" N053.46.23.930 W003.02.06.940 smrStandHold
+"D2" N053.46.22.370 W003.02.07.310 smrStandHold
+"E1" N053.46.32.090 W003.01.51.760 smrStandHold
+"E2" N053.46.22.820 W003.01.46.940 smrStandHold
 
 ;Disused Crosses
-"X" N053.46.21.220 W003.02.25.970 standHold ;Disused_Cross_3
-"X" N053.46.16.940 W003.02.32.540 standHold ;Disused_Cross_4
-"X" N053.46.13.990 W003.02.11.760 standHold ;Disused_Cross_5
-"X" N053.46.06.430 W003.01.52.470 standHold ;Disused_Cross_6
-"X" N053.46.08.210 W003.01.49.920 standHold ;Disused_Cross_7
-"X" N053.46.16.160 W003.01.46.070 standHold ;Disused_Cross_8
-"X" N053.46.17.030 W003.00.52.470 standHold ;Disused_Cross_9
+"X" N053.46.21.220 W003.02.25.970 smrStandHold ;Disused_Cross_3
+"X" N053.46.16.940 W003.02.32.540 smrStandHold ;Disused_Cross_4
+"X" N053.46.13.990 W003.02.11.760 smrStandHold ;Disused_Cross_5
+"X" N053.46.06.430 W003.01.52.470 smrStandHold ;Disused_Cross_6
+"X" N053.46.08.210 W003.01.49.920 smrStandHold ;Disused_Cross_7
+"X" N053.46.16.160 W003.01.46.070 smrStandHold ;Disused_Cross_8
+"X" N053.46.17.030 W003.00.52.470 smrStandHold ;Disused_Cross_9

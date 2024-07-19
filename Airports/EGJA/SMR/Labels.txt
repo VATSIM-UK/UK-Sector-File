@@ -1,3 +1,3 @@
 ;Holding Points
-"A1" N049.42.28.290 W002.12.40.047 standHold
-"B" N049.42.26.234 W002.12.54.235 standHold
+"A1" N049.42.28.290 W002.12.40.047 smrStandHold
+"B" N049.42.26.234 W002.12.54.235 smrStandHold
