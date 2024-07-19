@@ -1,15 +1,15 @@
 ;Holding Points
-"A24" N052.05.40.374 E000.08.13.440 standHold
-"B24" N052.05.38.311 E000.08.01.423 standHold
-"C06" N052.05.24.623 E000.07.28.691 standHold
-"D" N052.05.16.576 E000.07.21.023 standHold
-"E" N052.05.39.274 E000.08.20.078 standHold
+"A24" N052.05.40.374 E000.08.13.440 smrStandHold
+"B24" N052.05.38.311 E000.08.01.423 smrStandHold
+"C06" N052.05.24.623 E000.07.28.691 smrStandHold
+"D" N052.05.16.576 E000.07.21.023 smrStandHold
+"E" N052.05.39.274 E000.08.20.078 smrStandHold
 ;Parking
-"Western Apron" N052.05.34.539 E000.07.43.946 standHold
-"Eastern Apron" N052.05.41.583 E000.08.06.561 standHold
-"Grass Parking" N052.05.32.283 E000.07.47.059 standHold
+"Western Apron" N052.05.34.539 E000.07.43.946 smrStandHold
+"Eastern Apron" N052.05.41.583 E000.08.06.561 smrStandHold
+"Grass Parking" N052.05.32.283 E000.07.47.059 smrStandHold
 ;Runways
-"06R" N052.05.13.850 E000.07.22.064 standHold
-"24L" N052.05.38.501 E000.08.26.154 standHold
-"06L" N052.05.21.774 E000.07.27.740 standHold
-"24R" N052.05.36.190 E000.08.05.554 standHold
+"06R" N052.05.13.850 E000.07.22.064 smrStandHold
+"24L" N052.05.38.501 E000.08.26.154 smrStandHold
+"06L" N052.05.21.774 E000.07.27.740 smrStandHold
+"24R" N052.05.36.190 E000.08.05.554 smrStandHold
