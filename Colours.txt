@@ -3,6 +3,7 @@
 #define CCFAVA 11206655
 #define centrelinecolour 15790135
 #define coast 9076039
+#define coastYellow 32896
 ; @preserveComment Alternative colours for the above line, change to your preference. STC/PC (Grey) 5324604 Yellow 32896
 #define fire 2894694
 #define geoDefault 5787205
