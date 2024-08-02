@@ -9,6 +9,7 @@
 8. AIRAC (2408) - Changed Valley (EGOV) Runway QFU - thanks to @RedstonePilot (Ben Walker)
 9. AIRAC (2408) - Updated West apron on Bristol (EGGD) SMR - thanks to @kristiankunc (Kristián Kunc)
 10. AIRAC (2408) - Updated various military freqs (8.33Khz compliance) - thanks to @robbo599 (Lee Roberts)
+11. AIRAC (2408) - Added Fixes for Shawbury (EGOS) RNPs - thanks to @RedstonePilot (Ben Walker)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
