@@ -3,7 +3,12 @@
 2. AIRAC (2408) - Removed holding point F2 from Southend (EGMC) SMR - thanks to @RedstonePilot (Ben Walker)
 3. AIRAC (2408) - Added Leeds Bradford (EGNM) Tug Release Points - thanks to @RedstonePilot (Ben Walker)
 4. Bug - Corrected Danger Area EGD113B name - thanks to @PLM1995 (Peter Mooney)
-x. AIRAC (2408) - Updated various military freqs (8.33Khz compliance) - thanks to @robbo599 (Lee Roberts)
+5. AIRAC (2408) - Removed Luton (EGGW) stand 23 - thanks to @19wintersp (Patrick Winters)
+6. Bug - Removed Hold Label Position lines from Newcastle (EGNT) SMR - thanks to @RedstonePilot (Ben Walker)
+7. AIRAC (2408) - Changed Coningsby (EGXC) Runway QFU - thanks to @RedstonePilot (Ben Walker)
+8. AIRAC (2408) - Changed Valley (EGOV) Runway QFU - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2408) - Updated West apron on Bristol (EGGD) SMR - thanks to @kristiankunc (Kristián Kunc)
+10. AIRAC (2408) - Updated various military freqs (8.33Khz compliance) - thanks to @robbo599 (Lee Roberts)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
