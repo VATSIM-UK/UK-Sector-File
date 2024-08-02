@@ -7,6 +7,7 @@
 6. Bug - Removed Hold Label Position lines from Newcastle (EGNT) SMR - thanks to @RedstonePilot (Ben Walker)
 7. AIRAC (2408) - Changed Coningsby (EGXC) Runway QFU - thanks to @RedstonePilot (Ben Walker)
 8. AIRAC (2408) - Changed Valley (EGOV) Runway QFU - thanks to @RedstonePilot (Ben Walker)
+9. AIRAC (2408) - Updated West apron on Bristol (EGGD) SMR - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
