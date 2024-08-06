@@ -1,5 +1,5 @@
 ;Holding Points
-"A" N051.39.20.913 W000.19.23.331 standHold
-"B" N051.39.21.614 W000.19.12.896 standHold
-"C" N051.39.17.887 W000.19.51.645 standHold
-"D" N051.39.18.764 W000.19.35.445 standHold
+"A" N051.39.20.913 W000.19.23.331 smrStandHold
+"B" N051.39.21.614 W000.19.12.896 smrStandHold
+"C" N051.39.17.887 W000.19.51.645 smrStandHold
+"D" N051.39.18.764 W000.19.35.445 smrStandHold
