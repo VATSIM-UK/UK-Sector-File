@@ -13,7 +13,8 @@
 12. AIRAC (2408) - Added Fixes for Mona (EGOQ) RNPs - thanks to @RedstonePilot (Ben Walker)
 13. AIRAC (2408) - Changed Benson (EGUB) Runway QFU - thanks to @RedstonePilot (Ben Walker)
 14. Enhancement - Reduced the size of the coastline defined in Merseyside Coastline - thanks to @RedstonePilot (Ben Walker)
-15. Bug - Rationalised all conditional airspace bases - thanks to @luke11brown (Luke Brown)
+15. Bug - Removed Coventry (EGBE) extended centrelines - thanks to @kristiankunc (Kristián Kunc)
+16. Bug - Rationalised all conditional airspace bases - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
