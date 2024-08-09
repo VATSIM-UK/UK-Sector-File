@@ -1,13 +1,13 @@
 ;Holding Points
-"A"  N050.57.37.133 E000.56.32.429 standHold
-"B"  N050.57.21.297 E000.56.12.993 standHold
-"C (North)"  N050.57.19.145 E000.56.10.105 standHold
-"C (South)"  N050.57.15.607 E000.56.10.561 standHold
-"D"  N050.57.09.756 E000.56.05.301 standHold
+"A"  N050.57.37.133 E000.56.32.429 smrStandHold
+"B"  N050.57.21.297 E000.56.12.993 smrStandHold
+"C (North)"  N050.57.19.145 E000.56.10.105 smrStandHold
+"C (South)"  N050.57.15.607 E000.56.10.561 smrStandHold
+"D"  N050.57.09.756 E000.56.05.301 smrStandHold
 ;Stands
-"1"  N050.57.22.109 E000.56.04.965 standHold
-"2"  N050.57.23.234 E000.56.03.509 standHold
-"3"  N050.57.24.312 E000.56.02.046 standHold
-"4"  N050.57.25.217 E000.56.00.614 standHold
-"5"  N050.57.26.200 E000.55.59.134 standHold
-"6"  N050.57.27.213 E000.55.57.705 standHold
+"1"  N050.57.22.109 E000.56.04.965 smrStandHold
+"2"  N050.57.23.234 E000.56.03.509 smrStandHold
+"3"  N050.57.24.312 E000.56.02.046 smrStandHold
+"4"  N050.57.25.217 E000.56.00.614 smrStandHold
+"5"  N050.57.26.200 E000.55.59.134 smrStandHold
+"6"  N050.57.27.213 E000.55.57.705 smrStandHold

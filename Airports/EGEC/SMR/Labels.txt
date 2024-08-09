@@ -1,10 +1,10 @@
 ;Holding Points
-"A" N055.26.03.640 W005.39.44.640 standHold
-"B" N055.26.11.450 W005.40.31.940 standHold
-"C" N055.26.18.210 W005.41.14.540 standHold
+"A" N055.26.03.640 W005.39.44.640 smrStandHold
+"B" N055.26.11.450 W005.40.31.940 smrStandHold
+"C" N055.26.18.210 W005.41.14.540 smrStandHold
 
 ;Apron
-"Apron" N055.26.10.610 W005.39.47.440 standHold
+"Apron" N055.26.10.610 W005.39.47.440 smrStandHold
 
 ;Helipad
-"H" N055.26.11.790 W005.39.47.750 standHold
+"H" N055.26.11.790 W005.39.47.750 smrStandHold
