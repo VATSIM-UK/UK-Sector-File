@@ -1,5 +1,5 @@
 # Changes from release 2024/08 to 2024/09
-1. AIRAC (2409) - Changed Connington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
+1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
