@@ -1,0 +1,12 @@
+COPX:EGLL:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGWU:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR
+
+COPX:EGLL:*:*:VABIK:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGWU:*:*:VABIK:*:London TC BIG:London S15:18000:*:^DVR
+
+COPX:EGKK:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR
+
+;Essex Night agreements
+COPX:EGSS:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGSC:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGGW:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR

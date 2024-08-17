@@ -1,0 +1,3 @@
+;procedure change
+;Biggin Hill Departures
+COPX:EGKB:*:LYD:*:*:Thames:London TC TIMBA:4000:*:^LYD

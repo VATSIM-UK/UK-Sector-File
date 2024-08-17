@@ -1,4 +1,0 @@
-COPX:*:*:BIG:EGLC:*:London TC VATON:London TC SE:*:16000:BIG
-COPX:*:*:BIG:EGKB:*:London TC VATON:London TC SE:*:16000:BIG
-COPX:*:*:BIG:EGTO:*:London TC VATON:London TC SE:*:16000:BIG
-COPX:*:*:BIG:EGMC:*:London TC VATON:London TC SE:*:16000:BIG

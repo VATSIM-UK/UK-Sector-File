@@ -1,0 +1,11 @@
+; to discuss - should this be 200 or 190? Should this skip TC BIG and go to TC GODLU?
+COPX:*:*:BIG:EBKT:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:EBOS:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFAC:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFAQ:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFAT:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFAV:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFAY:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFQQ:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFQO:*:London S15:London TC BIG:*:19000:BIG
+COPX:*:*:BIG:LFQT:*:London S15:London TC BIG:*:19000:BIG

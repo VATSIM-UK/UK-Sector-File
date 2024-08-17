@@ -1,2 +1,0 @@
-COPX:EGKK:*:CLN:*:*:London TC SE:London TC LAM:13000:*:^DET
-COPX:EGKK:*:FRANE:*:*:London TC SE:London TC LAM:13000:*:^DET

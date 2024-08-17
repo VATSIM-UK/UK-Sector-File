@@ -1,5 +1,0 @@
-;TCNE is a guest in TCLAM's airspace
-COPX:EGSS:*:DET:*:*:London TC LAM:London TC SE:7000:*:DET
-COPX:EGSC:*:DET:*:*:London TC LAM:London TC SE:7000:*:DET
-COPX:EGGW:*:DET:*:*:London TC LAM:London TC SE:7000:*:DET
-COPX:EGWU:*:DET:*:*:London TC LAM:London TC SE:7000:*:DET

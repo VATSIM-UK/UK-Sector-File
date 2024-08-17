@@ -1,4 +1,0 @@
-COPX:*:*:ETVAX:EGLL:*:London S17:London TC SE:*:18000:ETVAX
-COPX:*:*:ETVAX:EGWU:*:London S17:London TC SE:*:18000:ETVAX
-
-COPX:*:*:AMDUT:EGKK:*:London S17:London TC SE:*:16000:AMDUT

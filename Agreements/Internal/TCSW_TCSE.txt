@@ -1,3 +1,0 @@
-COPX:*:*:SOXUX:EGLC:*:London TC SW:London TC SE:*:13000:|SOXUX
-COPX:*:*:SOXUX:EGKB:*:London TC SW:London TC SE:*:13000:|SOXUX
-COPX:*:*:SOXUX:EGTO:*:London TC SW:London TC SE:*:13000:|SOXUX

@@ -1,0 +1,11 @@
+;procedure changes below:
+
+;London City EKNIV Departures towards Brussels
+COPX:EGLC:*:SODVU:UMTUM:*:Thames:London TC GODLU:5000:*:SODVU
+COPX:EGLC:*:DET:UMTUM:*:Thames:London TC GODLU:5000:*:SODVU
+
+;Biggin Hill Departures
+COPX:EGKB:*:DVR:*:*:Thames:London TC GODLU:5000:*:^DVR
+
+;Southend Departures
+COPX:EGMC:*:DVR:*:*:Thames:London TC GODLU:5000:*:^Gate
