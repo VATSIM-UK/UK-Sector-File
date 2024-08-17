@@ -1,5 +1,8 @@
 # Changes from release 2024/08 to 2024/09
-1. Enhancement - Resectorised TC SE into component sectors - thanks to @cpawley (Chris Pawley)
+1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
+2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
+3. AIRAC (2409) - Changed Leeds (EGNM) Stand numbers - thanks to @rishab-alt
+4. Enhancement - Resectorised TC SE into component sectors - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
@@ -16,6 +19,8 @@
 12. AIRAC (2408) - Added Fixes for Mona (EGOQ) RNPs - thanks to @RedstonePilot (Ben Walker)
 13. AIRAC (2408) - Changed Benson (EGUB) Runway QFU - thanks to @RedstonePilot (Ben Walker)
 14. Enhancement - Reduced the size of the coastline defined in Merseyside Coastline - thanks to @RedstonePilot (Ben Walker)
+15. Bug - Removed Coventry (EGBE) extended centrelines - thanks to @kristiankunc (Kristián Kunc)
+16. Bug - Rationalised all conditional airspace bases - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2024/06 to 2024/07
 1. AIRAC (2407) - Changed color of Fast Aviation taxiway on Bournemouth (EGHH) SMR - thanks to @kristiankunc (Kristián Kunc)
