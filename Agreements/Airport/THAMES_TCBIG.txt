@@ -1,0 +1,12 @@
+;London City EKNIV, DVR, LYD and SAM Departures
+COPX:EGLC:*:SODVU:EMKAD:*:Thames:London TC TIMBA:8000:*:SODVU
+COPX:EGLC:*:DET:LYD:*:Thames:London TC TIMBA:8000:*:SODVU
+
+;Biggin Hill Departures
+COPX:EGKB:*:BPK:*:*:Thames:London TC TIMBA:4000:*:^DET
+COPX:EGKB:*:DAGGA:*:*:Thames:London TC TIMBA:4000:*:^DET
+COPX:EGKB:*:SAXBI:*:*:Thames:London TC TIMBA:4000:*:^DET
+COPX:EGKB:*:LYD:*:*:Thames:London TC TIMBA:4000:*:^DET
+
+;Southend Departures
+COPX:EGMC:*:LYD:*:*:Thames:London TC TIMBA:5000:*:^Gate

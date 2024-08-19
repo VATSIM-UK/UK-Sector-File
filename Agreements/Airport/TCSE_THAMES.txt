@@ -1,4 +1,0 @@
-COPX:*:*:GODLU:EGLC:*:London TC SE:Thames:*:10000:GODLU
-COPX:*:*:GODLU:EGKB:*:London TC SE:Thames:*:10000:GODLU
-
-COPX:*:*:ATSAP:EGMC:*:London TC SE:Thames:*:8000:ATSAP19

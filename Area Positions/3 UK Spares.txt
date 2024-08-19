@@ -12,10 +12,6 @@ London Control S2:London Control:127.430:L2:L:LON:CTR:-:-:0301:0377::
 ;TC Midlands
 London Control TC WELIN E:London Control:128.480:TCWE:L:LTC:CTR:-:-:0301:0377::
 
-;TC South
-London Control TC TIMBA:London Control:120.180:TCST:L:LTC:CTR:-:-:0301:0377::
-London Control TC GODLU:London Control:135.325:TCSG:L:LTC:CTR:-:-:0301:0377::
-
 ;TC Capital
 London Control TC VATON:London Control:127.955:TCV:L:LTC:CTR:-:-:0301:0377::
 

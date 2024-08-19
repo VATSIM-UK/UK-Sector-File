@@ -1,0 +1,2 @@
+COPX:*:*:ETVAX:EGLL:*:London S17:London TC BIG:*:18000:ETVAX
+COPX:*:*:ETVAX:EGWU:*:London S17:London TC BIG:*:18000:ETVAX
