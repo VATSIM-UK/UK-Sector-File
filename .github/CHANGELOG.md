@@ -2,6 +2,7 @@
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
 3. AIRAC (2409) - Changed Leeds (EGNM) Stand numbers - thanks to @rishab-alt
+x. AIRAC (2409) - Updated Liverpool (EGGP) stand positions - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
