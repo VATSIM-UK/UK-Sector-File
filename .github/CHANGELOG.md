@@ -1,5 +1,5 @@
 # Changes from release 2024/09 to 2024/10
-1. AIRAC (2410) - Changed Manchester (EGCC) zulu taxiways  - thanks to @rishab-alt 
+1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt 
 
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
