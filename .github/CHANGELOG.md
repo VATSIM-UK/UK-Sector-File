@@ -1,3 +1,6 @@
+# Changes from release 2024/09 to 2024/10
+X. AIRAC (2410) - Added Tug Release Points to Luton (EGGW) SMR - thanks to @BenWalker01 (Ben Walker)
+
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
