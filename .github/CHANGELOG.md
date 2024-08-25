@@ -3,6 +3,7 @@
 2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
 3. AIRAC (2409) - Changed Leeds (EGNM) Stand numbers - thanks to @rishab-alt
 4. AIRAC (2409) - Archived Bourn (EGSN) Aiport - thanks to @rishab-alt
+X. AIRAC (2409) - Added MID fixes for Mona (EGOQ) - thanks to BenWalker01 (Ben Walker)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
