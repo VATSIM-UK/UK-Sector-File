@@ -1,5 +1,5 @@
 # Changes from release 2024/09 to 2024/10
-x. AIRAC (2410) - Add Glasgow (EGPF) HAP to SMR - thanks to @kristiankunc (Kristián Kunc)
+x. AIRAC (2410) - Added Glasgow (EGPF) GAMA TLOF to SMR - thanks to @kristiankunc (Kristián Kunc)
 
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
