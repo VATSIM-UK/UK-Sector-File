@@ -1,10 +1,8 @@
-# Changes from release 2024/09 to 2024/10
-1. AIRAC (2410) - Removed Shobdon (SH) NDB - thanks to @AdriTheDev
-
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
 3. AIRAC (2409) - Changed Leeds (EGNM) Stand numbers - thanks to @rishab-alt
+x. AIRAC (2409) - Removed Shobdon (SH) NDB - thanks to @AdriTheDev
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
