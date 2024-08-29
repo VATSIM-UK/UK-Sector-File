@@ -47,8 +47,8 @@
 "Q1" N053.21.35.800 W002.16.46.487 smrStandHold
 "Q2" N053.21.37.866 W002.16.49.976 smrStandHold
 "Z1" N053.21.59.160 W002.17.18.880 smrStandHold
-"Z2" N053.22.00.737 W002.17.20.557 smrStandHold ;Orange 
-"Z2" N053.21.58.889 W002.17.23.625 smrStandHold ;Blue    
+"Z2" N053.21.58.889 W002.17.23.625 smrStandHold ;Blue
+"Z2" N053.22.00.737 W002.17.20.557 smrStandHold ;Orange
 "Z3" N053.22.06.223 W002.17.21.918 smrStandHold
 
 ;Holding Points - South Side
