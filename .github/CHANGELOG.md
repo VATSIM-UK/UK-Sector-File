@@ -9,6 +9,7 @@
 8. AIRAC (2409) - Added Danger Area EGD902 - thanks to @BenWalker01 - Ben Walker
 9. AIRAC (2409) - Updated Gloucestershire (EGBJ) SMR - thanks to @BenWalker01 (Ben Walker)
 10. AIRAC (2409) - Added Woodvale (EGOW) ATIS frequency and updated TWR frequency to 8.33 - thanks to @BenWalker01 (Ben Walker)
+11. AIRAC (2409) - Updated Wattisham (EGUW) Approach frequency for 8.33 - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
