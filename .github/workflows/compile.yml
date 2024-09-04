@@ -38,8 +38,9 @@ jobs:
           ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
 
       - name: Upload Build As Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
+          include-hidden-files: true
           name: UK Sector File
           path: ".bin/UK.*"
 
