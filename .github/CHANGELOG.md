@@ -7,6 +7,7 @@
 6. AIRAC (2409) - Added MID fixes for Mona (EGOQ) - thanks to BenWalker01 (Ben Walker)
 7. AIRAC (2409) - Removed Shobdon (SH) NDB - thanks to @AdriTheDev
 8. AIRAC (2409) - Added Danger Area EGD902 - thanks to @BenWalker01 - Ben Walker
+9. AIRAC (2409) - Updated Gloucestershire (EGBJ) SMR - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
