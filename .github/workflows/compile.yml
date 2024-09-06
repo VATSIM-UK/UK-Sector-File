@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Create Output Directory
         run: mkdir .bin/
@@ -46,7 +46,7 @@ jobs:
 
       - name: Trigger Workflow in UK Controller Pack
         if: github.event_name == 'release' && github.event.action == 'published'
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PUBLIC_PAT }}
           repository: VATSIM-UK/uk-controller-pack
