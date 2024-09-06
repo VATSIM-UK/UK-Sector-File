@@ -1,3 +1,12 @@
+# Changes from release 2024/09 to 2024/10
+1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
+2. AIRAC (2410) - Updated London City (EGLC) Runway coordinates - thanks to @AdriTheDev (Callum Hicks)
+3. AIRAC (2410) - Removed Tatenhill (TNL) NDB - thanks to @AdriTheDev (Callum Hicks)
+4. AIRAC (2410) - Removed Cherbourgh (MP) NDB - thanks to @mid-archie
+5. AIRAC (2410) - Added Tug Release Points to Luton (EGGW) SMR - thanks to @BenWalker01 (Ben Walker)
+6. AIRAC (2410) - Added Glasgow (EGPF) GAMA TLOF to SMR - thanks to @kristiankunc (Kristián Kunc)
+7. AIRAC (2410) - Removed grass runway from Cambridge (EGSC) SMR - thanks to @BenWalker01 (Ben Walker)
+
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
