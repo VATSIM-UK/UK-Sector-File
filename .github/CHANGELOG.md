@@ -1,11 +1,25 @@
 # Changes from release 2024/09 to 2024/10
-X. AIRAC (2410) - Removed grass runway from Cambridge (EGSC) SMR - thanks to @BenWalker01 (Ben Walker)
+1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
+2. AIRAC (2410) - Updated London City (EGLC) Runway coordinates - thanks to @AdriTheDev (Callum Hicks)
+3. AIRAC (2410) - Removed Tatenhill (TNL) NDB - thanks to @AdriTheDev (Callum Hicks)
+4. AIRAC (2410) - Removed Cherbourgh (MP) NDB - thanks to @mid-archie
+5. AIRAC (2410) - Added Tug Release Points to Luton (EGGW) SMR - thanks to @BenWalker01 (Ben Walker)
+6. AIRAC (2410) - Added Glasgow (EGPF) GAMA TLOF to SMR - thanks to @kristiankunc (Kristián Kunc)
+7. AIRAC (2410) - Removed grass runway from Cambridge (EGSC) SMR - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
 2. AIRAC (2409) - Expanded Manchester (EGCC) construction area - thanks to @kristiankunc (Kristián Kunc)
 3. AIRAC (2409) - Changed Leeds (EGNM) Stand numbers - thanks to @rishab-alt
 4. AIRAC (2409) - Archived Bourn (EGSN) Aiport - thanks to @rishab-alt
+5. AIRAC (2409) - Updated Liverpool (EGGP) stand positions - thanks to @kristiankunc (Kristián Kunc)
+6. AIRAC (2409) - Added MID fixes for Mona (EGOQ) - thanks to BenWalker01 (Ben Walker)
+7. AIRAC (2409) - Removed Shobdon (SH) NDB - thanks to @AdriTheDev
+8. AIRAC (2409) - Added Danger Area EGD902 - thanks to @BenWalker01 - Ben Walker
+9. AIRAC (2409) - Updated Gloucestershire (EGBJ) SMR - thanks to @BenWalker01 (Ben Walker)
+10. AIRAC (2409) - Added Woodvale (EGOW) ATIS frequency and updated TWR frequency to 8.33 - thanks to @BenWalker01 (Ben Walker)
+11. AIRAC (2409) - Updated Wattisham (EGUW) Approach frequency for 8.33 - thanks to @BenWalker01 (Ben Walker)
+12. AIRAC (2409) - Updated Lossiemouth (EGQS) Tower and Departures for 8.33 - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
