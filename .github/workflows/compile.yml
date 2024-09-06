@@ -46,7 +46,7 @@ jobs:
 
       - name: Trigger Workflow in UK Controller Pack
         if: github.event_name == 'release' && github.event.action == 'published'
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PUBLIC_PAT }}
           repository: VATSIM-UK/uk-controller-pack
