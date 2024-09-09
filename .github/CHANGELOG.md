@@ -1,3 +1,5 @@
+X. Enhancement - Change order of defined exits on Ground Networks - thanks to @Hinshee (Will Hinshaw)
+
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
 2. AIRAC (2410) - Updated London City (EGLC) Runway coordinates - thanks to @AdriTheDev (Callum Hicks)
