@@ -1,5 +1,5 @@
 # Changes from release 2024/10 to 2024/11
-1. AIRAC (2411) - Moved position of EGMD (LDZ) NDB - thanks to @lyraongithub
+1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
 
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
