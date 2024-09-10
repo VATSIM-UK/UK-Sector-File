@@ -1,4 +1,8 @@
 # Changes from release 2024/09 to 2024/10
+1. AIRAC(2411) - Add Blackbushe (EGLK) Hold W - thanks to @rishab-alt 
+
+
+# Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
 2. AIRAC (2410) - Updated London City (EGLC) Runway coordinates - thanks to @AdriTheDev (Callum Hicks)
 3. AIRAC (2410) - Removed Tatenhill (TNL) NDB - thanks to @AdriTheDev (Callum Hicks)
