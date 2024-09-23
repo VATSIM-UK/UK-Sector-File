@@ -1,7 +1,7 @@
 ;Stands
 "1" N051.23.08.390 W002.42.41.230 smrConstruction
-"2" N051.23.08.440 W002.42.39.000 smrStandHold
-"3" N051.23.08.500 W002.42.36.720 smrStandHold
+"2" N051.23.07.595 W002.42.38.866 smrStandHold
+"3" N051.23.07.691 W002.42.36.558 smrStandHold
 "5" N051.23.06.835 W002.42.33.440 smrStandHold
 "6" N051.23.08.283 W002.42.33.662 smrStandHold
 "7" N051.23.10.107 W002.42.27.494 smrStandHold
