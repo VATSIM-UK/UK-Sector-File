@@ -1,4 +1,18 @@
-x. Enhancement - Updated extended centrelines - thanks to @SamLefevre (Samuel Lefevre)
+# Changes from release 2024/09 to 2024/10
+1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
+2. AIRAC (2410) - Updated London City (EGLC) Runway coordinates - thanks to @AdriTheDev (Callum Hicks)
+3. AIRAC (2410) - Removed Tatenhill (TNL) NDB - thanks to @AdriTheDev (Callum Hicks)
+4. AIRAC (2410) - Removed Cherbourgh (MP) NDB - thanks to @mid-archie
+5. AIRAC (2410) - Added Tug Release Points to Luton (EGGW) SMR - thanks to @BenWalker01 (Ben Walker)
+6. AIRAC (2410) - Added Glasgow (EGPF) GAMA TLOF to SMR - thanks to @kristiankunc (Kristián Kunc)
+7. AIRAC (2410) - Removed grass runway from Cambridge (EGSC) SMR - thanks to @BenWalker01 (Ben Walker)
+8. AIRAC (2410) - Removed Cambridge (EGSC) Director/Radar frequencies - thanks to @AdriTheDev (Callum Hicks)
+9. AIRAC (2410) - Updated WIT TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+10. AIRAC (2410) - Updated Odiham (ODH) TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+11. AIRAC (2410) - Updated Cranwell (CWZ) TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+12. Enhancement - Added/Removed Air Network Fixes for EGCC/EGKK/EGPH re Basic Training TG TWR - thanks to @Craigstewart4717 (Craig Stewart)
+13. Enhancement - Added Heathrow (EGLL) Ground Network - thanks to @sjames1066
+14. Enhancement - Updated extended centrelines - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
@@ -8,6 +22,11 @@ x. Enhancement - Updated extended centrelines - thanks to @SamLefevre (Samuel Le
 5. AIRAC (2409) - Updated Liverpool (EGGP) stand positions - thanks to @kristiankunc (Kristián Kunc)
 6. AIRAC (2409) - Added MID fixes for Mona (EGOQ) - thanks to BenWalker01 (Ben Walker)
 7. AIRAC (2409) - Removed Shobdon (SH) NDB - thanks to @AdriTheDev
+8. AIRAC (2409) - Added Danger Area EGD902 - thanks to @BenWalker01 - Ben Walker
+9. AIRAC (2409) - Updated Gloucestershire (EGBJ) SMR - thanks to @BenWalker01 (Ben Walker)
+10. AIRAC (2409) - Added Woodvale (EGOW) ATIS frequency and updated TWR frequency to 8.33 - thanks to @BenWalker01 (Ben Walker)
+11. AIRAC (2409) - Updated Wattisham (EGUW) Approach frequency for 8.33 - thanks to @BenWalker01 (Ben Walker)
+12. AIRAC (2409) - Updated Lossiemouth (EGQS) Tower and Departures for 8.33 - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2024/07 to 2024/08
 1. AIRAC (2408) - Removed Edinburgh (EGPH) stands 2A/3A - thanks to @kristiankunc (Kristián Kunc)
