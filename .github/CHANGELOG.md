@@ -6,7 +6,11 @@
 5. AIRAC (2410) - Added Tug Release Points to Luton (EGGW) SMR - thanks to @BenWalker01 (Ben Walker)
 6. AIRAC (2410) - Added Glasgow (EGPF) GAMA TLOF to SMR - thanks to @kristiankunc (Kristián Kunc)
 7. AIRAC (2410) - Removed grass runway from Cambridge (EGSC) SMR - thanks to @BenWalker01 (Ben Walker)
-8. AIRAC (2410) - Added/Removed Air Network Fixes for EGCC/EGKK/EGPH re Basic Training TG TWR - thanks to @Craigstewart4717 (Craig Stewart)
+8. AIRAC (2410) - Removed Cambridge (EGSC) Director/Radar frequencies - thanks to @AdriTheDev (Callum Hicks)
+9. AIRAC (2410) - Updated WIT TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+10. AIRAC (2410) - Updated Odiham (ODH) TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+11. AIRAC (2410) - Updated Cranwell (CWZ) TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+12. Enhancement - Added/Removed Air Network Fixes for EGCC/EGKK/EGPH re Basic Training TG TWR - thanks to @Craigstewart4717 (Craig Stewart)
 
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
