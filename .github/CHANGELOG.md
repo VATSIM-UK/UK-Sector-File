@@ -3,6 +3,7 @@
 2. AIRAC (2411) - Updated Bristol (EGGD) SMR - thanks to @kristiankunc (Kristián Kunc)
 3. Enhancement - Changed order of defined exits on Ground Networks - thanks to @Hinshee (Will Hinshaw)
 4. Bug - Corrected Manchester (EGCC) AIR Split Airport Ownership - thanks to @PLM1995 (Peter Mooney)
+5. AIRAC (2411) - Added Blackbushe (EGLK) Hold W - thanks to @rishab-alt
 
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
