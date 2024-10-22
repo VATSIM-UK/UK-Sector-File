@@ -6,6 +6,7 @@
 5. AIRAC (2411) - Added Blackbushe (EGLK) Hold W - thanks to @rishab-alt
 6. AIRAC (2411) - Updated Norwich (EGSH) SMR - thanks to @PLM1995 (Peter Mooney)
 7. AIRAC (2411) - Updated Odiham (EGVO) frequencies - thanks to @aidenbok203 (Aiden Bok)
+8. AIRAC (2411) - Updated Lakenheath (EGUL) Runway definition - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
