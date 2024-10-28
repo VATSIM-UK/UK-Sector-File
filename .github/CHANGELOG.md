@@ -10,6 +10,7 @@
 9. AIRAC (2411) - Updated Lakenheath (EGUL) Runway definition - thanks to @aidenbok203 (Aiden Bok)
 10. AIRAC (2411) - Updated Lakenheath (LKH) TACAN position - thanks to @aidenbok203 (Aiden Bok)
 11. AIRAC (2411) - Updated Leeming (EGXE) Approach frequency - thanks to @aidenbok203 (Aiden Bok)
+12. AIRAC (2411) - Updated Benson (BSO) TACAN coordinates - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
