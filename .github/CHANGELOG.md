@@ -1,4 +1,17 @@
-X. Enhancement - Added Manchester (EGCC) Ground Network - thanks to Dean Benavidez and @hinshee (Will Hinshaw)
+# Changes from release 2024/10 to 2024/11
+1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
+2. AIRAC (2411) - Updated Bristol (EGGD) SMR - thanks to @kristiankunc (Kristián Kunc)
+3. Enhancement - Changed order of defined exits on Ground Networks - thanks to @Hinshee (Will Hinshaw)
+4. Bug - Corrected Manchester (EGCC) AIR Split Airport Ownership - thanks to @PLM1995 (Peter Mooney)
+5. AIRAC (2411) - Added Blackbushe (EGLK) Hold W - thanks to @rishab-alt
+6. AIRAC (2411) - Updated Norwich (EGSH) SMR - thanks to @PLM1995 (Peter Mooney)
+7. AIRAC (2411) - Updated Odiham (EGVO) frequencies - thanks to @aidenbok203 (Aiden Bok)
+8. AIRAC (2411) - Updated Benson (EGUB) frequencies - thanks to @aidenbok203 (Aiden Bok)
+9. AIRAC (2411) - Updated Lakenheath (EGUL) Runway definition - thanks to @aidenbok203 (Aiden Bok)
+10. AIRAC (2411) - Updated Lakenheath (LKH) TACAN position - thanks to @aidenbok203 (Aiden Bok)
+11. AIRAC (2411) - Updated Leeming (EGXE) Approach frequency - thanks to @aidenbok203 (Aiden Bok)
+12. AIRAC (2411) - Updated Benson (BSO) TACAN coordinates - thanks to @aidenbok203 (Aiden Bok)
+13. Enhancement - Added Manchester (EGCC) Ground Network - thanks to Dean Benavidez and @hinshee (Will Hinshaw)
 
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
@@ -9,6 +22,12 @@ X. Enhancement - Added Manchester (EGCC) Ground Network - thanks to Dean Benavid
 6. AIRAC (2410) - Added Glasgow (EGPF) GAMA TLOF to SMR - thanks to @kristiankunc (Kristián Kunc)
 7. AIRAC (2410) - Removed grass runway from Cambridge (EGSC) SMR - thanks to @BenWalker01 (Ben Walker)
 8. AIRAC (2410) - Removed Cambridge (EGSC) Director/Radar frequencies - thanks to @AdriTheDev (Callum Hicks)
+9. AIRAC (2410) - Updated WIT TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+10. AIRAC (2410) - Updated Odiham (ODH) TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+11. AIRAC (2410) - Updated Cranwell (CWZ) TACAN position - thanks to @himanshumahajan138 (Himanshu Mahajan)
+12. Enhancement - Added/Removed Air Network Fixes for EGCC/EGKK/EGPH re Basic Training TG TWR - thanks to @Craigstewart4717 (Craig Stewart)
+13. Enhancement - Added Heathrow (EGLL) Ground Network - thanks to @sjames1066
+14. Enhancement - Updated extended centrelines - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2024/08 to 2024/09
 1. AIRAC (2409) - Changed Conington (EGSF) Radio frequency - thanks to @kristiankunc (Kristián Kunc)
