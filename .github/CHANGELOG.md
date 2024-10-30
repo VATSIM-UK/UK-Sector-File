@@ -9,6 +9,13 @@
 5. AIRAC (2411) - Added Blackbushe (EGLK) Hold W - thanks to @rishab-alt
 6. AIRAC (2411) - Updated Norwich (EGSH) SMR - thanks to @PLM1995 (Peter Mooney)
 7. AIRAC (2411) - Updated Odiham (EGVO) frequencies - thanks to @aidenbok203 (Aiden Bok)
+8. AIRAC (2411) - Updated Benson (EGUB) frequencies - thanks to @aidenbok203 (Aiden Bok)
+9. AIRAC (2411) - Updated Lakenheath (EGUL) Runway definition - thanks to @aidenbok203 (Aiden Bok)
+10. AIRAC (2411) - Updated Lakenheath (LKH) TACAN position - thanks to @aidenbok203 (Aiden Bok)
+11. AIRAC (2411) - Updated Leeming (EGXE) Approach frequency - thanks to @aidenbok203 (Aiden Bok)
+12. AIRAC (2411) - Updated Benson (BSO) TACAN coordinates - thanks to @aidenbok203 (Aiden Bok)
+13. Enhancement - Added Manchester (EGCC) Ground Network - thanks to Dean Benavidez and @hinshee (Will Hinshaw)
+14. Bug - Removed duplicate label for Portsmouth CTA 15/16 - thanks to @PLM1995 (Peter Mooney)
 
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
