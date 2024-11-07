@@ -1,5 +1,6 @@
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
+2. AIRAC (2412) - Updated Ronaldsway (EGNS) Holding Points - thanks to @AdriTheDev (Callum Hicks)
 
 # Changes from release 2024/10 to 2024/11
 1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
