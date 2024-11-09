@@ -1,3 +1,5 @@
+#. AIRAC (2412) - Changed Jever sector top-down orders and vertical limits - thanks to @khardern
+
 # Changes from release 2024/09 to 2024/10
 1. AIRAC (2410) - Updated Manchester (EGCC) Zulu taxiways and holds - thanks to @rishab-alt
 2. AIRAC (2410) - Updated London City (EGLC) Runway coordinates - thanks to @AdriTheDev (Callum Hicks)
