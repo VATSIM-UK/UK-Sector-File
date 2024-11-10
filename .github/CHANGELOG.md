@@ -264,7 +264,7 @@
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
 3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
-4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
+4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden
 5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
 6. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
