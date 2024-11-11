@@ -1,3 +1,5 @@
+#. AIRAC (2412) - Updated Copenhagen FIR frequencies and top-down order - thanks to @khardern
+
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
 2. Enhancement - Added Manchester (EGCC) Taxiline Linking D and K - thanks to @rishab-alt
