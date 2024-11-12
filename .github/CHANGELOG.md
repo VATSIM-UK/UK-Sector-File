@@ -1,6 +1,8 @@
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
-2. AIRAC (2412) - Updated Ronaldsway (EGNS) Holding Points - thanks to @AdriTheDev (Callum Hicks)
+2. Enhancement - Added Manchester (EGCC) Taxiline Linking D and K - thanks to @rishab-alt
+3. AIRAC (2412) - Changed Netheravon (EGDN) frequency - thanks to @jaykayudo (Joshua Kelechi)
+4. AIRAC (2412) - Updated Ronaldsway (EGNS) Holding Points - thanks to @AdriTheDev (Callum Hicks)
 
 # Changes from release 2024/10 to 2024/11
 1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
@@ -264,7 +266,7 @@
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
 3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
-4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
+4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden
 5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
 6. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
