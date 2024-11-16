@@ -372,10 +372,10 @@ N051.08.43.676:W001.28.15.645:Airspace Bases - Conditional Portsmouth CTA:FL65*
 N051.17.25.187:W001.15.29.807:Airspace Bases:FL65
 ;Portsmouth CTA 13 FL65-FL195
 N050.59.02.167:W001.35.15.383:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 15 FL65-FL195
+;Portsmouth CTA 15 FL65-FL105
 N051.17.48.260:W001.25.11.549:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 16 FL65-FL195
-N051.19.48.260:W001.25.11.549:Airspace Bases:FL105
+;Portsmouth CTA 16 FL105-FL195
+;N051.19.48.260:W001.25.11.549:Airspace Bases:FL105 ;Label unused - TopSky shows this base (CTA 15 and CTA 16 co-incident).
 ;Portsmouth CTA 17 FL55-FL115
 N051.02.00.079:W001.28.05.996:Airspace Bases - Conditional Portsmouth CTA:FL55*
 ;Portsmouth CTA 18 FL55-FL95
