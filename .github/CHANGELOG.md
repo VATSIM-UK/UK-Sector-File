@@ -6,7 +6,8 @@
 5. AIRAC (2412) - Updated Cranwell (CWZ) TACAN position - thanks to @AdriTheDev (Callum Hicks)
 6. AIRAC (2412) - Changed Yeovil (EGDY) frequencies - thanks to @AdriTheDev (Callum Hicks)
 7. AIRAC (2412) - Changed Northolt (EGWU) runway QFU - thanks to @aidenbok203 (Aiden Bok)
-8. Enhancment - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
+8. AIRAC (2412) - Added Valley (EGOV) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
+9. Enhancment - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
 
 # Changes from release 2024/10 to 2024/11
 1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
