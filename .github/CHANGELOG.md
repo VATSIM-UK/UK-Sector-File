@@ -9,6 +9,7 @@
 8. AIRAC (2412) - Added Valley (EGOV) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
 9. Enhancment - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
 10. Procedure Change (2412) - Changed Jever sector top-down orders and vertical limits - thanks to @khardern
+11. Procedure Change (2412) - Updated Copenhagen FIR frequencies and top-down order - thanks to @khardern
 
 # Changes from release 2024/10 to 2024/11
 1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
