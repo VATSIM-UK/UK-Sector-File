@@ -1,3 +1,6 @@
+# Changes from release 2024/12 to 2024/13
+2. AIRAC (2413) Remove Taxiway R and grass runway from Gloucester (EGBJ) SMR  - thanks to @RadarController (Chris Globe)
+
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
 2. Enhancement - Added Manchester (EGCC) Taxiline Linking D and K - thanks to @rishab-alt
