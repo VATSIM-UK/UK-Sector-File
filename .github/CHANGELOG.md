@@ -1,6 +1,6 @@
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
-
+x. AIRAC (2413) - Added TRPs for East Midlands (EGNX) and updated taxiways - thanks to @BenWalker01 (BenWalker)
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
 2. Enhancement - Added Manchester (EGCC) Taxiline Linking D and K - thanks to @rishab-alt
