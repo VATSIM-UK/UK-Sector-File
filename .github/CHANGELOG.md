@@ -1,6 +1,6 @@
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
-2. AIRAC (2413) - Changed Wittering (EGXT) Frequencies - thanks to @aidenbok203 (Aiden Bok)
+2. AIRAC (2413) - Changed Waddington (EGXW) Frequencies - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
