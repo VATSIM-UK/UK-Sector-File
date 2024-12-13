@@ -1,6 +1,6 @@
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
-x. AIRAC (2413) - Added Cranwell (EGYD) RNP fixes - thanks to @BenWalker01 (BenWalker)
+2. AIRAC (2413) - Added Cranwell (EGYD) RNP fixes - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
