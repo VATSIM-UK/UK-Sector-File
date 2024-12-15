@@ -1,8 +1,22 @@
 # Changes from release 2024/12 to 2024/13
-1. AIRAC (2413) - Updated Gatwick (EGKK) SMR Runway markings - thanks to @olivercesarczyk (Oliver Cesarczyk)
+1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
+2. AIRAC (2413) - Added TRPs for East Midlands (EGNX) and updated taxiways - thanks to @BenWalker01 (Ben Walker)
+3. AIRAC (2413) - Added Barkston Heath (EGYE) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
+4. AIRAC (2413) - Removed Taxiway R and grass runway from Gloucester (EGBJ) SMR - thanks to @RadarController (Chris Globe)
+5. AIRAC (2413) - Updated Gatwick (EGKK) SMR Runway markings - thanks to @olivercesarczyk (Oliver Cesarczyk)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
+2. Enhancement - Added Manchester (EGCC) Taxiline Linking D and K - thanks to @rishab-alt
+3. AIRAC (2412) - Changed Netheravon (EGDN) frequency - thanks to @jaykayudo (Joshua Kelechi)
+4. AIRAC (2412) - Updated Ronaldsway (EGNS) Holding Points - thanks to @AdriTheDev (Callum Hicks)
+5. AIRAC (2412) - Updated Cranwell (CWZ) TACAN position - thanks to @AdriTheDev (Callum Hicks)
+6. AIRAC (2412) - Changed Yeovil (EGDY) frequencies - thanks to @AdriTheDev (Callum Hicks)
+7. AIRAC (2412) - Changed Northolt (EGWU) runway QFU - thanks to @aidenbok203 (Aiden Bok)
+8. AIRAC (2412) - Added Valley (EGOV) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
+9. Enhancement - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
+10. Procedure Change (2412) - Changed Jever sector top-down orders and vertical limits - thanks to @khardern
+11. Procedure Change (2412) - Updated Copenhagen FIR frequencies and top-down order - thanks to @khardern
 
 # Changes from release 2024/10 to 2024/11
 1. AIRAC (2411) - Moved position of Lydd (LDZ) NDB - thanks to @lyraongithub
@@ -266,7 +280,7 @@
 1. Enhancement - Updated Birmingham (EGBB) SMR style- thanks to @SamLefevre (Samuel Lefevre)
 2. Enhancement - Added Derby (EGBD) SMR - thanks to @rishab-alt
 3. Enhancement - Removed Manchester (EGCC) disused stands - thanks to @rishab-alt
-4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden (Harry Sugden)
+4. Procedure Change (2309) - Amended EuroCenter vACC EURM-W and EURW-N callsigns to EUC-MW and EUC-WN, respectively - thanks to @hsugden
 5. Procedure Change (2309) - 8.33KHz Trial - Changed non-UK frequencies - thanks to @AliceFord (Alice Ford)
 6. Bug - Removed Gatwick (EGKK) stand 145 L/R labels - thanks to @AliceFord (Alice Ford)
 7. Procedure Change (2309) - 8.33KHz Trial (ENR Phase 1) - Transitioned LAC West & Clacton frequencies - thanks to @AliceFord (Alice Ford)
