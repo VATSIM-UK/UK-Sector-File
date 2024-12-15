@@ -1,5 +1,6 @@
 # Changes from release 2024/12 to 2024/13
-2. AIRAC (2413) Remove Taxiway R and grass runway from Gloucester (EGBJ) SMR  - thanks to @RadarController (Chris Globe)
+1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
+2. AIRAC (2413) - Removed Taxiway R and grass runway from Gloucester (EGBJ) SMR - thanks to @RadarController (Chris Globe)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
@@ -10,7 +11,7 @@
 6. AIRAC (2412) - Changed Yeovil (EGDY) frequencies - thanks to @AdriTheDev (Callum Hicks)
 7. AIRAC (2412) - Changed Northolt (EGWU) runway QFU - thanks to @aidenbok203 (Aiden Bok)
 8. AIRAC (2412) - Added Valley (EGOV) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
-9. Enhancment - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
+9. Enhancement - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
 10. Procedure Change (2412) - Changed Jever sector top-down orders and vertical limits - thanks to @khardern
 11. Procedure Change (2412) - Updated Copenhagen FIR frequencies and top-down order - thanks to @khardern
 
