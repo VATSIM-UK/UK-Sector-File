@@ -134,5 +134,4 @@ EKDK_N_CTR:Copenhagen Control:134.680:CN:CN:EKDK:CTR:-:-:7300:7377
 
 ;EuroCenter vACC
 EURN_FSS:Eurocontrol North:133.450:EN:C:EURN:FSS:-:-:0400:0477
-EUC-MW_CTR:Maastricht Eurocontrol:135.750:EM:C:EUC-MW:CTR:-:-:0300:0377
 EUC-WN_CTR:Eurocontrol West:135.125:EWN:C:EUC-WN:CTR:-:-:0600:0677

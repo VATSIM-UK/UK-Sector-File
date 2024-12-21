@@ -7,6 +7,7 @@
 6. AIRAC (2413) - Changed Wittering (EGXT) Frequencies - thanks to @aidenbok203 (Aiden Bok)
 7. Procedure Change (2413) - Updated Reims (LFEE) frequencies - thanks to @khardern
 8. Procedure Change (2413) - Changed Amsterdam sector top-down orders and added new frequencies - thanks to @khardern
+X. Procedure Change (2413) - Removed EUC-MW_CTR position from top-down of MUAC sectors - thanks to @hazzas-99
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
