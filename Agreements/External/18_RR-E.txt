@@ -48,8 +48,10 @@ FIR_COPX:EGLF:*:*:ETRAT:*:London S18:LFFF Low:29000:*:COORD
 FIR_COPX:EGHI:*:*:ETRAT:*:London S18:LFFF Low:29000:*:COORD
 FIR_COPX:EGHH:*:*:ETRAT:*:London S18:LFFF Low:29000:*:COORD
 
+;'Catch-all' COPX for to LFFF Low
+FIR_COPX:*:*:XIDIL:*:*:London S18:LFFF Low:*:*:XIDIL
+FIR_COPX:*:*:SITET:*:*:London S18:LFFF Low:*:*:SITET
+
 ;'Catch-all' COPX
-
 FIR_COPX:*:*:*:XAMAB:*:London S18:LFRR E:*:*:XAMAB
-
 FIR_COPX:*:*:*:ETRAT:*:London S18:LFRR E:*:*:SITET
