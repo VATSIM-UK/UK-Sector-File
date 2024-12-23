@@ -1,0 +1,3 @@
+FIR_COPX:*:*:RENEQ:*:*:Humber:EDYY Jever Low:*:*:RENEQ
+
+FIR_COPX:*:*:LONAM:*:*:Humber:EDYY Jever Low:*:*:LONAM
