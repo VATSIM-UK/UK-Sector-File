@@ -12,6 +12,7 @@
 11. Procedure Change (2413) - Removed EUC-MW_CTR position from top-down of MUAC sectors - thanks to @hazzas-99
 12. AIRAC (2413) - Added Cranwell (EGYD) MID Fixes - thanks to @aidenbok203 (Aiden Bok)
 13. AIRAC (2413) - Changed Waddington (EGXW) Frequencies - thanks to @aidenbok203 (Aiden Bok)
+14. Bug - Corrected TC NE -> TC East Standing Agreements - thanks to @quassbutreally
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
