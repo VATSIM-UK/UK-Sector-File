@@ -5,7 +5,14 @@
 4. AIRAC (2413) - Removed Taxiway R and grass runway from Gloucester (EGBJ) SMR - thanks to @RadarController (Chris Globe)
 5. AIRAC (2413) - Updated Gatwick (EGKK) SMR Runway markings - thanks to @olivercesarczyk (Oliver Cesarczyk)
 6. AIRAC (2413) - Changed Wittering (EGXT) Frequencies - thanks to @aidenbok203 (Aiden Bok)
-7. Bug - Reformatted London S18->Paris North agreements for LFOP/LFOB inbounds - thanks to @cpawley (Chris Pawley)
+7. Procedure Change (2413) - Updated Reims (LFEE) frequencies - thanks to @khardern
+8. Procedure Change (2413) - Changed Amsterdam sector top-down orders and added new frequencies - thanks to @khardern
+9. AIRAC (2413) - Added Cranwell (EGYD) RNP fixes - thanks to @BenWalker01 (Ben Walker)
+10. AIRAC (2413) - Added Barkston Heath (EGYE) MID Fixes - thanks to @aidenbok203 (Aiden Bok)
+11. Procedure Change (2413) - Removed EUC-MW_CTR position from top-down of MUAC sectors - thanks to @hazzas-99
+12. AIRAC (2413) - Added Cranwell (EGYD) MID Fixes - thanks to @aidenbok203 (Aiden Bok)
+13. AIRAC (2413) - Changed Waddington (EGXW) Frequencies - thanks to @aidenbok203 (Aiden Bok)
+14. Bug - Reformatted London S18->Paris North agreements for LFOP/LFOB inbounds - thanks to @cpawley (Chris Pawley)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
