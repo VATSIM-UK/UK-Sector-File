@@ -8,6 +8,7 @@
 7. Procedure Change (2413) - Updated Reims (LFEE) frequencies - thanks to @khardern
 8. Procedure Change (2413) - Changed Amsterdam sector top-down orders and added new frequencies - thanks to @khardern
 9. AIRAC (2413) - Added Cranwell (EGYD) RNP fixes - thanks to @BenWalker01 (Ben Walker)
+10. AIRAC (2413) - Added Barkston Heath (EGYE) MID Fixes - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
