@@ -1,6 +1,14 @@
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
-2. AIRAC (2413) - Added Barkston Heath (EGYE) MID Fixes - thanks to @aidenbok203 (Aiden Bok)
+2. AIRAC (2413) - Added TRPs for East Midlands (EGNX) and updated taxiways - thanks to @BenWalker01 (Ben Walker)
+3. AIRAC (2413) - Added Barkston Heath (EGYE) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
+4. AIRAC (2413) - Removed Taxiway R and grass runway from Gloucester (EGBJ) SMR - thanks to @RadarController (Chris Globe)
+5. AIRAC (2413) - Updated Gatwick (EGKK) SMR Runway markings - thanks to @olivercesarczyk (Oliver Cesarczyk)
+6. AIRAC (2413) - Changed Wittering (EGXT) Frequencies - thanks to @aidenbok203 (Aiden Bok)
+7. Procedure Change (2413) - Updated Reims (LFEE) frequencies - thanks to @khardern
+8. Procedure Change (2413) - Changed Amsterdam sector top-down orders and added new frequencies - thanks to @khardern
+9. AIRAC (2413) - Added Cranwell (EGYD) RNP fixes - thanks to @BenWalker01 (Ben Walker)
+10. AIRAC (2413) - Added Barkston Heath (EGYE) MID Fixes - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/11 to 2024/12
 1. AIRAC (2412) - Corrected Luton (EGGW) Tug Release Point V orientation - thanks to @AdriTheDev (Callum Hicks)
@@ -11,7 +19,7 @@
 6. AIRAC (2412) - Changed Yeovil (EGDY) frequencies - thanks to @AdriTheDev (Callum Hicks)
 7. AIRAC (2412) - Changed Northolt (EGWU) runway QFU - thanks to @aidenbok203 (Aiden Bok)
 8. AIRAC (2412) - Added Valley (EGOV) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
-9. Enhancment - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
+9. Enhancement - Added Farnborough (EGLF) LARS Boundary - thanks to @SamLefevre (Samuel Lefevre)
 10. Procedure Change (2412) - Changed Jever sector top-down orders and vertical limits - thanks to @khardern
 11. Procedure Change (2412) - Updated Copenhagen FIR frequencies and top-down order - thanks to @khardern
 
