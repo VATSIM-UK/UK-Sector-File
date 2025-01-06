@@ -1,0 +1,2 @@
+COPX:TLA:*:*:EGPN:*:Galloway:Tay:*:*:COORD
+COPX:TLA:*:*:EGQL:*:Galloway:Tay:*:*:COORD

@@ -1,3 +1,7 @@
+# Changes from release 2024/13 to 2025/01
+1. Bug - Improved display of EGPN/QL inbound standing agreement from Deancross to Talla - thanks to @hazzas-99
+1. Enhancement - Added COPX display of 'COORD' for EGPN/QL inbounds sector sequence Talla-Galloway-Tay - thanks to @hazzas-99
+
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
 2. AIRAC (2413) - Added TRPs for East Midlands (EGNX) and updated taxiways - thanks to @BenWalker01 (Ben Walker)
