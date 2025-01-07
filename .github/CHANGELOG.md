@@ -1,4 +1,7 @@
 # Changes from release 2024/12 to 2024/13
+1. Enhancement - Renamed standing agreement files to use full sector name - thanks to @aidenbok203 (Aiden Bok)
+
+# Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
 2. AIRAC (2413) - Added TRPs for East Midlands (EGNX) and updated taxiways - thanks to @BenWalker01 (Ben Walker)
 3. AIRAC (2413) - Added Barkston Heath (EGYE) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
