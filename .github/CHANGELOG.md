@@ -1,3 +1,6 @@
+# Changes from release 2024/13 to 2025/01
+1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
+
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Renamed standing agreement files to use full sector name - thanks to @aidenbok203 (Aiden Bok)
 
