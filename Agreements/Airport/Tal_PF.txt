@@ -1,1 +1,1 @@
-COPX:*:*:LANAK:*:*:Talla:PFAPP:*:8000:LANAK
+COPX:LANAK:*:*:*:*:Talla:PFAPP:*:8000:LANAK

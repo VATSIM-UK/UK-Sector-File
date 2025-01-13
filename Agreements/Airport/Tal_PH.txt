@@ -1,1 +1,1 @@
-COPX:*:*:TARTN:*:*:Talla:PHAPP:*:8000:|TARTN
+COPX:TARTN:*:*:*:*:Talla:PHAPP:*:8000:|TARTN
