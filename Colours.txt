@@ -71,6 +71,7 @@
 #define smrGreen 18944
 #define smrGrey 5329233
 #define smrGrey2 10534048
+#define smrGrey3 3881787
 #define smrGreyBuilding 5987163
 #define smrGWblack 986895
 #define smrHPTS 9204580

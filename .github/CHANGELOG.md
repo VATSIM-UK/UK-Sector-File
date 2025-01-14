@@ -2,6 +2,7 @@
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR- thanks to @RadarController (Chris Globe)
 3. Procedure Change (2501) - Re-added Cambridge (EGSC) Radar - thanks to @lyraongithub
+4. Enhancement - Changed East Midlands (EGNX) SMR Colour - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
