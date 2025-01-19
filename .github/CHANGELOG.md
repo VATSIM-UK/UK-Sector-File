@@ -1,5 +1,10 @@
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
+2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR- thanks to @RadarController (Chris Globe)
+3. Procedure Change (2501) - Re-added Cambridge (EGSC) Radar - thanks to @lyraongithub
+4. Enhancement - Changed East Midlands (EGNX) SMR Colour - thanks to @aidenbok203 (Aiden Bok)
+5. AIRAC (2501) - Updated Cosford (EGWC) Frequencies - thanks to @aidenbok203 (Aiden Bok)
+6. AIRAC (2501) - Updated Yeovilton (EGDY) ARP and Runway designators - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Renamed standing agreement files to use full sector name - thanks to @aidenbok203 (Aiden Bok)
