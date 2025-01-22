@@ -5,6 +5,10 @@
 4. Enhancement - Changed East Midlands (EGNX) SMR Colour - thanks to @aidenbok203 (Aiden Bok)
 5. AIRAC (2501) - Updated Cosford (EGWC) Frequencies - thanks to @aidenbok203 (Aiden Bok)
 6. AIRAC (2501) - Updated Yeovilton (EGDY) ARP and Runway designators - thanks to @aidenbok203 (Aiden Bok)
+7. Bug - Added guest ownership to Galloway sector for correct next sector prediction of PF/PH inbounds to APP - thanks to @hazzas-99
+8. Bug - Added guest ownership to Talla sector for correct next sector prediction of ScTMA inbounds from Deancross - thanks to @hazzas-99
+9. Bug - Improved display of EGPN/QL inbound standing agreement from Deancross to Talla - thanks to @hazzas-99
+10. Enhancement - Added COPX display of 'COORD' for EGPN/QL inbounds sector sequence Talla-Galloway-Tay - thanks to @hazzas-99
 
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Renamed standing agreement files to use full sector name - thanks to @aidenbok203 (Aiden Bok)
