@@ -4,5 +4,5 @@ COPX:*:*:ASLIB:EGPF:*:Deancross:Talla:*:26000:ASLIB
 COPX:*:*:ASLIB:EGPK:*:Deancross:Talla:*:26000:ASLIB
 COPX:*:*:ASLIB:EGPG:*:Deancross:Talla:*:26000:ASLIB
 
-COPX:*:*:ABEVI:EGPN:*:Deancross:Talla:*:26000:|ABEVI
-COPX:*:*:ABEVI:EGQL:*:Deancross:Talla:*:26000:|ABEVI
+COPX:ABEVI:*:*:EGPN:*:Deancross:Talla:*:26000:|ABEVI
+COPX:ABEVI:*:*:EGQL:*:Deancross:Talla:*:26000:|ABEVI
