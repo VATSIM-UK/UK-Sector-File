@@ -1,5 +1,12 @@
 # Changes from release 2024/13 to 2025/01
-1. Bug - Added guest ownership to Talla sector for correct next sector prediction of ScTMA inbounds from Deancross - thanks to @hazzas-99
+1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
+2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR- thanks to @RadarController (Chris Globe)
+3. Procedure Change (2501) - Re-added Cambridge (EGSC) Radar - thanks to @lyraongithub
+4. Enhancement - Changed East Midlands (EGNX) SMR Colour - thanks to @aidenbok203 (Aiden Bok)
+5. AIRAC (2501) - Updated Cosford (EGWC) Frequencies - thanks to @aidenbok203 (Aiden Bok)
+6. AIRAC (2501) - Updated Yeovilton (EGDY) ARP and Runway designators - thanks to @aidenbok203 (Aiden Bok)
+7. Bug - Added guest ownership to Galloway sector for correct next sector prediction of PF/PH inbounds to APP - thanks to @hazzas-99
+8. Bug - Added guest ownership to Talla sector for correct next sector prediction of ScTMA inbounds from Deancross - thanks to @hazzas-99
 
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
