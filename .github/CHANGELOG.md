@@ -1,3 +1,6 @@
+# Changes from release 2025/01 to 2025/02
+1. AIRAC (2502) - Added new Restricted Area EGR323 - thanks to @lilymeoww (Lily)
+
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR- thanks to @RadarController (Chris Globe)
