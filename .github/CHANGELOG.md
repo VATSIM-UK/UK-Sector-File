@@ -1,5 +1,5 @@
 # Changes from release 2025/01 to 2025/02
-1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to lilymeoww (Lily)
+1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
 
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
