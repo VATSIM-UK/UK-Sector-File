@@ -1,3 +1,6 @@
+# Changes from release 2025/02 to 2025/03
+1. AIRAC (2503) - Replaced NPT with GIFJE - thanks to @aidenbok203 (Aiden Bok)
+
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR- thanks to @RadarController (Chris Globe)
