@@ -4,6 +4,7 @@
 3. AIRAC (2502) - Added new Restricted Area EGR323 - thanks to @lilymeoww (Lily)
 4. AIRAC (2502) - Added Manchester CTA 6 - thanks to @lilymeoww (Lily)
 5. Enhancement - Added Edinburgh (EGPH) 06 vectoring patterns to air networks - thanks to @1adamf
+6. AIRAC (2502) - Updated M604, Added Z150 and modified associated SAs and routes - thanks to @quassbutreally
  
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
