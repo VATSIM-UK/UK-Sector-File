@@ -1,3 +1,6 @@
+# Changes from release 2025/02 to 2025/03
+1. AIRAC (2503) - Amended Ekofisk CTA lateral definition - thanks to @aidenbok203 (Aiden Bok)
+
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
 2. AIRAC (2502) - Added Madford (DFO) DME - thanks to @lyraongithub
