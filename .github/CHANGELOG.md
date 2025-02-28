@@ -1,5 +1,5 @@
 # Changes from release 2025/02 to 2025/03
-1. Bug - Amended COPX entries for new COP with Amsterdam - thanks to @Liaely (Lily Unitt)
+1. AIRAC (2503) - Amended COPX entries for new COP with Amsterdam - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
