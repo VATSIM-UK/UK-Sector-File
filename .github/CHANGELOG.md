@@ -5,6 +5,7 @@
 4. AIRAC (2503) - Renamed Manchester (EGCC) stands 201-210 to 301-310 - thanks to @aidenbok203 (Aiden Bok)
 5. AIRAC (2503) - Added Taxiway Link to Goodwood (EGHR) SMR - thanks to @aidenbok203 (Aiden Bok)
 6. Bug - Changed name of Prestwick (EGPK) SRA altitude labels - thanks to @aidenbok203 (Aiden Bok)
+7. AIRAC (2503) - Changed significant fixes - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
