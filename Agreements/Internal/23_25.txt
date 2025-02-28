@@ -1,11 +1,2 @@
 COPX:EGFF:*:ELSOF:*:*:London S23:London S25:25000:*:ELSOF
 COPX:EGSY:*:ELSOF:*:*:London S23:London S25:25000:*:ELSOF
-
-;Withdrawn 2023/03 (West LD1.1 Deployment)
-COPX:EGFF:*:CPT:*:*:London S23:London S25:23000:*:#^CPT
-COPX:EGFH:*:CPT:*:*:London S23:London S25:23000:*:#^CPT
-COPX:EGSY:*:CPT:*:*:London S23:London S25:23000:*:#^CPT
-
-COPX:EGFF:*:GAVGO:*:*:London S23:London S25:23000:*:#^GAVGO
-COPX:EGFH:*:GAVGO:*:*:London S23:London S25:23000:*:#^GAVGO
-COPX:EGSY:*:GAVGO:*:*:London S23:London S25:23000:*:#^GAVGO

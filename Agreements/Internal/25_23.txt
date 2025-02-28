@@ -4,12 +4,3 @@ COPX:*:*:ICTAM:EGSY:*:London S25:London S23:*:26000:ICTAM
 COPX:*:*:ICTAM:EGGD:*:London S25:London S23:*:22000:ICTAM
 
 COPX:EGSS:*:OKSAW:*:*:London S25:London S23:26000:*:^OKSAW
-
-;Withdrawn 2023/03 (West LD1.1 Deployment)
-COPX:*:*:CPT:EGFF:*:London S25:London S23:*:26000:#CPT
-COPX:*:*:CPT:EGFH:*:London S25:London S23:*:26000:#CPT
-COPX:*:*:CPT:EGSY:*:London S25:London S23:*:26000:#CPT
-
-COPX:*:*:CPT:EGGD:*:London S25:London S23:*:22000:#CPT
-
-COPX:EGSS:*:CPT:KENET:*:London S25:London S23:26000:*:#^KENET

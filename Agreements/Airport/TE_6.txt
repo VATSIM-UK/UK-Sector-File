@@ -3,6 +3,3 @@ COPX:EGTE:*:BHD:*:*:TEAPP_S:London S6:11000:*:^DAWLY
 COPX:EGTE:*:ABBEW:*:*:TEAPP_S:London S6:11000:*:^ABBEW
 
 COPX:EGTE:*:KLAKI:*:*:TEAPP_S:London S6:11000:*:^KLAKI
-
-;Withdrawn 2023/03 (West LD1.1 Deployment)
-COPX:EGTE:*:NOTRO:*:*:TEAPP_S:London S6:11000:*:#^NOTRO

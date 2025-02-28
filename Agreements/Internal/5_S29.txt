@@ -6,34 +6,3 @@ COPX:EGGD:*:AVTIC:*:*:London S5:Sector 29:28000:*:AVTIC
 COPX:EGFF:*:AVTIC:*:*:London S5:Sector 29:28000:*:AVTIC
 COPX:EGSY:*:AVTIC:*:*:London S5:Sector 29:28000:*:AVTIC
 COPX:EGTE:*:AVTIC:*:*:London S5:Sector 29:28000:*:AVTIC
-
-;Withdrawn 2023/03 (West LD1.1 Deployment)
-COPX:*:*:BERUL:EGNT:*:London S5:Sector 29:*:28000:#BERUL
-COPX:*:*:BERUL:EGNV:*:London S5:Sector 29:*:28000:#BERUL
-COPX:*:*:BERUL:EGNJ:*:London S5:Sector 29:*:28000:#BERUL
-
-COPX:*:*:OKTEM:EGNT:*:London S5:Sector 29:*:28000:#NOKIN25
-COPX:*:*:OKTEM:EGNV:*:London S5:Sector 29:*:28000:#NOKIN25
-COPX:*:*:OKTEM:EGNJ:*:London S5:Sector 29:*:28000:#NOKIN25
-
-COPX:*:*:REXAM:EGNT:*:London S5:Sector 29:*:28000:#REXAM25
-COPX:*:*:REXAM:EGNV:*:London S5:Sector 29:*:28000:#REXAM25
-COPX:*:*:REXAM:EGNJ:*:London S5:Sector 29:*:28000:#REXAM25
-
-COPX:*:*:WAL:EGNT:*:London S5:Sector 29:*:28000:#WAL45
-COPX:*:*:WAL:EGNV:*:London S5:Sector 29:*:28000:#WAL45
-COPX:*:*:WAL:EGNJ:*:London S5:Sector 29:*:28000:#WAL45
-
-COPX:*:*:*:EGNT:*:London S5:Sector 29:*:28000:#NOKIN25
-COPX:*:*:*:EGNV:*:London S5:Sector 29:*:28000:#NOKIN25
-COPX:*:*:*:EGNJ:*:London S5:Sector 29:*:28000:#NOKIN25
-
-COPX:EGGD:*:NOKIN:*:*:London S5:Sector 29:28000:*:#NOKIN20
-COPX:EGFF:*:NOKIN:*:*:London S5:Sector 29:28000:*:#NOKIN20
-COPX:EGSY:*:NOKIN:*:*:London S5:Sector 29:28000:*:#NOKIN20
-COPX:EGTE:*:NOKIN:*:*:London S5:Sector 29:28000:*:#NOKIN20
-
-COPX:EGGD:*:REXAM:*:*:London S5:Sector 29:28000:*:#REXAM20
-COPX:EGFF:*:REXAM:*:*:London S5:Sector 29:28000:*:#REXAM20
-COPX:EGSY:*:REXAM:*:*:London S5:Sector 29:28000:*:#REXAM20
-COPX:EGTE:*:REXAM:*:*:London S5:Sector 29:28000:*:#REXAM20

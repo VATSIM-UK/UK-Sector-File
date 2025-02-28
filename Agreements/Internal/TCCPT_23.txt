@@ -6,10 +6,3 @@ COPX:*:*:SAWPE:EGBP:*:London TC CPT:London S23:*:16000:|SAWPE
 COPX:EGBB:*:SAWPE:*:*:London TC CPT:London S23:21000:*:^SAWPE
 COPX:EGBE:*:SAWPE:*:*:London TC CPT:London S23:21000:*:^SAWPE
 COPX:EGSC:*:SAWPE:*:*:London TC CPT:London S23:21000:*:^SAWPE
-
-;Withdrawn 2023/03 (West LD1.1 Deployment)
-COPX:EGBB:*:KENET:*:*:London TC CPT:London S23:21000:*:#^KENET
-COPX:EGBE:*:KENET:*:*:London TC CPT:London S23:21000:*:#^KENET
-COPX:EGSC:*:KENET:*:*:London TC CPT:London S23:21000:*:#^KENET
-
-COPX:*:*:CPT:EGVN:*:London TC CPT:London S23:*:16000:#|CPT

@@ -2,9 +2,3 @@ COPX:EGFF:*:DIZIM:*:*:FFUP:London S5:15000:*:^DIZIM
 COPX:EGSY:*:DIZIM:*:*:FFUP:London S5:15000:*:^DIZIM
 COPX:EGGD:*:DIZIM:*:*:FFUP:London S5:15000:*:^DIZIM
 COPX:EGTE:*:DIZIM:*:*:FFUP:London S5:15000:*:^DIZIM
-
-;Withdrawn 2023/03 (West LD1.1 Deployment) - TALGA replaced with BCN to catch old route aircraft
-COPX:EGFF:*:BCN:NITON:*:FFUP:London S5:15000:*:^BCN
-COPX:EGSY:*:BCN:NITON:*:FFUP:London S5:15000:*:^BCN
-COPX:EGGD:*:BCN:NITON:*:FFUP:London S5:15000:*:^BCN
-COPX:EGTE:*:BCN:NITON:*:FFUP:London S5:15000:*:^BCN
