@@ -2,6 +2,7 @@
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2503) - Removed danger area EGR313 - thanks to @aidenbok203 (Aiden Bok)
 3. AIRAC (2503) - Replaced NPT with GIFJE - thanks to @aidenbok203 (Aiden Bok)
+4. AIRAC (2503) - Renamed Manchester (EGCC) stands 201-210 to 301-310 - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
