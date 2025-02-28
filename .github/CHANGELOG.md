@@ -1,5 +1,10 @@
 # Changes from release 2025/02 to 2025/03
-1. Bug - Changed name of Prestwick (EGPK) SRA altitude labels - thanks to @aidenbok203 (Aiden Bok)
+1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
+2. AIRAC (2503) - Removed danger area EGR313 - thanks to @aidenbok203 (Aiden Bok)
+3. AIRAC (2503) - Replaced NPT with GIFJE - thanks to @aidenbok203 (Aiden Bok)
+4. AIRAC (2503) - Renamed Manchester (EGCC) stands 201-210 to 301-310 - thanks to @aidenbok203 (Aiden Bok)
+5. AIRAC (2503) - Added Taxiway Link to Goodwood (EGHR) SMR - thanks to @aidenbok203 (Aiden Bok)
+6. Bug - Changed name of Prestwick (EGPK) SRA altitude labels - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
@@ -7,10 +12,10 @@
 3. AIRAC (2502) - Added new Restricted Area EGR323 - thanks to @lilymeoww (Lily)
 4. AIRAC (2502) - Added Manchester CTA 6 - thanks to @lilymeoww (Lily)
 5. Enhancement - Added Edinburgh (EGPH) 06 vectoring patterns to air networks - thanks to @1adamf
- 
+
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
-2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR- thanks to @RadarController (Chris Globe)
+2. AIRAC (2501) - Added helipads to and removed perimeter from Rochester (EGTO) SMR - thanks to @RadarController (Chris Globe)
 3. Procedure Change (2501) - Re-added Cambridge (EGSC) Radar - thanks to @lyraongithub
 4. Enhancement - Changed East Midlands (EGNX) SMR Colour - thanks to @aidenbok203 (Aiden Bok)
 5. AIRAC (2501) - Updated Cosford (EGWC) Frequencies - thanks to @aidenbok203 (Aiden Bok)
