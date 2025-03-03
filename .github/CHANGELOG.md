@@ -8,7 +8,7 @@
 7. AIRAC (2503) - Changed significant fixes - thanks to @aidenbok203 (Aiden Bok)
 8. AIRAC (2503) - Amended Ekofisk CTA lateral definition - thanks to @aidenbok203 (Aiden Bok)
 9. AIRAC (2503) - Amended COPX entries for new COP with Amsterdam - thanks to @Liaely (Lily Unitt)
-10. AIRAC (2503) - Amend ATS routes L60, M604 and N866 and create ATS Route Z150 - thanks to @lucak1011 (Luca Kulaga)
+10. AIRAC (2503) - Amended ATS routes L60, M604 and N866 and create ATS Route Z150 - thanks to @lucak1011 (Luca Kulaga)
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
 2. AIRAC (2502) - Added Madford (DFO) DME - thanks to @lyraongithub
