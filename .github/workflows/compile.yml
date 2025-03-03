@@ -5,9 +5,11 @@ on:
     branches:
       - '*'
       - '**'
-  paths-ignore:
-    - '.github/**'
+    paths-ignore:
+      - '.github/**'
   pull_request:
+    paths-ignore:
+      - '.github/**'
   release:
     types:
       - published
