@@ -11,7 +11,8 @@
 10. Procedure Change (2503) - Updated Polaris (ENSV) frequencies - thanks to @Liaely (Lily Unitt)
 11. AIRAC (2503) - Truncated East Midlands (EGNX) DTY SIDs to SAPCO - thanks to @aidenbok203 (Aiden Bok)
 12. AIRAC (2503) - Changed Upavon (EGDJ) frequency - thanks to @aidenbok203 (Aiden Bok)
-13. AIRAC (2503) - Truncated Essex Group BARMI STARs - thanks to @aidenbok203 (Aiden Bok)
+13. AIRAC (2503) - Changed Merryfield (EGDI) runway designator - thanks to @aidenbok203 (Aiden Bok)
+14. AIRAC (2503) - Truncated Essex Group BARMI STARs - thanks to @aidenbok203 (Aiden Bok)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
