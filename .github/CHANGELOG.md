@@ -13,6 +13,8 @@
 12. AIRAC (2503) - Changed Upavon (EGDJ) frequency - thanks to @aidenbok203 (Aiden Bok)
 13. AIRAC (2503) - Changed Merryfield (EGDI) runway designator - thanks to @aidenbok203 (Aiden Bok)
 14. AIRAC (2503) - Truncated Essex Group BARMI STARs - thanks to @aidenbok203 (Aiden Bok)
+15. Enhancement - Removed old data from 2023/03 - thanks to @Liaely (Lily Unitt)
+16. Bug - Changed erroneous Northolt (EGWU) and Hawarden (EGNR) STARs since 2023/03 - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
