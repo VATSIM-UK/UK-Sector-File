@@ -1,5 +1,6 @@
 # Changes from release 2024/13 to 2025/01
 1. Enhancement - Removed data withdrawn 2022/13 and prior - thanks to @aidenbok203 (Aiden Bok)
+2. Enhancement - Changed EGBJ_APP to EGBJ_A_APP - thanks to @mid-archie
 
 # Changes from release 2024/12 to 2024/13
 1. Enhancement - Added D098 complex - thanks to @RadarController (Chris Globe)
