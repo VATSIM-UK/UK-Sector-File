@@ -17,6 +17,7 @@
 16. Bug - Changed erroneous Northolt (EGWU) and Hawarden (EGNR) STARs since 2023/03 - thanks to @Liaely (Lily Unitt)
 17. AIRAC (2503) - Updated Syerston (EGXY) frequency and position - thanks to @Liaely (Lily Unitt)
 18. AIRAC (2503) - Updated Topcliffe (EGXZ) frequency - thanks to @Liaely (Lily Unitt)
+19. Enhancement - Changed EGBJ_APP to EGBJ_A_APP - thanks to @mid-archie
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
