@@ -1,4 +1,0 @@
-COPX:*:*:ENIPI:EGPK:*:Talla:Galloway:*:20000:ENIPI
-
-COPX:EGPH:*:*:TRN:*:Talla:Galloway:12000:*:^P600
-COPX:EGPH:*:*:DCS:*:Talla:Galloway:12000:*:^N864

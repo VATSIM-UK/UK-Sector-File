@@ -1,0 +1,6 @@
+COPX:EGPH:*:DCS:*:*:Galloway:Deancross:25000:*:^DCS
+COPX:EGPF:*:DCS:*:*:Galloway:Deancross:25000:*:^DCS
+COPX:EGPK:*:DCS:*:*:Galloway:Deancross:25000:*:^DCS
+COPX:EGPN:*:DCS:*:*:Galloway:Deancross:25000:*:^DCS
+COPX:EGPG:*:DCS:*:*:Galloway:Deancross:25000:*:^DCS
+COPX:EGPJ:*:DCS:*:*:Galloway:Deancross:25000:*:^DCS
