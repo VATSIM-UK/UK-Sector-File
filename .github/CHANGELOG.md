@@ -15,7 +15,13 @@
 14. AIRAC (2503) - Truncated Essex Group BARMI STARs - thanks to @aidenbok203 (Aiden Bok)
 15. Enhancement - Removed old data from 2023/03 - thanks to @Liaely (Lily Unitt)
 16. Bug - Changed erroneous Northolt (EGWU) and Hawarden (EGNR) STARs since 2023/03 - thanks to @Liaely (Lily Unitt)
-17. Procedure Change (2503) - Added standing agreements for East Midlands (EGNX) SAPCO-LUXTO outbounds - thanks to @AdriTheDev (Callum Hicks)
+17. AIRAC (2503) - Updated Syerston (EGXY) frequency and position - thanks to @Liaely (Lily Unitt)
+18. AIRAC (2503) - Updated Topcliffe (EGXZ) frequency - thanks to @Liaely (Lily Unitt)
+19. Enhancement - Changed EGBJ_APP to EGBJ_A_APP - thanks to @mid-archie
+20. AIRAC (2503) - Added Marham (EGYM) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
+21. AIRAC (2503) - Added Little Rissington (EGVL) radio frequency - thanks to @aidenbok203 (Aiden Bok)
+22. AIRAC (2503) - Amended ATS routes L60, M604 and N866 and create ATS Route Z150 - thanks to @lucak1011 (Luca Kulaga)
+23. Procedure Change (2503) - Added standing agreements for East Midlands (EGNX) SAPCO-LUXTO outbounds - thanks to @AdriTheDev (Callum Hicks)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
