@@ -3,5 +3,6 @@
 "B"  N053.16.57.285 W000.56.56.677 smrStandHold
 "C"  N053.16.46.692 W000.57.10.204 smrStandHold
 "C1" N053.16.43.636 W000.57.35.768 smrStandHold
+"D"  N053.17.16.805 W000.56.40.945 smrStandHold
 ;Helipads
 "H"  N053.16.52.798 W000.56.57.497 smrStandHold
