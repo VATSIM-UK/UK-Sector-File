@@ -1,3 +1,5 @@
+x. Enhancement - Added Blackpool (EGNH) RNP 28 Intermediate and Final fixes - thanks to @lyraongithub
+
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2503) - Removed danger area EGR313 - thanks to @aidenbok203 (Aiden Bok)
