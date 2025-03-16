@@ -24,6 +24,7 @@
 23. Procedure Change (2503) - Updated Bremen (EDDW) frequency - thanks to @Liaely (Lily Unitt)
 24. Procedure Change (2503) - Added standing agreements for East Midlands (EGNX) SAPCO-LUXTO outbounds - thanks to @AdriTheDev (Callum Hicks)
 25. Bug - Removed Puckeridge VRP from Gatwick profile - thanks to @AdriTheDev (Callum Hicks)
+26. Enhancement - Added Blackpool (EGNH) RNP 28 Intermediate and Final fixes - thanks to @lyraongithub
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
