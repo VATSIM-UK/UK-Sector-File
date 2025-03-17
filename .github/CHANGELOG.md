@@ -21,6 +21,7 @@
 20. AIRAC (2503) - Added Marham (EGYM) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
 21. AIRAC (2503) - Added Little Rissington (EGVL) radio frequency - thanks to @aidenbok203 (Aiden Bok)
 22. AIRAC (2503) - Amended ATS routes L60, M604 and N866 and create ATS Route Z150 - thanks to @lucak1011 (Luca Kulaga)
+x. Bug - Corrected enroute sector boundaries - thanks to @AliceFord (Alice Ford)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
