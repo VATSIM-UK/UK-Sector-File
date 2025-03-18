@@ -8,7 +8,24 @@
 7. AIRAC (2503) - Changed significant fixes - thanks to @aidenbok203 (Aiden Bok)
 8. AIRAC (2503) - Amended Ekofisk CTA lateral definition - thanks to @aidenbok203 (Aiden Bok)
 9. AIRAC (2503) - Amended COPX entries for new COP with Amsterdam - thanks to @Liaely (Lily Unitt)
-10. Procedure Change (2503) - Amended COPX entries with Clacton - thanks to @Liaely (Lily Unitt)
+10. Procedure Change (2503) - Updated Polaris (ENSV) frequencies - thanks to @Liaely (Lily Unitt)
+11. AIRAC (2503) - Truncated East Midlands (EGNX) DTY SIDs to SAPCO - thanks to @aidenbok203 (Aiden Bok)
+12. AIRAC (2503) - Changed Upavon (EGDJ) frequency - thanks to @aidenbok203 (Aiden Bok)
+13. AIRAC (2503) - Changed Merryfield (EGDI) runway designator - thanks to @aidenbok203 (Aiden Bok)
+14. AIRAC (2503) - Truncated Essex Group BARMI STARs - thanks to @aidenbok203 (Aiden Bok)
+15. Enhancement - Removed old data from 2023/03 - thanks to @Liaely (Lily Unitt)
+16. Bug - Changed erroneous Northolt (EGWU) and Hawarden (EGNR) STARs since 2023/03 - thanks to @Liaely (Lily Unitt)
+17. AIRAC (2503) - Updated Syerston (EGXY) frequency and position - thanks to @Liaely (Lily Unitt)
+18. AIRAC (2503) - Updated Topcliffe (EGXZ) frequency - thanks to @Liaely (Lily Unitt)
+19. Enhancement - Changed EGBJ_APP to EGBJ_A_APP - thanks to @mid-archie
+20. AIRAC (2503) - Added Marham (EGYM) RNP fixes - thanks to @aidenbok203 (Aiden Bok)
+21. AIRAC (2503) - Added Little Rissington (EGVL) radio frequency - thanks to @aidenbok203 (Aiden Bok)
+22. AIRAC (2503) - Amended ATS routes L60, M604 and N866 and create ATS Route Z150 - thanks to @lucak1011 (Luca Kulaga)
+23. Procedure Change (2503) - Updated Bremen (EDDW) frequency - thanks to @Liaely (Lily Unitt)
+24. Procedure Change (2503) - Added standing agreements for East Midlands (EGNX) SAPCO-LUXTO outbounds - thanks to @AdriTheDev (Callum Hicks)
+25. Bug - Removed Puckeridge VRP from Gatwick profile - thanks to @AdriTheDev (Callum Hicks)
+26. Enhancement - Added Blackpool (EGNH) RNP 28 Intermediate and Final fixes - thanks to @lyraongithub
+27. Procedure Change (2503) - Amended COPX entries with Clacton - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
