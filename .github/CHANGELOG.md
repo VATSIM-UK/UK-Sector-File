@@ -1,5 +1,5 @@
-# Changes from release 2025/03 to 2025/04
-1. AIRAC (2504) - Added waypoint UTFAV - thanks to @Liaely (Lily Unitt)
+# Changes from release 2025/04 to 2025/05
+1. AIRAC (2505) - Added waypoint UTFAV - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
