@@ -3,10 +3,3 @@ COPX:EGVA:*:ELSOF:*:*:London S23:London TC CPT:18000:*:ELSOF
 COPX:EGBJ:*:ELSOF:*:*:London S23:London TC CPT:18000:*:ELSOF
 COPX:EGBP:*:ELSOF:*:*:London S23:London TC CPT:18000:*:ELSOF
 COPX:EGGD:*:ELSOF:*:*:London S23:London TC CPT:18000:*:ELSOF
-
-;Withdrawn 2023/03 (West LD1.1 Deployment)
-COPX:EGVN:*:KENET:*:*:London S23:London TC CPT:18000:*:#KENET
-COPX:EGGD:*:KENET:*:*:London S23:London TC CPT:18000:*:#KENET
-
-COPX:EGVN:*:GAVGO:*:*:London S23:London TC CPT:18000:*:#GAVGO
-COPX:EGGD:*:GAVGO:*:*:London S23:London TC CPT:18000:*:#GAVGO
