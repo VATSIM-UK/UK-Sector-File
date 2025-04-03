@@ -1,0 +1,17 @@
+COPX:EGSS:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGGW:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGSC:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGLL:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGWU:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGLC:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGKB:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGMC:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGTO:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGLD:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGKK:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGLK:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGTF:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGVO:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGHL:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGTD:*:EFMIH:*:*:London S12:London S10:*:*:COORD
+COPX:EGLF:*:EFMIH:*:*:London S12:London S10:*:*:COORD

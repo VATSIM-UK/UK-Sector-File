@@ -1,5 +1,7 @@
 # Changes from release 2025/03 to 2025/04
-x. AIRAC (2504) - Added Taxiway D and Hold D to Retford/Gamston (EGNE) SMR - thanks to @BenWalker01 (Ben Walker)
+1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2504) - Added Kirknewton (EGKT) Radio frequency - thanks to @aidenbok203 (Aiden Bok)
+3. AIRAC (2504) - Added Taxiway D and Hold D to Retford/Gamston (EGNE) SMR - thanks to @BenWalker01 (Ben Walker)
 
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
@@ -28,6 +30,7 @@ x. AIRAC (2504) - Added Taxiway D and Hold D to Retford/Gamston (EGNE) SMR - tha
 24. Procedure Change (2503) - Added standing agreements for East Midlands (EGNX) SAPCO-LUXTO outbounds - thanks to @AdriTheDev (Callum Hicks)
 25. Bug - Removed Puckeridge VRP from Gatwick profile - thanks to @AdriTheDev (Callum Hicks)
 26. Enhancement - Added Blackpool (EGNH) RNP 28 Intermediate and Final fixes - thanks to @lyraongithub
+27. Procedure Change (2503) - Amended COPX entries with Clacton - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/01 to 2025/02
 1. AIRAC (2502) - Updated Tiree VORDME Position - thanks to @lilymeoww (Lily)
