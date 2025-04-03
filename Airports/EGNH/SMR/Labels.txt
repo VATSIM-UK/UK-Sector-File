@@ -1,7 +1,9 @@
 ;Stands
 "1" N053.46.35.350 W003.02.35.480 smrStandHold
-"2" N053.46.39.180 W003.02.35.400 smrStandHold
-"3" N053.46.39.330 W003.02.33.920 smrStandHold
+"X" N053.46.38.372 W003.02.36.217 smrStandHold
+"Y" N053.46.37.777 W003.02.36.112 smrStandHold
+"Z" N053.46.37.211 W003.02.35.977 smrStandHold
+
 "Fuel" N053.46.37.740 W003.02.37.680 smrStandHold
 
 ;Helicoper Parking
@@ -10,6 +12,7 @@
 "H3" N053.46.40.230 W003.02.26.580 smrStandHold
 "H4" N053.46.35.730 W003.02.34.410 smrStandHold
 "H5" N053.46.35.180 W003.02.34.280 smrStandHold
+"H6" N053.46.34.548 W003.02.34.172 smrStandHold
 "H" N053.46.43.930 W003.02.11.440 smrStandHold ;Heli_East
 
 ;Helicoper Aiming Points
