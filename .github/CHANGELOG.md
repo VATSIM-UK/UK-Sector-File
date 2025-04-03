@@ -1,6 +1,7 @@
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2504) - Added Kirknewton (EGKT) Radio frequency - thanks to @aidenbok203 (Aiden Bok)
+3. BUG - Fixed Blackpool (EGNH) parking to reflect changes on AIRAC (1324) - thanks to (Craig Howarth)
 
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
