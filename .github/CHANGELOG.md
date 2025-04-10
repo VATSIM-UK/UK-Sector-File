@@ -3,6 +3,7 @@
 2. AIRAC (2504) - Added Kirknewton (EGKT) Radio frequency - thanks to @aidenbok203 (Aiden Bok)
 3. AIRAC (2504) - Added Taxiway D and Hold D to Retford/Gamston (EGNE) SMR - thanks to @BenWalker01 (Ben Walker)
 4. Bug - Fixed Blackpool (EGNH) parking to reflect current layout - thanks to @craighowarth62 (Craig Howarth)
+5. AIRAC (2504) - Changed Halton (EGWN) Radio frequency - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
