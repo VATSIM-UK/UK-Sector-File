@@ -1,3 +1,6 @@
+# Changes from release 2025/04 to 2025/05
+1. AIRAC (2505) - Elmdon Apron changes to Birmingham (EGBB) - thanks to @craighowarth62 (Craig Howarth)
+
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2504) - Added Kirknewton (EGKT) Radio frequency - thanks to @aidenbok203 (Aiden Bok)
