@@ -5,6 +5,7 @@
 4. Bug - Fixed Blackpool (EGNH) parking to reflect current layout - thanks to @craighowarth62 (Craig Howarth)
 5. AIRAC (2504) - Changed Halton (EGWN) Radio frequency - thanks to @lucak1011 (Luca Kulaga)
 6. Bug - Removed no longer present DPE (Dieppe) VOR and completed R50 - thanks to @Liaely (Lily Unitt)
+7. AIRAC (2504) - Added Kirknewton (EGKT) Circuit / Soaring areas - thanks to @lilymeoww (Lily)
 
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
