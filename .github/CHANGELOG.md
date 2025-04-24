@@ -1,3 +1,6 @@
+# Changes from release 2025/05 to 2025/06
+1. AIRAC (2506) - Updated Prestwick (EGPK) STARs and SIDs - thanks to @Liaely (Lily Unitt)
+
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2504) - Added Kirknewton (EGKT) Radio frequency - thanks to @aidenbok203 (Aiden Bok)
