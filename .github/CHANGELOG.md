@@ -3,6 +3,7 @@
 2. AIRAC (2505) - Redrew Benbecula (EGPL) SMR & Removed Runway 17/35 - thanks to @ricky-gag38 (Riccardo Gagliardi)
 3. AIRAC (2505) - Added waypoint UTFAV - thanks to @Liaely (Lily Unitt)
 4. Bug - Renamed Gal_Tay standing agreement file to Galloway_Tay - thanks to @Liaely (Lily Unitt)
+5. Bug - Removed stands 9A, 10A and 209 at Edinburgh (EPGH) - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
