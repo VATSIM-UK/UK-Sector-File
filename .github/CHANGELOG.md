@@ -1,4 +1,4 @@
-x. - AIRAC (2506) - Fixed EGBB airport agreement lines using WCO - thanks to @lyraongithub
+x. - Bug - Fixed EGBB airport agreement lines using WCO - thanks to @lyraongithub
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
