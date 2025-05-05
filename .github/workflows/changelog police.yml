@@ -2,7 +2,7 @@ name: Check Changelog has been updated
 
 on:
   pull_request:
-    types: [opened, edited, synchronize]
+    types: [opened, synchronize]
 
 jobs:
   changelog-check:
