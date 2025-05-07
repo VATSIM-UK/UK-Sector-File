@@ -55,3 +55,5 @@ FIR_COPX:*:*:SITET:*:*:London S18:LFFF TP:*:*:SITET
 ;'Catch-all' COPX
 FIR_COPX:*:*:*:XAMAB:*:London S18:LFRR E:*:*:XAMAB
 FIR_COPX:*:*:*:ETRAT:*:London S18:LFRR E:*:*:SITET
+
+FIR_COPX:*:*:*:NEVIL:*:London S18:LFRR Low:*:*:NEVIL
