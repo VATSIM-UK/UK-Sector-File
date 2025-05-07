@@ -6,7 +6,7 @@ on:
 
 jobs:
   changelog-check:
-    if: ${{ ! contains(github.event.pull_request.labels.*.name, 'no-changelog') }}
+    if: ${{ ! contains(github.event.pull_request.labels.*.name, 'no-changelog') }} # Check for no-changelog label
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
