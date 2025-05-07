@@ -1,3 +1,0 @@
-FIR_COPX:*:*:LIZAD:EGHQ:*:LFRR V:London S9:*:28000:LIZAD
-
-FIR_COPX:*:*:LIZAD:*:*:LFRR V:London S9:*:*:LIZAD
