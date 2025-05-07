@@ -313,7 +313,9 @@
                         "6_LFRR.txt",
                         "7_SNE.txt",
                         "8_SNB.txt",
-                        "12_AA.txt"
+                        "12_AA.txt",
+                        "LFEE_16.txt",
+                        "LFEE_17.txt"
                     ]
                 },
                 {
@@ -324,7 +326,9 @@
                         "Agreements/External/6_LFRR.txt",
                         "Agreements/External/7_SNE.txt",
                         "Agreements/External/8_SNB.txt",
-                        "Agreements/External/12_AA.txt"
+                        "Agreements/External/12_AA.txt",
+                        "Agreements/External/LFEE_16.txt",
+                        "Agreements/External/LFEE_17.txt"
                     ]
                 }
             ],
