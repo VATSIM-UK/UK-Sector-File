@@ -1,4 +1,4 @@
-x. AIRAC (2506) - Updated names of enroute fixes and routing- thanks to @MrAdder (Daniel Green)
+x. AIRAC (2506) - Updated names of enroute fixes and routing - thanks to @MrAdder (Daniel Green)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
