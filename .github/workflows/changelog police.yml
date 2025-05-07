@@ -6,6 +6,7 @@ on:
 
 jobs:
   changelog-check:
+    if: ${{ ! contains(github.event.pull_request.labels.*.name, 'no-changelog') }}
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
