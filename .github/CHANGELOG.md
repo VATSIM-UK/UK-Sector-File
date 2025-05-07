@@ -2,6 +2,12 @@
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
 2. AIRAC (2505) - Redrew Benbecula (EGPL) SMR & Removed Runway 17/35 - thanks to @ricky-gag38 (Riccardo Gagliardi)
 3. AIRAC (2505) - Added waypoint UTFAV - thanks to @Liaely (Lily Unitt)
+4. Procedure Change (2505) - Amended agreement display for EGGW/KK outbounds now via UTFAV (was RINTI)
+5. Procedure Change (2505) - Implemented new Paris (LFFF) sectorisation and 'PAR_' callsign prefix
+6. Procedure Change (2505) - Implemented new Reims (LFEE) sectorisation
+7. Procedure Change (2505) - Updated Brest (LFRR) sectorisation
+8. Procedure Change (2505) - Added French low-level APP unit sectorisation for LFRB Iroise (FL195-), LFRN Rennes (FL195-) and LFQQ Lille (FL85-)
+9. Procedure Change (2505) - Added agreement display for Paris TMA outbounds via RATUK and KESAX to Dover, climbing FL260
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
