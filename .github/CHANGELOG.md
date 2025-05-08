@@ -7,6 +7,7 @@
 6. Enhancement - Updated Stansted (EGSS) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 7. AIRAC (2505) - Added Heli spot 7 at Gloucester (EGBJ) - thanks to @AdriTheDev (Callum Hicks)
 8. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
+9. Bug - Fixed EGBB airport agreement lines using WCO - thanks to @lyraongithub
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
