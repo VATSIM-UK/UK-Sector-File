@@ -1,11 +1,21 @@
 # Changes from release 2025/04 to 2025/05
-1. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
+1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
+2. AIRAC (2505) - Redrew Benbecula (EGPL) SMR & Removed Runway 17/35 - thanks to @ricky-gag38 (Riccardo Gagliardi)
+3. AIRAC (2505) - Added waypoint UTFAV - thanks to @Liaely (Lily Unitt)
+4. Bug - Renamed Gal_Tay standing agreement file to Galloway_Tay - thanks to @Liaely (Lily Unitt)
+5. Bug - Removed stands 9A, 10A and 209 at Edinburgh (EPGH) - thanks to @ricky-gag38 (Riccardo Gagliardi)
+6. Enhancement - Updated Stansted (EGSS) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+7. AIRAC (2505) - Added Heli spot 7 at Gloucester (EGBJ) - thanks to @AdriTheDev (Callum Hicks)
+8. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2504) - Added Kirknewton (EGKT) Radio frequency - thanks to @aidenbok203 (Aiden Bok)
 3. AIRAC (2504) - Added Taxiway D and Hold D to Retford/Gamston (EGNE) SMR - thanks to @BenWalker01 (Ben Walker)
 4. Bug - Fixed Blackpool (EGNH) parking to reflect current layout - thanks to @craighowarth62 (Craig Howarth)
+5. AIRAC (2504) - Changed Halton (EGWN) Radio frequency - thanks to @lucak1011 (Luca Kulaga)
+6. Bug - Removed no longer present DPE (Dieppe) VOR and completed R50 - thanks to @Liaely (Lily Unitt)
+7. AIRAC (2504) - Added Kirknewton (EGKT) Circuit / Soaring areas - thanks to @lilymeoww (Lily)
 
 # Changes from release 2025/02 to 2025/03
 1. AIRAC (2503) - Updated Y53 and UY53 ATS Routes - thanks to @aidenbok203 (Aiden Bok)
