@@ -1,5 +1,5 @@
 # Changes from release 2025/05 to 2025/06
-1. AIRAC (2506) - Updated Gurnsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
+1. AIRAC (2506) - Updated Guernsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
 
 
 # Changes from release 2025/04 to 2025/05
