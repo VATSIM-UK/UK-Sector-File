@@ -9,6 +9,7 @@
 8. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
 9. Bug - Fixed EGBB airport agreement lines using WCO - thanks to @lyraongithub
 10. AIRAC (2505) - Elmdon Apron changes to Birmingham (EGBB) - thanks to @craighowarth62 (Craig Howarth)
+11. Enhancement - Redrew Edinburgh (EGPH) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
