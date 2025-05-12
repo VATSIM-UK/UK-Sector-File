@@ -1,5 +1,3 @@
-x. Procedure Change (2504) - Updated fighter control positions - thanks to @Liaely (Lily Unitt)
-
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
 2. AIRAC (2505) - Redrew Benbecula (EGPL) SMR & Removed Runway 17/35 - thanks to @ricky-gag38 (Riccardo Gagliardi)
@@ -10,7 +8,8 @@ x. Procedure Change (2504) - Updated fighter control positions - thanks to @Liae
 7. AIRAC (2505) - Added Heli spot 7 at Gloucester (EGBJ) - thanks to @AdriTheDev (Callum Hicks)
 8. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
 9. Bug - Fixed EGBB airport agreement lines using WCO - thanks to @lyraongithub
-10. AIRAC (2505) - Elmdon Apron changes to Birmingham (EGBB) - thanks to @craighowarth62 (Craig Howarth)
+10. AIRAC (2505) - Updated Elmdon Apron on Birmingham (EGBB) SMR - thanks to @craighowarth62 (Craig Howarth)
+11. Procedure Change (2504) - Updated fighter control positions - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
