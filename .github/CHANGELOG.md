@@ -1,5 +1,7 @@
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
+2. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
