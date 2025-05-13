@@ -1,3 +1,5 @@
+;Note that the area south of UTFAV delegated from Paris to Reims is defined in the Paris file to ensure it is 'matched' first
+
 SECTOR:LFEE HN:0:0
 OWNER:EEHN:EEN:EE:RPAW:P
 

@@ -23,6 +23,7 @@ BORDER:LDM08:LDM07:LDM06:LDM03b:LDM03a:LDFF03:LFFF-TN_LFFF-TB:LFFF-TN:LFFF-TP_LF
 SECTOR:LFFF TB:0:0
 OWNER:PTB:TNTB:AENB:RPAW:P
 
+;This area is defined here as Paris > Reims in the ESE defintiion and we want EuroScope to 'match' a flight to this sector (owned by Reims) before the main TB sector below
 SECTOR:LFEE TB Delegation (195-265):19500:26500
 OWNER:EEUB:EEN:EE:RPAW:P
 BORDER:LFFF_LFEE_Deleg
