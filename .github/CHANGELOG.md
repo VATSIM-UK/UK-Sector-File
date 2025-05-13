@@ -11,6 +11,7 @@
 10. AIRAC (2505) - Updated Elmdon Apron on Birmingham (EGBB) SMR - thanks to @craighowarth62 (Craig Howarth)
 11. Procedure Change (2504) - Updated fighter control positions - thanks to @Liaely (Lily Unitt)
 12. Enhancement - Updated Edinburgh (EGPH) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+13. Procedure Change (2505) - Added agreement display (COPX) - Dover -> Reims for new COP UTFAV
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
