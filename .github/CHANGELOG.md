@@ -17,6 +17,7 @@
 16. Procedure Change (2505) - Updated Brest (LFRR) sectorisation
 17. Procedure Change (2505) - Added French low-level APP unit sectorisation for LFRB Iroise (FL195-), LFRN Rennes (FL195-) and LFQQ Lille (FL85-)
 18. Procedure Change (2505) - Added agreement display for Paris TMA outbounds via RATUK and KESAX to Dover, climbing FL260
+19. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
