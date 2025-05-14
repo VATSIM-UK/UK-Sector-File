@@ -35,4 +35,4 @@ FIR_COPX:*:*:SITET:LFOE:*:London S18:LFFF TP:*:13000:COORD
 ;These 'catch-all' COPX are affecting LTMA dep COPX display - turned on again following 2413 changes to check for issues
 ;FIR_COPX:*:*:XIDIL:*:*:London S18:LFFF TP:*:*:XIDIL
 ;FIR_COPX:*:*:SITET:*:*:London S18:LFFF TP:*:*:SITET
-;You can find them at the end of 18_RR-E.txt to failsafe after all S18 agreements with France.
+;You can find them at the end of 18_LFRR.txt to failsafe after all S18 agreements with France.
