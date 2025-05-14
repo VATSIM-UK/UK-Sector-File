@@ -25,3 +25,7 @@ FIR_COPX:*:*:ODREP:*:*:LFRR J:London S19:*:*:REVTU
 FIR_COPX:*:*:BOLRO:*:*:LFRR J:London S19:*:*:REVTU
 
 FIR_COPX:*:*:ORIST:*:*:LFRR J:London S19:*:*:REVTU
+
+FIR_COPX:*:*:LUGIS:*:*:LFRR Low:London S19:*:*:LUGIS
+
+FIR_COPX:*:*:KOTEM:*:*:LFRR Low:London S19:*:*:KOTEM
