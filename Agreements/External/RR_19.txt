@@ -1,3 +1,0 @@
-FIR_COPX:*:*:LUGIS:*:*:LFRR Low:London S19:*:*:LUGIS
-
-FIR_COPX:*:*:KOTEM:*:*:LFRR Low:London S19:*:*:KOTEM
