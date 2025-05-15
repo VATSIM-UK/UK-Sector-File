@@ -1,4 +1,0 @@
-FIR_COPX:*:*:LELNA:LFRD:*:London S20:LFRR Low:*:25000:LELNA
-
-FIR_COPX:*:*:LELNA:*:*:London S20:LFRR Low:*:*:LELNA
-FIR_COPX:*:*:LORKU:*:*:London S20:LFRR Low:*:*:LORKU
