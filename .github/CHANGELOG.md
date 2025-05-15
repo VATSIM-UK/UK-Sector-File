@@ -1,3 +1,6 @@
+# Changes from release 2025/05 to 2025/06
+1. AIRAC (2506) - Changed Glasgow (EGPF) frequencies - thanks to @aidenbok203 (Aiden Bok)
+
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
 2. AIRAC (2505) - Redrew Benbecula (EGPL) SMR & Removed Runway 17/35 - thanks to @ricky-gag38 (Riccardo Gagliardi)
