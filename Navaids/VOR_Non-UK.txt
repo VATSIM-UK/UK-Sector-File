@@ -64,7 +64,7 @@ MCM 114.400 N053.54.37.200 W006.54.04.600 ; Mohercrom (DME)
 SHA 113.300 N052.43.15.600 W008.53.06.800 ; Shannon
 WTP 116.300 N053.05.45.200 W007.35.28.600 ; Wolftrap (DME)
 
-;Germany, verified AIRAC 2506
+;Germany, verified AIRAC 2505
 OSN 114.300 N052.12.00.490 E008.17.07.870 ; Osnabrueck
 
 ;Norway, verified AIRAC 2308
