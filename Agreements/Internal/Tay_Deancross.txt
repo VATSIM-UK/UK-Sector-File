@@ -1,0 +1,2 @@
+COPX:EGPD:*:GRICE:*:*:Tay:Deancross:25000:*:^GRICE
+COPX:EGPE:*:GOW:*:*:Tay:Deancross:25000:*:GOW

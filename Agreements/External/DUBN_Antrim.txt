@@ -1,0 +1,18 @@
+FIR_COPX:*:*:BOYNE:EGNS:*:Dublin North High:Antrim:*:13000:|BOYNE
+
+FIR_COPX:EIDW:*:BOYNE:*:*:Dublin North High:Antrim:13000:*:^BOYNE
+FIR_COPX:EIWT:*:BOYNE:*:*:Dublin North High:Antrim:13000:*:^BOYNE
+FIR_COPX:EIME:*:BOYNE:*:*:Dublin North High:Antrim:13000:*:^BOYNE
+
+FIR_COPX:EIDW:*:NEVRI:*:*:Dublin North High:Antrim:23000:*:^NEVRI
+FIR_COPX:EIWT:*:NEVRI:*:*:Dublin North High:Antrim:23000:*:^NEVRI
+FIR_COPX:EIME:*:NEVRI:*:*:Dublin North High:Antrim:23000:*:^NEVRI
+
+FIR_COPX:EIDW:*:ROTEV:*:*:Dublin North High:Antrim:23000:*:^ROTEV
+FIR_COPX:EIWT:*:ROTEV:*:*:Dublin North High:Antrim:23000:*:^ROTEV
+FIR_COPX:EIME:*:ROTEV:*:*:Dublin North High:Antrim:23000:*:^ROTEV
+
+FIR_COPX:*:*:NEVRI:EGAA:*:Dublin North High:Antrim:*:14000:|NEVRI
+FIR_COPX:*:*:NEVRI:EGAC:*:Dublin North High:Antrim:*:14000:|NEVRI
+FIR_COPX:*:*:NEVRI:EGAE:*:Dublin North High:Antrim:*:14000:|NEVRI
+FIR_COPX:*:*:NEVRI:EGAD:*:Dublin North High:Antrim:*:14000:|NEVRI

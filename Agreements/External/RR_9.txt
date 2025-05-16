@@ -1,7 +1,0 @@
-FIR_COPX:*:*:LIZAD:*:*:LFRR Low:London S6:*:*:LIZAD
-
-FIR_COPX:*:*:DOLUR:*:*:LFRR Low:London S6:*:*:DOLUR
-
-FIR_COPX:*:*:TALIG:*:*:LFRR Low:London S6:*:*:TALIG
-
-FIR_COPX:*:*:AMPOP:*:*:LFRR Low:London S6:*:*:AMPOP
