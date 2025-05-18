@@ -1,3 +1,5 @@
 FIR_COPX:*:*:LEDGO:EICK:*:London S9:Shannon Low South:*:24000:LEDGO
 
 FIR_COPX:*:*:LULOX:EICK:*:London S9:Shannon Low South:*:24000:LULOX
+
+FIR_COPX:*:*:SAMON:EICK:*:London S9:Shannon Low South:*:24000:SAMON
