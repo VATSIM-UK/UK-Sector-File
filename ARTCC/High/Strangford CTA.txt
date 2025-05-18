@@ -13,21 +13,44 @@ Strangford CTA               N054.25.34.000 W005.23.20.000 N054.35.42.000 W005.1
 Strangford CTA               N054.35.42.000 W005.14.44.000 N054.44.49.000 W005.26.08.000
 
 ;Strangford CTA 3 Class D FL105-FL195
-Strangford CTA               N054.57.15.000 W005.15.30.000 N054.11.00.000 W005.54.28.000
-Strangford CTA               N054.11.00.000 W005.54.28.000 N054.26.34.000 W006.10.18.000
-Strangford CTA               N054.26.34.000 W006.10.18.000 N054.26.28.865 W006.12.10.272 ; Radial 178
-Strangford CTA               N054.26.28.865 W006.12.10.272 N054.26.29.454 W006.14.07.704 ; Radial 183
-Strangford CTA               N054.26.29.454 W006.14.07.704 N054.26.35.930 W006.16.03.343 ; Radial 188
-Strangford CTA               N054.26.35.930 W006.16.03.343 N054.26.48.244 W006.17.58.220 ; Radial 193
-Strangford CTA               N054.26.48.244 W006.17.58.220 N054.27.06.304 W006.19.50.839 ; Radial 198
-Strangford CTA               N054.27.06.304 W006.19.50.839 N054.27.55.000 W006.23.10.000
-Strangford CTA               N054.27.55.000 W006.23.10.000 N054.39.52.000 W006.22.24.000
-Strangford CTA               N054.39.52.000 W006.22.24.000 N054.39.40.000 W006.13.48.000
-Strangford CTA               N054.39.40.000 W006.13.48.000 N054.44.26.000 W006.11.14.000
-Strangford CTA               N054.44.26.000 W006.11.14.000 N054.40.29.000 W005.49.29.000
-Strangford CTA               N054.40.29.000 W005.49.29.000 N054.53.46.000 W005.38.10.000
-Strangford CTA               N054.53.46.000 W005.38.10.000 N054.54.18.000 W005.30.00.000
-Strangford CTA               N054.54.18.000 W005.30.00.000 N054.57.15.000 W005.15.30.000
+Strangford CTA               N054.57.15.000	W005.15.30.000
+Strangford CTA               N054.11.00.000	W005.54.28.000
+Strangford CTA               N054.26.34.000	W006.10.18.000
+Strangford CTA               N054.26.30.476	W006.10.59.556 ; Radial 175
+Strangford CTA               N054.26.27.526	W006.12.57.000 ; Radial 180
+Strangford CTA               N054.26.30.476	W006.14.54.444 ; Radial 185
+Strangford CTA               N054.26.39.306	W006.16.50.994 ; Radial 190
+Strangford CTA               N054.26.53.948	W006.18.45.763 ; Radial 195
+Strangford CTA               N054.27.14.292	W006.20.37.878 ; Radial 200
+Strangford CTA               N054.27.40.188	W006.22.26.485 ; Radial 205
+Strangford CTA               N054.28.11.439	W006.24.10.757 ; Radial 210
+Strangford CTA               N054.28.47.813	W006.25.49.901 ; Radial 215
+Strangford CTA               N054.29.29.034	W006.27.23.163 ; Radial 220
+Strangford CTA               N054.30.14.795	W006.28.49.833 ; Radial 225
+Strangford CTA               N054.31.04.750	W006.30.09.251 ; Radial 230
+Strangford CTA               N054.31.58.524	W006.31.20.812 ; Radial 235
+Strangford CTA               N054.32.55.710	W006.32.23.973 ; Radial 240
+Strangford CTA               N054.33.55.879	W006.33.18.252 ; Radial 245
+Strangford CTA               N054.34.58.574	W006.34.03.237 ; Radial 250
+Strangford CTA               N054.36.03.323	W006.34.38.586 ; Radial 255
+Strangford CTA               N054.37.09.634	W006.35.04.028 ; Radial 260
+Strangford CTA               N054.38.17.005	W006.35.19.372 ; Radial 265
+Strangford CTA               N054.39.24.924	W006.35.24.499 ; Radial 270
+Strangford CTA               N054.40.32.874	W006.35.19.372 ; Radial 275
+Strangford CTA               N054.41.40.338	W006.35.04.028 ; Radial 280
+Strangford CTA               N054.42.46.802	W006.34.38.586 ; Radial 285
+Strangford CTA               N054.43.51.758	W006.34.03.237 ; Radial 290
+Strangford CTA               N054.44.54.710	W006.33.18.252 ; Radial 295
+Strangford CTA               N054.45.55.175	W006.32.23.973 ; Radial 300
+Strangford CTA               N054.46.52.690	W006.31.20.812 ; Radial 305
+Strangford CTA               N054.47.46.813	W006.30.09.251 ; Radial 310
+Strangford CTA               N054.48.37.129	W006.28.49.833 ; Radial 315
+Strangford CTA               N054.49.23.250	W006.27.23.163 ; Radial 320
+Strangford CTA               N054.50.04.822	W006.25.49.901 ; Radial 325
+Strangford CTA               N054.50.30.000	W006.24.42.000
+Strangford CTA               N054.53.10.000	W005.47.01.000
+Strangford CTA               N054.54.18.000	W005.30.00.000
+Strangford CTA               N054.57.15.000	W005.15.30.000
 
 ;Strangford CTA 4 Class D FL55-FL195
 Strangford CTA               N054.22.14.000 W005.45.09.000 N054.16.30.000 W005.30.58.000
