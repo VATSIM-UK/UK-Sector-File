@@ -1,1 +1,1 @@
-FIR_COPX:EICK:*:LEDGO:*:*:Shannon Low South:London S9:23000:*:NORLA
+FIR_COPX:EICK:*:LEDGO:*:*:Shannon Low South:London S9:23000:*:LEDGO
