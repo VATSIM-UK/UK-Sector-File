@@ -1,6 +1,11 @@
 # Changes from release 2025/05 to 2025/06
-1. AIRAC (2506) - Updated Guernsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
-
+1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
+2. AIRAC (2506) - Changed Glasgow (EGPF) frequencies - thanks to @aidenbok203 (Aiden Bok)
+3. AIRAC (2506) - Removed WCO NDB & Updated dependencies with WEZKO - thanks to @lyraongithub
+4. AIRAC (2506) - Redesignated Cardiff (EGFF) and St Athan (EGSY) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
+5. AIRAC (2506) - Redesignated Bristol (EGGD) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
+6. AIRAC (2506) - Updated names of various enroute fixes and affected ATS routes - thanks to @MrAdder (Daniel Green)
+7. AIRAC (2506) - Updated Guernsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
@@ -12,7 +17,16 @@
 7. AIRAC (2505) - Added Heli spot 7 at Gloucester (EGBJ) - thanks to @AdriTheDev (Callum Hicks)
 8. AIRAC (2505) - Added Manchester (EGCC) Pier 2 and updated taxiways - thanks to @m4ksc (Maks Ciesielski)
 9. Bug - Fixed EGBB airport agreement lines using WCO - thanks to @lyraongithub
-10. AIRAC (2505) - Elmdon Apron changes to Birmingham (EGBB) - thanks to @craighowarth62 (Craig Howarth)
+10. AIRAC (2505) - Updated Elmdon Apron on Birmingham (EGBB) SMR - thanks to @craighowarth62 (Craig Howarth)
+11. Procedure Change (2504) - Updated fighter control positions - thanks to @Liaely (Lily Unitt)
+12. Enhancement - Updated Edinburgh (EGPH) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+13. Procedure Change (2505) - Amended agreement display for EGGW/KK outbounds now via UTFAV (was RINTI)
+14. Procedure Change (2505) - Implemented new Paris (LFFF) sectorisation and 'PAR_' callsign prefix
+15. Procedure Change (2505) - Implemented new Reims (LFEE) sectorisation
+16. Procedure Change (2505) - Updated Brest (LFRR) sectorisation
+17. Procedure Change (2505) - Added French low-level APP unit sectorisation for LFRB Iroise (FL195-), LFRN Rennes (FL195-) and LFQQ Lille (FL85-)
+18. Procedure Change (2505) - Added agreement display for Paris TMA outbounds via RATUK and KESAX to Dover, climbing FL260
+19. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/03 to 2025/04
 1. Bug - Changed logon callsign for Biggin (EGKB) Approach - thanks to @Liaely (Lily Unitt)
