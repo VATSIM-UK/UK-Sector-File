@@ -6,6 +6,7 @@
 5. AIRAC (2506) - Redesignated Bristol (EGGD) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
 6. AIRAC (2506) - Updated names of various enroute fixes and affected ATS routes - thanks to @MrAdder (Daniel Green)
 7. AIRAC (2506) - Updated Guernsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
+8. Bug - Removed Helgoland (DHE) VOR missed from 2503 changes - thanks to @Liaely
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
