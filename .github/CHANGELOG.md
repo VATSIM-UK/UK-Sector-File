@@ -2,7 +2,10 @@
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2506) - Changed Glasgow (EGPF) frequencies - thanks to @aidenbok203 (Aiden Bok)
 3. AIRAC (2506) - Removed WCO NDB & Updated dependencies with WEZKO - thanks to @lyraongithub
-4. AIRAC (2506) - Added CANZI, EVCOR, OVZOG and associated new routes, amended N160, and amended COPX lines between S9 and Shannon Low South - thanks to @Liaely (Lily Unitt)
+4. AIRAC (2506) - Added 5LNC waypoints CANZI, EVCOR, and OVZOG - thanks to @Liaely (Lily Unitt)
+5. AIRAC (2506) - Added lower airways L37, and L38. Amended lower airway N160 - thanks to @Liaely (Lily Unitt)
+6. AIRAC (2506) - Added COPX lines at SAMON for Cork (EICK) arrivals and departures - thanks to @Liaely (Lily Unitt)
+7. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
