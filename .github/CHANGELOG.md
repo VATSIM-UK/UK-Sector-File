@@ -2,10 +2,16 @@
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2506) - Changed Glasgow (EGPF) frequencies - thanks to @aidenbok203 (Aiden Bok)
 3. AIRAC (2506) - Removed WCO NDB & Updated dependencies with WEZKO - thanks to @lyraongithub
-4. AIRAC (2506) - Added 5LNC waypoints CANZI, EVCOR, and OVZOG - thanks to @Liaely (Lily Unitt)
-5. AIRAC (2506) - Added lower airways L37, and L38. Amended lower airway N160 - thanks to @Liaely (Lily Unitt)
-6. AIRAC (2506) - Added COPX lines at SAMON for Cork (EICK) arrivals and departures - thanks to @Liaely (Lily Unitt)
-7. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
+4. AIRAC (2506) - Redesignated Cardiff (EGFF) and St Athan (EGSY) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
+5. AIRAC (2506) - Redesignated Bristol (EGGD) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
+6. AIRAC (2506) - Updated names of various enroute fixes and affected ATS routes - thanks to @MrAdder (Daniel Green)
+7. AIRAC (2506) - Updated Guernsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
+8. Bug - Removed Helgoland (DHE) VOR missed from 2503 changes - thanks to @Liaely (Lily Unitt)
+9. AIRAC (2506) - Changed Heathrow Planner frequency - thanks to @clc0609 (Coby Chapman)
+10. AIRAC (2506) - Added 5LNC waypoints CANZI, EVCOR, and OVZOG - thanks to @Liaely (Lily Unitt)
+11. AIRAC (2506) - Added lower airways L37, and L38. Amended lower airway N160 - thanks to @Liaely (Lily Unitt)
+12. AIRAC (2506) - Added COPX lines at SAMON for Cork (EICK) arrivals and departures - thanks to @Liaely (Lily Unitt)
+13. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
