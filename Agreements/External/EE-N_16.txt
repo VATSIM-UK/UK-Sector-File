@@ -1,1 +1,0 @@
-FIR_COPX:*:*:RATUK:*:*:LFEE N:London S16:*:*:RATUK
