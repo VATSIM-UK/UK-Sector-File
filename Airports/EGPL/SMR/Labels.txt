@@ -1,0 +1,2 @@
+;Holding Points
+"A" N057.28.33.451 W007.22.27.139 smrStandHold
