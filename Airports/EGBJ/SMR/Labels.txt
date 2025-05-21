@@ -33,6 +33,7 @@
 
 ;Heli Parking
 "2" N051.53.35.110 W002.09.35.723 smrStandHold
+"7" N051.53.34.154 W002.09.37.597 smrStandHold
 
 ;Heli Holds
 "H-X" N051.53.35.367 W002.09.41.627 smrStandHold
