@@ -1,2 +1,0 @@
-;EGSF Peterborough/Conington ATZ
-@ARC(region EGSF Peterborough/Conington ATZ centre N052.28.05.000 W000.15.03.000 radius 2)
