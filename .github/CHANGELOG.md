@@ -8,6 +8,8 @@
 7. AIRAC (2506) - Updated Guernsey (EGJB) SIDs - thanks to @JudgeMatty (Matthew Tallett)
 8. Bug - Removed Helgoland (DHE) VOR missed from 2503 changes - thanks to @Liaely
 9. AIRAC (2506) - Changed Heathrow Planner frequency - thanks to @clc0609 (Coby Chapman)
+10. AIRAC (2506) - Updated Strangford CTA 3 airspace definition - thanks to @Liaely (Lily Unitt)
+11. Enhancement - Removed nearly overlapping lines in the Strangford CTA area - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
