@@ -1,3 +1,5 @@
+X. Enhancement - Update Gatwick (EGKK) Ground Network - thanks to @hinshee (Will Hinshaw)
+
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2506) - Changed Glasgow (EGPF) frequencies - thanks to @aidenbok203 (Aiden Bok)
