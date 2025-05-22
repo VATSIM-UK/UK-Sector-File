@@ -15,6 +15,7 @@
 14. AIRAC (2506) - Added danger areas EGD220A and B - thanks to @Liaely (Lily Unitt)
 15. AIRAC (2506) - Updated Shobdon (EGBS) SMR - thanks to @clc0609 (Coby Chapman)
 16. AIRAC (2506) - Updated Prestwick (EGPK) STARs and SIDs - thanks to @Liaely (Lily Unitt)
+17. AIRAC (2506) - Added new FRA points and COP on Lakes/EISN border - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
