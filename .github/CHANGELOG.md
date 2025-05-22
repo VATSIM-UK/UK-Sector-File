@@ -13,6 +13,7 @@
 12. AIRAC (2506) - Removed Peterborough/Conington (EGSF) ATZ and position definitions - thanks to @matthew4301 (Matthew Stothard)
 13. AIRAC (2506) - Updated Jersey (EGJJ) SMR to remove hangar - thanks to @clc0609 (Coby Chapman)
 14. AIRAC (2506) - Added danger areas EGD220A and B - thanks to @Liaely (Lily Unitt)
+15. AIRAC (2506) - Updated Shobdon (EGBS) SMR - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
