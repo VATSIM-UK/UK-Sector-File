@@ -1,1 +1,2 @@
 FIR_COPX:*:*:BAGSO:*:*:London S7:EISN 4AU:*:*:BAGSO
+FIR_COPX:*:*:WETFI:*:*:London S7:EISN 4AU:*:*:WETFI
