@@ -1,0 +1,4 @@
+;EGD220A
+@ARC(region EGD220A centre N052.38.54.000 E000.33.02.000 radius 5)   
+;EGD220B
+@ARC(region EGD220B centre N052.38.54.000 E000.33.02.000 radius 5)

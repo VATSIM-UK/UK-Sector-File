@@ -1,2 +1,4 @@
 FIR_COPX:*:*:BAGSO:*:*:London S4:EISN 4AU:*:*:BAGSO
 FIR_COPX:*:*:BAGSO:*:*:London S4:EISN 4AS:*:*:BAGSO
+FIR_COPX:*:*:WETFI:*:*:London S4:EISN 4AU:*:*:WETFI
+FIR_COPX:*:*:WETFI:*:*:London S4:EISN 4AS:*:*:WETFI
