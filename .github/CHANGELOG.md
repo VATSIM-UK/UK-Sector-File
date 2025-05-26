@@ -18,6 +18,8 @@
 17. AIRAC (2506) - Added new FRA points and COP on Lakes/EISN border - thanks to @ricky-gag38 (Riccardo Gagliardi)
 18. AIRAC (2506) - Revised Berry Head CTA 6 and 7 definition and CTA 6's label - thanks to @clc0609 (Coby Chapman)
 19. AIRAC (2506) - Defined LEDGO RFC Area - thanks to @matthew4301 (Matthew Stothard)
+20. AIRAC (2506) - Updated Strangford CTA 3 airspace definition - thanks to @Liaely (Lily Unitt)
+21. Enhancement - Removed nearly overlapping lines in the Strangford CTA area - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
