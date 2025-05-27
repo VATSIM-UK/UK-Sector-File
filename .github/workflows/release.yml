@@ -1,0 +1,77 @@
+name: Sector File Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  release:
+    name: Upload Sector File
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Git
+      run: |
+          git config --local user.email "privileged-access@vatsim.uk"
+          git config --local user.name "VATSIM UK"
+
+    - name: Create Output dir
+      run: mkdir .bin/
+
+    - name: Download Compiler
+      run: |
+          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64
+          chmod +x ./compiler
+
+    - name: Set Build Version
+      run: echo "SECTORFILE_BUILD_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+    - name: Set Strip Comments
+      run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
+
+    - name: Compile
+      run: |
+        ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
+
+    - name: Get Airac
+      run: |
+        echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
+
+    - name: Rename Files
+      run: |
+        cd .bin
+        mv UK.ese UK_${AIRAC_DATE}.ese
+        mv UK.rwy UK_${AIRAC_DATE}.rwy
+        mv UK.sct UK_${AIRAC_DATE}.sct
+
+    - name: Zip for download
+      run: |
+        cd .bin
+        zip UK_${AIRAC_DATE}.zip UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
+
+    - name: Zip for euroscope
+      uses: edgarrc/action-7z@a21c73c26811287e0ab23429df86807dbb7b2e8e
+      with:
+        args: 7z a -t7z -m0=lzma -mx=9 UK_${AIRAC_DATE}.7z UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
+
+
+
+    - name: Clone docs website
+      run: |
+          git clone https://x-access-token:${{ secrets.REPO_PAT }}@github.com/org/atc-documentation.git atc-documentation
+
+    - name: Upload SectorFiles
+      run: |
+        cd atc-documentation
+        git checkout -b uk-sector-file
+        cp ../.bin/UK_${AIRAC_DATE}.7z atc/documentation/
+        cp ../.bin/UK_${AIRAC_DATE}.zip atc/documentation/
+        git add .
+        git commit -m "Upload SectorFile ${AIRAC_DATE}"
+        git push origin uk-sector-file
+
+
+
