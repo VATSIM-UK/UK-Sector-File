@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Checkout code
+    - name: Checkout Code
       uses: actions/checkout@v4
 
     - name: Setup Git
@@ -36,7 +36,7 @@ jobs:
       run: |
         ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
 
-    - name: Get Airac
+    - name: Get AIRAC
       run: |
         echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
         echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)/\1\2/g')" >> $GITHUB_ENV
@@ -48,17 +48,17 @@ jobs:
         mv UK.ese UK_${AIRAC_DATE}.ese
         mv UK.rwy UK_${AIRAC_DATE}.rwy
 
-    - name: Zip for download
+    - name: Zip for Download
       run: |
         cd .bin
         zip UK_${AIRAC_DATE}.zip UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
 
-    - name: Zip for euroscope
+    - name: Zip for Euroscope
       uses: edgarrc/action-7z@a21c73c26811287e0ab23429df86807dbb7b2e8e
       with:
         args: 7z a -t7z -m0=lzma -mx=9 UK_${AIRAC_DATE}.7z UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
 
-    - name: Clone docs website
+    - name: Clone Docs Website
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -71,7 +71,7 @@ jobs:
         cp ../.bin/UK_${AIRAC_DATE}.7z "docs/General/Software Downloads/Files/"
         cp ../.bin/UK_${AIRAC_DATE}.zip "docs/General/Software Downloads/Files/"
 
-    - name: Update download links
+    - name: Update Download Links
       run: |
         cd atc-documentation
         LINK_FILE="docs/General/Software Downloads/Controller Pack & Sector File.md"
@@ -80,7 +80,7 @@ jobs:
         sed -i '/&- \[:link: UK Sector File (.7z)\]/c\- [:link: UK Sector File (.7z)](Files/UK_'"${AIRAC_DATE}"'.7z) - Latest UK Sector File (.7z)' "$LINK_FILE"
 
 
-    - name: Commit changes
+    - name: Commit Changes
       run: |
         cd atc-documentation
         git add .
