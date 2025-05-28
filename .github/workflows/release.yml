@@ -44,9 +44,9 @@ jobs:
     - name: Rename Files
       run: |
         cd .bin
+        mv UK.sct UK_${AIRAC_DATE}.sct
         mv UK.ese UK_${AIRAC_DATE}.ese
         mv UK.rwy UK_${AIRAC_DATE}.rwy
-        mv UK.sct UK_${AIRAC_DATE}.sct
 
     - name: Zip for download
       run: |
@@ -84,6 +84,6 @@ jobs:
       run: |
         cd atc-documentation
         git add .
-        git commit -m "Upload SectorFile ${AIRAC_DATE}"
+        git commit -m "Upload Sector File ${AIRAC_DATE}"
         git push origin uk-sector-file
 
