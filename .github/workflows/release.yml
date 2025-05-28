@@ -68,6 +68,8 @@ jobs:
       run: |
         cd atc-documentation
         git checkout -b uk-sector-file
+        rm -f "docs/General/Software Downloads/Files/UK_20"*".zip"
+        rm -f "docs/General/Software Downloads/Files/UK_20"*".7z"
         cp ../.bin/UK_${AIRAC_DATE}.7z "docs/General/Software Downloads/Files/"
         cp ../.bin/UK_${AIRAC_DATE}.zip "docs/General/Software Downloads/Files/"
 
