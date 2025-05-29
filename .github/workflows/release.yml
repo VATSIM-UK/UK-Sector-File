@@ -19,12 +19,17 @@ jobs:
           git config --local user.name "VATSIM UK"
 
     - name: Create Output dir
-      run: mkdir .bin/
+      run: |
+        echo "📂 Creating .bin directory"
+        mkdir -p .bin || { echo "❌ Failed to create .bin directory"; exit 1; }
 
     - name: Download Compiler
       run: |
-          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64
-          chmod +x ./compiler
+        echo "⬇️ Downloading compiler"
+        curl -L -o .bin/compiler "https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64" || {
+          echo "❌ Compiler download failed"; exit 1;
+        }
+        chmod +x .bin/compiler || { echo "❌ Failed to make compiler executable"; exit 1; }
 
     - name: Set Build Version
       run: echo "SECTORFILE_BUILD_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
@@ -32,37 +37,51 @@ jobs:
     - name: Set Strip Comments
       run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
 
-    - name: Compile
-      run: |
-        ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
+    run: |
+      set -euo pipefail
+      echo "🛠️ Compiling sector file"
+      .bin/compiler compile --config compiler-config.json $STRIP_COMMENTS --build-version "$SECTORFILE_BUILD_VERSION" || {
+        echo "❌ Compilation failed"; exit 1;
+      }
 
     - name: Get AIRAC
       run: |
         echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
         echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)/\1\2/g')" >> $GITHUB_ENV
 
-    - name: Rename Files
-      run: |
-        cd .bin
-        mv UK.sct UK_${AIRAC_DATE}.sct
-        mv UK.ese UK_${AIRAC_DATE}.ese
-        mv UK.rwy UK_${AIRAC_DATE}.rwy
+    run: |
+      echo "✏️ Renaming output files"
+      mv .bin/UK.sct ".bin/UK-${AIRAC_DATE}.sct" || { echo "❌ Failed to rename UK.sct"; exit 1; }
+      mv .bin/UK.ese ".bin/UK-${AIRAC_DATE}.ese" || { echo "❌ Failed to rename UK.ese"; exit 1; }
+      mv .bin/UK.rwy ".bin/UK-${AIRAC_DATE}.rwy" || { echo "❌ Failed to rename UK.rwy"; exit 1; }
 
     - name: Zip for Download
       run: |
+        echo "📦 Creating ZIP archive"
         cd .bin
-        zip UK_${AIRAC_DATE}.zip UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
+        zip UK_${AIRAC_DATE}.zip UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy || { echo "❌ Failed to create ZIP archive"; exit 1; }
 
     - name: Zip for Euroscope
       uses: edgarrc/action-7z@a21c73c26811287e0ab23429df86807dbb7b2e8e
       with:
         args: 7z a -t7z -m0=lzma -mx=9 UK_${AIRAC_DATE}.7z UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
+        
+        - name: Verify 7Z archive creation
+  run: |
+    echo "✅ Verifying 7Z archive"
+    if [ ! -f "UK-${AIRAC_DATE}.7z" ]; then
+      echo "❌ 7Z archive not found after compression step"
+      exit 1
+    fi
 
     - name: Clone Docs Website
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-          git clone https://x-access-token:${TOKEN}@github.com/org/atc-documentation.git atc-documentation
+    run: |
+      echo "📥 Cloning Docs Website"
+      git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git docs-repo || {
+        echo "❌ Failed to clone documentation repo"; exit 1;
+      }
 
     - name: Upload Sector Files
       run: |
