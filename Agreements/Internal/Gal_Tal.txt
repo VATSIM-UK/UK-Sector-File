@@ -1,4 +1,0 @@
-COPX:GIRVA:*:*:EGPH:*:Galloway:Talla:*:17000:|TLA
-COPX:TUNSO:*:*:EGPH:*:Galloway:Talla:*:17000:|TLA
-
-COPX:EGPF:*:TLA:*:*:Galloway:Talla:19000:*:TLA10

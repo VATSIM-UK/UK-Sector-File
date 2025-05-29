@@ -1,3 +1,0 @@
-FIR_COPX:XAMAB:*:*:*:*:London S1:LFRR Q:*:*:XAMAB
-
-FIR_COPX:SITET:*:*:*:*:London S1:LFRR Q:*:*:SITET
