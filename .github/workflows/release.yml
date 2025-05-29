@@ -37,23 +37,25 @@ jobs:
     - name: Set Strip Comments
       run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
 
-    run: |
-      set -euo pipefail
-      echo "🛠️ Compiling sector file"
-      .bin/compiler compile --config compiler-config.json $STRIP_COMMENTS --build-version "$SECTORFILE_BUILD_VERSION" || {
-        echo "❌ Compilation failed"; exit 1;
-      }
+    - name: Compile
+      run: |
+        set -euo pipefail
+        echo "🛠️ Compiling sector file"
+        .bin/compiler compile --config compiler-config.json $STRIP_COMMENTS --build-version "$SECTORFILE_BUILD_VERSION" || {
+          echo "❌ Compilation failed"; exit 1;
+        }
 
     - name: Get AIRAC
       run: |
         echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
         echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)/\1\2/g')" >> $GITHUB_ENV
 
-    run: |
-      echo "✏️ Renaming output files"
-      mv .bin/UK.sct ".bin/UK-${AIRAC_DATE}.sct" || { echo "❌ Failed to rename UK.sct"; exit 1; }
-      mv .bin/UK.ese ".bin/UK-${AIRAC_DATE}.ese" || { echo "❌ Failed to rename UK.ese"; exit 1; }
-      mv .bin/UK.rwy ".bin/UK-${AIRAC_DATE}.rwy" || { echo "❌ Failed to rename UK.rwy"; exit 1; }
+    - name: Rename Files    
+      run: |
+        echo "✏️ Renaming output files"
+        mv .bin/UK.sct ".bin/UK-${AIRAC_DATE}.sct" || { echo "❌ Failed to rename UK.sct"; exit 1; }
+        mv .bin/UK.ese ".bin/UK-${AIRAC_DATE}.ese" || { echo "❌ Failed to rename UK.ese"; exit 1; }
+        mv .bin/UK.rwy ".bin/UK-${AIRAC_DATE}.rwy" || { echo "❌ Failed to rename UK.rwy"; exit 1; }
 
     - name: Zip for Download
       run: |
@@ -66,22 +68,22 @@ jobs:
       with:
         args: 7z a -t7z -m0=lzma -mx=9 UK_${AIRAC_DATE}.7z UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
         
-        - name: Verify 7Z archive creation
-  run: |
-    echo "✅ Verifying 7Z archive"
-    if [ ! -f "UK-${AIRAC_DATE}.7z" ]; then
-      echo "❌ 7Z archive not found after compression step"
-      exit 1
-    fi
+    - name: Verify 7Z archive creation
+      run: |
+        echo "✅ Verifying 7Z archive"
+        if [ ! -f "UK-${AIRAC_DATE}.7z" ]; then
+          echo "❌ 7Z archive not found after compression step"
+          exit 1
+        fi
 
     - name: Clone Docs Website
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    run: |
-      echo "📥 Cloning Docs Website"
-      git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git docs-repo || {
-        echo "❌ Failed to clone documentation repo"; exit 1;
-      }
+      run: |
+        echo "📥 Cloning Docs Website"
+        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git docs-repo || {
+          echo "❌ Failed to clone documentation repo"; exit 1;
+        }
 
     - name: Upload Sector Files
       run: |
