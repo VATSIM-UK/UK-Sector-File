@@ -100,7 +100,10 @@ jobs:
         LINK_FILE="docs/General/Software Downloads/Controller Pack & Sector File.md"
         sed -i '/^## Sector File Downloads/c\## Sector File Downloads - AIRAC '"${AIRAC_SHORT}"'' "$LINK_FILE"
         sed -i '/^- \[:link: UK Sector File (.zip)\]/c\- [:link: UK Sector File (.zip)](Files/UK_'"${AIRAC_DATE}"'.zip) - Latest UK Sector File (.zip)' "$LINK_FILE"
-        sed -i '/&- \[:link: UK Sector File (.7z)\]/c\- [:link: UK Sector File (.7z)](Files/UK_'"${AIRAC_DATE}"'.7z) - Latest UK Sector File (.7z)' "$LINK_FILE"
+        sed -i '/^- \[:link: UK Sector File (.7z)\]/c\- [:link: UK Sector File (.7z)](Files/UK_'"${AIRAC_DATE}"'.7z) - Latest UK Sector File (.7z)' "$LINK_FILE"
+        LINK_FILE="docs/General/Software Downloads/Files/VATUK_Euroscope_files.txt"
+        sed -i '/^SECTOR_VERSION/c\SECTOR_VERSION:'"${AIRAC_DATE}"'' "$LINK_FILE"
+        sed -i '/^SECTOR_URL/c\SECTOR_URL:http://docs.vatsim.uk/General/Software%20Downloads/Files/UK_'"${AIRAC_DATE}"'.7z' "$LINK_FILE"
 
 
     - name: Commit Changes
