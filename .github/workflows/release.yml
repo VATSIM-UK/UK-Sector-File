@@ -81,7 +81,7 @@ jobs:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         echo "📥 Cloning Docs Website"
-        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git docs-repo || {
+        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git atc-documentation || {
           echo "❌ Failed to clone documentation repo"; exit 1;
         }
 
