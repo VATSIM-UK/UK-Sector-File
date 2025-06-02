@@ -71,10 +71,25 @@ jobs:
     - name: Verify 7Z archive creation
       run: |
         echo "✅ Verifying 7Z archive"
-        if [ ! -f "UK-${AIRAC_DATE}.7z" ]; then
+        if [ ! -f "UK_${AIRAC_DATE}.7z" ]; then
           echo "❌ 7Z archive not found after compression step"
           exit 1
         fi
+
+    - name: 📤 Upload ZIP and 7z
+      uses: actions/upload-artifact@v4
+      with:
+        name: UK_${AIRAC_DATE}_files
+        path: |
+          .bin/UK_${AIRAC_DATE}.zip
+          .bin/UK_${AIRAC_DATE}.7z
+
+    - name: 🚀 Upload Full ZIP to GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          .bin/UK_${AIRAC_DATE}.zip
+          .bin/UK_${AIRAC_DATE}.7z
 
     - name: Clone Docs Website
       env:
