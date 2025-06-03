@@ -5,6 +5,7 @@
 4. AIRAC (2506) - Redesignated Cardiff (EGFF) and St Athan (EGSY) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
 5. AIRAC (2506) - Redesignated Bristol (EGGD) STAR due to 5LNC name change - thanks to @aidenbok203 (Aiden Bok)
 6. AIRAC (2506) - Updated names of various enroute fixes and affected ATS routes - thanks to @MrAdder (Daniel Green)
+7. AIRAC (2506) - Updated Bristol (EGGD) main terminal and stands 34-40 - thanks to @m4ksc (Maks Ciesielski)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
