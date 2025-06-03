@@ -22,6 +22,7 @@
 21. Enhancement - Removed nearly overlapping lines in the Strangford CTA area - thanks to @Liaely (Lily Unitt)
 22. AIRAC (2506) - Added waypoints CANZI, EVCOR, and OVZOG, and associated route and COPX changes - thanks to @Liaely (Lily Unitt)
 23. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
+24. AIRAC (2506) - Updated Bristol (EGGD) main terminal and stands 34-40 - thanks to @m4ksc (Maks Ciesielski)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
