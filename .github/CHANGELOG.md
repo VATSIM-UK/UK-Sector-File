@@ -20,6 +20,10 @@
 19. AIRAC (2506) - Defined LEDGO RFC Area - thanks to @matthew4301 (Matthew Stothard)
 20. AIRAC (2506) - Updated Strangford CTA 3 airspace definition - thanks to @Liaely (Lily Unitt)
 21. Enhancement - Removed nearly overlapping lines in the Strangford CTA area - thanks to @Liaely (Lily Unitt)
+22. AIRAC (2506) - Added waypoints CANZI, EVCOR, and OVZOG, and associated route and COPX changes - thanks to @Liaely (Lily Unitt)
+23. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
+24. AIRAC (2506) - Updated Bristol (EGGD) main terminal and stands 34-40 - thanks to @m4ksc (Maks Ciesielski)
+25. Enhancement - Updated Gatwick (EGKK) Ground Network - thanks to @hinshee (Will Hinshaw)
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
