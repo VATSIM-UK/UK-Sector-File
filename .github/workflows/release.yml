@@ -39,11 +39,7 @@ jobs:
 
     - name: Compile
       run: |
-        set -euo pipefail
-        echo "🛠️ Compiling sector file"
         ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
-          echo "❌ Compilation failed"; exit 1;
-        }
 
     - name: Get AIRAC
       run: |
