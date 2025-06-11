@@ -62,7 +62,7 @@ jobs:
     - name: Zip for Euroscope
       uses: edgarrc/action-7z@a21c73c26811287e0ab23429df86807dbb7b2e8e
       with:
-        args: 7z a -t7z -m0=lzma -mx=9 UK_${{ env.AIRAC_DATE }}.7z UK_${{ env.AIRAC_DATE }}.sct UK_${{ env.AIRAC_DATE }}.ese UK_${{ env.AIRAC_DATE }}.rwy
+        args: 7z a -t7z -m0=lzma -mx=9 .bin/UK_${{ env.AIRAC_DATE }}.7z .bin/UK_${{ env.AIRAC_DATE }}.sct .bin/UK_${{ env.AIRAC_DATE }}.ese .bin/UK_${{ env.AIRAC_DATE }}.rwy
 
     - name: 📤 Upload ZIP and 7z
       uses: actions/upload-artifact@v4
