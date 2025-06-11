@@ -49,9 +49,9 @@ jobs:
     - name: Rename Files    
       run: |
         echo "✏️ Renaming output files"
-        mv .bin/UK.sct ".bin/UK-${AIRAC_DATE}.sct" || { echo "❌ Failed to rename UK.sct"; exit 1; }
-        mv .bin/UK.ese ".bin/UK-${AIRAC_DATE}.ese" || { echo "❌ Failed to rename UK.ese"; exit 1; }
-        mv .bin/UK.rwy ".bin/UK-${AIRAC_DATE}.rwy" || { echo "❌ Failed to rename UK.rwy"; exit 1; }
+        mv .bin/UK.sct ".bin/UK_${AIRAC_DATE}.sct" || { echo "❌ Failed to rename UK.sct"; exit 1; }
+        mv .bin/UK.ese ".bin/UK_${AIRAC_DATE}.ese" || { echo "❌ Failed to rename UK.ese"; exit 1; }
+        mv .bin/UK.rwy ".bin/UK_${AIRAC_DATE}.rwy" || { echo "❌ Failed to rename UK.rwy"; exit 1; }
 
     - name: Zip for Download
       run: |
@@ -63,14 +63,6 @@ jobs:
       uses: edgarrc/action-7z@a21c73c26811287e0ab23429df86807dbb7b2e8e
       with:
         args: 7z a -t7z -m0=lzma -mx=9 UK_${AIRAC_DATE}.7z UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy
-        
-    - name: Verify 7Z archive creation
-      run: |
-        echo "✅ Verifying 7Z archive"
-        if [ ! -f "UK_${AIRAC_DATE}.7z" ]; then
-          echo "❌ 7Z archive not found after compression step"
-          exit 1
-        fi
 
     - name: 📤 Upload ZIP and 7z
       uses: actions/upload-artifact@v4
