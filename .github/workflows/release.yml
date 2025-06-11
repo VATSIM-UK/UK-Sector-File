@@ -4,6 +4,9 @@ on:
   release:
     types: [published]
 
+permissions:
+  contents: write
+
 jobs:
   release:
     name: Upload Sector File
@@ -67,21 +70,19 @@ jobs:
     - name: 📤 Upload ZIP and 7z
       uses: actions/upload-artifact@v4
       with:
-        name: UK_${AIRAC_DATE}_files
+        name: UK_${{ env.AIRAC_DATE }}_files
         path: |
-          .bin/UK_${AIRAC_DATE}.zip
-          .bin/UK_${AIRAC_DATE}.7z
+          .bin/UK_${{ env.AIRAC_DATE }}.zip
+          .bin/UK_${{ env.AIRAC_DATE }}.7z
 
     - name: 🚀 Upload Full ZIP to GitHub Release
       uses: softprops/action-gh-release@v1
       with:
         files: |
-          .bin/UK_${AIRAC_DATE}.zip
-          .bin/UK_${AIRAC_DATE}.7z
+          .bin/UK_${{ env.AIRAC_DATE }}.zip
+          .bin/UK_${{ env.AIRAC_DATE }}.7z
 
     - name: Clone Docs Website
-      env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         echo "📥 Cloning Docs Website"
         git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git atc-documentation || {
