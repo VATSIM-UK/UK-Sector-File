@@ -24,7 +24,8 @@
 23. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
 24. AIRAC (2506) - Updated Bristol (EGGD) main terminal and stands 34-40 - thanks to @m4ksc (Maks Ciesielski)
 25. Enhancement - Updated Gatwick (EGKK) Ground Network - thanks to @hinshee (Will Hinshaw)
-26. Procedure Change (2506) - Revised LAC Lakes, ScAC Rathlin, MPC West (IOM) and Antrim sectorisation
+26. Enhancement - Added Langford Lodge Airfield (EGAL) - thanks to @ricky-gag38 (Riccardo Gagliardi)
+27. Procedure Change (2506) - Revised LAC Lakes, ScAC Rathlin, MPC West (IOM) and Antrim sectorisation
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
