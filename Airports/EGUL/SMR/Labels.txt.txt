@@ -1,6 +1,3 @@
-"Fire Station" N052.25.01.149 E000.33.43.031 smrStandHold ; Fire station (north)
-"Fire Station" N052.24.00.921 E000.32.53.550 smrStandHold ; Fire station (south)
-
 ; Aprons
 "Hot Cargo Pad" N052.24.48.946 E000.33.55.559 smrStandHold
 "H" N052.24.51.655 E000.33.05.723 smrStandHold
