@@ -1,7 +1,7 @@
 ; Aprons
 "Hot Cargo Pad" N052.24.48.946 E000.33.55.559 smrStandHold
 "H" N052.24.51.655 E000.33.05.723 smrStandHold
-"V" N052.24.24.812 E000.33.44.312 smrStandHold
+"V" N052.24.24.036 E000.33.45.472 smrStandHold
 "40 Bubble" N052.24.27.443 E000.34.34.939 smrStandHold
 
 ; A Apron
