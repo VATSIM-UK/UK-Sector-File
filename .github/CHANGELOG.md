@@ -1,3 +1,6 @@
+# Changes from release 2025/06 to 2025/07
+1. AIRAC (2507) - Added Gatwick (EGKK) 178/180 L/R stands - thanks to @olivercesarczyk (Oliver Cesarczyk)
+
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
 2. AIRAC (2506) - Changed Glasgow (EGPF) frequencies - thanks to @aidenbok203 (Aiden Bok)
