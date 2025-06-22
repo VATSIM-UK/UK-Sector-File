@@ -1,6 +1,7 @@
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
 2. Enhancement - Created Mildenhall (EGUN) SMR - thanks to @clc0609 (Coby Chapman)
+3. AIRAC (2507) - Removed danger area EGD206 - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
