@@ -18,8 +18,8 @@ jobs:
 
     - name: Setup Git
       run: |
-          git config --local user.email "privileged-access@vatsim.uk"
-          git config --local user.name "VATSIM UK"
+          git config --global user.email "privileged-access@vatsim.uk"
+          git config --global user.name "VATSIM UK"
 
     - name: Create Output dir
       run: |
@@ -90,7 +90,7 @@ jobs:
 
     - name: Clone Docs Website
       run: |
-        echo "Staring SSH agent"
+        echo "Starting SSH agent"
         eval "$(ssh-agent -s)"
         ssh-add - <<< "${{ secrets.DOCS_DEPLOY_KEY }}"
         mkdir -p ~/.ssh
