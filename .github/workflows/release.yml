@@ -54,7 +54,7 @@ jobs:
     - name: Get AIRAC
       run: |
         echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
-        echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)/\1\2/g')" >> $GITHUB_ENV
+        echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)[a-zA-Z]*/\1\2/g')" >> $GITHUB_ENV
 
     - name: Rename Files    
       run: |
