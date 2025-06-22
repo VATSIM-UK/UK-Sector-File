@@ -100,6 +100,14 @@ jobs:
           echo "❌ Failed to clone documentation repo"; exit 1;
         }
 
+    - name: SSH Debug
+      run: |
+        echo "Loaded SSH Keys:"
+        ssh-add -l || echo "No SSH keys loaded"
+
+        echo "Testing SSH connection to GitHub"
+        ssh -T git@github.com || echo "SSH auth to GitHub failed!"
+
     - name: Upload Sector Files
       run: |
         cd atc-documentation
