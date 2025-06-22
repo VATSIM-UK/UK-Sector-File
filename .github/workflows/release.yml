@@ -21,6 +21,13 @@ jobs:
           git config --local user.email "privileged-access@vatsim.uk"
           git config --local user.name "VATSIM UK"
 
+    - name: Start SSH agent and add key
+      run: |
+        eval "$(ssh-agent -s)"
+        ssh-add - <<< "${{ secrets.DOCS_DEPLOY_KEY }}"
+        mkdir -p ~/.ssh
+        ssh-keyscan github.com >> ~./ssh/known_hosts
+
     - name: Create Output dir
       run: |
         echo "📂 Creating .bin directory"
@@ -47,7 +54,7 @@ jobs:
     - name: Get AIRAC
       run: |
         echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
-        echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)/\1\2/g')" >> $GITHUB_ENV
+        echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)[a-zA-Z]*/\1\2/g')" >> $GITHUB_ENV
 
     - name: Rename Files    
       run: |
@@ -91,7 +98,7 @@ jobs:
     - name: Clone Docs Website
       run: |
         echo "📥 Cloning Docs Website"
-        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/VATSIM-UK/atc-documentation.git atc-documentation || {
+        git clone git@github.com:VATSIM-UK/atc-documentation.git atc-documentation || {
           echo "❌ Failed to clone documentation repo"; exit 1;
         }
 
