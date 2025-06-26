@@ -2,7 +2,7 @@
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
 2. Enhancement - Created Mildenhall (EGUN) SMR - thanks to @clc0609 (Coby Chapman)
 3. AIRAC (2507) - Removed danger area EGD206 - thanks to @clc0609 (Coby Chapman)
-4. AIRAC (2508) - Blackpool (EGNH) Added Heli Stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
+4. AIRAC (2508) - Added Blackpool (EGNH) Heli Stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
 
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
