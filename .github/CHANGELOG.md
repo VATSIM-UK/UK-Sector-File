@@ -1,5 +1,5 @@
 # Changes from release 2025/07 to 2025/08
-1AIRAC (2508) - Added Blackpool (EGNH) Heli Stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
+1. AIRAC (2508) - Added Blackpool (EGNH) Heli Stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
 
 
 # Changes from release 2025/06 to 2025/07
