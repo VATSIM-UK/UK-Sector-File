@@ -1,0 +1,2 @@
+;Holding Points
+"A" N051.39.22.934 E000.09.32.753 smrStandHold
