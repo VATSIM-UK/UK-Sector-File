@@ -1,6 +1,4 @@
-; - Radar Sites
-
-; - NERL Combined Sites
+; NERL Combined Sites
 RADAR2:Tiree:N056.27.19.620:W006.55.23.220:215:351:3100::::420:351:3100
 RADAR2:Kincardine:N056.04.18.060:W003.43.36.480:80:327:3100::::::
 RADAR2:Orchardton (Cumbernauld):N055.56.21.430:W004.03.26.720:80:123:3100::::::			; - Copy of Kincardine Fill-In radar, as no individual technical data could be found.
@@ -27,3 +25,5 @@ RADAR2:Jersey:N049.12.14.070:W002.12.08.750:60:305:3100:72:315:3100:117:315:3100
 RADAR2:Sandwick:N058.12.37.140:W006.21.28.500::::177:123:3100:300:123:3100			; - Guessed Range. PSR?
 RADAR2:Fitful Head:N059.54.20.700:W001.22.57.060:::::::300:925:3100				; - Guessed Range. Mode S?
 RADAR2:Belfast:N054.39.21.540:W006.12.21.840::::177:265:3100:300:265:3100			; - Guessed Range. PSR?
+
+; Airport Sites
