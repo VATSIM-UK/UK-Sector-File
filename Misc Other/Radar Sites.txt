@@ -26,4 +26,6 @@ RADAR2:Sandwick:N058.12.37.140:W006.21.28.500::::177:123:3100:300:123:3100			; -
 RADAR2:Fitful Head:N059.54.20.700:W001.22.57.060:::::::300:925:3100				; - Guessed Range. Mode S?
 RADAR2:Belfast:N054.39.21.540:W006.12.21.840::::177:265:3100:300:265:3100			; - Guessed Range. PSR?
 
+; RADAR2:<Name>:<Latitude>:<Longitude>:<P range>:<P altitude>:<P cone slope>:<S range>:<S altitude>:<S cone slope>:<C range>:<C altitude>:<C cone slope>
 ; Airport Sites
+RADAR2:Belfast City:N054.36.56.016:W005.52.55.000:60:30:3100::::120:30:3100
