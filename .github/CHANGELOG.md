@@ -1,5 +1,12 @@
 # Changes from release 2025/06 to 2025/07
-1. Enhancement - Added Stapleford (EGSG) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
+2. Enhancement - Created Mildenhall (EGUN) SMR - thanks to @clc0609 (Coby Chapman)
+3. AIRAC (2507) - Removed danger area EGD206 - thanks to @clc0609 (Coby Chapman)
+4. Bug - Fixed Yeovilton (EGDY) Runway Designator - thanks to @lucutz1234
+5. Bug - Revised Berry Head CTA 6 OCAS Region - thanks to @clc0609 (Coby Chapman)
+6. AIRAC (2507) - Re-instated Bristol (EGGD) stand 1 - thanks to @clc0609 (Coby Chapman)
+7. Bug - Corrected Sumburgh Radar Sector Boundary - thanks to @clc0609 (Coby Chapman)
+8. Enhancement - Added Stapleford (EGSG) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
@@ -27,6 +34,8 @@
 23. Bug - Corrected COP name for Cork (EICK) departures via LEDGO - thanks to @Liaely (Lily Unitt)
 24. AIRAC (2506) - Updated Bristol (EGGD) main terminal and stands 34-40 - thanks to @m4ksc (Maks Ciesielski)
 25. Enhancement - Updated Gatwick (EGKK) Ground Network - thanks to @hinshee (Will Hinshaw)
+26. Enhancement - Added Langford Lodge Airfield (EGAL) - thanks to @ricky-gag38 (Riccardo Gagliardi)
+27. Procedure Change (2506) - Revised LAC Lakes, ScAC Rathlin, MPC West (IOM) and Antrim sectorisation
 
 # Changes from release 2025/04 to 2025/05
 1. AIRAC (2505) - Redrew Tingwall (EGET) Apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
