@@ -9,6 +9,7 @@
 8. Enhancement - Created SMR for Lakenheath (EGUL) - thanks to @Liaely (Lily Unitt)
 9. AIRAC (2507) - Added Gatwick (EGKK) 178/180 L/R stands - thanks to @olivercesarczyk (Oliver Cesarczyk)
 10. Enhancement - Added Stapleford (EGSG) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+11. Enhancement - Added Bristol (EGGD) W5-W8 contingency stands to the SMR - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
