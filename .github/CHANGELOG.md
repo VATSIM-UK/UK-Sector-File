@@ -7,6 +7,7 @@
 6. AIRAC (2507) - Re-instated Bristol (EGGD) stand 1 - thanks to @clc0609 (Coby Chapman)
 7. Bug - Corrected Sumburgh Radar Sector Boundary - thanks to @clc0609 (Coby Chapman)
 8. Enhancement - Created SMR for Lakenheath (EGUL) - thanks to @Liaely (Lily Unitt)
+9. AIRAC (2507) - Added Gatwick (EGKK) 178/180 L/R stands - thanks to @olivercesarczyk (Oliver Cesarczyk)
 
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
