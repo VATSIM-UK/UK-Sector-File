@@ -1,3 +1,6 @@
+# Changes from release 2025/08 to 2025/09
+1. AIRAC (2509) - Removed Thruxton (EGHO) Heli South - thanks to @clc0609 (Coby Chapman)
+
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
 2. Enhancement - Created Mildenhall (EGUN) SMR - thanks to @clc0609 (Coby Chapman)
