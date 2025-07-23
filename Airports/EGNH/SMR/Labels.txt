@@ -17,6 +17,7 @@
 "Visitor" N053.46.35.562 W003.02.32.881 smrStandHold
 "H1" N053.46.35.730 W003.02.34.410 smrStandHold
 "H2" N053.46.35.180 W003.02.34.280 smrStandHold
+"H3" N053.46.42.088 W003.02.13.496 smrStandHold
 
 ;Helicopter Parking NPAS
 "NPAS" N053.46.34.568 W003.02.32.931 smrStandHold
