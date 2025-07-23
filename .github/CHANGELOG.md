@@ -1,6 +1,7 @@
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
+3. AIRAC (2508) - Added Blackpool (EGNH) Heli stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
