@@ -1,5 +1,19 @@
 # Changes from release 2025/07 to 2025/08
-1. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
+1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
+
+# Changes from release 2025/06 to 2025/07
+1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
+2. Enhancement - Created Mildenhall (EGUN) SMR - thanks to @clc0609 (Coby Chapman)
+3. AIRAC (2507) - Removed danger area EGD206 - thanks to @clc0609 (Coby Chapman)
+4. Bug - Fixed Yeovilton (EGDY) Runway Designator - thanks to @lucutz1234
+5. Bug - Revised Berry Head CTA 6 OCAS Region - thanks to @clc0609 (Coby Chapman)
+6. AIRAC (2507) - Re-instated Bristol (EGGD) stand 1 - thanks to @clc0609 (Coby Chapman)
+7. Bug - Corrected Sumburgh Radar Sector Boundary - thanks to @clc0609 (Coby Chapman)
+8. Enhancement - Created SMR for Lakenheath (EGUL) - thanks to @Liaely (Lily Unitt)
+9. AIRAC (2507) - Added Gatwick (EGKK) 178/180 L/R stands - thanks to @olivercesarczyk (Oliver Cesarczyk)
+10. Enhancement - Added Stapleford (EGSG) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+11. Enhancement - Added Bristol (EGGD) W5-W8 contingency stands to the SMR - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/05 to 2025/06
 1. AIRAC (2506) - Removed EGPE_A_APP - thanks to @aidenbok203 (Aiden Bok)
