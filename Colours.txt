@@ -31,7 +31,7 @@
 #define smrApron 5197647
 #define smrApron2 4613190
 #define smrArrester 6914198
-#define smrBBbuilding 12632256
+#define smrBBbuilding 8750469
 #define smrBBdisused 5393408
 #define smrBBgrass 657930
 #define smrBBgrey 12299677
