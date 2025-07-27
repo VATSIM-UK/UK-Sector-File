@@ -1,3 +1,5 @@
+x. Enhancement - Updated Birmingham (EGBB) Terminal WIP areas - thanks to @BenWalker01 (Ben Walker)
+
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
 2. Enhancement - Created Mildenhall (EGUN) SMR - thanks to @clc0609 (Coby Chapman)
