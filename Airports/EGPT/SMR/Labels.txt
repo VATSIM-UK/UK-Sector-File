@@ -1,0 +1,10 @@
+;Holding Points
+"A" N056.26.16.071 W003.22.34.637 smrStandHold
+"B" N056.26.13.865 W003.22.25.346 smrStandHold
+"C" N056.26.14.369 W003.22.13.566 smrStandHold
+
+;Building Labels
+"ACS Aviation" N056.26.08.599 W003.22.21.841 smrStandHold
+"Air Service Training" N056.26.09.790 W003.22.07.558 smrStandHold
+"Scotish Aero Club" N056.26.09.275 W003.22.14.481 smrStandHold
+"SCAA" N056.26.08.654 W003.22.25.360 smrStandHold
