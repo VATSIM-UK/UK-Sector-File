@@ -1,5 +1,5 @@
 # Changes from release 2025/08 to 2025/09
-x. AIRAC (2509) - Remove Barton (EGCB) runway designators - thanks to @AdriTheDev (Callum Hicks)
+x. AIRAC (2509) - Removed Barton (EGCB) runway designators - thanks to @AdriTheDev (Callum Hicks)
 
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
