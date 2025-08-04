@@ -6,5 +6,5 @@
 ;Building Labels
 "ACS Aviation" N056.26.08.599 W003.22.21.841 smrStandHold
 "Air Service Training" N056.26.09.790 W003.22.07.558 smrStandHold
-"Scotish Aero Club" N056.26.09.275 W003.22.14.481 smrStandHold
+"Scottish Aero Club" N056.26.09.275 W003.22.14.481 smrStandHold
 "SCAA" N056.26.08.654 W003.22.25.360 smrStandHold
