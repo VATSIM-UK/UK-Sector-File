@@ -3,6 +3,7 @@
 2. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
 3. AIRAC (2508) - Added Blackpool (EGNH) Heli stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
 4. Bug - Fixed Yeovilton (EGDY) ARP Location - thanks to @ricky-gag38 (Riccardo Gagliardi)
+X. Enhancement - Added Worthing S19 -> LMS S25 standing agreement for Midlands inbounds (event only split)
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
