@@ -6,7 +6,8 @@
 5. Enhancement - Added HMRI endpoints - thanks to @Liaely (Lily Unitt)
 6. AIRAC (2508) - Added Teesside (EGNV) Apron 4 - thanks to @clc0609 (Coby Chapman)
 7. Enhancement - Updated Birmingham (EGBB) Terminal WIP areas - thanks to @BenWalker01 (Ben Walker)
-8. Enhancement - Added Western Radar definition - thanks to @Liaely (Lily Unitt)
+8. Enhancement - Updated Gatwick (EGKK) SMR ER RET alignment for accuracy - thanks to @olivercesarczyk (Oliver Cesarczyk)
+9. Enhancement - Added Western Radar definition - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
