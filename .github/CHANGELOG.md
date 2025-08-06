@@ -11,6 +11,7 @@
 10. Enhancement - Created Perth (EGPT) SMR - thanks to @lyraongithub
 11. Enhancement - Added Worthing S19 -> LMS S25 standing agreement for Midlands inbounds (event only split)
 12. Enhancement - Improved COPX/XFL display for EHAA FIR inbounds from S10
+13. Enhancement - Improved agreement display to DTY for MTMA outbounds given DCTs into South airspace
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
