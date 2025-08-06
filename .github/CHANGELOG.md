@@ -1,5 +1,4 @@
-# Changes from release 2025/07 to 2025/08
-1. Bug - Added missing aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
+x. Bug - Added missing aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
