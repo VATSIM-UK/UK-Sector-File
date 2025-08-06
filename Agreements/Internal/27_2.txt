@@ -5,3 +5,7 @@ COPX:EGNR:*:DTY:*:*:London S27:London S2:31000:*:^DTY
 COPX:EGCC:*:FINMA:*:*:London S27:London S2:31000:*:^FINMA
 COPX:EGGP:*:FINMA:*:*:London S27:London S2:31000:*:^FINMA
 COPX:EGNR:*:FINMA:*:*:London S27:London S2:31000:*:^FINMA
+
+COPX:EGCC:*:*:BIG:*:London S27:London S2:31000:*:^BIG
+COPX:EGGP:*:*:BIG:*:London S27:London S2:31000:*:^BIG
+COPX:EGNR:*:*:BIG:*:London S27:London S2:31000:*:^BIG
