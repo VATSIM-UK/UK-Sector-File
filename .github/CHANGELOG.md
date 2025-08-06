@@ -9,6 +9,7 @@
 8. Enhancement - Updated Gatwick (EGKK) SMR ER RET alignment for accuracy - thanks to @olivercesarczyk (Oliver Cesarczyk)
 9. Enhancement - Added Western Radar definition - thanks to @Liaely (Lily Unitt)
 10. Enhancement - Created Perth (EGPT) SMR - thanks to @lyraongithub
+11. Enhancement - Added Worthing S19 -> LMS S25 standing agreement for Midlands inbounds (event only split)
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
