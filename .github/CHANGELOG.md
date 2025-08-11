@@ -1,3 +1,6 @@
+# Changes from release 20XX/XX to 20XX/XX
+1. Procedure Change (XXXX) - Implement Independent Worthing possition - thanks to @kye-taylor (Kye Taylor)
+
 # Changes from release 2023/12 to 2023/13
 1. Bug - Corrected Marham (EGYM) ATZ - thanks to @robbo599 (Lee Roberts)
 2. Enhancement - Added Hereford (EGVH) airport - thanks to @rishab-alt
