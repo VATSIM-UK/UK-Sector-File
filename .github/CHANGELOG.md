@@ -1,3 +1,5 @@
+x. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
+
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
