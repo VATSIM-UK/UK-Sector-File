@@ -1,3 +1,6 @@
+# Changes from release 2025/09 to 2025/10
+x. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point - thanks to @clc0609 (Coby Chapman)
+
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
