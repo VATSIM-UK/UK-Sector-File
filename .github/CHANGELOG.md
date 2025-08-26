@@ -1,5 +1,11 @@
-# Changes from release 2505/08 to 2025/09
-x. AIRAC (2509) - Added Shawbury (EGOS) ATIS - thanks to @clc0609 (Coby Chapman)
+# Changes from release 2025/08 to 2025/09
+1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2509) - Renamed OCTIZ to ORZEB and redesignated Cardiff (EGFF) and St Athan (EGSY) STARs - thanks to @ricky-gag38 (Riccardo Gagliardi)
+3. AIRAC (2509) - Removed Thruxton (EGHO) Heli South - thanks to @clc0609 (Coby Chapman)
+4. AIRAC (2509) - Updated Bournemouth (EGHH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+5. AIRAC (2509) - Added Oxford (EGTK) disused area - thanks to @Liaely (Lily Unitt)
+6. AIRAC (2509) - Removed Barton (EGCB) runway designators - thanks to @AdriTheDev (Callum Hicks)
+7. AIRAC (2509) - Added Shawbury (EGOS) ATIS - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
