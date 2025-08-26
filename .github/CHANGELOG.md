@@ -1,11 +1,24 @@
 # Changes from release 2025/08 to 2025/09
-1. AIRAC (2509) - Added Oxford (EGTK) disused area - thanks to @Liaely (Lily Unitt)
+1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2509) - Renamed OCTIZ to ORZEB and redesignated Cardiff (EGFF) and St Athan (EGSY) STARs - thanks to @ricky-gag38 (Riccardo Gagliardi)
+3. AIRAC (2509) - Removed Thruxton (EGHO) Heli South - thanks to @clc0609 (Coby Chapman)
+4. AIRAC (2509) - Updated Bournemouth (EGHH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+5. AIRAC (2509) - Added Oxford (EGTK) disused area - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2508) - Updated East Midlands (EGNX) Stands 40-46 - thanks to @clc0609 (Coby Chapman)
 3. AIRAC (2508) - Added Blackpool (EGNH) Heli stand Visitor 3 - thanks to @craighowarth62 (Craig Howarth)
 4. Bug - Fixed Yeovilton (EGDY) ARP Location - thanks to @ricky-gag38 (Riccardo Gagliardi)
+5. Enhancement - Added HMRI endpoints - thanks to @Liaely (Lily Unitt)
+6. AIRAC (2508) - Added Teesside (EGNV) Apron 4 - thanks to @clc0609 (Coby Chapman)
+7. Enhancement - Updated Birmingham (EGBB) Terminal WIP areas - thanks to @BenWalker01 (Ben Walker)
+8. Enhancement - Updated Gatwick (EGKK) SMR ER RET alignment for accuracy - thanks to @olivercesarczyk (Oliver Cesarczyk)
+9. Enhancement - Added Western Radar definition - thanks to @Liaely (Lily Unitt)
+10. Enhancement - Created Perth (EGPT) SMR - thanks to @lyraongithub
+11. Enhancement - Added Worthing S19 -> LMS S25 standing agreement for Midlands inbounds (event only split)
+12. Enhancement - Improved COPX/XFL display for EHAA FIR inbounds from S10
+13. Enhancement - Improved agreement display to DTY for MTMA outbounds given DCTs into South airspace
 
 # Changes from release 2025/06 to 2025/07
 1. AIRAC (2507) - Updated Newcastle (EGNT) SMR Runway Markings - thanks to @clc0609 (Coby Chapman)
