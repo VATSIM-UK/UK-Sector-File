@@ -1,0 +1,29 @@
+name: Check Changelog has been updated
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  changelog-check:
+    if: ${{ ! contains(github.event.pull_request.labels.*.name, 'no-changelog') }} # Check for no-changelog label
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Fetch all history for all branches
+        
+    - name: Fetch all branches
+      run: git fetch --all
+      
+    - name: Check if changelog has been updated
+      run: |
+        if ! git diff --name-only origin/main...HEAD | grep -q '^\.github/CHANGELOG\.md$'; then
+          echo "Changelog not updated. Please update .github/CHANGELOG.md" >&2
+          exit 1
+        fi
+    - name: Notify success
+      if: success()
+      run: echo "Changelog has been updated."
+      

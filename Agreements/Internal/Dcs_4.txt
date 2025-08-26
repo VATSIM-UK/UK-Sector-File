@@ -1,4 +1,0 @@
-COPX:EGPH:*:LAKEY:*:*:Deancross:London S4:35000:*:LAKEY
-COPX:EGPF:*:LAKEY:*:*:Deancross:London S4:35000:*:LAKEY
-COPX:EGPH:*:SUBUK:*:*:Deancross:London S4:35000:*:SUBUK
-COPX:EGPF:*:SUBUK:*:*:Deancross:London S4:35000:*:SUBUK

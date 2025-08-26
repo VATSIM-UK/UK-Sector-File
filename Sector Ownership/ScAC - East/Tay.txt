@@ -1,0 +1,40 @@
+SECTOR:Tay:0:0
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+
+SECTOR:Tay (DB-255):0:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:WCoast-Mon_Tay:Mor_Tay:Tyne_Montrose:Hum_Mon:SELN03:SELN02:Mon Area A Inner:Mon Area C Inner:Mon Area D Inner:Mon EDC:Mon_DCS-N Area E02b Inner:Tal_TayE02a:Mon_Gal:Gal_TayE01
+
+SECTOR:Tay Area A1 (DB-255):0:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:Mon Area A Inner:Mon Area B Inner:Mon_S29:SELN01
+
+SECTOR:Tay Area C (225-255):22500:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:Mon_Tay B-C:Mon Area C Inner:Mon_Tay C-D:Mon Area C Outer:DCS-S 285_Mon Area C
+
+SECTOR:Tay Area D (165-255):16500:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:Mon_Tay C-D:Mon Area D Inner:Mon Area D Outer
+
+SECTOR:Tay Area E02b (DB-255):0:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:Mon_DCS-S Area E02 Inner:Mon_DCS-N Area E02b Inner:Tal_TayE02b:Tal_TayE02c:TayE02b
+
+SECTOR:Tay BINTI Triangle (225-255):22500:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:DCS-S 285_Mon Area C:DCS-S_TILNI Corridor Tri:DCS-S_Mon Tri B

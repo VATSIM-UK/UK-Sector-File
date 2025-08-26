@@ -1,7 +1,0 @@
-FIR_COPX:*:*:ANNET:*:*:London S6:LFRR V:*:*:ANNET
-
-FIR_COPX:*:*:SALCO:*:*:London S6:LFRR V:*:*:SALCO
-
-FIR_COPX:*:*:MANIG:*:*:London S6:LFRR V:*:*:MANIG
-
-FIR_COPX:*:*:SKESO:*:*:London S6:LFRR V:*:*:SKESO

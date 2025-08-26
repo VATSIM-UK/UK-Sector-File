@@ -1,0 +1,8 @@
+;Heli Parking
+"1" N055.40.59.908 W006.15.01.124 smrStandHold
+"2" N055.40.58.148 W006.15.02.278 smrStandHold
+
+;Hold Points
+"A1" N055.41.00.055 W006.15.19.901 smrStandHold
+"B1" N055.41.02.598 W006.14.57.425 smrStandHold
+"B3" N055.41.04.850 W006.14.57.822 smrStandHold

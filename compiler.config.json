@@ -77,7 +77,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true,
                     "exclude_directory": ["EGGD", "EGTE", "EGFF"]
@@ -85,7 +85,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true,
                     "exclude_directory": ["EGFF", "EGTE"]
@@ -93,7 +93,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true,
                     "exclude_directory": ["EGFF"]
@@ -101,7 +101,7 @@
                   {
                     "type": "files",
                     "files": [
-                        "Ownership.txt"
+                        "Sector_Ownership.txt"
                     ],
                     "ignore_missing": true
                   }
@@ -130,7 +130,7 @@
                 "sectors": {
                     "type": "files",
                     "files": [
-                        "Sector.txt"
+                        "Sector_Boundaries.txt"
                     ],
                     "ignore_missing": true
                 },
@@ -223,64 +223,67 @@
         "enroute": {
             "sector_lines": {
                 "type": "folder",
-                "folder": "Sectors/"
+                "folder": "Sector Boundaries/"
             },
             "ownership": [
                 {
                     "type": "folder",
-                    "folder": "Ownership/TC - LTC"
+                    "folder": "Sector Ownership/TC - LTC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/TC - MPC"
+                    "folder": "Sector Ownership/TC - MPC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/TC - STC"
+                    "folder": "Sector Ownership/TC - STC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - Central"
+                    "folder": "Sector Ownership/AC - Central"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - North"
+                    "folder": "Sector Ownership/AC - North"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - South"
+                    "folder": "Sector Ownership/AC - South"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/AC - West"
+                    "folder": "Sector Ownership/AC - West"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/ScAC - East"
+                    "folder": "Sector Ownership/ScAC - East"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/ScAC - West"
+                    "folder": "Sector Ownership/ScAC - West"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Swanwick Mil"
+                    "folder": "Sector Ownership/Swanwick Mil"
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Alternate",
+                    "folder": "Sector Ownership/MARS"
+                },
+                {
+                    "type": "folder",
+                    "folder": "Sector Ownership/Alternate",
                     "recursive": true
                 },
                 {
                     "type": "folder",
-                    "folder": "Ownership/Non-UK"
+                    "folder": "Sector Ownership/Non-UK"
                 }
             ],
             "positions": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Area Positions",
                 "recursive": true,
-                "pattern": "Positions_"
             }
         },
         "misc": {
@@ -309,29 +312,33 @@
                     "folder": "Agreements/External",
                     "recursive": true,
                     "exclude": [
-                        "1_RR-Q.txt",
+                        "1_LFRR.txt",
                         "4_SNE.txt",
-                        "6_RR-V.txt",
+                        "6_LFRR.txt",
                         "7_SNE.txt",
                         "8_SNB.txt",
-                        "12_AA.txt"
+                        "12_AA.txt",
+                        "LFEE_16.txt",
+                        "LFEE_17.txt"
                     ]
                 },
                 {
                     "type": "files",
                     "files": [
-                        "Agreements/External/1_RR-Q.txt",
+                        "Agreements/External/1_LFRR.txt",
                         "Agreements/External/4_SNE.txt",
-                        "Agreements/External/6_RR-V.txt",
+                        "Agreements/External/6_LFRR.txt",
                         "Agreements/External/7_SNE.txt",
                         "Agreements/External/8_SNB.txt",
-                        "Agreements/External/12_AA.txt"
+                        "Agreements/External/12_AA.txt",
+                        "Agreements/External/LFEE_16.txt",
+                        "Agreements/External/LFEE_17.txt"
                     ]
                 }
             ],
             "freetext": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Other",
                 "recursive": true,
                 "pattern": "Freetext_"
             },
@@ -356,7 +363,7 @@
             "pre_positions": {
                 "type": "files",
                 "files": [
-                    "Misc/Pre-Positions.txt"
+                    "Misc Other/Pre-Positions.txt"
                 ]
             },
             "fixes": [
@@ -386,13 +393,13 @@
             "radars": {
                 "type": "files",
                 "files": [
-                    "Misc/Radar Sites.txt"
+                    "Misc Other/Radar Sites.txt"
                 ]
             },
             "radar_holes": {
                 "type": "files",
                 "files": [
-                    "Misc/Radar Holes.txt"
+                    "Misc Other/Radar Holes.txt"
                 ]
             },
             "artcc_low": {
@@ -430,12 +437,12 @@
             "sid_airspace": [
                 {
                     "type": "folder",
-                    "folder": "Sectors/Static",
+                    "folder": "Sector Boundaries/Static",
                     "recursive": true
                 },
                 {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Other",
                 "recursive": true,
                 "pattern": "SID_"
                 }
@@ -443,30 +450,27 @@
             "star_airspace": [
                 {
                     "type": "folder",
-                    "folder": "Sectors/Static",
+                    "folder": "Sector Boundaries/Static",
                     "recursive": true
                 },
                 {
                     "type": "folder",
-                    "folder": "Misc",
+                    "folder": "Radar Maps (Stars)",
                     "recursive": true,
-                    "pattern": "STAR_"
                 }
             ],
             "geo": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Geo",
                 "recursive": true,
-                "pattern": "Geo_",
                 "exclude": [
-                    "Geo_Coastline High Detail.txt"
+                    "Coastline High Detail.txt"
                 ]
             },
             "regions": {
                 "type": "folder",
-                "folder": "Misc",
+                "folder": "Misc Regions",
                 "recursive": true,
-                "pattern": "Regions_"
             },
             "active_runways": {
                 "type": "files",

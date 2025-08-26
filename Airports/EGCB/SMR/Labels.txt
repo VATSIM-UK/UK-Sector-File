@@ -16,8 +16,8 @@
 "East Apron" N053.28.15.230 W002.23.04.175 smrWhite
 
 ;Heli_labels
-"Helicoper Hoversquare" N053.28.21.792 W002.23.23.214 standHold
-"Heli West" N053.28.20.836 W002.23.28.624 standHold
-"Heli East" N053.28.23.402 W002.23.13.003 standHold
-"Heliport" N053.28.04.783 W002.23.35.786 standHold
-"Police Air Support" N053.28.07.832 W002.23.37.232 standHold
+"Helicoper Hoversquare" N053.28.21.792 W002.23.23.214 smrStandHold
+"Heli West" N053.28.20.836 W002.23.28.624 smrStandHold
+"Heli East" N053.28.23.402 W002.23.13.003 smrStandHold
+"Heliport" N053.28.04.783 W002.23.35.786 smrStandHold
+"Police Air Support" N053.28.07.832 W002.23.37.232 smrStandHold

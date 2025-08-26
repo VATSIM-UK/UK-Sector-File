@@ -1,2 +1,0 @@
-COPX:*:*:FINDO:EGPD:*:Montrose:Tay:*:26000:FINDO15
-COPX:*:*:FINDO:EGPE:*:Montrose:Tay:*:26000:FINDO15

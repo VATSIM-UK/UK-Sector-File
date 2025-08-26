@@ -1,0 +1,48 @@
+SECTOR:Westcoast (Hebrides Low):0:0
+OWNER:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SHC:SN:SE:S
+
+SECTOR:Westcoast (Hebrides Low) (DB-255):0:25500
+OWNER:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SEH:SHC:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SEH:SHC:SN:SE:S
+BORDER:Heb_Mor 02:Mon_Heb:Cen_Heb 2:Heb_Low_WCoastHeb:WCoastHeb_Mor Low
+
+SECTOR:Westcoast (Central):0:0
+OWNER:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing SCO_WD_CTR:SGS:SL:SC:SHC:SW:O:SM:SWD:S
+
+SECTOR:Westcoast (Central) (DB-255):0:25500
+OWNER:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SC:SHC:SW:SWD:S
+ALTOWNER:Observing SCO_WD_CTR:SGS:SL:SC:SHC:SW:O:SM:SWD:S
+BORDER:Cen_EGGX:Cen_EISN:Cen_RatW:WCoast-Cen_WCoast-RatW:WCoast-Cen_Gal:WCoast-Mon_WCoast-Cen:Cen_Mon:Cen_Heb 2:Cen_Heb 1
+
+SECTOR:Westcoast (Rathlin West):0:0
+OWNER:SL:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SR:SW:SWD:S
+ALTOWNER:Observing SCO_WD_CTR:SGS:SL:SR:SW:O:SM:SWD:S
+
+SECTOR:Westcoast (Rathlin West) (DB-255):0:25500
+OWNER:SL:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SL:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SL:SR:SW:SWD:S
+ALTOWNER:Observing SCO_WD_CTR:SGS:SL:SR:SW:O:SM:SWD:S
+BORDER:RatW_EISN 03:RatW_EISN Del:RatW_EISN 02:RatW_EISN 01:Cen_RatW:WCoast-Cen_WCoast-RatW:WCoast-RatW_Gal:WCoast-RatW_Ant:WCoast-Rat_Ant:Ant_WCoast-Rat
+GUEST:PKR:*:EGPK
+
+SECTOR:Westcoast (Tay):0:0
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+
+SECTOR:Westcoast (Tay) (DB-255):0:25500
+OWNER:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:TAY:SL:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:TAY:SL:SS:SE:S
+BORDER:Cen_Mon:Mon_Heb:Mor_WCoast-Mon:WCoast-Mon_Tay:WCoast-Mon_Gal:WCoast-Mon_WCoast-Cen

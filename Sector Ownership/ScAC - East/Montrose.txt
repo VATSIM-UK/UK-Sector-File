@@ -1,0 +1,46 @@
+SECTOR:Montrose:0:0
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+
+SECTOR:Montrose 1 (255-660):25500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:Cen_Mon:Mon_Heb:Mor_Mon_excTay:WCoast-Mon_2:Mon_WCoast 01
+
+SECTOR:Montrose 2 (255-660):25500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:Mor_Tay:Tyne_Montrose:Hum_Mon:SELN03:SELN02:Mon Area A Inner:Mon Area C Inner:Mon Area D Inner:Mon EDC:Mon_DCS-N Area E02b Inner:Mon_DCS-N Area E02a Inner:Mon_Gal:Mon_DCS-N Area E01 Inner:WCoast-Mon_2
+
+SECTOR:Montrose Area A2 (285-660):28500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:Mon Area A Inner:Mon Area B Inner:Mon_S29:SELN01
+
+SECTOR:Montrose Area B (285-660):28500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:DCS-S 285_Mon Area B:Mon_Tay B-C:Mon Area B Inner:Mon_S29 Del
+
+SECTOR:Montrose Area C (255-660):25500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:Mon_Tay B-C:Mon Area C Inner:Mon_Tay C-D:Mon Area C Outer:DCS-S 285_Mon Area C
+
+SECTOR:Montrose Area D (255-660):25500:66000
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:Mon_Tay C-D:Mon Area D Inner:Mon Area D Outer
+
+SECTOR:Montrose BINTI Triangle (255-285):25500:28500
+OWNER:SS:SE:S
+ALTOWNER:Observing Scottish FIR:SGS:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):SGS:O:SM:SS:SE:S
+BORDER:DCS-S 285_Mon Area C:DCS-S_TILNI Corridor Tri:DCS-S_Mon Tri B

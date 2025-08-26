@@ -9,7 +9,6 @@ The following is a list of published UK VATSIM frequencies that differ from thei
 
 Guernsey ATIS           109.400, 118.900 on VATSIM (Guernsey radar freq)
 Inverness ATIS          109.200, 124.700 on VATSIM (ATIS frequency shared with Inverness VOR)
-Kirkwall ATIS           108.600, 119.425 (ATIS frequency shared with Kirkwall VOR)
 Stapleford Radio        122.800, 122.805 on VATSIM (Radio frequency shared with UNICOM)
 Stornoway ATIS          115.100, 121.600 on VATSIM (ATIS frequency shared with Stornoway VOR)
 Wick ATIS               113.600, 121.625 on VATSIM (ATIS frequency shared with Wick VOR)

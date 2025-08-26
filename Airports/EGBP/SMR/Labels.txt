@@ -1,33 +1,33 @@
 ;Holding Points
-"A1" N051.40.12.819 W002.02.33.666 standHold
-"A2" N051.40.13.252 W002.02.48.631 standHold
-"A3" N051.40.11.775 W002.02.57.696 standHold
-"A4" N051.40.12.842 W002.03.05.521 standHold
+"A1" N051.40.12.819 W002.02.33.666 smrStandHold
+"A2" N051.40.13.252 W002.02.48.631 smrStandHold
+"A3" N051.40.11.775 W002.02.57.696 smrStandHold
+"A4" N051.40.12.842 W002.03.05.521 smrStandHold
 "A5" N051.40.16.857 W002.03.13.587 smrRed
 "A6" N051.40.19.824 W002.03.14.054 smrRed
-"B1" N051.40.06.914 W002.03.38.168 standHold
+"B1" N051.40.06.914 W002.03.38.168 smrStandHold
 "B2" N051.40.08.598 W002.03.41.180 smrRed
-"C1" N051.40.05.202 W002.02.52.308 standHold
-"C2" N051.39.59.899 W002.03.29.922 standHold
-"D1" N051.40.05.885 W002.03.43.284 standHold
+"C1" N051.40.05.202 W002.02.52.308 smrStandHold
+"C2" N051.39.59.899 W002.03.29.922 smrStandHold
+"D1" N051.40.05.885 W002.03.43.284 smrStandHold
 "D2" N051.40.08.150 W002.03.36.882 smrRed
 "G1" N051.40.10.209 W002.03.10.678 smrRed
-"G2" N051.40.09.303 W002.03.18.933 standHold
-"G3" N051.40.08.263 W002.03.30.154 standHold
+"G2" N051.40.09.303 W002.03.18.933 smrStandHold
+"G3" N051.40.08.263 W002.03.30.154 smrStandHold
 
 ;Aprons
-"Belfast Apron" N051.40.14.046 W002.02.41.857 standHold
+"Belfast Apron" N051.40.14.046 W002.02.41.857 smrStandHold
 "Disused" N051.40.04.000 W002.04.07.352 smrRed
 "Disused" N051.40.18.465 W002.03.42.934 smrRed
-"D-Site Apron" N051.40.14.555 W002.03.12.128 standHold
-"Grass Apron" N051.40.13.806 W002.03.26.664 standHold
-"G-Site Maint Area" N051.40.09.558 W002.04.00.891 standHold
-"Heli A" N051.40.13.050 W002.03.10.049 standHold
-"Heli B" N051.40.11.663 W002.03.50.989 standHold
-"K4 Apron" N051.40.13.976 W002.04.01.329 standHold
-"North Apron" N051.40.08.595 W002.03.46.170 standHold
-"Tower Apron" N051.40.11.962 W002.03.29.596 standHold
-"Woodside Apron" N051.40.13.710 W002.03.33.952 standHold
+"D-Site Apron" N051.40.14.555 W002.03.12.128 smrStandHold
+"Grass Apron" N051.40.13.806 W002.03.26.664 smrStandHold
+"G-Site Maint Area" N051.40.09.558 W002.04.00.891 smrStandHold
+"Heli A" N051.40.13.050 W002.03.10.049 smrStandHold
+"Heli B" N051.40.11.663 W002.03.50.989 smrStandHold
+"K4 Apron" N051.40.13.976 W002.04.01.329 smrStandHold
+"North Apron" N051.40.08.595 W002.03.46.170 smrStandHold
+"Tower Apron" N051.40.11.962 W002.03.29.596 smrStandHold
+"Woodside Apron" N051.40.13.710 W002.03.33.952 smrStandHold
 
 ;Hangars
 "C1" N051.40.16.375 W002.03.36.470 smrYellow
@@ -40,7 +40,7 @@
 "H2" N051.40.18.793 W002.03.23.081 smrYellow
 
 ;Stands
-"1" N051.40.11.970 W002.03.09.970 standHold
-"2" N051.40.12.870 W002.03.11.290 standHold
-"3" N051.40.13.810 W002.03.12.230 standHold
-"4" N051.40.12.950 W002.03.12.660 standHold
+"1" N051.40.11.970 W002.03.09.970 smrStandHold
+"2" N051.40.12.870 W002.03.11.290 smrStandHold
+"3" N051.40.13.810 W002.03.12.230 smrStandHold
+"4" N051.40.12.950 W002.03.12.660 smrStandHold

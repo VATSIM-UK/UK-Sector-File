@@ -1,0 +1,143 @@
+name: Sector File Release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Upload Sector File
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Setup Git
+      run: |
+          git config --global user.email "privileged-access@vatsim.uk"
+          git config --global user.name "VATSIM UK"
+
+    - name: Create Output dir
+      run: |
+        echo "📂 Creating .bin directory"
+        mkdir -p .bin || { echo "❌ Failed to create .bin directory"; exit 1; }
+
+    - name: Download Compiler
+      run: |
+        echo "⬇️ Downloading compiler"
+        curl -L --output compiler "https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64" || {
+          echo "❌ Compiler download failed"; exit 1;
+        }
+        chmod +x ./compiler || { echo "❌ Failed to make compiler executable"; exit 1; }
+
+    - name: Set Build Version
+      run: echo "SECTORFILE_BUILD_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+    - name: Set Strip Comments
+      run: echo "STRIP_COMMENTS=--strip-comments" >> $GITHUB_ENV
+
+    - name: Compile
+      run: |
+        ./compiler --config-file compiler.config.json --strip-comments --no-wait --build-version $SECTORFILE_BUILD_VERSION $STRIP_COMMENTS
+
+    - name: Get AIRAC
+      run: |
+        echo "AIRAC_DATE=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g')" >> $GITHUB_ENV
+        echo "AIRAC_SHORT=$(echo ${GITHUB_REF#refs/*/} | sed 's/\//_/g' | sed 's/20\([0-9][0-9]\)_\([0-9][0-9]\)[a-zA-Z]*/\1\2/g')" >> $GITHUB_ENV
+
+    - name: Rename Files    
+      run: |
+        echo "✏️ Renaming output files"
+        mv .bin/UK.sct ".bin/UK_${AIRAC_DATE}.sct" || { echo "❌ Failed to rename UK.sct"; exit 1; }
+        mv .bin/UK.ese ".bin/UK_${AIRAC_DATE}.ese" || { echo "❌ Failed to rename UK.ese"; exit 1; }
+        mv .bin/UK.rwy ".bin/UK_${AIRAC_DATE}.rwy" || { echo "❌ Failed to rename UK.rwy"; exit 1; }
+
+    - name: Zip for Download
+      run: |
+        echo "📦 Creating ZIP archive"
+        cd .bin
+        zip UK_${AIRAC_DATE}.zip UK_${AIRAC_DATE}.sct UK_${AIRAC_DATE}.ese UK_${AIRAC_DATE}.rwy || { echo "❌ Failed to create ZIP archive"; exit 1; }
+
+    - name: Move files up for 7z
+      run: |
+        cp ".bin/UK_${AIRAC_DATE}.sct" .
+        cp ".bin/UK_${AIRAC_DATE}.ese" .
+        cp ".bin/UK_${AIRAC_DATE}.rwy" .
+
+    - name: Zip for Euroscope
+      uses: edgarrc/action-7z@a21c73c26811287e0ab23429df86807dbb7b2e8e
+      with:
+        args: 7z a -t7z -m0=lzma -mx=9 .bin/UK_${{ env.AIRAC_DATE }}.7z UK_${{ env.AIRAC_DATE }}.sct UK_${{ env.AIRAC_DATE }}.ese UK_${{ env.AIRAC_DATE }}.rwy
+
+    - name: 📤 Upload ZIP and 7z
+      uses: actions/upload-artifact@v4
+      with:
+        name: UK_${{ env.AIRAC_DATE }}_files
+        path: |
+          .bin/UK_${{ env.AIRAC_DATE }}.zip
+          .bin/UK_${{ env.AIRAC_DATE }}.7z
+
+    - name: 🚀 Upload Full ZIP to GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          .bin/UK_${{ env.AIRAC_DATE }}.zip
+          .bin/UK_${{ env.AIRAC_DATE }}.7z
+
+    - name: Clone Docs Website
+      run: |
+        echo "Starting SSH agent"
+        eval "$(ssh-agent -s)"
+        ssh-add - <<< "${{ secrets.DOCS_DEPLOY_KEY }}"
+        mkdir -p ~/.ssh
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+        echo "Loaded SSH Keys:"
+        ssh-add -l || echo "No SSH keys loaded"
+
+        echo "Testing SSH connection to GitHub"
+        ssh -T git@github.com || echo "SSH auth to GitHub failed!"
+
+        echo "📥 Cloning Docs Website"
+        git clone git@github.com:VATSIM-UK/atc-documentation.git atc-documentation || {
+          echo "❌ Failed to clone documentation repo"; exit 1;
+        }
+
+    - name: Upload Sector Files
+      run: |
+        cd atc-documentation
+        git checkout -B uk-sector-file
+        rm -f "docs/General/Software Downloads/Files/UK_20"*".zip"
+        rm -f "docs/General/Software Downloads/Files/UK_20"*".7z"
+        cp ../.bin/UK_${AIRAC_DATE}.7z "docs/General/Software Downloads/Files/"
+        cp ../.bin/UK_${AIRAC_DATE}.zip "docs/General/Software Downloads/Files/"
+
+    - name: Update Download Links
+      run: |
+        cd atc-documentation
+        LINK_FILE="docs/General/Software Downloads/Controller Pack & Sector File.md"
+        sed -i '/^## Sector File Downloads/c\## Sector File Downloads - AIRAC '"${AIRAC_SHORT}"'' "$LINK_FILE"
+        sed -i '/^- \[:link: UK Sector File (.zip)\]/c\- [:link: UK Sector File (.zip)](Files/UK_'"${AIRAC_DATE}"'.zip) - Latest UK Sector File (.zip)' "$LINK_FILE"
+        sed -i '/^- \[:link: UK Sector File (.7z)\]/c\- [:link: UK Sector File (.7z)](Files/UK_'"${AIRAC_DATE}"'.7z) - Latest UK Sector File (.7z)' "$LINK_FILE"
+        LINK_FILE="docs/General/Software Downloads/Files/VATUK_Euroscope_files.txt"
+        sed -i '/^SECTOR_VERSION/c\SECTOR_VERSION:'"${AIRAC_DATE}"'' "$LINK_FILE"
+        sed -i '/^SECTOR_URL/c\SECTOR_URL:http://docs.vatsim.uk/General/Software%20Downloads/Files/UK_'"${AIRAC_DATE}"'.7z' "$LINK_FILE"
+
+
+    - name: Commit Changes
+      run: |
+        echo "Starting SSH agent"
+        eval "$(ssh-agent -s)"
+        ssh-add - <<< "${{ secrets.DOCS_DEPLOY_KEY }}"
+        mkdir -p ~/.ssh
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+        cd atc-documentation
+        git add .
+        git commit -m "Upload Sector File ${AIRAC_DATE}"
+        git push origin uk-sector-file
+
