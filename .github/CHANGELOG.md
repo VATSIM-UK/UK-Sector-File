@@ -2,6 +2,7 @@
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2509) - Renamed OCTIZ to ORZEB and redesignated Cardiff (EGFF) and St Athan (EGSY) STARs - thanks to @ricky-gag38 (Riccardo Gagliardi)
 3. AIRAC (2509) - Removed Thruxton (EGHO) Heli South - thanks to @clc0609 (Coby Chapman)
+4. AIRAC (2509) - Updated Bournemouth (EGHH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
