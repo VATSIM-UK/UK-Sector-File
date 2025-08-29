@@ -7,6 +7,7 @@
 6. AIRAC (2509) - Removed Barton (EGCB) runway designators - thanks to @AdriTheDev (Callum Hicks)
 7. AIRAC (2509) - Added Shawbury (EGOS) ATIS - thanks to @clc0609 (Coby Chapman)
 8. AIRAC (2509) - Redesignated Liverpool (EGGP) STAR BOFUM 1L to BOFUM 2L - thanks to @lucutz1234
+9. AIRAC (2509) - Archived Doncaster (EGCN) data now removed from the AIP - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
