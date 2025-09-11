@@ -1,5 +1,5 @@
 # Changes from release 2025/09 to 2025/10
-x. AIRAC (2510) - Revised Kirknewton VRP - thanks to @pa-ulex
+x. AIRAC (2510) - Revised Kirknewton VRP to Kirknewton Rail Stn - thanks to @pa-ulex
 
 # Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
