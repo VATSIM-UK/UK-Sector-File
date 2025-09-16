@@ -1,0 +1,20 @@
+;Holding Points
+"A" N053.05.59.027 W004.20.29.546 smrStandHold
+"B" N053.06.06.273 W004.20.08.690 smrStandHold
+"C" N053.06.10.199 W004.19.49.982 smrStandHold
+
+;Parking 
+"1" N053.06.01.233 W004.20.25.861 smrStandHold
+"2" N053.06.01.867 W004.20.24.972 smrStandHold 
+"3" N053.06.02.323 W004.20.23.787 smrStandHold
+"4" N053.06.03.058 W004.20.21.288 smrStandHold
+"5" N053.06.03.592 W004.20.18.825 smrStandHold
+"6" N053.06.04.082 W004.20.16.289 smrStandHold
+"7" N053.06.05.419 W004.20.12.161 smrStandHold
+"8" N053.06.05.941 W004.20.09.297 smrStandHold
+"9" N053.06.06.149 W004.20.06.549 smrStandHold 
+"10" N053.06.05.802 W004.20.03.772 smrStandHold
+"H" N053.06.05.383 W004.20.10.470 smrStandHold
+"H" N053.06.04.536 W004.20.14.736 smrStandHold
+"SAR" N053.06.02.828 W004.20.06.607 smrStandHold
+
