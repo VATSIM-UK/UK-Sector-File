@@ -1,4 +1,7 @@
 # Changes from release 2025/08 to 2025/09
+x. AIRAC (2510) - Closed Waddington (EGXW) Taxiways B & F - thanks to @ricky-gag38 (Riccardo Gagliardi)
+
+# Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2509) - Renamed OCTIZ to ORZEB and redesignated Cardiff (EGFF) and St Athan (EGSY) STARs - thanks to @ricky-gag38 (Riccardo Gagliardi)
 3. AIRAC (2509) - Removed Thruxton (EGHO) Heli South - thanks to @clc0609 (Coby Chapman)
