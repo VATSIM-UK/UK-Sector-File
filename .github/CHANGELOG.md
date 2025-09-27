@@ -1,5 +1,5 @@
 # Changes from release 2025/09 to 2025/10
-1. AIRAC (2510) - Changed PAR_CTR Frequency - thanks to @lucak1011 (Luca Kulaga)
+1. AIRAC (2510) - Changed PAR_CTR frequency - thanks to @lucak1011 (Luca Kulaga)
 # Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2509) - Renamed OCTIZ to ORZEB and redesignated Cardiff (EGFF) and St Athan (EGSY) STARs - thanks to @ricky-gag38 (Riccardo Gagliardi)
