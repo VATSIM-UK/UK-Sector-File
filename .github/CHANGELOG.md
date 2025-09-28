@@ -1,3 +1,4 @@
+# Changes from release 2025/09 to 2025/10
 # Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2509) - Renamed OCTIZ to ORZEB and redesignated Cardiff (EGFF) and St Athan (EGSY) STARs - thanks to @ricky-gag38 (Riccardo Gagliardi)
@@ -11,6 +12,7 @@
 10. AIRAC (2509) - Updated East Midlands (EGNX) Stands - thanks to @ricky-gag38 (Riccardo Gagliardi)
 11. AIRAC (2509) - Updated Wolverhampton (EGBO) stand and parking - thanks to @clc0609 (Coby Chapman)
 12. AIRAC (2509) - Removed Edinburgh (EGPH) stand 34 - thanks to @Liaely (Lily Unitt)
+13. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/07 to 2025/08
 1. AIRAC (2508) - Updated Leeds Bradford (EGNM) SID designators - thanks to @Liaely (Lily Unitt)
