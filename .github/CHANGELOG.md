@@ -1,7 +1,8 @@
 # Changes from release 2025/09 to 2025/10
 1. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2510) - Revised Kirknewton VRP name and position - thanks to @pa-ulex
-1. Enhancement - Created SMR for Caernarfon (EGCK) - thanks to @heqagon (Ben Jones)
+3. Enhancement - Created SMR for Caernarfon (EGCK) - thanks to @heqagon (Ben Jones)
+4. AIRAC (2510) - Changed PAR_CTR frequency - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
