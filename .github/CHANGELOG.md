@@ -6,6 +6,7 @@
 5. Enhancement - Updated radar site data - thanks to @luke11brown (Luke Brown)
 6. Enhancement - Archived East Midlands (EGNX) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 7. AIRAC (2510) - Closed Waddington (EGXW) Taxiways B & F on the SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+8. Enhancement - Added temporary Aldergrove (EGAA) Delivery frequency - thanks to @BenWalker01Aldergrove (EGAA) delivery
 
 # Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
