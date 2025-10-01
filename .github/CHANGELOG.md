@@ -3,6 +3,7 @@
 2. AIRAC (2510) - Revised Kirknewton VRP name and position - thanks to @pa-ulex
 3. Enhancement - Created SMR for Caernarfon (EGCK) - thanks to @heqagon (Ben Jones)
 4. AIRAC (2510) - Changed PAR_CTR frequency - thanks to @lucak1011 (Luca Kulaga)
+5. Enhancement - Updated radar site data - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2025/08 to 2025/09
 1. AIRAC (2509) - Updated Portsmouth CTA 5 lateral definition - thanks to @Liaely (Lily Unitt)
