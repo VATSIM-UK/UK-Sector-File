@@ -1,3 +1,6 @@
+# Changes from release 2025/10 to 2025/11
+1. Bug - Add EGSH Land based fixes for HMRIs - thanks to @trevorhannant
+
 # Changes from release 2025/09 to 2025/10
 1. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2510) - Revised Kirknewton VRP name and position - thanks to @pa-ulex
