@@ -9,7 +9,6 @@
 "D2" N054.39.22.868 W006.13.53.163 smrStandHold
 "E" N054.39.03.760 W006.13.24.417 smrStandHold
 "F1" N054.39.00.102 W006.13.19.608 smrStandHold
-"F2" N054.38.48.237 W006.13.12.598 smrStandHold
 "J1" N054.39.05.489 W006.13.58.038 smrStandHold
 "J2" N054.38.48.526 W006.13.29.241 smrStandHold
 ;Pushback Stop Positions
