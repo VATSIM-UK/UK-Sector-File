@@ -1,3 +1,5 @@
+x. Removed hold F2 from Aldergrove (EGAA) - thanks to @lyraongithub
+
 # Changes from release 2025/09 to 2025/10
 1. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2510) - Revised Kirknewton VRP name and position - thanks to @pa-ulex
