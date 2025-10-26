@@ -1,3 +1,6 @@
+# Changes from release 2025/11 to 2025/12
+1. AIRAC (2512) - Added	Swansea (EGFH) holding points J, H & A1 - thanks to @lucutz1234
+
 # Changes from release 2025/09 to 2025/10
 1. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2510) - Revised Kirknewton VRP name and position - thanks to @pa-ulex
