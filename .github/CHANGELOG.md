@@ -1,5 +1,9 @@
 # Changes from release 2025/10 to 2025/11
-1. Bug - Added EGSH land based fixes for HMRIs - thanks to @trevorhannant
+1. AIRAC (2511) - Extended Oxford (EGTK) maintenance area 4 - thanks to @clc0609 (Coby Chapman)
+2. AIRAC (2511) - Removed danger area EGD215 - thanks to @lyraongithub
+3. AIRAC (2511) - Revised Luton (EGGW) engine runup area - thanks to @clc0609 (Coby Chapman)
+4. AIRAC (2511) - Updated Shawbury (EGOS) runway designators - thanks to @ricky-gag38 (Riccardo Gagliardi)
+5. Bug - Added EGSH land based fixes for HMRIs - thanks to @trevorhannant
 
 # Changes from release 2025/09 to 2025/10
 1. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
