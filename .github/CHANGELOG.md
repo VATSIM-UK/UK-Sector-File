@@ -4,6 +4,7 @@
 3. AIRAC (2511) - Revised Luton (EGGW) engine runup area - thanks to @clc0609 (Coby Chapman)
 4. AIRAC (2511) - Updated Shawbury (EGOS) runway designators - thanks to @ricky-gag38 (Riccardo Gagliardi)
 5. Bug - Added EGSH land based fixes for HMRIs - thanks to @trevorhannant
+6. Enhancement - Add radar holes to prevent display of ground aircraft at airfields - thanks to @luke11brown (Luke Brown)
 
 # Changes from release 2025/09 to 2025/10
 1. AIRAC (2510) - Renamed Biggin Hill (EGKB) holding point L2 - thanks to @clc0609 (Coby Chapman)
