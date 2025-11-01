@@ -1,3 +1,6 @@
+# Changes from release 2025/11 to 2025/12
+1. Procedure Change (2512) - Added S/A for EBOS/KT/FN inbounds from Dover (S15) -> TC SE, descending FL190
+
 # Changes from release 2025/10 to 2025/11
 1. AIRAC (2511) - Extended Oxford (EGTK) maintenance area 4 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2511) - Removed danger area EGD215 - thanks to @lyraongithub

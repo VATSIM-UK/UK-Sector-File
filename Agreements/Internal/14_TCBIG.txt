@@ -1,0 +1,3 @@
+COPX:*:*:DVR:EBOS:*:London S15:London TC SE:*:19000:|DVR
+COPX:*:*:DVR:EBKT:*:London S15:London TC SE:*:19000:|DVR
+COPX:*:*:DVR:EBFN:*:London S15:London TC SE:*:19000:|DVR
