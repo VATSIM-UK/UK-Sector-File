@@ -1,3 +1,7 @@
+# Changes from release 2025/11 to 2025/12
+1. Enhancement - Improved COPX display from TC SE to LAC Dover (S15) for LTMA outbounds
+2. Enhancement - Improved COPX display from LAC Dover (S15) to MUAC Koksy for LTMA outbounds
+
 # Changes from release 2025/10 to 2025/11
 1. AIRAC (2511) - Extended Oxford (EGTK) maintenance area 4 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2511) - Removed danger area EGD215 - thanks to @lyraongithub
