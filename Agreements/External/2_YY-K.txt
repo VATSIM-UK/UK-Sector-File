@@ -1,2 +1,3 @@
-FIR_COPX:*:*:VABIK:*:*:London S2:EDYY Koksy:*:*:VABIK
-FIR_COPX:*:*:KONAN:*:*:London S2:EDYY Koksy:*:*:KONAN
+;See 15_YY-K for COPX lines from EGLF, Wessex and Solent Groups
+
+FIR_COPX:*:*:KOK:*:*:London S2:EDYY Koksy:*:*:DVR+10

@@ -1,16 +1,21 @@
-COPX:EGLL:*:DVR:*:*:London TC SE:London S15:18000:*:^DVR
-COPX:EGWU:*:DVR:*:*:London TC SE:London S15:18000:*:^DVR
-
+COPX:EGLL:*:*:KONAN:*:London TC SE:London S15:18000:*:^DVR
 COPX:EGLL:*:*:VABIK:*:London TC SE:London S15:18000:*:^DVR
+
+COPX:EGWU:*:*:KONAN:*:London TC SE:London S15:18000:*:^DVR
 COPX:EGWU:*:*:VABIK:*:London TC SE:London S15:18000:*:^DVR
 
-COPX:EGKK:*:DVR:*:*:London TC SE:London S15:18000:*:^DVR
+COPX:EGKK:*:*:KONAN:*:London TC SE:London S15:18000:*:^DVR
+COPX:EGKK:*:*:VABIK:*:London TC SE:London S15:18000:*:^DVR
+COPX:EGKK:*:*:UTFAV:*:London TC SE:London S15:18000:*:^UTFAV
 
+COPX:EGLC:*:*:KONAN:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGLC:*:*:VABIK:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGKB:*:*:KONAN:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGKB:*:*:VABIK:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGTO:*:*:KONAN:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGTO:*:*:VABIK:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGMC:*:*:KONAN:*:London TC SE:London S15:17000:*:^DVR
+COPX:EGMC:*:*:VABIK:*:London TC SE:London S15:17000:*:^DVR
+
+;Night time only EGSS departures
 COPX:EGSS:*:DVR:*:*:London TC SE:London S15:18000:*:^DVR
-COPX:EGSC:*:DVR:*:*:London TC SE:London S15:18000:*:^DVR
-COPX:EGGW:*:DVR:*:*:London TC SE:London S15:18000:*:^DVR
-
-COPX:EGLC:*:DVR:*:*:London TC SE:London S15:17000:*:^DVR
-COPX:EGKB:*:DVR:*:*:London TC SE:London S15:17000:*:^DVR
-COPX:EGTO:*:DVR:*:*:London TC SE:London S15:17000:*:^DVR
-COPX:EGMC:*:DVR:*:*:London TC SE:London S15:17000:*:^DVR
