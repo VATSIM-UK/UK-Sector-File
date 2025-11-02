@@ -4,5 +4,3 @@
 *M42 J11 (Measham):N052.41.20.000:W001.32.53.000
 *Melton Mowbray (Disused AD):N052.44.22.000:W000.53.34.000
 *Trowell (M1 Service Area):N052.57.42.000:W001.16.03.000
-*Long Eaton:N052.54.57.140:W001.17.58.630
-*Shepshed:N052.45.36.920:W001.16.26.330
