@@ -3,6 +3,7 @@
 2. Enhancement - Improved TC SW -> LAC West (S23) S/A display for outbounds climbing FL150 via CPT-DIDZA
 3. AIRAC (2511) - Added additional ELVOS STAR definitions for EGCC/GP/NR from TNT to capture ELVOS DCT TNT flights from the LTMA
 4. Procedure Change (2511) - Updated French Sectorisation to reflect 2511 LoA
+5. AIRAC (2511) - Audited VRP Digital Dataset - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/10 to 2025/11
 1. AIRAC (2511) - Extended Oxford (EGTK) maintenance area 4 - thanks to @clc0609 (Coby Chapman)
