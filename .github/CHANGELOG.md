@@ -1,3 +1,7 @@
+# Changes from release 2025/11 to 2025/11a
+1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
+2. Enhancement - Improved TC SW -> LAC West (S23) S/A display for outbounds climbing FL150 via CPT-DIDZA
+
 # Changes from release 2025/10 to 2025/11
 1. AIRAC (2511) - Extended Oxford (EGTK) maintenance area 4 - thanks to @clc0609 (Coby Chapman)
 2. AIRAC (2511) - Removed danger area EGD215 - thanks to @lyraongithub
