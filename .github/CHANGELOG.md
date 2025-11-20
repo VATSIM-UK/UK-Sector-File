@@ -1,3 +1,6 @@
+# Changes from release 2025/12 to 2025/13
+1. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
+
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
 2. Enhancement - Improved TC SW -> LAC West (S23) S/A display for outbounds climbing FL150 via CPT-DIDZA
