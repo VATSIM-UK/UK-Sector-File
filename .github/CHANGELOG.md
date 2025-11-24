@@ -1,3 +1,6 @@
+# Changes from release 2025/11a to 2025/12
+1. Procedure Change (2512) - French LoA (2025/12) implementation of low-level APP units
+
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
 2. Enhancement - Improved TC SW -> LAC West (S23) S/A display for outbounds climbing FL150 via CPT-DIDZA
