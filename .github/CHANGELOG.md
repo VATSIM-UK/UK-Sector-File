@@ -10,6 +10,7 @@
 9. AIRAC (2512) - Updated Bournemouth (EGHH) SMR - thanks to @Deconfilction (Sonny Nixon)
 10. Enhancement - Improved GW APP -> TC NW -> TC SW agreement display for RODNI 07 outbounds
 11. Procedure Change (2512) - Added Clacton (S13) -> TC East (SABER) S/A for Brize, TK, Solent, LF, Wessex inbounds via RAPIX-TEBRA
+12. Procedure Change (2512) - French LoA (2025/12) implementation of low-level APP units
 
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)

@@ -26,12 +26,6 @@ FIR_COPX:*:*:SITET:LFOT:*:London S18:LFFF TP:*:27000:SITET
 FIR_COPX:*:*:SITET:LFOU:*:London S18:LFFF TP:*:27000:SITET
 FIR_COPX:*:*:SITET:LFOZ:*:London S18:LFFF TP:*:27000:SITET
 
-FIR_COPX:*:*:SITET:LFRG:*:London S18:LFFF TP:*:13000:COORD
-FIR_COPX:*:*:SITET:LFRK:*:London S18:LFFF TP:*:13000:COORD
-FIR_COPX:*:*:SITET:LFOH:*:London S18:LFFF TP:*:13000:COORD
-FIR_COPX:*:*:SITET:LFOE:*:London S18:LFFF TP:*:13000:COORD
-
-
 ;These 'catch-all' COPX are affecting LTMA dep COPX display - turned on again following 2413 changes to check for issues
 ;FIR_COPX:*:*:XIDIL:*:*:London S18:LFFF TP:*:*:XIDIL
 ;FIR_COPX:*:*:SITET:*:*:London S18:LFFF TP:*:*:SITET
