@@ -1,8 +1,13 @@
 FIR_COPX:*:*:LIZAD:*:*:London S9:LFRR V:*:*:LIZAD
-FIR_COPX:*:*:LIZAD:*:*:London S9:LFRR Low:*:*:LIZAD
 
 FIR_COPX:*:*:DOLUR:*:*:London S9:LFRR W:*:*:DOLUR
+FIR_COPX:*:*:DOLUR:*:*:London S9:LFRR WI:*:*:DOLUR
+FIR_COPX:*:*:DOLUR:*:*:London S9:LFRR WU:*:*:DOLUR
 
 FIR_COPX:*:*:TALIG:*:*:London S9:LFRR W:*:*:TALIG
+FIR_COPX:*:*:TALIG:*:*:London S9:LFRR WI:*:*:TALIG
+FIR_COPX:*:*:TALIG:*:*:London S9:LFRR WU:*:*:TALIG
 
 FIR_COPX:*:*:AMPOP:*:*:London S9:LFRR W:*:*:AMPOP
+FIR_COPX:*:*:AMPOP:*:*:London S9:LFRR WI:*:*:AMPOP
+FIR_COPX:*:*:AMPOP:*:*:London S9:LFRR WU:*:*:AMPOP
