@@ -11,6 +11,7 @@
 10. Enhancement - Improved GW APP -> TC NW -> TC SW agreement display for RODNI 07 outbounds
 11. Procedure Change (2512) - Added Clacton (S13) -> TC East (SABER) S/A for Brize, TK, Solent, LF, Wessex inbounds via RAPIX-TEBRA
 12. Procedure Change (2512) - French LoA (2025/12) implementation of low-level APP units
+13. Procedure Change (2512) - Belux LoA (2025/12) implementation of Brussels North and West splits
 
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
