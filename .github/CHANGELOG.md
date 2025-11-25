@@ -1,5 +1,6 @@
-# Changes from release 2025/11 to 2025/12
+# Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
+x. AIRAC (2512) - Removed LAM 4R and 3S SID from Stansted (EGSS) - thanks to @lyraongithub
 
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
