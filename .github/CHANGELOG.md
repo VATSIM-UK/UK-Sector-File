@@ -8,6 +8,7 @@
 7. Enhancement - Improved COPX display from LAC Dover (S15) to MUAC Koksy for LTMA outbounds
 8. Procedure Change (2512) - Added S/A for EBOS/KT/FN inbounds from Dover (S15) -> TC SE, descending FL190
 9. AIRAC (2512) - Updated Bournemouth (EGHH) SMR - thanks to @Deconfilction (Sonny Nixon)
+10. Enhancement - Improved GW APP -> TC NW -> TC SW agreement display for RODNI 07 outbounds
 
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
