@@ -3,6 +3,7 @@
 2. AIRAC (2512) - Removed LAM 4R and 3S SID from Stansted (EGSS) - thanks to @lyraongithub
 3. AIRAC (2512) -  Removed hold F2 from Aldergrove (EGAA) - thanks to @lyraongithub
 4. AIRAC (2512) - Added	Swansea (EGFH) holding points J, H & A1 - thanks to @lucutz1234
+5. AIRAC (2512) - Revised Stansted (EGSS) SIDs to end at BKY and incremented designators
 
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
