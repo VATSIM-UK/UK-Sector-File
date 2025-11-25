@@ -1,24 +1,40 @@
-FIR_COPX:EGLL:*:VABIK:*:*:London S15:EDYY Koksy:29000:*:^VABIK
-FIR_COPX:EGWU:*:VABIK:*:*:London S15:EDYY Koksy:29000:*:^VABIK
-FIR_COPX:EGSS:*:VABIK:*:*:London S15:EDYY Koksy:29000:*:^VABIK
-FIR_COPX:EGGW:*:VABIK:*:*:London S15:EDYY Koksy:29000:*:^VABIK
-FIR_COPX:EGSC:*:VABIK:*:*:London S15:EDYY Koksy:29000:*:^VABIK
-FIR_COPX:EGKK:*:VABIK:*:*:London S15:EDYY Koksy:29000:*:^VABIK
-FIR_COPX:EGLL:*:KONAN:*:*:London S15:EDYY Koksy:29000:*:^DVR
-FIR_COPX:EGWU:*:KONAN:*:*:London S15:EDYY Koksy:29000:*:^DVR
-FIR_COPX:EGSS:*:KONAN:*:*:London S15:EDYY Koksy:29000:*:^DVR
-FIR_COPX:EGGW:*:KONAN:*:*:London S15:EDYY Koksy:29000:*:^DVR
-FIR_COPX:EGSC:*:KONAN:*:*:London S15:EDYY Koksy:29000:*:^DVR
-FIR_COPX:EGKK:*:KONAN:*:*:London S15:EDYY Koksy:29000:*:^DVR
+FIR_COPX:EGSS:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGSC:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGGW:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGWU:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
 
-FIR_COPX:EGLC:*:VABIK:*:*:London S15:EDYY Koksy:25000:*:^VABIK
-FIR_COPX:EGKB:*:VABIK:*:*:London S15:EDYY Koksy:25000:*:^VABIK
-FIR_COPX:EGMC:*:VABIK:*:*:London S15:EDYY Koksy:25000:*:^VABIK
-FIR_COPX:EGTO:*:VABIK:*:*:London S15:EDYY Koksy:25000:*:^VABIK
-FIR_COPX:EGLC:*:KONAN:*:*:London S15:EDYY Koksy:25000:*:^DVR
-FIR_COPX:EGKB:*:KONAN:*:*:London S15:EDYY Koksy:25000:*:^DVR
-FIR_COPX:EGMC:*:KONAN:*:*:London S15:EDYY Koksy:25000:*:^DVR
-FIR_COPX:EGTO:*:KONAN:*:*:London S15:EDYY Koksy:25000:*:^DVR
+FIR_COPX:EGLL:*:KOK:*:*:London S15:EDYY Koksy:29000:*:^KOK
+FIR_COPX:EGKK:*:KOK:*:*:London S15:EDYY Koksy:29000:*:^KOK
 
-FIR_COPX:*:*:VABIK:*:*:London S15:EDYY Koksy:*:*:VABIK
-FIR_COPX:*:*:KONAN:*:*:London S15:EDYY Koksy:*:*:KONAN
+FIR_COPX:EGLC:*:KOK:*:*:London S15:EDYY Koksy:27000:*:^KOK
+FIR_COPX:EGKB:*:KOK:*:*:London S15:EDYY Koksy:27000:*:^KOK
+FIR_COPX:EGMC:*:KOK:*:*:London S15:EDYY Koksy:27000:*:^KOK
+FIR_COPX:EGTO:*:KOK:*:*:London S15:EDYY Koksy:27000:*:^KOK
+
+;Higher priority S2 -> MUAC KOKSY lines defined here to ensure display when S2 & S15 are bandboxed
+FIR_COPX:EGLF:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+FIR_COPX:EGHL:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+FIR_COPX:EGLK:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+FIR_COPX:EGTD:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+FIR_COPX:EGTF:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+FIR_COPX:EGVO:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+
+FIR_COPX:EGHI:*:KOK:*:*:London S2:EDYY Koksy:33000:*:KOK
+
+FIR_COPX:EGHH:*:KOK:*:*:London S2:EDYY Koksy:35000:*:KOK
+
+;Lower priority S15 -> MUAC KOKSY lines defined below to ensure display when S2 & S15 are split
+
+FIR_COPX:EGLF:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGHL:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGLK:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGTD:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGTF:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+FIR_COPX:EGVO:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+
+FIR_COPX:EGHI:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+
+FIR_COPX:EGHH:*:KOK:*:*:London S15:EDYY Koksy:31000:*:KOK
+
+;Non-LTMA COPX
+FIR_COPX:*:*:KOK:*:*:London S15:EDYY Koksy:*:*:DVR+10
