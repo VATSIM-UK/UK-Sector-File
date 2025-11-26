@@ -12,7 +12,9 @@
 11. Procedure Change (2512) - Added Clacton (S13) -> TC East (SABER) S/A for Brize, TK, Solent, LF, Wessex inbounds via RAPIX-TEBRA
 12. Procedure Change (2512) - French LoA (2025/12) implementation of low-level APP units
 13. Procedure Change (2512) - Belux LoA (2025/12) implementation of Brussels North and West splits
-14. Procedure Change (2512) - Add event only split of PC North sector (MAN-N_CTR) - covers EGNM top-down
+14. Updated Manchester (EGCC) SMR Pier 2 stand colours - thanks to @Liaely (Lily Unitt)
+15. Added Taxiway D extension and associated changes to the Manchester (EGCC) SMR - thanks to @Liaely (Lily Unitt)
+16. Procedure Change (2512) - Add event only split of PC North sector (MAN-N_CTR) - covers EGNM top-down
 
 # Changes from release 2025/11 to 2025/11a
 1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
