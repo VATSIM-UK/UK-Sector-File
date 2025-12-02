@@ -1,3 +1,6 @@
+# Changes from release 2025/12 to 2025/13
+1. Bug - Fixed Western Radar (event only) squawk code allocation
+
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
 2. AIRAC (2512) - Removed LAM 4R and 3S SID from Stansted (EGSS) - thanks to @lyraongithub
