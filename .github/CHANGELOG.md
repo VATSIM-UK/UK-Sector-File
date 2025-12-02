@@ -1,5 +1,31 @@
-# Changes from release 2025/11 to 2025/12
+# Changes from release 2025/12 to 2025/13
 x. Bug- Fixed Mildenhall (EGUN) MATZ Sector Ownership - thanks to @ricky-gag38 (Riccardo Gagliardi)
+
+# Changes from release 2025/11a to 2025/12
+1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
+2. AIRAC (2512) - Removed LAM 4R and 3S SID from Stansted (EGSS) - thanks to @lyraongithub
+3. AIRAC (2512) -  Removed hold F2 from Aldergrove (EGAA) - thanks to @lyraongithub
+4. AIRAC (2512) - Added	Swansea (EGFH) holding points J, H & A1 - thanks to @lucutz1234
+5. AIRAC (2512) - Revised Stansted (EGSS) SIDs to end at BKY and incremented designators
+6. Enhancement - Improved COPX display from TC SE to LAC Dover (S15) for LTMA outbounds
+7. Enhancement - Improved COPX display from LAC Dover (S15) to MUAC Koksy for LTMA outbounds
+8. Procedure Change (2512) - Added S/A for EBOS/KT/FN inbounds from Dover (S15) -> TC SE, descending FL190
+9. AIRAC (2512) - Updated Bournemouth (EGHH) SMR - thanks to @Deconfilction (Sonny Nixon)
+10. Enhancement - Improved GW APP -> TC NW -> TC SW agreement display for RODNI 07 outbounds
+11. Procedure Change (2512) - Added Clacton (S13) -> TC East (SABER) S/A for Brize, TK, Solent, LF, Wessex inbounds via RAPIX-TEBRA
+12. Procedure Change (2512) - French LoA (2025/12) implementation of low-level APP units
+13. Procedure Change (2512) - Belux LoA (2025/12) implementation of Brussels North and West splits
+14. Updated Manchester (EGCC) SMR Pier 2 stand colours - thanks to @Liaely (Lily Unitt)
+15. Added Taxiway D extension and associated changes to the Manchester (EGCC) SMR - thanks to @Liaely (Lily Unitt)
+16. Procedure Change (2512) - Add event only split of PC North sector (MAN-N_CTR) - covers EGNM top-down
+
+# Changes from release 2025/11 to 2025/11a
+1. Bug - Corrected COPX display via ORTAC for Jersey Group Inbounds and via LELNA for LFRC inbounds (both FL120)
+2. Enhancement - Improved TC SW -> LAC West (S23) S/A display for outbounds climbing FL150 via CPT-DIDZA
+3. AIRAC (2511) - Added additional ELVOS STAR definitions for EGCC/GP/NR from TNT to capture ELVOS DCT TNT flights from the LTMA
+4. Procedure Change (2511) - Updated French Sectorisation to reflect 2511 LoA
+5. AIRAC (2511) - Audited VRP Digital Dataset - thanks to @clc0609 (Coby Chapman)
+6. Procedure Change (2511) - Amended EGNX outbound S/A from TC Mids -> AC Worthing to FL220 lvl SILVA (not climbing)
 
 # Changes from release 2025/10 to 2025/11
 1. AIRAC (2511) - Extended Oxford (EGTK) maintenance area 4 - thanks to @clc0609 (Coby Chapman)
