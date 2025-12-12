@@ -1,5 +1,5 @@
 # Changes from release 2025/12 to 2026/01
-1. AIRAC (2601) - Updated Luton (EGGW) Runway Headings
+1. AIRAC (2601) - Updated Luton (EGGW) Runway Headings - thanks to @shivam123-dev (Shivam Singh)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
