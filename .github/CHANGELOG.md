@@ -1,4 +1,4 @@
-# Changes from release 2025/12 to 2025/12a
+# Changes from release 2025/12 to 2026/01
 1. AIRAC (2601) - Updated EGCM (Leeds East) runway headings
 
 # Changes from release 2025/11a to 2025/12
