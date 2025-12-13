@@ -7,6 +7,7 @@
 6. Bug - Fixed vertical profile for inbounds from AC Clacton (S13/S14) -> TC East (TC SABER) -> AC Dover (TC VATON)
 7. AIRAC (2512) - Revised Balder and Ekofisk CTA lateral limits (North Sea)
 8. AIRAC (2512) - Revised Daventry CTA lateral limits in the vicinity of VELAG
+x. AIRAC (2513) - Added holds A & B the Rochester (EGTO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
