@@ -5,6 +5,7 @@
 4. Procedure Change (2513) - Added AC West (S6) -> AC Worthing (S20) OTMET/GIBSO Essex Group standing agreements
 5. Bug - Fixed Western Radar (event only) squawk code allocation
 6. Bug - Fixed vertical profile for inbounds from AC Clacton (S13/S14) -> TC East (TC SABER) -> AC Dover (TC VATON)
+7. AIRAC (2512) - Revised Balder and Ekofisk CTA lateral limits (North Sea)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
