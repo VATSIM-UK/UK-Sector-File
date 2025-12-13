@@ -1,5 +1,6 @@
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
