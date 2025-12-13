@@ -1,5 +1,5 @@
 # Changes from release 2025/12 to 2026/01
-1. AIRAC (2601) - Updated Luton (EGGW) Runway Headings - thanks to @shivam123-dev (Shivam Singh)
+1. AIRAC (2601) - Updated Luton (EGGW) runway headings - thanks to @shivam123-dev (Shivam Singh)
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
