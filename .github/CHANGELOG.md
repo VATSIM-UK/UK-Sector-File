@@ -3,6 +3,7 @@
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
 3. Enhancement - Decluttered Manchester (EGCC) SMR stand labels - thanks to @19wintersp (Patrick Winters)
 4. Procedure Change (2513) - Added AC West (S6) -> AC Worthing (S20) OTMET/GIBSO Essex Group standing agreements
+5. Bug - Fixed Western Radar (event only) squawk code allocation
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
