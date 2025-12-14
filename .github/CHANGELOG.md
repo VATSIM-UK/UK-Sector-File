@@ -1,4 +1,14 @@
 x. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
+# Changes from release 2025/12 to 2025/13
+1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
+3. Enhancement - Decluttered Manchester (EGCC) SMR stand labels - thanks to @19wintersp (Patrick Winters)
+4. Procedure Change (2513) - Added AC West (S6) -> AC Worthing (S20) OTMET/GIBSO Essex Group standing agreements
+5. Bug - Fixed Western Radar (event only) squawk code allocation
+6. Bug - Fixed vertical profile for inbounds from AC Clacton (S13/S14) -> TC East (TC SABER) -> AC Dover (TC VATON)
+7. AIRAC (2512) - Revised Balder and Ekofisk CTA lateral limits (North Sea)
+8. AIRAC (2512) - Revised Daventry CTA lateral limits in the vicinity of VELAG
+
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
 2. AIRAC (2512) - Removed LAM 4R and 3S SID from Stansted (EGSS) - thanks to @lyraongithub
