@@ -1,3 +1,4 @@
+x. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
 2. AIRAC (2512) - Removed LAM 4R and 3S SID from Stansted (EGSS) - thanks to @lyraongithub
@@ -2815,4 +2816,3 @@
 33. AIRAC - EGHC RWY 07 RNAV approach and associated airfield fixes - thanks to @acrix (Matthew Moy)
 34. Adjusted and renamed EGCC RMAs, including a single 4 mile ring centred on the ARP - thanks to @acrix (Matthew Moy)
 35. Added missing agreements between DUBN and Antrim, particularly for airway Y911 - thanks to @hazzas-99
-36. Update - Updated EGMD runway headings from 032/212 to 031/211 - thanks to @Kishan-95 (Kishan Maurya)
