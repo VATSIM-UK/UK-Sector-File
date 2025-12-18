@@ -1,3 +1,5 @@
+x. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongithub
+
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
