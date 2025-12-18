@@ -9,6 +9,12 @@
 "24"      N050.26.50.888 W005.00.22.498 smrStandHold
 "41"      N050.26.28.969 W005.00.20.251 smrStandHold
 "42"      N050.26.26.893 W005.00.31.498 smrStandHold
+"43"      N050.26.32.423 W005.00.24.282 smrStandHold
+"44"      N050.26.32.125 W005.00.25.777 smrStandHold
+"45"      N050.26.31.468 W005.00.28.255 smrStandHold
+"46"      N050.26.30.891 W005.00.30.478 smrStandHold
+"MTN 1"   N050.26.29.616 W005.00.34.779 smrStandHold
+"MTN 2"   N050.26.29.061 W005.00.37.099 smrStandHold
 "B747"    N050.26.16.823 W004.59.45.531 smrStandHold
 "GA"      N050.26.39.599 W004.59.49.976 smrStandHold
 "H"       N050.25.59.330 W004.59.01.475 smrStandHold
