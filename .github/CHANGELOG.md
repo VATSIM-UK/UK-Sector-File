@@ -11,6 +11,7 @@
 10. AIRAC (2513) - Added new Newquay (EGHQ) Stands - thanks to @clc0609 (Coby Chapman)
 11. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 12. AIRAC (2513) - Removed DMEs - thanks to @lyraongithub
+13. Enhancement - Created Worthing-only Split - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
