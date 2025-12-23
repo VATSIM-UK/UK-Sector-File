@@ -14,6 +14,7 @@
 13. AIRAC (2513) - Added new MIDs for Wittering (EGXT) - thanks to @Liaely (Lily Unitt)
 14. AIRAC (2513) - Added holds A & B the Rochester (EGTO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 15. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongithub
+16. AIRAC (2513) - Updated Newquay (EGHQ) runway headings - thanks to @shivam123-dev (Shivam Singh)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
