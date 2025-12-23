@@ -1,5 +1,17 @@
 # Changes from release 2025/12 to 2025/13
-1. AIRAC (2513) - Added new MIDs for Wittering (EGXT) - thanks to @Liaely (Lily Unitt)
+1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
+3. Enhancement - Decluttered Manchester (EGCC) SMR stand labels - thanks to @19wintersp (Patrick Winters)
+4. Procedure Change (2513) - Added AC West (S6) -> AC Worthing (S20) OTMET/GIBSO Essex Group standing agreements
+5. Bug - Fixed Western Radar (event only) squawk code allocation
+6. Bug - Fixed vertical profile for inbounds from AC Clacton (S13/S14) -> TC East (TC SABER) -> AC Dover (TC VATON)
+7. AIRAC (2512) - Revised Balder and Ekofisk CTA lateral limits (North Sea)
+8. AIRAC (2512) - Revised Daventry CTA lateral limits in the vicinity of VELAG
+9. AIRAC (2513) - Removed Redhill (EGKR) Hover Square - thanks to @clc0609 (Coby Chapman)
+10. AIRAC (2513) - Added new Newquay (EGHQ) Stands - thanks to @clc0609 (Coby Chapman)
+11. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2513) - Removed DMEs - thanks to @lyraongithub
+13. AIRAC (2513) - Added new MIDs for Wittering (EGXT) - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
