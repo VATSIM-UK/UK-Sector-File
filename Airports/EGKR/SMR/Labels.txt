@@ -19,7 +19,6 @@
 ;Hover spots
 "H" N051.12.42.496 W000.08.01.566 smrWhite
 "H" N051.12.42.274 W000.08.17.196 smrWhite
-"H" N051.12.38.494 W000.08.36.710 smrWhite
 "H" N051.12.36.493 W000.08.51.785 smrWhite
 
 ;HTAs
