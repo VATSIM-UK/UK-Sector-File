@@ -1,5 +1,3 @@
-x. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongithub
-
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
@@ -15,6 +13,7 @@ x. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongit
 12. AIRAC (2513) - Removed DMEs - thanks to @lyraongithub
 13. AIRAC (2513) - Added new MIDs for Wittering (EGXT) - thanks to @Liaely (Lily Unitt)
 14. AIRAC (2513) - Added holds A & B the Rochester (EGTO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongithub
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
