@@ -1,5 +1,8 @@
-;new procedure? or does GODLU hand to BIG at 13 and BIG climbs to 17?
-COPX:EGLC:*:DVR:*:*:London TC GODLU:London S15:13000:*:^DVR
-COPX:EGKB:*:DVR:*:*:London TC GODLU:London S15:13000:*:^DVR
-COPX:EGTO:*:DVR:*:*:London TC GODLU:London S15:13000:*:^DVR
-COPX:EGMC:*:DVR:*:*:London TC GODLU:London S15:13000:*:^DVR
+COPX:EGLC:*:*:KONAN:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGLC:*:*:VABIK:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGKB:*:*:KONAN:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGKB:*:*:VABIK:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGTO:*:*:KONAN:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGTO:*:*:VABIK:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGMC:*:*:KONAN:*:London TC GODLU:London S15:17000:*:^DVR
+COPX:EGMC:*:*:VABIK:*:London TC GODLU:London S15:17000:*:^DVR

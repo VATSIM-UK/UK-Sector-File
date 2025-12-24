@@ -1,2 +1,0 @@
-COPX:*:*:NANTI:EGGP:*:Stafa:Wallasey:*:10000:NANTI
-COPX:*:*:NANTI:EGNR:*:Stafa:Wallasey:*:10000:NANTI

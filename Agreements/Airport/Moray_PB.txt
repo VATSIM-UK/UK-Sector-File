@@ -1,0 +1,8 @@
+COPX:ADN:*:*:EGPB:*:Moray Low:PBAPP:*:13000:|SUM
+COPX:ADN:*:*:EGET:*:Moray Low:PBAPP:*:13000:|SUM
+
+COPX:KOKAL:*:*:EGPB:*:Moray Low:PBAPP:*:13000:|SUM
+COPX:KOKAL:*:*:EGET:*:Moray Low:PBAPP:*:13000:|SUM
+
+COPX:*:*:*:EGPB:*:Moray Low:PBAPP:*:13000:|SUM
+COPX:*:*:*:EGET:*:Moray Low:PBAPP:*:13000:|SUM

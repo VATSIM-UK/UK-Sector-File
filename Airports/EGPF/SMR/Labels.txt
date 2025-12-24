@@ -67,3 +67,4 @@
 
 ;Heli Parking
 "H" N055.52.15.891 W004.25.32.673 smrPFGreyLight
+"H" N055.52.22.005 W004.25.31.095 smrOrange

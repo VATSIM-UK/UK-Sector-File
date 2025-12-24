@@ -1,3 +1,0 @@
-COPX:*:*:TIPOD:EGGP:*:Wallasey:GPAPP:*:6000:MSL
-
-COPX:*:*:KEGUN:EGGP:*:Wallasey:GPAPP:*:6000:MSL

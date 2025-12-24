@@ -1,2 +1,0 @@
-COPX:*:*:FOYLE:EGPF:*:Westcoast (Tay):PFAPP:9000:*:GOW20
-COPX:*:*:LOMON:EGPF:*:Westcoast (Tay):PFAPP:9000:*:GOW20

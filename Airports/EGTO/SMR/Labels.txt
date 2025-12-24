@@ -1,5 +1,10 @@
 ;Helipads
-"H" N051.21.23.416 E000.30.24.265 smrStandHold
-"H" N051.20.53.855 E000.30.23.045 smrStandHold
+"H" N051.20.53.760 E000.30.23.180 smrStandHold
+"H" N051.20.53.270 E000.30.19.820 smrStandHold
+"H" N051.20.53.350 E000.30.18.010 smrStandHold
 "H" N051.20.53.178 E000.30.13.870 smrStandHold
 "H" N051.20.53.544 E000.30.11.697 smrStandHold
+
+;Holding Points
+"A" N051.21.17.469 E000.30.27.699 smrStandHold
+"B" N051.21.10.805 E000.30.23.928 smrStandHold

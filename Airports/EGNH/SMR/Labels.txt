@@ -1,18 +1,32 @@
 ;Stands
 "1" N053.46.35.350 W003.02.35.480 smrStandHold
-"2" N053.46.39.180 W003.02.35.400 smrStandHold
-"3" N053.46.39.330 W003.02.33.920 smrStandHold
+"X" N053.46.38.372 W003.02.36.217 smrStandHold
+"Y" N053.46.37.777 W003.02.36.112 smrStandHold
+"Z" N053.46.37.211 W003.02.35.977 smrStandHold
+
 "Fuel" N053.46.37.740 W003.02.37.680 smrStandHold
 
-;Helicoper Parking
+;Helicopter Parking Offshore
+"Offshore" N053.46.40.903 W003.02.25.389 smrStandHold
 "H1" N053.46.41.640 W003.02.24.680 smrStandHold
 "H2" N053.46.41.310 W003.02.26.500 smrStandHold
 "H3" N053.46.40.230 W003.02.26.580 smrStandHold
-"H4" N053.46.35.730 W003.02.34.410 smrStandHold
-"H5" N053.46.35.180 W003.02.34.280 smrStandHold
-"H" N053.46.43.930 W003.02.11.440 smrStandHold ;Heli_East
 
-;Helicoper Aiming Points
+
+;Helicopter Parking Visitor
+"Visitor" N053.46.35.562 W003.02.32.881 smrStandHold
+"H1" N053.46.35.730 W003.02.34.410 smrStandHold
+"H2" N053.46.35.180 W003.02.34.280 smrStandHold
+"H3" N053.46.42.088 W003.02.13.496 smrStandHold
+
+;Helicopter Parking NPAS
+"NPAS" N053.46.34.568 W003.02.32.931 smrStandHold
+"H" N053.46.34.566 W003.02.34.253 smrStandHold
+
+;Heli_East
+"H" N053.46.43.930 W003.02.11.440 smrStandHold
+
+;Helicopter Aiming Points
 "H-East" N053.46.33.540 W003.02.11.670 smrStandHold
 "H-North" N053.46.30.420 W003.02.26.170 smrStandHold
 "H-South" N053.46.10.150 W003.02.08.390 smrStandHold

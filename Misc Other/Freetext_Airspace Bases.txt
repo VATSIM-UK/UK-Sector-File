@@ -24,8 +24,8 @@ N050.34.15.836:W003.28.03.263:Airspace Bases:FL65
 N050.20.33.362:W003.07.16.490:Airspace Bases - Conditional Berryhead CTA:FL105*
 ;Berry Head CTA 5 A FL85-FL195
 N050.12.00.682:W003.20.14.625:Airspace Bases:FL85
-;Berry Head CTA 6 A FL175-FL195
-N051.07.08.368:W007.22.58.000:Airspace Bases:FL175
+;Berry Head CTA 6 A FL135-FL195
+N051.07.08.368:W007.22.58.000:Airspace Bases:FL135
 ;Berry Head CTA 8 A FL105-FL195
 N050.51.51.126:W003.36.03.818:Airspace Bases:FL105
 ;Berry Head CTA 9 A FL145-FL195
@@ -372,10 +372,10 @@ N051.08.43.676:W001.28.15.645:Airspace Bases - Conditional Portsmouth CTA:FL65*
 N051.17.25.187:W001.15.29.807:Airspace Bases:FL65
 ;Portsmouth CTA 13 FL65-FL195
 N050.59.02.167:W001.35.15.383:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 15 FL65-FL195
+;Portsmouth CTA 15 FL65-FL105
 N051.17.48.260:W001.25.11.549:Airspace Bases - Conditional Portsmouth CTA:FL65*
-;Portsmouth CTA 16 FL65-FL195
-N051.19.48.260:W001.25.11.549:Airspace Bases:FL105
+;Portsmouth CTA 16 FL105-FL195
+;N051.19.48.260:W001.25.11.549:Airspace Bases:FL105 ;Label unused - TopSky shows this base (CTA 15 and CTA 16 co-incident).
 ;Portsmouth CTA 17 FL55-FL115
 N051.02.00.079:W001.28.05.996:Airspace Bases - Conditional Portsmouth CTA:FL55*
 ;Portsmouth CTA 18 FL55-FL95
