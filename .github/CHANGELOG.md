@@ -17,6 +17,7 @@
 16. AIRAC (2513) - Updated Newquay (EGHQ) runway headings - thanks to @shivam123-dev (Shivam Singh)
 17. AIRAC (2513) - Updated Jersey (EGJJ) runway headings - thanks to @clc0609 (Coby Chapman)
 18. AIRAC (2513) - Updated Humberside (EGNJ) runway headings - thanks to @clc0609 (Coby Chapman)
+x. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Deconfilction)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
