@@ -1,3 +1,4 @@
+x. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
