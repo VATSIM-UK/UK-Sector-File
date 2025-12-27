@@ -1,0 +1,12 @@
+COPX:EGLL:*:*:KONAN:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGLL:*:*:VABIK:*:London TC BIG:London S15:18000:*:^DVR
+
+COPX:EGWU:*:*:KONAN:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGWU:*:*:VABIK:*:London TC BIG:London S15:18000:*:^DVR
+
+COPX:EGKK:*:*:KONAN:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGKK:*:*:VABIK:*:London TC BIG:London S15:18000:*:^DVR
+COPX:EGKK:*:*:UTFAV:*:London TC BIG:London S15:18000:*:^UTFAV
+
+;Night time only EGSS departures
+COPX:EGSS:*:DVR:*:*:London TC BIG:London S15:18000:*:^DVR
