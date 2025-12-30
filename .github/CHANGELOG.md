@@ -1,3 +1,6 @@
+# Changes from release 2025/13 to 2026/01
+x. AIRAC (2513) - Removed taxiway F from Blackbushe (EGLK) - thanks to @lucak1011 (Luca Kulaga)
+
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
