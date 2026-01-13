@@ -1,3 +1,6 @@
+# Changes from release 2025/13 to 2026/01
+1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
+
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
@@ -17,7 +20,6 @@
 16. AIRAC (2513) - Updated Newquay (EGHQ) runway headings - thanks to @shivam123-dev (Shivam Singh)
 17. AIRAC (2513) - Updated Jersey (EGJJ) runway headings - thanks to @clc0609 (Coby Chapman)
 18. AIRAC (2513) - Updated Humberside (EGNJ) runway headings - thanks to @clc0609 (Coby Chapman)
-19. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
