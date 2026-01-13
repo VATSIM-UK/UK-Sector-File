@@ -1,6 +1,7 @@
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
+3. AIRAC (2513) - Updated Tiree (EGPU) runway headings - thanks to @Deconfilction (Sonny Nixon)
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
