@@ -4,6 +4,7 @@
 3. AIRAC (2513) - Updated Tiree (EGPU) runway headings - thanks to @Deconfilction (Sonny Nixon)
 4. AIRAC (2601) - Updated Leeds East (EGCM) runway headings - thanks to @shivam123-dev (Shivam Singh)
 5. AIRAC (2601) - Updated Luton (EGGW) runway headings - thanks to @shivam123-dev (Shivam Singh)
+6. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
