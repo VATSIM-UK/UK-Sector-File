@@ -1,4 +1,11 @@
-x. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
+# Changes from release 2025/13 to 2026/01
+1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
+2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
+3. AIRAC (2513) - Updated Tiree (EGPU) runway headings - thanks to @Deconfilction (Sonny Nixon)
+4. AIRAC (2601) - Updated Leeds East (EGCM) runway headings - thanks to @shivam123-dev (Shivam Singh)
+5. AIRAC (2601) - Updated Luton (EGGW) runway headings - thanks to @shivam123-dev (Shivam Singh)
+6. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
+
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
@@ -8,6 +15,16 @@ x. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Ki
 6. Bug - Fixed vertical profile for inbounds from AC Clacton (S13/S14) -> TC East (TC SABER) -> AC Dover (TC VATON)
 7. AIRAC (2512) - Revised Balder and Ekofisk CTA lateral limits (North Sea)
 8. AIRAC (2512) - Revised Daventry CTA lateral limits in the vicinity of VELAG
+9. AIRAC (2513) - Removed Redhill (EGKR) Hover Square - thanks to @clc0609 (Coby Chapman)
+10. AIRAC (2513) - Added new Newquay (EGHQ) Stands - thanks to @clc0609 (Coby Chapman)
+11. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2513) - Removed DMEs - thanks to @lyraongithub
+13. AIRAC (2513) - Added new MIDs for Wittering (EGXT) - thanks to @Liaely (Lily Unitt)
+14. AIRAC (2513) - Added holds A & B the Rochester (EGTO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongithub
+16. AIRAC (2513) - Updated Newquay (EGHQ) runway headings - thanks to @shivam123-dev (Shivam Singh)
+17. AIRAC (2513) - Updated Jersey (EGJJ) runway headings - thanks to @clc0609 (Coby Chapman)
+18. AIRAC (2513) - Updated Humberside (EGNJ) runway headings - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
