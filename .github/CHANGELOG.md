@@ -5,6 +5,7 @@
 4. AIRAC (2601) - Updated Leeds East (EGCM) runway headings - thanks to @shivam123-dev (Shivam Singh)
 5. AIRAC (2601) - Updated Luton (EGGW) runway headings - thanks to @shivam123-dev (Shivam Singh)
 6. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
+7. Procedure Change (2601) - Belux LoA (2026/01) implementation of Brussels Low position and EBOS_APP frequency change
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
