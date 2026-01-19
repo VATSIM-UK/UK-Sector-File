@@ -2,6 +2,7 @@
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
 3. AIRAC (2513) - Updated Tiree (EGPU) runway headings - thanks to @Deconfilction (Sonny Nixon)
+x. Enhancement - Redrew Blackbushe (EGLK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
