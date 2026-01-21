@@ -1,3 +1,5 @@
+x. AIRAC (2601) - Updated Guernsey (EGJB) runway headings - thanks to @lyraongithub
+
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
