@@ -9,6 +9,7 @@
 8. Procedure Change (2601) - Introduced 'Worthing-only' position (LON_H_CTR) - thanks to @ricky-gag38 (Riccardo Gagliardi)
 9. Procedure Change (2601) - Revised London AC Bandbox (LON_CTR) frequency - thanks to @ricky-gag38 (Riccardo Gagliardi)
 10. AIRAC (2601) - Defined Lakenheath (EGUL) arrival and departure procedures - thanks to @Liaely (Lily Unitt)
+11. AIRAC (2601) - Defined Mildenhall (EGUN) arrival and departure procedures - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
