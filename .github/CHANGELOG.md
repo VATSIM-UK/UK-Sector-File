@@ -14,6 +14,7 @@
 13. AIRAC (2601) - Updated Gatwick (EGKK) Pier 6 stand numbers - thanks to @olivercesarczyk (Oliver Cesarczyk)
 14. AIRAC (2601) - Updated Daventry Radar Corridor lateral dimensions - thanks to @ricky-gag38 (Riccardo Gagliardi)
 15. AIRAC (2601) - Defined danger areas EGD714A/B - thanks to @Liaely (Lily Unitt)
+16. AIRAC (2601) - Defined restricted area EGR161 - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
