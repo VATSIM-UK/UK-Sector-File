@@ -1,1 +1,1 @@
-EBOS_APP:Ostend Approach:120.600:EBOS:-:EBOS:APP:-:-:7160:7170
+EBOS_APP:Ostend Approach:120.605:EBOS:-:EBOS:APP:-:-:7160:7170
