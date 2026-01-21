@@ -20,6 +20,7 @@
 19. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraongithub
 20. AIRAC (2601) - Removed center stands 50-63 on Stansted (EGSS) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 21. AIRAC (2601) - Updated Farnborough (EGLF) runway headings - thanks to @ricky-gag38 (Riccardo Gagliardi)
+22. Procedure Change (2601) - Add split ATIS frequencies for Manchester & Heathrow (EGCC & EGLL) & reassign Manchester (EGCC) planner freq
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
