@@ -1,5 +1,3 @@
-x. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraongithub
-
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
@@ -19,6 +17,7 @@ x. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraon
 16. AIRAC (2601) - Defined restricted area EGR161 - thanks to @Liaely (Lily Unitt)
 17. AIRAC (2601) - Updated Fairford (EGVA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 18. AIRAC (2602) - Updated Guernsey (EGJB) runway headings - thanks to @lyraongithub
+19. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraongithub
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
