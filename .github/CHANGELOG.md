@@ -18,6 +18,7 @@
 17. AIRAC (2601) - Updated Fairford (EGVA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 18. AIRAC (2602) - Updated Guernsey (EGJB) runway headings - thanks to @lyraongithub
 19. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraongithub
+20. AIRAC (2601) - Removed center stands 50-63 on Stansted (EGSS) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
