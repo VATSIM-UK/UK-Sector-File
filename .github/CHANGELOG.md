@@ -1,3 +1,30 @@
+# Changes from release 2026/01 to 2026/02
+1. Enhancement - Implemented Salisbury Information - thanks to @mid-archie (Archie Middlefell)
+
+# Changes from release 2025/13 to 2026/01
+1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
+2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
+3. AIRAC (2513) - Updated Tiree (EGPU) runway headings - thanks to @Deconfilction (Sonny Nixon)
+4. AIRAC (2601) - Updated Leeds East (EGCM) runway headings - thanks to @shivam123-dev (Shivam Singh)
+5. AIRAC (2601) - Updated Luton (EGGW) runway headings - thanks to @shivam123-dev (Shivam Singh)
+6. AIRAC (2601) - Updated Lydd (EGMD) runway headings - thanks to @Kishan-95 (Kishan Maurya)
+7. Procedure Change (2601) - Belux LoA (2026/01) implementation of Brussels Low position and EBOS_APP frequency change
+8. Procedure Change (2601) - Introduced 'Worthing-only' position (LON_H_CTR) - thanks to @ricky-gag38 (Riccardo Gagliardi)
+9. Procedure Change (2601) - Revised London AC Bandbox (LON_CTR) frequency - thanks to @ricky-gag38 (Riccardo Gagliardi)
+10. AIRAC (2601) - Defined Lakenheath (EGUL) arrival and departure procedures - thanks to @Liaely (Lily Unitt)
+11. AIRAC (2601) - Defined Mildenhall (EGUN) arrival and departure procedures - thanks to @Liaely (Lily Unitt)
+12. Enhancement - Redrew Blackbushe (EGLK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+13. AIRAC (2601) - Updated Gatwick (EGKK) Pier 6 stand numbers - thanks to @olivercesarczyk (Oliver Cesarczyk)
+14. AIRAC (2601) - Updated Daventry Radar Corridor lateral dimensions - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. AIRAC (2601) - Defined danger areas EGD714A/B - thanks to @Liaely (Lily Unitt)
+16. AIRAC (2601) - Defined restricted area EGR161 - thanks to @Liaely (Lily Unitt)
+17. AIRAC (2601) - Updated Fairford (EGVA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+18. AIRAC (2602) - Updated Guernsey (EGJB) runway headings - thanks to @lyraongithub
+19. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraongithub
+20. AIRAC (2601) - Removed center stands 50-63 on Stansted (EGSS) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+21. AIRAC (2601) - Updated Farnborough (EGLF) runway headings - thanks to @ricky-gag38 (Riccardo Gagliardi)
+22. Procedure Change (2601) - Add split ATIS frequencies for Manchester & Heathrow (EGCC & EGLL) & reassign Manchester (EGCC) planner freq
+
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
@@ -7,7 +34,16 @@
 6. Bug - Fixed vertical profile for inbounds from AC Clacton (S13/S14) -> TC East (TC SABER) -> AC Dover (TC VATON)
 7. AIRAC (2512) - Revised Balder and Ekofisk CTA lateral limits (North Sea)
 8. AIRAC (2512) - Revised Daventry CTA lateral limits in the vicinity of VELAG
-9. Enhancement - Implemented Salisbury Information - thanks to @mid-archie (Archie Middlefell)
+9. AIRAC (2513) - Removed Redhill (EGKR) Hover Square - thanks to @clc0609 (Coby Chapman)
+10. AIRAC (2513) - Added new Newquay (EGHQ) Stands - thanks to @clc0609 (Coby Chapman)
+11. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2513) - Removed DMEs - thanks to @lyraongithub
+13. AIRAC (2513) - Added new MIDs for Wittering (EGXT) - thanks to @Liaely (Lily Unitt)
+14. AIRAC (2513) - Added holds A & B the Rochester (EGTO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. AIRAC (2513) - Updated Heathrow (EGLL) runway headings - thanks to @lyraongithub
+16. AIRAC (2513) - Updated Newquay (EGHQ) runway headings - thanks to @shivam123-dev (Shivam Singh)
+17. AIRAC (2513) - Updated Jersey (EGJJ) runway headings - thanks to @clc0609 (Coby Chapman)
+18. AIRAC (2513) - Updated Humberside (EGNJ) runway headings - thanks to @clc0609 (Coby Chapman)
 
 # Changes from release 2025/11a to 2025/12
 1. AIRAC (2512) - Added Ventnor (VNR) DME - thanks to @lucak1011 (Luca Kulaga)
