@@ -1,3 +1,6 @@
+# Changes from release 2026/01 to 2026/02
+1. Enhancement - Implemented Salisbury Information - thanks to @mid-archie (Archie Middlefell)
+
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
