@@ -8,7 +8,7 @@
 *M90 J4 (Kelty):N056.07.47.000:W003.23.39.000
 *Kirkcaldy Harbour:N056.06.50.000:W003.09.00.000
 *M9 J1A (Kirkliston):N055.57.18.000:W003.25.08.000
-*Kirknewton:N055.53.15.000:W003.25.05.000
+*Kirknewton Rail Stn:N055.53.20.600:W003.26.00.200
 *Longannet Power Stn:N056.02.56.000:W003.40.57.000
 *Musselburgh Racecourse:N055.56.50.000:W003.02.25.000
 *Penicuik:N055.49.55.000:W003.13.25.000
