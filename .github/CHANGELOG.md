@@ -2,6 +2,7 @@
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2602) - Updated Scilly Isles (EGHE) runway headings - thanks to @anonihunter (Abhishek Kumar)
 3. AIRAC (2602) - Updated Jersey Control (EGJJ_S_APP) frequency - thanks to @lyraongithub
+4. Procedure Change - Implemented Polaris 2026/02 LoA: new ENOR frequencies and removal of EURN_FSS
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
