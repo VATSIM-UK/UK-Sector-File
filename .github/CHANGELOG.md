@@ -1,3 +1,7 @@
+# Changes from release 2026/01 to 2026/02
+1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
+2. AIRAC (2602) - Updated Scilly Isles (EGHE) runway headings - thanks to @anonihunter (Abhishek Kumar)
+
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
 2. AIRAC (2513) - Updated St Athan (EGSY) runway headings - thanks to @deconfilction (Sonny Nixon)
@@ -10,8 +14,17 @@
 9. Procedure Change (2601) - Revised London AC Bandbox (LON_CTR) frequency - thanks to @ricky-gag38 (Riccardo Gagliardi)
 10. AIRAC (2601) - Defined Lakenheath (EGUL) arrival and departure procedures - thanks to @Liaely (Lily Unitt)
 11. AIRAC (2601) - Defined Mildenhall (EGUN) arrival and departure procedures - thanks to @Liaely (Lily Unitt)
-12. AIRAC (2602) - Updated Scilly Isles (EGHE) runway headings - thanks to @anonihunter (Abhishek Kumar)
-
+12. Enhancement - Redrew Blackbushe (EGLK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+13. AIRAC (2601) - Updated Gatwick (EGKK) Pier 6 stand numbers - thanks to @olivercesarczyk (Oliver Cesarczyk)
+14. AIRAC (2601) - Updated Daventry Radar Corridor lateral dimensions - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. AIRAC (2601) - Defined danger areas EGD714A/B - thanks to @Liaely (Lily Unitt)
+16. AIRAC (2601) - Defined restricted area EGR161 - thanks to @Liaely (Lily Unitt)
+17. AIRAC (2601) - Updated Fairford (EGVA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+18. AIRAC (2602) - Updated Guernsey (EGJB) runway headings - thanks to @lyraongithub
+19. AIRAC (2601) - Updated Eglinton (EGAE) approach frequency - thanks to @lyraongithub
+20. AIRAC (2601) - Removed center stands 50-63 on Stansted (EGSS) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+21. AIRAC (2601) - Updated Farnborough (EGLF) runway headings - thanks to @ricky-gag38 (Riccardo Gagliardi)
+22. Procedure Change (2601) - Add split ATIS frequencies for Manchester & Heathrow (EGCC & EGLL) & reassign Manchester (EGCC) planner freq
 
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
