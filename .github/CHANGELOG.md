@@ -1,3 +1,5 @@
+x. AIRAC (2602) - Defined Bakston Heath (EGYE) RNAV MIDs & RNPs - thanks to @lyraongithub
+
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2602) - Updated Scilly Isles (EGHE) runway headings - thanks to @anonihunter (Abhishek Kumar)
