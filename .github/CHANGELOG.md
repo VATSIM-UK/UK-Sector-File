@@ -1,7 +1,5 @@
-x. AIRAC (2603) - Updated Birmingham (EGBB) STARs
-x. AIRAC (2603) - Updated East Midlands (EGNX) STARs
-x. AIRAC (2603) - Updated Glasgow (EGPF) STARs
-x. AIRAC (2603) - Updated Prestwick (EGPK) STARs
+x. AIRAC (2603) - FRA D3 - Revised Birmingham (EGBB) & East Midlands (EGNX) STARs: BEGAM STARs replaced by OMENU STARs
+x. AIRAC (2603) - FRA D3 - Revised Glasgow (EGPF) & Prestwick (EGPK) STARs: APPLE & RIBEL STARs replaced by ASLIB STARs
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
