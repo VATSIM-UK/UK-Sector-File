@@ -1,0 +1,6 @@
+;Holding Points
+"B" N051.40.58.282 W001.46.04.214 smrStandHold
+"A" N051.41.06.331 W001.46.01.328 smrStandHold
+"D" N051.40.56.237 W001.47.42.154 smrStandHold
+"E" N051.40.55.905 W001.48.26.145 smrStandHold
+"B" N051.40.56.617 W001.48.36.662 smrStandHold
