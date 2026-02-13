@@ -1,7 +1,11 @@
 ;MID Fixes
 IMFIZ N053.15.55.750 W000.17.00.540
+UFKAH N052.49.33.560 W000.15.55.400
 VEPDE N053.02.19.480 W000.22.32.370
-YDS01 N052.55.07.780 W000.37.27.910
+YDE01 N053.06.38.440 W000.20.47.500
+YDN01 N053.04.30.850 W000.28.20.890
+YDS0119 N053.00.11.03 W000.29.22.990 ; Has the the same identifier on the charts as YDS0126 (YDS01) but is a different geographic point used on the UFKAH departure
+YDS0126 N052.55.07.78 W000.37.27.910 ; Has the the same identifier on the charts as YDS0119 (YDS01) but is a different geographic point used on the IMFIZ departure
 YDS02 N052.56.04.650 W000.25.03.950
 YDW01 N053.01.04.340 W000.38.43.400
 
