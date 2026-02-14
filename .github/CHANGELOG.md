@@ -1,3 +1,5 @@
+x. Enhancement - Updated Inverness (EGPE) extended centreline - thanks to @spacenano (Samuel Lefevre)
+
 # Changes from release 2025/12 to 2025/13
 1. Enhancement - Added Redhill (EGKR) low flying area - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2513) - Updated EGR219 lateral limits - thanks to @Liaely (Lily Unitt)
