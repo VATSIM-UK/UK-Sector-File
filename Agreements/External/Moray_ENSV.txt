@@ -1,0 +1,20 @@
+FIR_COPX:*:*:PEPIN:*:*:Moray High:ENSV (S15):*:*:PEPIN
+FIR_COPX:*:*:PEPIN:*:*:Moray Low:ENSV (S15):*:*:PEPIN
+
+FIR_COPX:*:*:ORVIK:*:*:Moray High:ENSV (S15):*:*:ORVIK
+FIR_COPX:*:*:ORVIK:*:*:Moray Low:ENSV (S15):*:*:ORVIK
+
+FIR_COPX:*:*:BEREP:*:*:Moray High:ENSV (S15):*:*:BEREP
+FIR_COPX:*:*:BEREP:*:*:Moray Low:ENSV (S15):*:*:BEREP
+
+FIR_COPX:*:*:RIGVU:*:*:Moray High:ENSV (S15):*:*:RIGVU
+FIR_COPX:*:*:RIGVU:*:*:Moray Low:ENSV (S15):*:*:RIGVU
+
+FIR_COPX:*:*:KLONN:*:*:Moray High:ENSV (S10 and S11):*:*:KLONN
+FIR_COPX:*:*:KLONN:*:*:Moray Low:ENSV (S10 and S11):*:*:KLONN
+
+FIR_COPX:*:*:ALOTI:*:*:Moray High:ENSV (S10 and S11):*:*:ALOTI
+FIR_COPX:*:*:ALOTI:*:*:Moray Low:ENSV (S10 and S11):*:*:ALOTI
+
+FIR_COPX:*:*:NIVUN:*:*:Moray High:ENSV (S10 and S11):*:*:NIVUN
+FIR_COPX:*:*:NIVUN:*:*:Moray Low:ENSV (S10 and S11):*:*:NIVUN
