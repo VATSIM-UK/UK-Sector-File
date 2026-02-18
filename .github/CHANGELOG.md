@@ -5,8 +5,14 @@
 4. Bug - Corrected Inverness (EGPE) SMAA Labels for area A and E - thanks to @PLM1995
 5. Procedure Change - Implemented Polaris 2026/02 LoA: new ENOR frequencies and removal of EURN_FSS
 6. Enhancement - Implemented Salisbury Information - thanks to @mid-archie (Archie Middlefell)
-7. Bug- Fixed Mildenhall (EGUN) MATZ Sector Ownership - thanks to @ricky-gag38 (Riccardo Gagliardi)
-8. Procedure Change - Add Biggin Hill (EGKB) ground - thanks to @lucak1011 (Luca Kulaga)
+7. Bug - Fixed Mildenhall (EGUN) MATZ Sector Ownership - thanks to @ricky-gag38 (Riccardo Gagliardi)
+8. Enhancement - Updated Inverness (EGPE) extended centrelines - thanks to @spacenano (Samuel Lefevre)
+9. AIRAC (2602) - Add the extension of E on the Manchester (EGCC) SMR
+10. AIRAC (2602) - Updated Liverpool (EGGP) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+11. AIRAC (2602) - Defined restricted area EGR162 - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2602) - Defined Cranwell (EGYD) RNAV MIDs - thanks to @lucutz1234
+13. AIRAC (2602) - Defined Barkston Heath (EGYE) RNAV MIDs & RNPs - thanks to @lyraongithub
+14. Procedure Change - Added Biggin Hill (EGKB) ground - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
