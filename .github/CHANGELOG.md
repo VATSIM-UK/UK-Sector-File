@@ -5,7 +5,8 @@
 4. Bug - Corrected Inverness (EGPE) SMAA Labels for area A and E - thanks to @PLM1995
 5. Procedure Change - Implemented Polaris 2026/02 LoA: new ENOR frequencies and removal of EURN_FSS
 6. Enhancement - Implemented Salisbury Information - thanks to @mid-archie (Archie Middlefell)
-7. Bug- Fixed Mildenhall (EGUN) MATZ Sector Ownership - thanks to @ricky-gag38 (Riccardo Gagliardi)
+7. Bug - Fixed Mildenhall (EGUN) MATZ Sector Ownership - thanks to @ricky-gag38 (Riccardo Gagliardi)
+8. AIRAC (2602) - Add the extention of E on the Manchester (EGCC) SMR
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
