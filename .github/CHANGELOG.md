@@ -1,5 +1,3 @@
-x. AIRAC (2602) - Defined Bakston Heath (EGYE) RNAV MIDs & RNPs - thanks to @lyraongithub
-
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2602) - Updated Scilly Isles (EGHE) runway headings - thanks to @anonihunter (Abhishek Kumar)
@@ -13,6 +11,7 @@ x. AIRAC (2602) - Defined Bakston Heath (EGYE) RNAV MIDs & RNPs - thanks to @lyr
 10. AIRAC (2602) - Updated Liverpool (EGGP) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 11. AIRAC (2602) - Defined restricted area EGR162 - thanks to @ricky-gag38 (Riccardo Gagliardi)
 12. AIRAC (2602) - Defined Cranwell (EGYD) RNAV MIDs - thanks to @lucutz1234
+13. AIRAC (2602) - Defined Bakston Heath (EGYE) RNAV MIDs & RNPs - thanks to @lyraongithub
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
