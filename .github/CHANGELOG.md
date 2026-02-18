@@ -9,6 +9,7 @@
 8. Enhancement - Updated Inverness (EGPE) extended centrelines - thanks to @spacenano (Samuel Lefevre)
 9. AIRAC (2602) - Add the extension of E on the Manchester (EGCC) SMR
 10. AIRAC (2602) - Updated Liverpool (EGGP) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+11. AIRAC (2602) - Defined restricted area EGR162 - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
