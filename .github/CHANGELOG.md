@@ -1,4 +1,4 @@
-x. AIRAC (2603) - Redesignate Manchester (EGCC) TILNI Stars to TILNI2M
+x. AIRAC (2603) - Redesignated Manchester (EGCC) TILNI Stars to TILNI2M
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
