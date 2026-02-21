@@ -1,4 +1,4 @@
-x. AIRAC (2603) - Updated HAW NDB Coordinates
+x. AIRAC (2603) - Updated HAW (Hawarden) NDB Coordinate
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
