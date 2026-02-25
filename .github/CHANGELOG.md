@@ -14,6 +14,7 @@
 13. AIRAC (2602) - Defined Barkston Heath (EGYE) RNAV MIDs & RNPs - thanks to @lyraongithub
 14. Procedure Change - Added Biggin Hill (EGKB) ground - thanks to @lucak1011 (Luca Kulaga)
 15. Procedure Change - Added Biggin Hill (EGKB) RNP approach fixes - thanks to @lucak1011 (Luca Kulaga)
+16 - AIRAC (2604) - Update Biggin Kill (EGKB) runway magnetic headings - thanks to @JYang365 (John Yang)
 
 # Changes from release 2025/13 to 2026/01
 1. AIRAC (2513) - Updated Shoreham (EGKA) runway headings - thanks to @deconfilction (Sonny Nixon)
