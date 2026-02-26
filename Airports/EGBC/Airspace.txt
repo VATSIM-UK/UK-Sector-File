@@ -1,0 +1,2 @@
+;EGBC Cheltenham RA
+@ARC(region EGBC Cheltenham RA centre N051.55.33.000 W002.03.16.000 radius 2)
