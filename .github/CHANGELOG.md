@@ -1,3 +1,6 @@
+# Changes from release 2026/02 to 2026/03
+x. AIRAC (2603) - Updated Cranwell (EGYD) RNAV MID intermediate point designations - thanks to @deconfilction (Sonny Nixon)
+
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
 2. AIRAC (2602) - Updated Scilly Isles (EGHE) runway headings - thanks to @anonihunter (Abhishek Kumar)
