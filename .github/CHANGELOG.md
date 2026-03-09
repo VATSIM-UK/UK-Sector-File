@@ -4,6 +4,7 @@
 3. AIRAC (2603) - FRA D3 - Revised Birmingham (EGBB) & East Midlands (EGNX) STARs: BEGAM STARs replaced by OMENU STARs
 4. AIRAC (2603) - FRA D3 - Revised Glasgow (EGPF) & Prestwick (EGPK) STARs: APPLE & RIBEL STARs replaced by ASLIB STARs
 5. AIRAC (2603) - Updated CTA 10/11/12 boundaries - thanks to @lucak1011 (Luca Kulaga)
+6. AIRAC (2603) - Updated Halton (EGWN) ARP location - thanks to @JYang365 (John Yang)
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
