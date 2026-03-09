@@ -1,5 +1,6 @@
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
+2. AIRAC (2603) - Redesignated Manchester (EGCC) TILNI Stars to TILNI2M
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
