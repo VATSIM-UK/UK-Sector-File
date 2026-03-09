@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ImpExpConfiguration>
+    <FeaturesFilter otherFeatures="EXCLUDE">
+        <Feature name="Ase">
+            <Include>
+                <FilterCondition>
+                    <LogicalCondition Operator="And">
+                        <LogicalCondition Operator="Or">
+                            <SimpleCondition Operator="Like" Property="codeId">
+                                <Value>%EGTT%</Value>
+                            </SimpleCondition>
+                            <SimpleCondition Operator="Like" Property="codeId">
+                                <Value>%EGPX%</Value>
+                            </SimpleCondition>
+                        </LogicalCondition>
+                        <SimpleCondition Operator="Equals" Property="codeType">
+                            <Value>PART</Value>
+                        </SimpleCondition>
+                        <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                            <Value>%RMA%</Value>
+                        </SimpleCondition>
+                        <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                            <Value>%DELEGATION%</Value>
+                        </SimpleCondition>
+                        <SimpleCondition Operator="NotLike" Property="txtName">
+                            <Value>%SWANWICK TC%</Value>
+                        </SimpleCondition>
+                    </LogicalCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Ser">
+            <Include>
+                <FilterCondition>
+                    <LogicalCondition Operator="And">
+                        <SimpleCondition Operator="Equals" Property="codeType">
+                            <Value>ACS</Value>
+                        </SimpleCondition>
+                        <RelationSubCondition EntityName="SERVICE_IN_AIRSPACE">
+                            <RelationSubCondition EntityName="AIRSPACE">
+                                <LogicalCondition Operator="And">
+                                    <LogicalCondition Operator="Or">
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGTT%</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGPX%</Value>
+                                        </SimpleCondition>
+                                    </LogicalCondition>
+                                    <SimpleCondition Operator="Equals" Property="codeType">
+                                        <Value>PART</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%RMA%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%DELEGATION%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtName">
+                                        <Value>%SWANWICK TC%</Value>
+                                    </SimpleCondition>
+                                </LogicalCondition>
+                            </RelationSubCondition>
+                        </RelationSubCondition>
+                        <SimpleCondition Operator="Equals" Property="codeTypeSer">
+                            <Value>AirTrafficControlService</Value>
+                        </SimpleCondition>
+                    </LogicalCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Uni">
+            <Include>
+                <FilterCondition>
+                    <LogicalCondition Operator="Or">
+                        <SimpleCondition Operator="Equals" Property="txtName">
+                            <Value>LONDON ACC</Value>
+                        </SimpleCondition>
+                        <SimpleCondition Operator="Equals" Property="txtName">
+                            <Value>SCOTTISH ACC</Value>
+                        </SimpleCondition>
+                    </LogicalCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Fqy">
+            <Include>
+                <FilterCondition>
+                    <RelationSubCondition EntityName="SERVICE_FREQUENCY">
+                        <RelationSubCondition EntityName="SERVICE">
+                            <RelationSubCondition EntityName="SERVICE_IN_AIRSPACE">
+                                <RelationSubCondition EntityName="AIRSPACE">
+                                    <LogicalCondition Operator="And">
+                                        <LogicalCondition Operator="Or">
+                                            <SimpleCondition Operator="Like" Property="codeId">
+                                                <Value>%EGTT%</Value>
+                                            </SimpleCondition>
+                                            <SimpleCondition Operator="Like" Property="codeId">
+                                                <Value>%EGPX%</Value>
+                                            </SimpleCondition>
+                                        </LogicalCondition>
+                                        <SimpleCondition Operator="Equals" Property="codeType">
+                                            <Value>PART</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                            <Value>%RMA%</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                            <Value>%DELEGATION%</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="NotLike" Property="txtName">
+                                            <Value>%SWANWICK TC%</Value>
+                                        </SimpleCondition>
+                                    </LogicalCondition>
+                                </RelationSubCondition>
+                            </RelationSubCondition>
+                        </RelationSubCondition>
+                    </RelationSubCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Sfq">
+            <Include>
+                <FilterCondition>
+                    <RelationSubCondition EntityName="SERVICE">
+                        <RelationSubCondition EntityName="SERVICE_IN_AIRSPACE">
+                            <RelationSubCondition EntityName="AIRSPACE">
+                                <LogicalCondition Operator="And">
+                                    <LogicalCondition Operator="Or">
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGTT%</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGPX%</Value>
+                                        </SimpleCondition>
+                                    </LogicalCondition>
+                                    <SimpleCondition Operator="Equals" Property="codeType">
+                                        <Value>PART</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%RMA%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%DELEGATION%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtName">
+                                        <Value>%SWANWICK TC%</Value>
+                                    </SimpleCondition>
+                                </LogicalCondition>
+                            </RelationSubCondition>
+                        </RelationSubCondition>
+                    </RelationSubCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Sae">
+            <Include>
+                <FilterCondition>
+                    <RelationSubCondition EntityName="AIRSPACE">
+                        <LogicalCondition Operator="And">
+                            <LogicalCondition Operator="Or">
+                                <SimpleCondition Operator="Like" Property="codeId">
+                                    <Value>%EGTT%</Value>
+                                </SimpleCondition>
+                                <SimpleCondition Operator="Like" Property="codeId">
+                                    <Value>%EGPX%</Value>
+                                </SimpleCondition>
+                            </LogicalCondition>
+                            <SimpleCondition Operator="Equals" Property="codeType">
+                                <Value>PART</Value>
+                            </SimpleCondition>
+                            <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                <Value>%RMA%</Value>
+                            </SimpleCondition>
+                            <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                <Value>%DELEGATION%</Value>
+                            </SimpleCondition>
+                            <SimpleCondition Operator="NotLike" Property="txtName">
+                                <Value>%SWANWICK TC%</Value>
+                            </SimpleCondition>
+                        </LogicalCondition>
+                    </RelationSubCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Cdl">
+            <Include>
+                <FilterCondition>
+                    <RelationSubCondition EntityName="SERVICE">
+                        <RelationSubCondition EntityName="SERVICE_IN_AIRSPACE">
+                            <RelationSubCondition EntityName="AIRSPACE">
+                                <LogicalCondition Operator="And">
+                                    <LogicalCondition Operator="Or">
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGTT%</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGPX%</Value>
+                                        </SimpleCondition>
+                                    </LogicalCondition>
+                                    <SimpleCondition Operator="Equals" Property="codeType">
+                                        <Value>PART</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%RMA%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%DELEGATION%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtName">
+                                        <Value>%SWANWICK TC%</Value>
+                                    </SimpleCondition>
+                                </LogicalCondition>
+                            </RelationSubCondition>
+                        </RelationSubCondition>
+                    </RelationSubCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+        <Feature name="Ses">
+            <Include>
+                <FilterCondition>
+                    <RelationSubCondition EntityName="SERVICE">
+                        <RelationSubCondition EntityName="SERVICE_IN_AIRSPACE">
+                            <RelationSubCondition EntityName="AIRSPACE">
+                                <LogicalCondition Operator="And">
+                                    <LogicalCondition Operator="Or">
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGTT%</Value>
+                                        </SimpleCondition>
+                                        <SimpleCondition Operator="Like" Property="codeId">
+                                            <Value>%EGPX%</Value>
+                                        </SimpleCondition>
+                                    </LogicalCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%RMA%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtLocalType">
+                                        <Value>%DELEGATED%</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="Equals" Property="codeType">
+                                        <Value>PART</Value>
+                                    </SimpleCondition>
+                                    <SimpleCondition Operator="NotLike" Property="txtName">
+                                        <Value>%SWANWICK TC%</Value>
+                                    </SimpleCondition>
+                                </LogicalCondition>
+                            </RelationSubCondition>
+                        </RelationSubCondition>
+                    </RelationSubCondition>
+                </FilterCondition>
+            </Include>
+        </Feature>
+    </FeaturesFilter>
+    <FilterParameters/>
+</ImpExpConfiguration>
