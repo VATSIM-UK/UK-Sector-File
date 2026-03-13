@@ -8,6 +8,12 @@
 7. AIRAC (2603) - Updated Wick (EGPC) runway headings - thanks to @crispy411 (Brandon Crisp)
 8. AIRAC (2603) - Updated Cranwell (EGYD) RNAV MID intermediate point designations - thanks to @deconfilction (Sonny Nixon)
 9. Bug - Changed ODNEK to ESHIN - thanks to @lucak1011 (Luca Kulaga)
+10. AIRAC (2603) - FRA Deployment 3 - Removed old fixes - thanks to @ricky-gag38 (Riccardo Gagliardi)
+11. AIRAC (2603) - FRA Deployment 3 - Added new fixes OMENU and KEFTE - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2603) - FRA Deployment 3 - Removed old ATS routes - thanks to @ricky-gag38 (Riccardo Gagliardi)
+13. AIRAC (2603) - FRA Deployment 3 - Amended ATS routes - thanks to @ricky-gag38 (Riccardo Gagliardi)
+14. AIRAC (2603) - FRA Deployment 3 - Updated EGPX Free Route Airspace (FRA) boundary - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. AIRAC (2603) - FRA Deployment 3 - Archived COPX between London S10 and Humber at ROVNI - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
