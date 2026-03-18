@@ -1,8 +1,8 @@
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
 2. AIRAC (2603) - Redesignated Manchester (EGCC) TILNI Stars to TILNI2M
-3. AIRAC (2603) - FRA D3 - Revised Birmingham (EGBB) & East Midlands (EGNX) STARs: BEGAM STARs replaced by OMENU STARs
-4. AIRAC (2603) - FRA D3 - Revised Glasgow (EGPF) & Prestwick (EGPK) STARs: APPLE & RIBEL STARs replaced by ASLIB STARs
+3. AIRAC (2603) - FRA Deployment 3 - Revised Birmingham (EGBB) & East Midlands (EGNX) STARs: BEGAM STARs replaced by OMENU STARs
+4. AIRAC (2603) - FRA Deployment 3 - Revised Glasgow (EGPF) & Prestwick (EGPK) STARs: APPLE & RIBEL STARs replaced by ASLIB STARs
 5. AIRAC (2603) - Updated CTA 10/11/12 boundaries - thanks to @lucak1011 (Luca Kulaga)
 6. AIRAC (2603) - Updated Halton (EGWN) ARP location - thanks to @JYang365 (John Yang)
 7. AIRAC (2603) - Updated Wick (EGPC) runway headings - thanks to @crispy411 (Brandon Crisp)
@@ -16,6 +16,7 @@
 15. AIRAC (2603) - FRA Deployment 3 - Archived COPX between London S10 and Humber at ROVNI - thanks to @ricky-gag38 (Riccardo Gagliardi)
 16. AIRAC (2603) - Updated Islay (EGPI) runway headings - thanks to @deconfilction (Sonny Nixon)
 17. AIRAC (2603) - Defined Boscombe Down (EGDM) RNP approaches - thanks to @JYang365 (John Yang)
+18. AIRAC (2603) - Updated HAW (Hawarden) NDB coordinates
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
