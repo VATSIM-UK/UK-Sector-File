@@ -4,4 +4,6 @@ FIR_COPX:*:*:*:ADGEG:*:Humber:London S10:*:*:ADGEG14
 
 FIR_COPX:*:*:*:ELNAB:*:Humber:London S10:*:*:ELNAB25
 
-FIR_COPX:*:*:*:ROVNI:*:Humber:London S10:*:*:ROVNI5
+;Withdrawn 2026/03 (FRA D3)
+
+FIR_COPX:*:*:*:ROVNI:*:Humber:London S10:*:*:#ROVNI5
