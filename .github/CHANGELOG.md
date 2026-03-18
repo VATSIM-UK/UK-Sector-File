@@ -19,6 +19,7 @@
 18. AIRAC (2603) - Updated HAW (Hawarden) NDB coordinates
 19. AIRAC (2603) - Amended Aldergrove (EGAA) Radar and Tower frequencies (8.33 conversion) - thanks to @epicdemon99 (Nathaniel Leff)
 20. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+21. AIRAC (2603) - Updated Gloucestershire (EGBJ) SMR holding points - thanks to @19wintersp (Patrick Winters)
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
