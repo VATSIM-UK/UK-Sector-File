@@ -15,6 +15,7 @@
 14. AIRAC (2603) - FRA Deployment 3 - Updated EGPX Free Route Airspace (FRA) boundary - thanks to @ricky-gag38 (Riccardo Gagliardi)
 15. AIRAC (2603) - FRA Deployment 3 - Archived COPX between London S10 and Humber at ROVNI - thanks to @ricky-gag38 (Riccardo Gagliardi)
 16. AIRAC (2603) - Updated Islay (EGPI) runway headings - thanks to @deconfilction (Sonny Nixon)
+17. AIRAC (2603) - Defined Boscombe Down (EGDM) RNP approaches - thanks to @JYang365 (John Yang)
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
