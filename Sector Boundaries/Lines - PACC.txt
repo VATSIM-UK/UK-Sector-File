@@ -350,15 +350,12 @@ DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Westcoast (Central)
 COORD:N059.20.00.000:W010.00.00.000
 COORD:N058.53.14.000:W008.15.58.000
 
-SECTORLINE:Cen_Heb 2
-DISPLAY:Central:Central:Hebrides High
-DISPLAY:Hebrides High:Hebrides High:Central
-DISPLAY:Westcoast (Central):Westcoast (Central):Westcoast (Hebrides Low)
-DISPLAY:Westcoast (Hebrides Low):Westcoast (Hebrides Low):Westcoast (Central)
+SECTORLINE:CenHigh_HebNHigh
+DISPLAY:
+COORD:N059.20.00.000:W010.00.00.000
 COORD:N058.53.14.000:W008.15.58.000
-COORD:N058.47.06.000:W008.03.18.000
-COORD:N058.01.37.000:W006.29.19.000
-COORD:N057.15.04.000:W005.36.33.000
+COORD:N058.17.00.000:W007.01.24.000
+COORD:N057.39.30.000:W006.16.19.000
 
 SECTORLINE:Cen_EGGX
 DISPLAY:Central:Central:EGGX
