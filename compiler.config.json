@@ -228,39 +228,35 @@
             "ownership": [
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/TC - LTC"
+                    "folder": "Sector Ownership/LTC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/TC - MPC"
+                    "folder": "Sector Ownership/MPC"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/TC - STC"
+                    "folder": "Sector Ownership/Scottish Lower"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/AC - Central"
+                    "folder": "Sector Ownership/LAC Central"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/AC - North"
+                    "folder": "Sector Ownership/LAC North"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/AC - South"
+                    "folder": "Sector Ownership/LAC South"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/AC - West"
+                    "folder": "Sector Ownership/LAC West"
                 },
                 {
                     "type": "folder",
-                    "folder": "Sector Ownership/ScAC - East"
-                },
-                {
-                    "type": "folder",
-                    "folder": "Sector Ownership/ScAC - West"
+                    "folder": "Sector Ownership/Scottish Upper"
                 },
                 {
                     "type": "folder",
