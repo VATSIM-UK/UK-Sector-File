@@ -309,9 +309,9 @@
                     "recursive": true,
                     "exclude": [
                         "1_LFRR.txt",
-                        "4_SNE.txt",
+                        "S04_SNE.txt",
                         "6_LFRR.txt",
-                        "7_SNE.txt",
+                        "S07_SNE.txt",
                         "8_SNB.txt",
                         "12_AA.txt",
                         "LFEE_16.txt",
@@ -322,9 +322,9 @@
                     "type": "files",
                     "files": [
                         "Agreements/External/1_LFRR.txt",
-                        "Agreements/External/4_SNE.txt",
+                        "Agreements/External/S04_SNE.txt",
                         "Agreements/External/6_LFRR.txt",
-                        "Agreements/External/7_SNE.txt",
+                        "Agreements/External/S07_SNE.txt",
                         "Agreements/External/8_SNB.txt",
                         "Agreements/External/12_AA.txt",
                         "Agreements/External/LFEE_16.txt",
