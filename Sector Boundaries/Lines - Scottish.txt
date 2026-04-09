@@ -56,8 +56,8 @@ COORD:N057.45.10.790:W004.23.39.000 ;V195
 COORD:N057.31.44.618:W004.12.03.387 ;V192
 
 SECTORLINE:HEB_CENNOR
-DISPLAY:Hebrides High:Hebrides High:Central North
-DISPLAY:Central North:Central North:Hebrides High
+DISPLAY:Hebrides High:Hebrides High:Central
+DISPLAY:Central:Central:Hebrides High
 DISPLAY:Hebrides Low:Hebrides Low:Westcoast (Central)
 DISPLAY:Westcoast (Central):Westcoast (Central):Hebrides Low
 COORD:N059.20.00.000:W010.00.00.000 ;G43932
@@ -87,19 +87,19 @@ COORD:N057.15.09.272:W006.04.05.614 ;V177
 COORD:N056.16.02.716:W005.35.38.189 ;V179
 
 SECTORLINE:CENSTH_GRP
-DISPLAY:Central South:Central South:Grampian
-DISPLAY:Grampian:Grampian:Central South
+DISPLAY:Central:Central:Grampian
+DISPLAY:Grampian:Grampian:Central
 COORD:N056.16.02.716:W005.35.38.189 ;V179
 COORD:N055.56.50.596:W005.26.42.992 ;V180
 
 SECTORLINE:CENSTH_RATW
-DISPLAY:Central South:Central South:Rathlin West
-DISPLAY:Rathlin West:Rathlin West:Central South
+DISPLAY:Central:Central:Rathlin West
+DISPLAY:Rathlin West:Rathlin West:Central
 COORD:N056.35.06.000:W010.00.00.000 ;G43940
 COORD:N055.56.50.596:W005.26.42.992 ;V180
 
 SECTORLINE:CENNOR_EGGX
-DISPLAY:Central North:Central North:EGGX
+DISPLAY:Central:Central:EGGX
 DISPLAY:Westcoast (Central):Westcoast (Central):EGGX
 COORD:N059.20.00.000:W010.00.00.000 ;G43932
 COORD:N058.40.00.000:W010.00.00.000 ;G92384
@@ -111,13 +111,13 @@ COORD:N058.40.00.000:W010.00.00.000 ;G92384
 COORD:N057.20.00.000:W010.00.00.000 ;G92385
 
 SECTORLINE:CENSTH_EGGX
-DISPLAY:Central South:Central South:EGGX
+DISPLAY:Central:Central:EGGX
 DISPLAY:Westcoast (Central):Westcoast (Central):EGGX
 COORD:N057.20.00.000:W010.00.00.000 ;G92385
 COORD:N057.00.00.000:W010.00.00.000 ;G18282
 
 SECTORLINE:CENSTH_EISN
-DISPLAY:Central South:Central South:Shannon NOTA
+DISPLAY:Central:Central:Shannon NOTA
 DISPLAY:Westcoast (Central):Westcoast (Central):Shannon NOTA
 COORD:N057.00.00.000:W010.00.00.000 ;G18282
 COORD:N056.35.06.000:W010.00.00.000 ;G43940
@@ -165,21 +165,21 @@ COORD:N054.09.43.000:W006.45.38.000 ;G53193
 SECTORLINE:RATW_EISN-EIDW
 DISPLAY:Rathlin West:Rathlin West:Shannon LIFFY
 DISPLAY:Rathlin West:Rathlin West:Shannon Low North
-DISPLAY:Rathlin West:Rathlin West:Dublin Upper North
+DISPLAY:Rathlin West:Rathlin West:Dublin North High
 COORD:N054.09.43.000:W006.45.38.000 ;G53193
 COORD:N054.05.43.000:W006.24.38.000 ;G53188
 
 SECTORLINE:RATW_ANT_EISN_EIDW
 DISPLAY:Rathlin West:Rathlin West:Shannon LIFFY
 DISPLAY:Antrim:Antrim:Shannon LIFFY
-DISPLAY:Antrim:Antrim:Dublin Upper North
+DISPLAY:Antrim:Antrim:Dublin North High
 COORD:N054.05.43.000:W006.24.38.000 ;G53188
 COORD:N054.03.16.000:W006.12.12.000 ;G43943
 
 SECTORLINE:RATE-ANT_EISN-EIDW
 DISPLAY:Rathlin East:Rathlin East:Shannon LIFFY
 DISPLAY:Antrim:Antrim:Shannon LIFFY
-DISPLAY:Antrim:Antrim:Dublin Upper North
+DISPLAY:Antrim:Antrim:Dublin North High
 COORD:N054.03.16.000:W006.12.12.000 ;G43943
 COORD:N053.55.00.000:W005.30.00.000 ;G18284
 
