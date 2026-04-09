@@ -1,0 +1,4 @@
+COPX:EGPH:*:OTBUN:*:*:Talla:Pennine:25000:*:OTBUN
+
+COPX:EGPF:*:HAVEN:*:*:Talla:Pennine:25000:*:HAVEN
+COPX:EGPK:*:HAVEN:*:*:Talla:Pennine:25000:*:HAVEN

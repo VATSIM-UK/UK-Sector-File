@@ -1,1 +1,1 @@
-COPX:EGNM:*:*:ABEVI:*:Talla:Solway:25000:*:^ABEVI
+COPX:EGNM:*:*:SHAPP:*:Talla:Solway:25000:*:^

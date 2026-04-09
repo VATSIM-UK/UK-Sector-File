@@ -1,0 +1,6 @@
+COPX:AGPED:*:*:EGPH:*:Pennine:Talla:*:26000:AGPED
+COPX:AGPED:*:*:EGPF:*:Pennine:Talla:*:26000:AGPED
+COPX:AGPED:*:*:EGPK:*:Pennine:Talla:*:26000:AGPED
+COPX:AGPED:*:*:EGPN:*:Pennine:Talla:*:26000:AGPED
+COPX:AGPED:*:*:EGPG:*:Pennine:Talla:*:26000:AGPED
+COPX:AGPED:*:*:EGQL:*:Pennine:Talla:*:26000:AGPED

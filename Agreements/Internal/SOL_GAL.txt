@@ -1,0 +1,9 @@
+COPX:*:*:ASCOM:EGCC:*:Solway:Galloway:*:26000:|ASCOM
+COPX:*:*:ASCOM:EGGP:*:Solway:Galloway:*:26000:|ASCOM
+COPX:*:*:ASCOM:EGNR:*:Solway:Galloway:*:26000:|ASCOM
+COPX:*:*:ASCOM:EGNM:*:Solway:Galloway:*:26000:|ASCOM
+
+COPX:*:*:TRN:EGAA:*:Solway:Galloway:*:26000:TRN
+COPX:*:*:TRN:EGAC:*:Solway:Galloway:*:26000:TRN
+COPX:*:*:TRN:EGAD:*:Solway:Galloway:*:26000:TRN
+COPX:*:*:TRN:EGAE:*:Solway:Galloway:*:26000:TRN

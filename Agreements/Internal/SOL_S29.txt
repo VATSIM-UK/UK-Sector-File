@@ -1,0 +1,4 @@
+COPX:*:*:VAMEB:EGBB:*:Solway:Sector 29:*:27000:|VAMEB
+COPX:*:*:VAMEB:EGNX:*:Solway:Sector 29:*:27000:|VAMEB
+COPX:*:*:VAMEB:EGBE:*:Solway:Sector 29:*:27000:|VAMEB
+COPX:*:*:VAMEB:EGNJ:*:Solway:Sector 29:*:27000:|VAMEB
