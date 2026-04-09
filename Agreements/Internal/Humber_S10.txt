@@ -1,0 +1,11 @@
+FIR_COPX:*:*:AKOKO:*:*:Humber:London S10:*:*:AKOKO
+
+FIR_COPX:*:*:EZTIM:*:*:Humber:London S10:*:*:EZTIM
+
+FIR_COPX:*:*:BUZDE:*:*:Humber:London S10:*:*:BUZDE
+
+FIR_COPX:*:*:ERDOW:*:*:Humber:London S10:*:*:ERDOW
+
+;Withdrawn 2026/03 (FRA D3)
+
+FIR_COPX:*:*:*:ROVNI:*:Humber:London S10:*:*:#ROVNI5
