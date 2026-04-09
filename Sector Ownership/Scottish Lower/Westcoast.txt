@@ -1,4 +1,4 @@
-SECTOR:Westcoast (Central)0:0
+SECTOR:Westcoast (Central):0:0
 OWNER:SCL:CEN:SHC:SW:SWB:S
 ALTOWNER:Observing Scottish FIR:SGS:O:SM:SCL:CEN:SHC:SW:SWB:S
 ALTOWNER:Observing Scottish FIR (excl. TMA):SGS:O:SM:SCL:CEN:SHC:SW:SWB:S
