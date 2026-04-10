@@ -1,3 +1,6 @@
+# Changes from release 2026/03 to 2026/04
+1. AIRAC (2604) - Updated Campbeltown (EGEC) runway magnetic headings - thanks to @lewishh
+
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
 2. AIRAC (2603) - Redesignated Manchester (EGCC) TILNI Stars to TILNI2M
