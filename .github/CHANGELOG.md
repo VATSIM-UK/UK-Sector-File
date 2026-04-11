@@ -1,5 +1,9 @@
 # Changes from release 2026/03 to 2026/04
-1. AIRAC (2604) - Updated Blackpool (EGNH) runway magnetic headings - thanks to @lewishh
+1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
+2. AIRAC (2604) - Updated Dundee (EGPN) runway headings - thanks to @lyraongithub
+3. AIRAC (2604) - Updated Biggin Hill (EGKB) runway headings - thanks to @JYang365 (John Yang)
+4. AIRAC (2604) - Updated Campbeltown (EGEC) runway headings - thanks to @lewishh
+5. AIRAC (2604) - Updated Blackpool (EGNH) runway headings - thanks to @lewishh
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
