@@ -7,6 +7,7 @@
 6. AIRAC (2604) - Updated Barra (EGPR) runway headings - thanks to @coleedwards
 7. AIRAC (2604) - Updated Aberdeen (EGPD) runway headings - thanks to @coleedwards
 8. AIRAC (2604) - Updated Manchester RNP fix C23LF location - thanks to @coleedwards
+9. AIRAC (2603) - Updated Luton (EGGW) SMR with taxiway changes - thanks to @19wintersp (Patrick Winters)
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
