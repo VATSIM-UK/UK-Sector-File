@@ -10,6 +10,7 @@
 9. AIRAC (2603) - Updated Luton (EGGW) SMR with taxiway changes - thanks to @19wintersp (Patrick Winters)
 10. AIRAC (2603) - Updated Gloucestershire (EGBJ) SMR holding points - thanks to @19wintersp (Patrick Winters)
 11. Enhancement - Added darker OCAS region for NERC displays - thanks to @spacenano (Samuel Lefevre)
+12. AIRAC (2604) - Removed grass runway from the Cranwell (EGYD) SMR - thanks to @lyraongithub
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
