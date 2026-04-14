@@ -5,6 +5,7 @@
 4. AIRAC (2604) - Updated Campbeltown (EGEC) runway headings - thanks to @lewishh
 5. AIRAC (2604) - Updated Blackpool (EGNH) runway headings - thanks to @lewishh
 6. AIRAC (2604) - Revise Barra (EGPR) runway headings - thanks to @coleedwards
+7. AIRAC (2604) - Added Gatwick (EGKK) IHPs - thanks to @olivercesarczyk
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
