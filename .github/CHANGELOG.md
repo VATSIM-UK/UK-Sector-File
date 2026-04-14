@@ -7,6 +7,7 @@
 6. AIRAC (2604) - Updated Barra (EGPR) runway headings - thanks to @coleedwards
 7. AIRAC (2604) - Updated Aberdeen (EGPD) runway headings - thanks to @coleedwards
 8. AIRAC (2604) - Updated Manchester RNP fix C23LF location - thanks to @coleedwards
+9. AIRAC (2603) - Updated Luton (EGGW) SMR with taxiway changes - thanks to @19wintersp (Patrick Winters)
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
@@ -29,7 +30,6 @@
 18. AIRAC (2603) - Updated HAW (Hawarden) NDB coordinates
 19. AIRAC (2603) - Amended Aldergrove (EGAA) Radar and Tower frequencies (8.33 conversion) - thanks to @epicdemon99 (Nathaniel Leff)
 20. Enhancement - Updated Manchester (EGCC) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
-21. AIRAC (2603) - Updated Luton (EGGW) SMR with taxiway changes - thanks to @19wintersp (Patrick Winters)
 
 # Changes from release 2026/01 to 2026/02
 1. Bug - Added missing basic aerodrome definitions and corrected minor name/frequency errors - thanks to @Liaely (Lily Unitt)
