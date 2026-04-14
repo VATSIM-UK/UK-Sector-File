@@ -1,12 +1,19 @@
+COPX:EGNM:*:TIPTA:*:*:East:Pennine:25000:*:TIPTA
+COPX:EGCM:*:TIPTA:*:*:East:Pennine:25000:*:TIPTA
+
+COPX:EGNH:*:ARSAT:*:*:East:Pennine:25000:*:ARSAT
+COPX:EGNO:*:ARSAT:*:*:East:Pennine:25000:*:ARSAT
+COPX:EGNL:*:ARSAT:*:*:East:Pennine:25000:*:ARSAT
+
 COPX:EGCC:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
 COPX:EGGP:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
 COPX:EGNR:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
-COPX:EGNH:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
-COPX:EGNO:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
+COPX:EGNJ:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
+COPX:EGXC:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
+COPX:EGXW:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
+COPX:EGYD:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
 
-COPX:EGNX:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
 COPX:EGBB:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
 COPX:EGBE:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
+COPX:EGNX:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
 
-COPX:EGNM:*:TIPTA:*:*:East:Pennine:25000:*:TIPTA
-COPX:EGCM:*:TIPTA:*:*:East:Pennine:25000:*:TIPTA

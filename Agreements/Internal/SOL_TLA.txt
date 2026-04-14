@@ -5,4 +5,5 @@ COPX:*:*:ASLIB:EGPK:*:Solway:Talla:*:26000:ASLIB
 COPX:*:*:ASLIB:EGPG:*:Solway:Talla:*:26000:ASLIB
 
 COPX:*:*:INREV:EGPN:*:Solway:Talla:*:26000:INREV
+COPX:*:*:INREV:EGPT:*:Solway:Talla:*:26000:INREV
 COPX:*:*:INREV:EGQL:*:Solway:Talla:*:26000:INREV

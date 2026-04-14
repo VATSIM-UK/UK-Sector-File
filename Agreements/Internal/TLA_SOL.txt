@@ -1,1 +1,3 @@
 COPX:EGNM:*:*:SHAPP:*:Talla:Solway:25000:*:^
+COPX:EGNH:*:*:SHAPP:*:Talla:Solway:25000:*:^
+COPX:EGNO:*:*:SHAPP:*:Talla:Solway:25000:*:^

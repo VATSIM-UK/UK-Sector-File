@@ -2,3 +2,10 @@ COPX:EGPH:*:OTBUN:*:*:Talla:Pennine:25000:*:OTBUN
 
 COPX:EGPF:*:HAVEN:*:*:Talla:Pennine:25000:*:HAVEN
 COPX:EGPK:*:HAVEN:*:*:Talla:Pennine:25000:*:HAVEN
+
+COPX:EGNT:*:TLA:*:*:Talla:Pennine:25000:*:TLA
+COPX:EGNV:*:TLA:*:*:Talla:Pennine:25000:*:TLA
+
+COPX:EGPN:*:TLA:*:*:Talla:Pennine:25000:*:TLA
+COPX:EGPT:*:TLA:*:*:Talla:Pennine:25000:*:TLA
+COPX:EGQL:*:TLA:*:*:Talla:Pennine:25000:*:TLA

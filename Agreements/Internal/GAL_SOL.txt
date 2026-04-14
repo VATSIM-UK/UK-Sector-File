@@ -1,13 +1,12 @@
 COPX:EGPH:*:*:EGTOC:*:Galloway:Solway:25000:*:^
 COPX:EGPF:*:*:EGTOC:*:Galloway:Solway:25000:*:^
 COPX:EGPK:*:*:EGTOC:*:Galloway:Solway:25000:*:^
-COPX:EGPN:*:*:EGTOC:*:Galloway:Solway:25000:*:^
 COPX:EGPG:*:*:EGTOC:*:Galloway:Solway:25000:*:^
-COPX:EGPJ:*:*:EGTOC:*:Galloway:Solway:25000:*:^
 
 COPX:EGPH:*:*:VAMEB:*:Galloway:Solway:25000:*:^
 COPX:EGPF:*:*:VAMEB:*:Galloway:Solway:25000:*:^
 COPX:EGPK:*:*:VAMEB:*:Galloway:Solway:25000:*:^
-COPX:EGPN:*:*:VAMEB:*:Galloway:Solway:25000:*:^
 COPX:EGPG:*:*:VAMEB:*:Galloway:Solway:25000:*:^
-COPX:EGPJ:*:*:VAMEB:*:Galloway:Solway:25000:*:^
+
+COPX:EGAA:*:TRN:*:*:Galloway:Solway:25000:*:^
+COPX:EGAC:*:TRN:*:*:Galloway:Solway:25000:*:^

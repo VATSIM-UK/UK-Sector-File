@@ -1,14 +1,18 @@
 COPX:*:*:NEXUS:EGPD:*:Grampian:Tay:*:26000:|NEXUS
 
 COPX:*:*:GRICE:EGPD:*:Grampian:Tay:*:26000:GRICE
+COPX:*:*:FINDO:EGPD:*:Grampian:Tay:*:26000:FINDO15
 
 COPX:*:*:ERSON:EGPE:*:Grampian:Tay:*:26000:ERSON5
-
-COPX:*:*:LAGAV:EGPH:*:Grampian:Tay:*:26000:|LAGAV
-COPX:*:*:LAGAV:EGPF:*:Grampian:Tay:*:26000:|LAGAV
 
 COPX:*:*:INBAS:EGPK:*:Grampian:Tay:*:26000:|INBAS
 
 COPX:*:*:RUGID:EGPN:*:Grampian:Tay:*:26000:|RUGID
-COPX:*:*:LAGAV:EGPG:*:Grampian:Tay:*:26000:|LAGAV
+COPX:*:*:RUGID:EGPT:*:Grampian:Tay:*:26000:|RUGID
+COPX:*:*:RUGID:EGPL:*:Grampian:Tay:*:26000:|RUGID
+COPX:*:*:RUGID:EGPU:*:Grampian:Tay:*:26000:|RUGID
 COPX:*:*:RUGID:EGQL:*:Grampian:Tay:*:26000:|RUGID
+
+COPX:*:*:LAGAV:EGPH:*:Grampian:Tay:*:26000:|LAGAV
+COPX:*:*:LAGAV:EGPF:*:Grampian:Tay:*:26000:|LAGAV
+COPX:*:*:LAGAV:EGPG:*:Grampian:Tay:*:26000:|LAGAV
