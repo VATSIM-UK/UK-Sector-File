@@ -1,4 +1,0 @@
-COPX:*:*:LAKEY:EGBB:*:Deancross:Sector 29:*:27000:|LAKEY
-COPX:*:*:LAKEY:EGNX:*:Deancross:Sector 29:*:27000:|LAKEY
-COPX:*:*:LAKEY:EGBE:*:Deancross:Sector 29:*:27000:|LAKEY
-COPX:*:*:LAKEY:EGNJ:*:Deancross:Sector 29:*:27000:|LAKEY

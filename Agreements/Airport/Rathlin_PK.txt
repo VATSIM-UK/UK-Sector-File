@@ -1,1 +1,0 @@
-COPX:*:*:HERON:EGPK:*:Westcoast (Rathlin West):PKAPP:8000:*:TRN25

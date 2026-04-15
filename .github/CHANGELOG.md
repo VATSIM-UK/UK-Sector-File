@@ -15,6 +15,8 @@
 14. AIRAC (2604) - Updated Manchester (EGCC) SMAA lateral limits - thanks to @Liaely (Lily Unitt)
 15. AIRAC (2604) - Added Gatwick (EGKK) ITHPs - thanks to @olivercesarczyk
 16. AIRAC (2603) - Updated Stands 79-83 on the Birmingham (EGBB) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+17. Procedure Change (2604) - Major Scottish Resectorisation affecting: sector boundaries; logon callsigns; ownership orders; agreements; airfield top-down
+18. Procedure Change (2604) - Added Copenhagen (EKDK) event only split and ownership for 2026/04 LoA
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
