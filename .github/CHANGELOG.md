@@ -1,4 +1,7 @@
 # Changes from release 2026/03 to 2026/04
+<<<<<<< chssn-6081
+1. AIRAC (2604) - Add Gatwick (EGKK) split GMC position - thanks to @chssn
+=======
 1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
 2. AIRAC (2604) - Updated Dundee (EGPN) runway headings - thanks to @lyraongithub
 3. AIRAC (2604) - Updated Biggin Hill (EGKB) runway headings - thanks to @JYang365 (John Yang)
@@ -14,6 +17,7 @@
 13. AIRAC (2604) - Defined new military aerodromes (EGDK, EGVI, EGVJ) - thanks to @chssn
 14. AIRAC (2604) - Updated Manchester (EGCC) SMAA lateral limits - thanks to @Liaely (Lily Unitt)
 15. AIRAC (2604) - Added Gatwick (EGKK) ITHPs - thanks to @olivercesarczyk
+>>>>>>> main
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
