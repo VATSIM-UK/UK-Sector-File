@@ -1,3 +1,6 @@
+# Changes from release 2026/04 to 2026/04a
+X. Bug - Corrected some Scottish sectorisation around CLYDE and BLACA
+
 # Changes from release 2026/03 to 2026/04
 1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
 2. AIRAC (2604) - Updated Dundee (EGPN) runway headings - thanks to @lyraongithub
