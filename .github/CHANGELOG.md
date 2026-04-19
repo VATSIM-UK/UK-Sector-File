@@ -1,5 +1,8 @@
 # Changes from release 2026/04 to 2026/04a
-X. Bug - Corrected some Scottish sectorisation around CLYDE and BLACA
+X. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
+X. Bug - Corrected LAC Daventry and Clacton static sector boundary maps
+X. Bug - Corrected depiction of EGPX Scottish FIR near PEPIN
+X. Bug - Added missing GUEST ownership to improve function of ScAC South -> EHAA standing agreement display
 
 # Changes from release 2026/03 to 2026/04
 1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
