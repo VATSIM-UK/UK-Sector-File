@@ -10,3 +10,5 @@ COPX:EGPG:*:*:VAMEB:*:Galloway:Solway:25000:*:^
 
 COPX:EGAA:*:TRN:*:*:Galloway:Solway:25000:*:^
 COPX:EGAC:*:TRN:*:*:Galloway:Solway:25000:*:^
+
+COPX:EGPH:*:TRN:*:*:Galloway:Solway:25000:*:^
