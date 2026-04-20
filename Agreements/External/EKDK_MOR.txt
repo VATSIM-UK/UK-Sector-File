@@ -1,0 +1,7 @@
+FIR_COPX:*:*:ARTEX:*:*:EKDK (365-660):Moray High:*:*:ARTEX
+FIR_COPX:*:*:ARTEX:*:*:EKDK (DB-365):Moray High:*:*:ARTEX
+FIR_COPX:*:*:ARTEX:*:*:EKDK (DB-365):Moray Low:*:*:ARTEX
+
+FIR_COPX:*:*:ELSAN:*:*:EKDK (365-660):Moray High:*:*:ELSAN
+FIR_COPX:*:*:ELSAN:*:*:EKDK (DB-365):Moray High:*:*:ELSAN
+FIR_COPX:*:*:ELSAN:*:*:EKDK (DB-365):Moray Low:*:*:ELSAN
