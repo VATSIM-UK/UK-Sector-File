@@ -1,1 +1,1 @@
-COPX:*:*:ROBEM:EGNM:*:Tyne:Tay:*:25000:|ROBEM
+COPX:*:*:ROBEM:EGNM:*:Tyne:Tay:*:25000:ROBEM
