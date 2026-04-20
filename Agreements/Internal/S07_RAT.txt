@@ -1,0 +1,5 @@
+COPX:*:*:GETNO:*:*:London S07:Rathlin East:*:*:GETNO
+
+COPX:*:*:BELOX:*:*:London S07:Rathlin East:*:*:BELOX
+
+COPX:*:*:TUPEM:*:*:London S07:Rathlin East:*:*:TUPEM
