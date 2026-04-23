@@ -5,6 +5,7 @@
 4. Bug - Added missing GUEST ownership to improve function of ScAC South -> EHAA standing agreement display
 5. Bug - Added missing PC Tyne to PC Tay COPX for EGNM ROBEM inbounds - thanks to @Kishore_Nair (Kishore Ravikumar)
 6. Bug - Changed identifier for Solent Radar to avoid conflict with Solway - thanks to @cpawley (Chris Pawley)
+7. Bug - Fixed incorrect ARP locations for EGPK, EGCJ, EGER, and EGPB - thanks to @Kishore-Nair (Kishore Ravikumar)
 
 # Changes from release 2026/03 to 2026/04
 1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
@@ -25,7 +26,6 @@
 16. AIRAC (2603) - Updated Stands 79-83 on the Birmingham (EGBB) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 17. Procedure Change (2604) - Major Scottish Resectorisation affecting: sector boundaries; logon callsigns; ownership orders; agreements; airfield top-down
 18. Procedure Change (2604) - Added Copenhagen (EKDK) event only split and ownership for 2026/04 LoA
-19. Bug - Fixed incorrect ARPs for EGPK, EGCJ, EGER, and EGPB (AIP 2604) - thanks to @Kishore-Nair (Kishore Ravikumar)
 
 # Changes from release 2026/02 to 2026/03
 1. AIRAC (2603) - Updated Newcastle (EGNT) RIMTO Stars
