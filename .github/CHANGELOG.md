@@ -3,6 +3,7 @@
 2. Bug - Corrected LAC Daventry and Clacton static sector boundary maps
 3. Bug - Corrected depiction of EGPX Scottish FIR near PEPIN
 4. Bug - Added missing GUEST ownership to improve function of ScAC South -> EHAA standing agreement display
+5. Bug - Added missing PC Tyne to PC Tay COPX for EGNM ROBEM inbounds - thanks to @Kishore_Nair (Kishore Ravikumar)
 
 # Changes from release 2026/03 to 2026/04
 1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
