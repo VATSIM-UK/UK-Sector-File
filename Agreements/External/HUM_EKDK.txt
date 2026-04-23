@@ -1,0 +1,5 @@
+FIR_COPX:*:*:ROPAL:*:*:Humber East:EKDK (365-660):*:*:ROPAL
+FIR_COPX:*:*:ROPAL:*:*:Humber East:EKDK (DB-365):*:*:ROPAL
+
+FIR_COPX:*:*:TIPAN:*:*:Humber East:EKDK (365-660):*:*:TIPAN
+FIR_COPX:*:*:TIPAN:*:*:Humber East:EKDK (DB-365):*:*:TIPAN
