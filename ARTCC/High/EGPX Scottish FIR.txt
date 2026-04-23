@@ -1,6 +1,7 @@
 ;Scottish FIR Class C
 EGPX Scottish FIR            RATSU          RATSU          GUNPA          GUNPA
-EGPX Scottish FIR            GUNPA          GUNPA          PEPIN          PEPIN
+EGPX Scottish FIR            GUNPA          GUNPA          N060.00.00.000 E000.00.00.000
+EGPX Scottish FIR            N060.00.00.000 E000.00.00.000 PEPIN          PEPIN
 EGPX Scottish FIR            PEPIN          PEPIN          ORVIK          ORVIK
 EGPX Scottish FIR            ORVIK          ORVIK          BEREP          BEREP
 EGPX Scottish FIR            BEREP          BEREP          RIGVU          RIGVU
