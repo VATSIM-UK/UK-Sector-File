@@ -10,3 +10,10 @@ If you wish to contribute, take a look at:
 - [The Wiki](https://github.com/VATSIM-UK/UK-Sector-File/wiki) (a work in progress), which contains more in-depth information about the contents of the sector file.
 
 **Note:** Past AIRAC amendments are stored [here](https://drive.google.com/open?id=0B-vBWgjwDAzqcThza1lIaHJDbEU).
+
+
+---
+
+## Auto-generated contribution
+
+Added by bounty bot.
