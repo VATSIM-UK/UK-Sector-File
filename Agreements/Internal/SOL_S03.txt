@@ -1,0 +1,19 @@
+COPX:*:*:EGTOC:EGVN:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGVA:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGBJ:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGBP:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGFF:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGGD:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGSY:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGFH:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGTE:*:Solway:London S03:*:33000:EGTOC
+COPX:*:*:EGTOC:EGTK:*:Solway:London S03:*:33000:EGTOC
+
+FIR_COPX:*:*:EGTOC:*:*:Solway:London S03:*:*:EGTOC
+
+COPX:*:*:VAMEB:EGUN:*:Solway:London S03:*:33000:VAMEB
+COPX:*:*:VAMEB:EGUL:*:Solway:London S03:*:33000:VAMEB
+COPX:*:*:VAMEB:EGYM:*:Solway:London S03:*:33000:VAMEB
+COPX:*:*:VAMEB:EGSH:*:Solway:London S03:*:33000:VAMEB
+
+FIR_COPX:*:*:VAMEB:*:*:Solway:London S03:*:*:VAMEB
