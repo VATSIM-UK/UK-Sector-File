@@ -3,6 +3,7 @@
 2. AIRAC (2605) - Updated Aldergrove (EGAA) runway headings - thanks to @lewishh
 3. AIRAC (2605) - Updated Belfast City (EGAC) runway headings - thanks to @lewishh
 4. AIRAC (2605) - Updated Birmingham (EGBB) runway headings - thanks to @lewishh
+5. AIRAC (2605) - Updated Bournemouth (EGHH) runway headings - thanks to @lewishh
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
