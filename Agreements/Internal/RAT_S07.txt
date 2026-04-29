@@ -1,0 +1,29 @@
+COPX:EGAA:*:KELLY:*:*:Rathlin:London S07:29000:*:KELLY
+COPX:EGAC:*:KELLY:*:*:Rathlin:London S07:29000:*:KELLY
+
+COPX:EGAA:*:INKOB:*:*:Rathlin:London S07:29000:*:INKOB
+COPX:EGAC:*:INKOB:*:*:Rathlin:London S07:29000:*:INKOB
+
+COPX:EGAA:*:SOSIM:*:*:Rathlin:London S07:29000:*:SOSIM
+COPX:EGAC:*:SOSIM:*:*:Rathlin:London S07:29000:*:SOSIM
+
+COPX:*:*:KELLY:EGSH:*:Rathlin:London S07:*:33000:KELLY
+COPX:*:*:KELLY:EGUN:*:Rathlin:London S07:*:33000:KELLY
+COPX:*:*:KELLY:EGUL:*:Rathlin:London S07:*:33000:KELLY
+COPX:*:*:KELLY:EGYM:*:Rathlin:London S07:*:33000:KELLY
+
+COPX:*:*:SOSIM:EGVN:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGVA:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGBJ:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGBP:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGFF:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGGD:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGSY:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGFH:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGTE:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGTK:*:Rathlin:London S07:*:33000:SOSIM
+
+COPX:*:*:SOSIM:EGSH:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGUN:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGUL:*:Rathlin:London S07:*:33000:SOSIM
+COPX:*:*:SOSIM:EGYM:*:Rathlin:London S07:*:33000:SOSIM
