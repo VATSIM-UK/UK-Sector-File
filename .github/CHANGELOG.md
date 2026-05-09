@@ -1,3 +1,6 @@
+# Changes from release 2026/04a to 2026/05
+x. AIRAC (2604) - Updated Teesside (EGNV) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
 2. Bug - Corrected LAC Daventry and Clacton static sector boundary maps
