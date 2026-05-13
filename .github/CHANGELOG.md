@@ -7,6 +7,10 @@ x. AIRAC (2605) - Updated Edinburgh (EGPH) runway headings - thanks to @lyraongi
 4. AIRAC (2605) - Updated Birmingham (EGBB) runway headings - thanks to @lewishh
 5. AIRAC (2605) - Updated Bournemouth (EGHH) runway headings - thanks to @lewishh
 6. Bug - Removed Aldergrove Delivery definition - thanks to @Kishore-Nair (Kishore Ravikumar)
+7. AIRAC (2605) - Updated Sumburgh (EGPB) runway headings
+8. AIRAC (2605) - Updated Inverness (EGPE) runway headings
+9. AIRAC (2605) - Updated Glasgow (EGPF) runway headings
+10. AIRAC (2605) - Updated Exeter (EGTE) runway headings
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
