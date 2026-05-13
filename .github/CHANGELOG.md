@@ -15,6 +15,7 @@
 14. AIRAC (2605) - Updated Bristol (EGGD) Radar and Tower frequencies (8.33 conversion) - thanks to @Kishore-Nair (Kishore Ravikumar)
 15. AIRAC (2604) - Updated Oban (EGEO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 16. AIRAC (2604) - Updated Teesside (EGNV) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+17. Bug - Corrected frequencies of Brest (LFRR) positions
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
