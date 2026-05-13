@@ -10,6 +10,8 @@
 9. AIRAC (2605) - Updated Glasgow (EGPF) runway headings
 10. AIRAC (2605) - Updated Exeter (EGTE) runway headings
 11. AIRAC (2605) - Updated Edinburgh (EGPH) runway headings - thanks to @lyraongithub
+12. AIRAC (2605) - Updated Bristol (EGGD) runway headings
+13. AIRAC (2605) - Updated East Midlands (EGNX) runway headings
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
