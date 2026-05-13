@@ -1,5 +1,3 @@
-x. AIRAC (2605) - Updated Edinburgh (EGPH) runway headings - thanks to @lyraongithub
-
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
 2. AIRAC (2605) - Updated Aldergrove (EGAA) runway headings - thanks to @lewishh
@@ -11,6 +9,7 @@ x. AIRAC (2605) - Updated Edinburgh (EGPH) runway headings - thanks to @lyraongi
 8. AIRAC (2605) - Updated Inverness (EGPE) runway headings
 9. AIRAC (2605) - Updated Glasgow (EGPF) runway headings
 10. AIRAC (2605) - Updated Exeter (EGTE) runway headings
+11. AIRAC (2605) - Updated Edinburgh (EGPH) runway headings - thanks to @lyraongithub
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
