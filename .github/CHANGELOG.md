@@ -7,7 +7,7 @@
 6. Bug - Changed identifier for Solent Radar to avoid conflict with Solway - thanks to @cpawley (Chris Pawley)
 7. Bug - Fixed incorrect ARP locations for EGPK, EGCJ, EGER, and EGPB - thanks to @Kishore-Nair (Kishore Ravikumar)
 8. AIRAC (2604) - Updated Blackbushe (EGLK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
-9.Bug - Added missing fixes from ENR 4.4 - thanks to @Kishore-Nair (Kishore Ravikumar)
+9. Bug - Added missing fixes from ENR 4.4 - thanks to @Kishore-Nair (Kishore Ravikumar)
 
 # Changes from release 2026/03 to 2026/04
 1. AIRAC (2604) - Updated Kemble (EGBP) runway headings
