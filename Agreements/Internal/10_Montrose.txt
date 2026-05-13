@@ -1,2 +1,0 @@
-COPX:*:*:TENDO:EGNT:*:London S10:Montrose:*:25000:TENDO
-COPX:*:*:TENDO:EGNV:*:London S10:Montrose:*:25000:TENDO

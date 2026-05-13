@@ -1,0 +1,11 @@
+FIR_COPX:*:*:REKNA:*:*:Tyne:EKDK (365-660):*:*:REKNA
+FIR_COPX:*:*:REKNA:*:*:Tyne:EKDK (DB-365):*:*:REKNA
+
+FIR_COPX:*:*:ITSUX:*:*:Tyne:EKDK (365-660):*:*:ITSUX
+FIR_COPX:*:*:ITSUX:*:*:Tyne:EKDK (DB-365):*:*:ITSUX
+
+FIR_COPX:*:*:SURAT:*:*:Tyne:EKDK (365-660):*:*:SURAT
+FIR_COPX:*:*:SURAT:*:*:Tyne:EKDK (DB-365):*:*:SURAT
+
+FIR_COPX:*:*:AVRAL:*:*:Tyne:EKDK (365-660):*:*:AVRAL
+FIR_COPX:*:*:AVRAL:*:*:Tyne:EKDK (DB-365):*:*:AVRAL

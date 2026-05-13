@@ -1,3 +1,0 @@
-COPX:EGNM:*:ERGAB:*:*:North:Talla:18000:*:^ERGAB
-
-COPX:*:*:SHAPP:EGNC:*:North:Talla:*:14000:SHAPP

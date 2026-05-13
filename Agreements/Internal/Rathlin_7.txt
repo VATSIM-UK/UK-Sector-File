@@ -1,8 +1,0 @@
-COPX:EGAA:*:KELLY:*:*:Rathlin:London S7:29000:*:KELLY
-COPX:EGAC:*:KELLY:*:*:Rathlin:London S7:29000:*:KELLY
-COPX:EGAA:*:INKOB:*:*:Rathlin:London S7:29000:*:INKOB
-COPX:EGAC:*:INKOB:*:*:Rathlin:London S7:29000:*:INKOB
-COPX:EGAA:*:SOSIM:*:*:Rathlin:London S7:29000:*:SOSIM
-COPX:EGAC:*:SOSIM:*:*:Rathlin:London S7:29000:*:SOSIM
-COPX:EGAA:*:*:*:*:Rathlin:London S7:29000:*:KELLY
-COPX:EGAC:*:*:*:*:Rathlin:London S7:29000:*:KELLY

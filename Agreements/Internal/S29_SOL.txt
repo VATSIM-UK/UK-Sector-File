@@ -1,0 +1,11 @@
+COPX:EGCC:*:ERGAB:*:*:Sector 29:Solway:25000:*:ERGAB
+COPX:EGGP:*:ERGAB:*:*:Sector 29:Solway:25000:*:ERGAB
+COPX:EGNR:*:ERGAB:*:*:Sector 29:Solway:25000:*:ERGAB
+COPX:EGXC:*:ERGAB:*:*:Sector 29:Solway:25000:*:ERGAB
+COPX:EGXW:*:ERGAB:*:*:Sector 29:Solway:25000:*:ERGAB
+COPX:EGYD:*:ERGAB:*:*:Sector 29:Solway:25000:*:ERGAB
+
+COPX:EGBB:*:RIBEL:*:*:Sector 29:Solway:28000:*:^RIBEL
+COPX:EGBE:*:RIBEL:*:*:Sector 29:Solway:28000:*:^RIBEL
+COPX:EGNX:*:RIBEL:*:*:Sector 29:Solway:28000:*:^RIBEL
+COPX:EGNJ:*:RIBEL:*:*:Sector 29:Solway:28000:*:^RIBEL

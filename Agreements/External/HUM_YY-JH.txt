@@ -1,0 +1,3 @@
+FIR_COPX:*:*:RENEQ:*:*:Humber East:EDYY Jever High:*:*:RENEQ
+
+FIR_COPX:*:*:LONAM:*:*:Humber East:EDYY Jever High:*:*:LONAM

@@ -1,0 +1,3 @@
+FIR_COPX:*:*:EGTOC:*:*:Solway:London S04:*:*:EGTOC
+
+FIR_COPX:*:*:VAMEB:*:*:Solway:London S04:*:*:VAMEB

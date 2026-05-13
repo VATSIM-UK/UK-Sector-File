@@ -1,0 +1,12 @@
+COPX:EGPD:*:PTH:*:*:Tay:Grampian:25000:*:^
+COPX:EGPD:*:*:ZOFAT:*:Tay:Grampian:25000:*:^
+
+COPX:EGPE:*:ERSON:*:*:Tay:Grampian:25000:*:^
+
+COPX:EGPH:*:*:ERSON:*:Tay:Grampian:25000:*:^
+COPX:EGPF:*:*:ERSON:*:Tay:Grampian:25000:*:^
+COPX:EGPK:*:*:ERSON:*:Tay:Grampian:25000:*:^
+
+COPX:EGPH:*:*:ASNUD:*:Tay:Grampian:25000:*:^
+COPX:EGPF:*:*:ASNUD:*:Tay:Grampian:25000:*:^
+COPX:EGPK:*:*:ASNUD:*:Tay:Grampian:25000:*:^

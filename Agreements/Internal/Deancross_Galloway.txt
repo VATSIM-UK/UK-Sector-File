@@ -1,9 +1,0 @@
-COPX:*:*:DCS:EGCC:*:Deancross:Galloway:*:26000:DCS
-COPX:*:*:DCS:EGGP:*:Deancross:Galloway:*:26000:DCS
-COPX:*:*:DCS:EGNR:*:Deancross:Galloway:*:26000:DCS
-COPX:*:*:DCS:EGNM:*:Deancross:Galloway:*:26000:DCS
-
-COPX:*:*:TRN:EGAA:*:Deancross:Galloway:*:26000:TRN
-COPX:*:*:TRN:EGAC:*:Deancross:Galloway:*:26000:TRN
-COPX:*:*:TRN:EGAD:*:Deancross:Galloway:*:26000:TRN
-COPX:*:*:TRN:EGAE:*:Deancross:Galloway:*:26000:TRN
