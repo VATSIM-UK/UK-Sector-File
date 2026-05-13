@@ -4,17 +4,18 @@
 3. AIRAC (2605) - Updated Belfast City (EGAC) runway headings - thanks to @lewishh
 4. AIRAC (2605) - Updated Birmingham (EGBB) runway headings - thanks to @lewishh
 5. AIRAC (2605) - Updated Bournemouth (EGHH) runway headings - thanks to @lewishh
-6. AIRAC (2605) - Updated Sumburgh (EGPB) runway headings
-7. AIRAC (2605) - Updated Inverness (EGPE) runway headings
-8. AIRAC (2605) - Updated Glasgow (EGPF) runway headings
-9. AIRAC (2605) - Updated Exeter (EGTE) runway headings
+6. Bug - Removed Aldergrove Delivery definition - thanks to @Kishore-Nair (Kishore Ravikumar)
+7. AIRAC (2605) - Updated Sumburgh (EGPB) runway headings
+8. AIRAC (2605) - Updated Inverness (EGPE) runway headings
+9. AIRAC (2605) - Updated Glasgow (EGPF) runway headings
+10. AIRAC (2605) - Updated Exeter (EGTE) runway headings
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
 2. Bug - Corrected LAC Daventry and Clacton static sector boundary maps
 3. Bug - Corrected depiction of EGPX Scottish FIR near PEPIN
 4. Bug - Added missing GUEST ownership to improve function of ScAC South -> EHAA standing agreement display
-5. Bug - Added missing PC Tyne to PC Tay COPX for EGNM ROBEM inbounds - thanks to @Kishore_Nair (Kishore Ravikumar)
+5. Bug - Added missing PC Tyne to PC Tay COPX for EGNM ROBEM inbounds - thanks to @Kishore-Nair (Kishore Ravikumar)
 6. Bug - Changed identifier for Solent Radar to avoid conflict with Solway - thanks to @cpawley (Chris Pawley)
 7. Bug - Fixed incorrect ARP locations for EGPK, EGCJ, EGER, and EGPB - thanks to @Kishore-Nair (Kishore Ravikumar)
 8. AIRAC (2604) - Updated Blackbushe (EGLK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
