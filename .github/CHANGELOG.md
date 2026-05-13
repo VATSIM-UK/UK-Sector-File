@@ -1,3 +1,22 @@
+# Changes from release 2026/04a to 2026/05
+1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
+2. AIRAC (2605) - Updated Aldergrove (EGAA) runway headings - thanks to @lewishh
+3. AIRAC (2605) - Updated Belfast City (EGAC) runway headings - thanks to @lewishh
+4. AIRAC (2605) - Updated Birmingham (EGBB) runway headings - thanks to @lewishh
+5. AIRAC (2605) - Updated Bournemouth (EGHH) runway headings - thanks to @lewishh
+6. Bug - Removed Aldergrove Delivery definition - thanks to @Kishore-Nair (Kishore Ravikumar)
+7. AIRAC (2605) - Updated Sumburgh (EGPB) runway headings
+8. AIRAC (2605) - Updated Inverness (EGPE) runway headings
+9. AIRAC (2605) - Updated Glasgow (EGPF) runway headings
+10. AIRAC (2605) - Updated Exeter (EGTE) runway headings
+11. AIRAC (2605) - Updated Edinburgh (EGPH) runway headings - thanks to @lyraongithub
+12. AIRAC (2605) - Updated Bristol (EGGD) runway headings
+13. AIRAC (2605) - Updated East Midlands (EGNX) runway headings
+14. AIRAC (2605) - Updated Bristol (EGGD) Radar and Tower frequencies (8.33 conversion) - thanks to @Kishore-Nair (Kishore Ravikumar)
+15. AIRAC (2604) - Updated Oban (EGEO) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+16. AIRAC (2604) - Updated Teesside (EGNV) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+17. Bug - Corrected frequencies of Brest (LFRR) positions
+
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
 2. Bug - Corrected LAC Daventry and Clacton static sector boundary maps
