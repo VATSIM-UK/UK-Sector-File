@@ -1,5 +1,5 @@
 ;Holding Points
-"A" N056.28.07.071 W005.23.52.085 smrStandHold
+"A" N056.28.06.580 W005.23.52.704 smrStandHold
 "B" N056.27.59.437 W005.23.55.147 smrStandHold
 "C" N056.27.55.230 W005.23.55.935 smrStandHold
 "E" N056.27.42.924 W005.23.58.677 smrStandHold
@@ -8,5 +8,5 @@
 ;Helipads
 "H1" N056.27.52.797 W005.23.54.295 smrStandHold
 "H2" N056.27.50.682 W005.23.54.948 smrStandHold
-"H3" N056.27.36.511 W005.24.15.306 smrStandHold
-"H4" N056.27.34.592 W005.24.17.265 smrStandHold
+"H3" N056.27.34.592 W005.24.17.265 smrStandHold
+"H4" N056.27.36.511 W005.24.15.306 smrStandHold
