@@ -18,6 +18,7 @@
 17. Bug - Corrected frequencies of Brest (LFRR) positions
 18. Bug - Added missing fixes from ENR 4.4 - thanks to @Kishore-Nair (Kishore Ravikumar)
 19. AIRAC (2605) - Add Manchester (EGCC) RNP Fixes - thanks to @coleedwards
+20. AIRAC (2606) - Updated Land's End (EGHC) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
 
 # Changes from release 2026/04 to 2026/04a
 1. Bug - Corrected Scottish sectorisation around CLYDE and BLACA
