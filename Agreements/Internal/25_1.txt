@@ -1,5 +1,4 @@
 COPX:EGBB:*:*:SITET:*:London S25:London S1:30000:*:^GWC
-COPX:EGBE:*:*:SITET:*:London S25:London S1:30000:*:^GWC
 COPX:EGNX:*:*:SITET:*:London S25:London S1:30000:*:^GWC
 COPX:EGSS:*:*:SITET:*:London S25:London S1:30000:*:^GWC
 COPX:EGSC:*:*:SITET:*:London S25:London S1:30000:*:^GWC
@@ -11,7 +10,6 @@ COPX:EGSY:*:*:SITET:*:London S25:London S1:30000:*:^GWC
 
 
 COPX:EGBB:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
-COPX:EGBE:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
 COPX:EGNX:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
 COPX:EGSS:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
 COPX:EGSC:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
@@ -22,7 +20,6 @@ COPX:EGFH:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
 COPX:EGSY:*:*:XAMAB:*:London S25:London S1:30000:*:^MID
 
 COPX:EGBB:*:*:*:*:London S25:London S1:30000:*:^
-COPX:EGBE:*:*:*:*:London S25:London S1:30000:*:^
 COPX:EGNX:*:*:*:*:London S25:London S1:30000:*:^
 COPX:EGSS:*:*:*:*:London S25:London S1:30000:*:^
 COPX:EGSC:*:*:*:*:London S25:London S1:30000:*:^
