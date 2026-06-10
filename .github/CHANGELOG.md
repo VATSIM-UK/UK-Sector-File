@@ -1,5 +1,9 @@
 # Changes from release 2026/05 to 2026/06
-x. AIRAC (2606) - Removed stands 11 and 18 from Norwich (EGSH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
+2. AIRAC (2605) - Added midfield apron to Edinburgh (EGPH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+3. AIRAC (2605) - Updated and recoloured Oxford (EGTK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+4. AIRAC (2605) - Redrew and updated Shoreham (EGKA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+5. AIRAC (2606) - Removed stands 11 and 18 from Norwich (EGSH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
