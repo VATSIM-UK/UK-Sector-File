@@ -26,7 +26,6 @@
 "9" N052.40.18.190 E001.17.04.480 smrStandHold
 
 ;Heli Stands
-"H" N052.40.16.992 E001.16.15.579 smrStandHold ;11
 "H" N052.40.17.966 E001.16.15.135 smrStandHold ;12
 "H" N052.40.17.807 E001.16.16.881 smrStandHold ;13
 "H" N052.40.17.641 E001.16.18.603 smrStandHold ;14

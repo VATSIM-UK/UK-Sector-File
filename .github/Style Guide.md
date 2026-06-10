@@ -50,6 +50,8 @@ This should be in all lowercase, with words separated by hyphens.
 <br>✅`readme-formatting`
 <br>❌`LOTSOFCHANGELOGCHANGESthatmakepeoplehappy`
 
+Please **DO NOT** delete your pull request/branch just because you named your branch incorrectly. It does not matter significantly when you are working on a fork, and the second pull request will only make the history more confusing for others.
+
 ## General rules <a name="general"></a>
 These rules apply to all the stated areas.
 

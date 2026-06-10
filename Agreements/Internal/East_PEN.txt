@@ -14,6 +14,5 @@ COPX:EGXW:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
 COPX:EGYD:*:MEJAC:*:*:East:Pennine:25000:*:MEJAC
 
 COPX:EGBB:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
-COPX:EGBE:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
 COPX:EGNX:*:KEFTE:*:*:East:Pennine:28000:*:KEFTE
 
