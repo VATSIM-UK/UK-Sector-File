@@ -21,6 +21,7 @@
 20. AIRAC (2606) - Updated Isle of Man (EGNS) runway headings
 21. AIRAC (2606) - Updated Gloucester (EGBJ) RTF callsign spelling
 22. AIRAC (2606) - Removed East Midlands (EGNX) stands 4 & 31
+23. Bug - Defined Cosford (EGWC) Ground
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
