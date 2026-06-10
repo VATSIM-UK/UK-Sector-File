@@ -13,6 +13,7 @@
 12. AIRAC (2605) - Repositioned holding point R3 on Kirkwall (EGPA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 13. AIRAC (2605) - Added midfield apron to Edinburgh (EGPH) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
 14. Enhancement - Added Fairford (EGVA) temporary positions for vRIAT - thanks to @danielbutton (Daniel Button)
+15. AIRAC (2606) - Added Heathrow (EGLL) Link 25 Code F centreline
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
