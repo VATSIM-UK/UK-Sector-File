@@ -1,9 +1,7 @@
 COPX:EGBB:*:*:BIG:*:London S25:London S26:23000:*:^BIG
-COPX:EGBE:*:*:BIG:*:London S25:London S26:23000:*:^BIG
 COPX:EGNX:*:*:BIG:*:London S25:London S26:23000:*:^BIG
 
 COPX:EGBB:*:*:*:*:London S25:London S26:23000:*:^
-COPX:EGBE:*:*:*:*:London S25:London S26:23000:*:^
 COPX:EGNX:*:*:*:*:London S25:London S26:23000:*:^
 
 COPX:EGGD:*:*:BIG:*:London S25:London S26:23000:*:^BIG
@@ -34,9 +32,7 @@ COPX:EGFH:*:*:*:*:London S25:London S26:29000:*:^
 COPX:EGSY:*:*:*:*:London S25:London S26:29000:*:^
 
 COPX:*:*:OCK:EGBB:*:London S25:London S26:*:25000:|OCK
-COPX:*:*:OCK:EGBE:*:London S25:London S26:*:25000:|OCK
 COPX:*:*:OCK:EGNX:*:London S25:London S26:*:25000:|OCK
 
 COPX:AVANT:*:*:EGBB:*:London S25:London S26:*:25000:|HEMEL20
-COPX:AVANT:*:*:EGBE:*:London S25:London S26:*:25000:|HEMEL20
 COPX:AVANT:*:*:EGNX:*:London S25:London S26:*:25000:|HEMEL20
