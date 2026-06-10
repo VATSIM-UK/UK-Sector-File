@@ -1,6 +1,4 @@
 COPX:EGBB:*:*:POL:*:Trent:Sector 29:19000:*:POL25
-COPX:EGBE:*:*:POL:*:Trent:Sector 29:19000:*:POL25
 COPX:EGNX:*:*:POL:*:Trent:Sector 29:19000:*:POL25
 
 COPX:EGBB:*:EVSON:*:*:Trent:Sector 29:19000:*:EVSON5
-COPX:EGBE:*:EVSON:*:*:Trent:Sector 29:19000:*:EVSON5
