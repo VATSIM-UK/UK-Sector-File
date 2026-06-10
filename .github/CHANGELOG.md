@@ -7,7 +7,7 @@
 6. AIRAC (2606) - Updated Liverpool (EGGP) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
 7. AIRAC (2606) - Updated Land's End (EGHC) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
 8. AIRAC (2606) - Updated Stansted (EGSS) runway headings - thanks to @charlieblade18 - (Charlie Horner)
-9. AIRAC (2606) - Revised London City (EGLC) runway headings - @charlieblade18 (Charlie Horner)
+9. AIRAC (2606) - Updated London City (EGLC) runway headings - @charlieblade18 (Charlie Horner)
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
