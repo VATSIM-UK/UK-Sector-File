@@ -9,7 +9,8 @@
 8. AIRAC (2606) - Updated Stansted (EGSS) runway headings - thanks to @charlieblade18 - (Charlie Horner)
 9. AIRAC (2606) - Updated London City (EGLC) runway headings - @charlieblade18 (Charlie Horner)
 10. AIRAC (2606) - Updated Belfast (EGAC) frequencies to 8.33 kHZ - thanks to @charlieblade18 (Charlie Horner)
-x. AIRAC (2605) - Repositioned holding point R3 on Kirkwall (EGPA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+11. AIRAC (2606) - Defined Benson (EGUB) RNP procedures  - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2605) - Repositioned holding point R3 on Kirkwall (EGPA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
