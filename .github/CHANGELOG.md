@@ -23,6 +23,7 @@
 22. AIRAC (2606) - Updated Gloucester (EGBJ) RTF callsign spelling
 23. AIRAC (2606) - Removed East Midlands (EGNX) stands 4 & 31
 24. Bug - Defined Cosford (EGWC) Ground
+25. Procedure Change (2606) - Added City (EGLC) & Biggin (EGKB) LISTO arrivals starting at ODVOD - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
