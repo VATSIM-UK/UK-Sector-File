@@ -11,11 +11,9 @@ COPX:*:*:GIRLI:EGXW:*:Pennine:East:*:26000:GIRLI
 COPX:*:*:GIRLI:EGYD:*:Pennine:East:*:26000:GIRLI
 
 COPX:*:*:RAPUM:EGBB:*:Pennine:East:*:28000:RAPUM
-COPX:*:*:RAPUM:EGBE:*:Pennine:East:*:28000:RAPUM
 COPX:*:*:RAPUM:EGNX:*:Pennine:East:*:28000:RAPUM
 
 COPX:*:*:OMENU:EGBB:*:Pennine:East:*:27000:OMENU
-COPX:*:*:OMENU:EGBE:*:Pennine:East:*:27000:OMENU
 COPX:*:*:OMENU:EGNX:*:Pennine:East:*:27000:OMENU
 
 COPX:*:*:ERKIT:EGSH:*:Pennine:East:*:27000:ERKIT
