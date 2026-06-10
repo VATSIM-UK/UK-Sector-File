@@ -18,6 +18,7 @@
 17. AIRAC (2606) - Updated Newcastle (EGNT) runway headings
 18. AIRAC (2606) - Updated Southampton (EGHI) runway headings
 19. AIRAC (2606) - Updated Stornoway (EGPO) runway headings
+20. AIRAC (2606) - Updated Isle of Man (EGNS) runway headings
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
