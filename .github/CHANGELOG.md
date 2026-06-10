@@ -1,5 +1,29 @@
 # Changes from release 2026/05 to 2026/06
-1. Procedure Change (2606) - Added City (EGLC) & Biggin (EGKB) LISTO arrivals starting at ODVOD - thanks to @Liaely (Lily Unitt)
+1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
+2. AIRAC (2605) - Added midfield apron to Edinburgh (EGPH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+3. AIRAC (2605) - Updated and recoloured Oxford (EGTK) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+4. AIRAC (2605) - Redrew and updated Shoreham (EGKA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+5. AIRAC (2606) - Removed stands 11 and 18 from Norwich (EGSH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+6. AIRAC (2606) - Updated Liverpool (EGGP) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
+7. AIRAC (2606) - Updated Land's End (EGHC) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
+8. AIRAC (2606) - Updated Stansted (EGSS) runway headings - thanks to @charlieblade18 - (Charlie Horner)
+9. AIRAC (2606) - Updated London City (EGLC) runway headings - @charlieblade18 (Charlie Horner)
+10. AIRAC (2606) - Updated Belfast (EGAC) frequencies to 8.33 kHZ - thanks to @charlieblade18 (Charlie Horner)
+11. AIRAC (2606) - Defined Benson (EGUB) RNP procedures  - thanks to @ricky-gag38 (Riccardo Gagliardi)
+12. AIRAC (2605) - Repositioned holding point R3 on Kirkwall (EGPA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
+13. AIRAC (2605) - Added midfield apron to Edinburgh (EGPH) Ground Network - thanks to @ricky-gag38 (Riccardo Gagliardi)
+14. Enhancement - Added Fairford (EGVA) temporary positions for vRIAT - thanks to @danielbutton (Daniel Button)
+15. AIRAC (2606) - Added Heathrow (EGLL) Link 25 Code F centreline
+16. AIRAC (2606) - Updated Leeds Bradford (EGNM) runway headings - thanks to @qorexdevs
+17. AIRAC (2606) - Updated Newcastle (EGNT) runway headings
+18. AIRAC (2606) - Updated Southampton (EGHI) runway headings
+19. AIRAC (2606) - Updated Stornoway (EGPO) runway headings
+20. Enhancement - Added Fairford (EGVA) Restricted Airspace (Temporary) maps for vRIAT - thanks to @danielbutton (Daniel Button)
+21. AIRAC (2606) - Updated Isle of Man (EGNS) runway headings
+22. AIRAC (2606) - Updated Gloucester (EGBJ) RTF callsign spelling
+23. AIRAC (2606) - Removed East Midlands (EGNX) stands 4 & 31
+24. Bug - Defined Cosford (EGWC) Ground
+25. Procedure Change (2606) - Added City (EGLC) & Biggin (EGKB) LISTO arrivals starting at ODVOD - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
