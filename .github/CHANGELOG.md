@@ -5,6 +5,7 @@
 4. AIRAC (2605) - Redrew and updated Shoreham (EGKA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 5. AIRAC (2606) - Removed stands 11 and 18 from Norwich (EGSH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
 6. AIRAC (2606) - Updated Liverpool (EGGP) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
+7. AIRAC (2606) - Updated Land's End (EGHC) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
