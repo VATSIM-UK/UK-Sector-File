@@ -1,3 +1,6 @@
+# Changes from release 2026/06 to 2026/07
+x. Enhancement - Added Boscombe Down (EGDM) SMR - thanks to @danielbutton (Daniel Button)
+
 # Changes from release 2026/05 to 2026/06
 1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
 2. AIRAC (2605) - Added midfield apron to Edinburgh (EGPH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
