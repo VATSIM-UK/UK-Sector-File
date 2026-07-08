@@ -48,4 +48,4 @@ GUEST:B:*:*
 GUEST:BE:*:*
 GUEST:MK:*:*
 GUEST:MN:*:*
-GUEST:MB:*:*
+GUEST:MBR:*:*
