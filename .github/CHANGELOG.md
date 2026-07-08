@@ -1,6 +1,7 @@
 # Changes from release 2026/06 to 2026/07
 1. Procedure Change (2607) - Updated Maastricht (EDYY) Brussels position (KOKSY) logon callsign & controller ID for 2026/07 LoA
 2. Enhancement - Added Boscombe Down (EGDM) SMR - thanks to @danielbutton (Daniel Button)
+3. AIRAC (2607) - Amended Keevil (EGDK) ARP location
 
 # Changes from release 2026/05 to 2026/06
 1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
@@ -28,7 +29,6 @@
 23. AIRAC (2606) - Removed East Midlands (EGNX) stands 4 & 31
 24. Bug - Defined Cosford (EGWC) Ground
 25. Procedure Change (2606) - Added City (EGLC) & Biggin (EGKB) LISTO arrivals starting at ODVOD - thanks to @Liaely (Lily Unitt)
-26. AIRAC (2607) - Amended Keevil (EGDK) ARP per 2607 AMDT
 
 # Changes from release 2026/04a to 2026/05
 1. AIRAC (2604) - Removed Westland (EGHG) GA apron - thanks to @ricky-gag38 (Riccardo Gagliardi)
