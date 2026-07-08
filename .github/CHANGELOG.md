@@ -3,6 +3,7 @@
 2. Enhancement - Added Boscombe Down (EGDM) SMR - thanks to @danielbutton (Daniel Button)
 3. AIRAC (2607) - Amended Keevil (EGDK) ARP location
 4. AIRAC (2607) - Defined Shawbury (EGOS) RNAV MIDs
+5. AIRAC (2607) - Defined Lossiemouth (EGQS) RNP approaches
 
 # Changes from release 2026/05 to 2026/06
 1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
