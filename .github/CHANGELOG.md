@@ -13,7 +13,7 @@
 6. AIRAC (2606) - Updated Liverpool (EGGP) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
 7. AIRAC (2606) - Updated Land's End (EGHC) runway headings - thanks to @Kishore-Nair (Kishore Ravikumar)
 8. AIRAC (2606) - Updated Stansted (EGSS) runway headings - thanks to @charlieblade18 - (Charlie Horner)
-0. AIRAC (2606) - Updated London City (EGLC) runway headings - @charlieblade18 (Charlie Horner)
+9. AIRAC (2606) - Updated London City (EGLC) runway headings - @charlieblade18 (Charlie Horner)
 10. AIRAC (2606) - Updated Belfast (EGAC) frequencies to 8.33 kHZ - thanks to @charlieblade18 (Charlie Horner)
 11. AIRAC (2606) - Defined Benson (EGUB) RNP procedures  - thanks to @ricky-gag38 (Riccardo Gagliardi)
 12. AIRAC (2605) - Repositioned holding point R3 on Kirkwall (EGPA) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
