@@ -3,7 +3,7 @@
 2. Enhancement - Added Boscombe Down (EGDM) SMR - thanks to @danielbutton (Daniel Button)
 3. AIRAC (2607) - Amended Keevil (EGDK) ARP location
 4. AIRAC (2607) - Defined Shawbury (EGOS) RNAV MIDs
-5. AIRAC (2607) - Defined Lossiemouth (EGQS) RNP approaches - thanks to @andrianbalanesq (Andrian Balanescu)
+5. AIRAC (2607) - Defined Lossiemouth (EGQS) RNP approaches
 
 # Changes from release 2026/05 to 2026/06
 1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
@@ -24,7 +24,7 @@
 16. AIRAC (2606) - Updated Leeds Bradford (EGNM) runway headings - thanks to @qorexdevs
 17. AIRAC (2606) - Updated Newcastle (EGNT) runway headings
 18. AIRAC (2606) - Updated Southampton (EGHI) runway headings
-29. AIRAC (2606) - Updated Stornoway (EGPO) runway headings
+19. AIRAC (2606) - Updated Stornoway (EGPO) runway headings
 20. Enhancement - Added Fairford (EGVA) Restricted Airspace (Temporary) maps for vRIAT - thanks to @danielbutton (Daniel Button)
 21. AIRAC (2606) - Updated Isle of Man (EGNS) runway headings
 22. AIRAC (2606) - Updated Gloucester (EGBJ) RTF callsign spelling
