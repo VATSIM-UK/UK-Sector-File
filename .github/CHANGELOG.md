@@ -1,3 +1,6 @@
+# Changes from release 2026/06 to 2026/07
+1. Procedure Change (2607) - Updated Maastricht (EDYY) Brussels position (KOKSY) logon callsign & controller ID for 2026/07 LoA
+
 # Changes from release 2026/05 to 2026/06
 1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
 2. AIRAC (2605) - Added midfield apron to Edinburgh (EGPH) SMR - thanks to @ricky-gag38 (Riccardo Gagliardi)
