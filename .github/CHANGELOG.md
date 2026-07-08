@@ -6,6 +6,7 @@
 5. AIRAC (2607) - Defined Lossiemouth (EGQS) RNP approaches
 6. AIRAC (2607) - Updated Leuchars (EGQL) approach positions - thanks to @Liaely (Lily Unitt)
 7. AIRAC (2607) - Added Scilly Isles/St Mary's (EGHE) holding point B - thanks to @Liaely (Lily Unitt)
+8. AIRAC (2607) - Updated Farnborough (EGLF) SMR labels - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/05 to 2026/06
 1. AIRAC (2606) - Removed Coventry (EGBE) - thanks to @lyraongithub
