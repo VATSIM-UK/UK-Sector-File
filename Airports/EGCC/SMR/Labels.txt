@@ -101,6 +101,7 @@
 "Link 2" N053.21.38.456 W002.16.44.955 smrStandHold
 "Link 3" N053.21.43.665 W002.16.53.263 smrStandHold
 "Link 4" N053.21.49.419 W002.17.03.237 smrStandHold
+"Link 5" N053.21.55.636 W002.17.15.970 smrStandHold
 
 ;Stands
 "1" N053.21.39.103 W002.16.26.464 smrCCstand
