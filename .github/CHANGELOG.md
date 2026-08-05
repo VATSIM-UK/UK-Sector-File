@@ -2,6 +2,7 @@
 1. AIRAC (2608) - Opened Gatwick (EGKK) Link E - thanks to @olivercesarczyk
 2. AIRAC (2608) - Defined new Southern Mil position - thanks to @danielbutton (Daniel Button)
 3. AIRAC (2608) - Updated Prestwick (EGPK) tower frequency - thanks to @lucak1011 (Luca Kulaga)
+4. Bug - FRA D3 alternative ownership bugfixes - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/06 to 2026/07
 1. Procedure Change (2607) - Updated Maastricht (EDYY) Brussels position (KOKSY) logon callsign & controller ID for 2026/07 LoA
