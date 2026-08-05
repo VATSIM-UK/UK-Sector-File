@@ -7,6 +7,7 @@
 6. AIRAC (2608) - Renamed Manchester (EGCC) 23L RNP IF
 7. AIRAC (2608) - Extended Manchester (EGCC) Taxiway D to Link 5 - thanks to @Liaely (Lily Unitt)
 8. Procedure Change (2608) - Updated Newquay (EGHQ) holding points - thanks to @danielbutton (Daniel Button)
+9. Bug - Added missing Newquay (EGHQ) departure waypoints - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2026/06 to 2026/07
 1. Procedure Change (2607) - Updated Maastricht (EDYY) Brussels position (KOKSY) logon callsign & controller ID for 2026/07 LoA
