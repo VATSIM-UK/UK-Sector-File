@@ -185,7 +185,7 @@ The following are abbreviations and should always be written as such in capitals
 - `SID` (Standard Instrument Departure)
 - `SMR` (Surface Movement Radar, but refers to the map upon which it is drawn)
 - `STAR` (Standard Terminal Arrival Route)
-- `STC` (Scottish Terminal Control)
+- `SCL` (Scottish Lower)
 - `TC` (Terminal Control)
 - `TWR` (Tower, referring to the position)
 - `VOR` (VHF Omnidirectional Beacon)
