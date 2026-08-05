@@ -1,5 +1,12 @@
 # Changes from release 2026/07 to 2026/08
-x. Procedure Change (2608) -  Updated Newquay (EGHQ) Holding Points - thanks to @danielbutton (Daniel Button)
+1. AIRAC (2608) - Opened Gatwick (EGKK) Link E - thanks to @olivercesarczyk
+2. AIRAC (2608) - Defined new Southern Mil position - thanks to @danielbutton (Daniel Button)
+3. AIRAC (2608) - Updated Prestwick (EGPK) tower frequency - thanks to @lucak1011 (Luca Kulaga)
+4. AIRAC (2608) - Updated Kirknewton (EGKT) runway designators
+5. AIRAC (2608) - Updated Gloucester (EGBJ) runway designators
+6. AIRAC (2608) - Renamed Manchester (EGCC) 23L RNP IF
+7. AIRAC (2608) - Extended Manchester (EGCC) Taxiway D to Link 5 - thanks to @Liaely (Lily Unitt)
+8. Procedure Change (2608) - Updated Newquay (EGHQ) holding points - thanks to @danielbutton (Daniel Button)
 
 # Changes from release 2026/06 to 2026/07
 1. Procedure Change (2607) - Updated Maastricht (EDYY) Brussels position (KOKSY) logon callsign & controller ID for 2026/07 LoA
