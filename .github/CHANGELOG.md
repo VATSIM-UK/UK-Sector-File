@@ -1,3 +1,6 @@
+# Changes from release 2026/08 to 2026/09
+1. Bug - Corrected agreements for Midlands inbounds from Borders -> PC East -> PC West (S29)
+
 # Changes from release 2026/07 to 2026/08
 1. AIRAC (2608) - Opened Gatwick (EGKK) Link E - thanks to @olivercesarczyk
 2. AIRAC (2608) - Defined new Southern Mil position - thanks to @danielbutton (Daniel Button)
