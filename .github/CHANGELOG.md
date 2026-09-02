@@ -3,6 +3,9 @@
 2. Bug - Corrected agreements for Midlands inbounds from Borders -> PC East -> PC West (S29)
 3. AIRAC (2513) - Updated Leeds (EGNM) SMR stand labels stands 21 - 23
 4. AIRAC (2510) - Updated Luton (EGGW) SMR stand labels stands 10R - 15L
+5. AIRAC (2609) - Removed Leuchars Approach - thanks to @Liaely (Lily Unitt)
+6. AIRAC (2609) - Updated Northolt (EGWU) frequencies (8.33 conversion) - thanks to @Liaely (Lily Unitt)
+7. AIRAC (2609) - Removed Danger Area EGD119 - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/07 to 2026/08
 1. AIRAC (2608) - Opened Gatwick (EGKK) Link E - thanks to @olivercesarczyk
