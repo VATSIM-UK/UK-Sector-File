@@ -1,3 +1,5 @@
+x. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
+
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
 2. Bug - Corrected agreements for Midlands inbounds from Borders -> PC East -> PC West (S29)
