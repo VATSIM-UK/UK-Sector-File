@@ -1,6 +1,6 @@
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2610) - Removed ELREW STAR at Cardiff (EGFF)
-
+2. AIRAC (2610) - Removed ELREW STAR at Bristol (EGGD)
 
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
