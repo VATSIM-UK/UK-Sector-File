@@ -1,3 +1,7 @@
+# Changes from release 2026/09 to 2026/10
+1. AIRAC (2610) - Removed ELREW STAR at Cardiff (EGFF)
+
+
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
 2. Bug - Corrected agreements for Midlands inbounds from Borders -> PC East -> PC West (S29)
