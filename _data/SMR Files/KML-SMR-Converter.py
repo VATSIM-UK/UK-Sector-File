@@ -162,10 +162,31 @@ def convert_kml(kml_file):
             yield "polygon", folder_name, name, points, color
 
 
+def geo_header(kml_file):
+    tree = etree.parse(kml_file)
+    airport_code = Path(kml_file).stem.upper()
+    airport_name = tree.findtext(
+        "./kml:Document/kml:Folder/kml:name",
+        namespaces=KML_NS,
+    )
+
+    if airport_name and airport_name.endswith(" SMR"):
+        airport_name = airport_name[:-4]
+    if not airport_name:
+        airport_name = airport_code
+
+    pseudo_coordinates = (
+        "S999.00.00.000 E999.00.00.000 "
+        "S999.00.00.000 E999.00.00.000"
+    )
+    return f"{airport_code} {airport_name:<22} {pseudo_coordinates}"
+
+
 def write_outputs(kml_file, geo_file, regions_file):
     with open(geo_file, "w", encoding="utf-8") as geo_output, open(
         regions_file, "w", encoding="utf-8"
     ) as regions_output:
+        geo_output.write(f"{geo_header(kml_file)}\n")
         last_geo_folder = None
         last_regions_folder = None
         for geometry_type, folder_name, name, geometry, color in convert_kml(kml_file):
