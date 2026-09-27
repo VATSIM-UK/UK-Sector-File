@@ -9,7 +9,6 @@ KML_NS = {
     "kml": "http://www.opengis.net/kml/2.2"
 }
 
-REGION_NAME = "Heathrow"
 KML_DEFAULT_COLOR = "ffffffff"
 
 
@@ -182,7 +181,7 @@ def geo_header(kml_file):
     return f"{airport_code} {airport_name:<22} {pseudo_coordinates}"
 
 
-def write_outputs(kml_file, geo_file, regions_file):
+def write_outputs(kml_file, geo_file, regions_file, region_name):
     with open(geo_file, "w", encoding="utf-8") as geo_output, open(
         regions_file, "w", encoding="utf-8"
     ) as regions_output:
@@ -213,7 +212,7 @@ def write_outputs(kml_file, geo_file, regions_file):
                 last_regions_folder = folder_name
 
             regions_output.write(
-                f";{name}\nREGIONNAME {REGION_NAME}\n"
+                f";{name}\nREGIONNAME {region_name}\n"
                 f"{color} {geometry[0]}\n"
             )
             for point in geometry[1:]:
@@ -226,6 +225,7 @@ def main(argv=None):
         description="Convert an airport KML file to Geo.txt and Regions.txt."
     )
     parser.add_argument("airport", help="four-character airport code, e.g. EGLL")
+    parser.add_argument("region_name", help="value written after REGIONNAME")
     args = parser.parse_args(argv)
 
     airport_code = args.airport.upper()
@@ -242,6 +242,7 @@ def main(argv=None):
         kml_file,
         airport_directory / "Geo.txt",
         airport_directory / "Regions.txt",
+        args.region_name,
     )
     return 0
 
