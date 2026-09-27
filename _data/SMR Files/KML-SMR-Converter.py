@@ -126,6 +126,13 @@ def convert_kml(kml_file):
             "kml:name",
             namespaces=KML_NS
         )
+        parent = placemark.getparent()
+        folder_name = None
+        while parent is not None:
+            if parent.tag == f"{{{KML_NS['kml']}}}Folder":
+                folder_name = parent.findtext("kml:name", namespaces=KML_NS)
+                break
+            parent = parent.getparent()
 
         # LineString
         lines = placemark.xpath(
@@ -143,20 +150,27 @@ def convert_kml(kml_file):
         for line in lines:
             points = parse_coordinates(line.text)
             color = get_style_color(placemark, "LineStyle", styles, style_maps)
-            yield "line", name, segments(points), color
+            yield "line", folder_name, name, segments(points), color
 
         for polygon in polygons:
             points = parse_coordinates(polygon.text)
             color = get_style_color(placemark, "PolyStyle", styles, style_maps)
-            yield "polygon", name, points, color
+            yield "polygon", folder_name, name, points, color
 
 
 def write_outputs(kml_file, geo_file, regions_file):
     with open(geo_file, "w", encoding="utf-8") as geo_output, open(
         regions_file, "w", encoding="utf-8"
     ) as regions_output:
-        for geometry_type, name, geometry, color in convert_kml(kml_file):
+        last_geo_folder = None
+        last_regions_folder = None
+        for geometry_type, folder_name, name, geometry, color in convert_kml(kml_file):
             if geometry_type == "line":
+                if folder_name != last_geo_folder:
+                    if folder_name:
+                        geo_output.write(f"\n;{folder_name}\n\n")
+                    last_geo_folder = folder_name
+
                 geo_output.write(f";{name}\n")
 
                 for start, end in geometry:
@@ -167,6 +181,11 @@ def write_outputs(kml_file, geo_file, regions_file):
 
             if not geometry:
                 continue
+
+            if folder_name != last_regions_folder:
+                if folder_name:
+                    regions_output.write(f"\n;{folder_name}\n\n")
+                last_regions_folder = folder_name
 
             regions_output.write(
                 f";{name}\nREGIONNAME {REGION_NAME}\n"
