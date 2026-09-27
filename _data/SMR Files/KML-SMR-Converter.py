@@ -1,3 +1,7 @@
+import argparse
+import sys
+from pathlib import Path
+
 from lxml import etree
 
 
@@ -196,5 +200,30 @@ def write_outputs(kml_file, geo_file, regions_file):
             regions_output.write("\n")
 
 
+def main(argv=None):
+    parser = argparse.ArgumentParser(
+        description="Convert an airport KML file to Geo.txt and Regions.txt."
+    )
+    parser.add_argument("airport", help="four-character airport code, e.g. EGLL")
+    args = parser.parse_args(argv)
+
+    airport_code = args.airport.upper()
+    if len(airport_code) != 4 or not airport_code.isalnum():
+        parser.error("airport must be a four-character alphanumeric code")
+
+    airport_directory = Path(__file__).resolve().parent / airport_code
+    kml_file = airport_directory / f"{airport_code}.kml"
+    if not kml_file.is_file():
+        print(f"Warning: KML file not found: {kml_file}", file=sys.stderr)
+        return 1
+
+    write_outputs(
+        kml_file,
+        airport_directory / "Geo.txt",
+        airport_directory / "Regions.txt",
+    )
+    return 0
+
+
 if __name__ == "__main__":
-    write_outputs("./EGLL/EGLL.kml", "Geo.txt", "Regions.txt")
+    raise SystemExit(main())
