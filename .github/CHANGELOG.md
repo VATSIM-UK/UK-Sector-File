@@ -1,3 +1,5 @@
+1.Changed LON_9_CTR frequency from 132.950 to 132.955
+
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
 2. Bug - Corrected agreements for Midlands inbounds from Borders -> PC East -> PC West (S29)
