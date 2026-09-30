@@ -21,3 +21,5 @@
 "12" N050.57.06.850 W001.21.31.950 smrStandHold
 "13" N050.57.13.632 W001.21.28.143 smrStandHold
 "14" N050.57.14.756 W001.21.27.526 smrStandHold
+;Helipad
+"H" N050.56.46.428 W001.21.42.012 smrStandHold
