@@ -1,4 +1,12 @@
-x. AIRAC (2610) - Defined JUGSE, removed ELREW, and updated L6 - thanks to @Liaely (Lily Unitt)
+# Changes from release 2026/09 to 2026/10
+1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
+2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
+3. AIRAC (2610) - Changed LON_9_CTR frequency from 132.950 to 132.955 (8.33 kHz)
+4. AIRAC (2610) - Added Colerne (EGUO) & Colerne Radio - thanks to @Liaely (Lily Unitt)
+5. AIRAC (2610) - Added new runways at Kirknewton (EGKT) - thanks to @Liaely (Lily Unitt)
+6. AIRAC (2610) - Removed ELREW STAR at Bristol (EGGD)
+7. AIRAC (2610) - Removed ELREW STAR at Cardiff (EGFF) & St Athan (EGSY)
+8. AIRAC (2610) - Defined JUGSE, removed ELREW, and updated L6 - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
