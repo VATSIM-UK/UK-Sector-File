@@ -7,6 +7,7 @@
 6. AIRAC (2610) - Removed ELREW STAR at Bristol (EGGD)
 7. AIRAC (2610) - Removed ELREW STAR at Cardiff (EGFF) & St Athan (EGSY)
 8. AIRAC (2610) - Defined JUGSE, removed ELREW, and updated L6 - thanks to @Liaely (Lily Unitt)
+9. AIRAC (2610) - Updated Stansted (EGSS) SIDs - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
