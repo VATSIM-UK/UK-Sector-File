@@ -5,6 +5,7 @@
 4. AIRAC (2610) - Added Colerne (EGUO) & Colerne Radio - thanks to @Liaely (Lily Unitt)
 5. AIRAC (2610) - Added new runways at Kirknewton (EGKT) - thanks to @Liaely (Lily Unitt)
 6. AIRAC (2610) - Removed ELREW STAR at Bristol (EGGD)
+7. AIRAC (2610) - Removed ELREW STAR at Cardiff (EGFF) & St Athan (EGSY)
 
 # Changes from release 2026/08 to 2026/09
 1. AIRAC (2608) - Updated Dublin (EIDW) Approach frequency (8.33 conversion)
