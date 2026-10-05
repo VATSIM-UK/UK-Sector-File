@@ -1,3 +1,6 @@
+# Changes from release 2026/10 to 2026/11
+1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
+
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
 2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
