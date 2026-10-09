@@ -1,3 +1,5 @@
+1. Enhancement - Added additional alternative ownership positions on LTC and SCL - @rhys1573 (Rhys Worlock)
+
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
 2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
