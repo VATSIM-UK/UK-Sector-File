@@ -1,3 +1,5 @@
+1. AIRAC (2612) - Removed MATCH 3B/DET 8B & redesignated SIDs RODNI 2B/3C & OLNEY 3B/3C at Luton (EGGW)
+
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
 2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
