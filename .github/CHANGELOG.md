@@ -1,3 +1,7 @@
+# Changes from release 2026/11 to 2026/12
+1. AIRAC (2612) - Added new Luton (EGGW) SID fixes - thanks to @drenahmeti22 (Dren Ahmeti)
+
+
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
 2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
