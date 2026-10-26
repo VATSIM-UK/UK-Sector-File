@@ -1,5 +1,5 @@
 # Changes from release 2026/10 to 2026/11
-x. AIRAC(2611) - Added new Jersey (EGJJ) SIDs - thanks to @lucak1011 (Luca Kulaga)
+x. AIRAC (2611) - Added new Jersey (EGJJ) SIDs - thanks to @lucak1011 (Luca Kulaga)
 
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
