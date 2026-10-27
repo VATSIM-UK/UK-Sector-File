@@ -1,3 +1,6 @@
+1. AIRAC (2612) - Removed LUT (Luton) NDB and added CAL (Campbeltown) DME - thanks to @rhys1573 (Rhys Worlock)
+1. AIRAC (2612) - Removed LUT-based Luton (EGGW) SIDs DET7C and MATCH2C - thanks to @rhys1573 (Your Name)
+
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
 2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
