@@ -2,6 +2,7 @@
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
 2. Bug - Amended standing agreement altitude at CONKO leaving EGVA/EGVN - thanks to @rhys1573 (Rhys Worlock)
 3. Bug - Corrected position of the Topcliffe ATZ (EGXZ) - thanks to @rhys1573
+4. Enhancement - Amended EuroScope SID preference at Stansted (EGSS) - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
