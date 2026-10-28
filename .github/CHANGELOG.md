@@ -1,5 +1,8 @@
 # Changes from release 2026/10 to 2026/11
-1. Enhancement - Amended EuroScope SID preference at Stansted (EGSS) - thanks to @Liaely (Lily Unitt)
+1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
+2. Bug - Amended standing agreement altitude at CONKO leaving EGVA/EGVN - thanks to @rhys1573 (Rhys Worlock)
+3. Bug - Corrected position of the Topcliffe ATZ (EGXZ) - thanks to @rhys1573
+4. Enhancement - Amended EuroScope SID preference at Stansted (EGSS) - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
@@ -821,7 +824,7 @@
 4. Bug - Corrected Biggin Hill (EGKB) STARs following WAD (removed BEDEK and added SIRIC) - thanks to @hazzas-99
 5. Bug - Fixed Lakes/North Sea Alternative sector ownership for observing/mentoring - thanks to @hazzas-99
 6. Bug - Fixed agreement display: TC NW -> Worthing EGSS/SC deps via AC West FL160 lvl CPT-11 - thanks to @hazzas-99
-7. Bug - Fixed TC SW -> S23 agreement for LL/KK/WU outbounds via DIDZA - thanks to @lennycolton (Lenny Colton)
+7. Bug - Fixed TC SW -> S23 agreement for LL/KK/WU outbounds via DIDZA - thanks to @vatglasses-dev
 8. AIRAC (2304) - Updated Various VRP names - thanks to @kye-taylor (Kye Taylor)
 9. AIRAC (2304) - Added Bristol (EGGD) Stand 18 and renamed stands 13-15 to 14-16 - thanks to @rishab-alt
 10. Enhancement - Added pseudo Clacton ownership to ensure correct agreement display of EGKK/Essex inbounds via BULAM/KEGIT - thanks to @hazzas-99
@@ -955,8 +958,8 @@
 9. Bug - Fixed COPX for LTMA Deps via SITET/XAMAB to Brest (or Paris) - thanks to @hazzas-99
 10. Bug - Fixed Jersey Control COPX function - thanks to @hazzas-99
 11. Bug - Fixed COPX display for EIDW inbounds when LAC Lakes & MPC are split - thanks to @hazzas-99
-12. Enhancement - Added Scottish AC Low position - thanks to @lennycolton (Lenny Colton)
-13. Enhancement - Added Scottish AC Hebrides-Central bandbox position - thanks to @lennycolton (Lenny Colton)
+12. Enhancement - Added Scottish AC Low position - thanks to @vatglasses-dev
+13. Enhancement - Added Scottish AC Hebrides-Central bandbox position - thanks to @vatglasses-dev
 14. Enhancement - Updated Guernsey (EGJB) SMR - thanks to @JamesBayliss-deGruchy (James Bayliss-de Gruchy)
 15. Enhancement - Added Cosford (EGWC) SMR and runway definitions, and updated ARP - thanks to Aiden Ley and @PLM1995 (Peter Mooney)
 16. AIRAC (2210) - Updated Exeter (EGTE) SMR - thanks to @PLM1995 (Peter Mooney)
@@ -1453,7 +1456,7 @@
 33. Bug - Remove all instances of LWC in ownership - thanks to @bbrushfield (William Brushfield)
 34. Bug - Corrected Gatwick (EGKK) APP ownership and COPX for inbounds - thanks to @hazzas-99
 35. Bug - Fixed errors in French sector ownership - thanks to @hazzas-99
-36. Secret Enhancement - Added Backup TC Gatwick (SPT) Frequency - thanks to @lennycolton (Lenny Colton)
+36. Secret Enhancement - Added Backup TC Gatwick (SPT) Frequency - thanks to @vatglasses-dev
 37. Bug - Removed Doncaster (EGCN) Thorpe Marsh VRP - thanks to @P057code (Unknown) and @hazzas-99
 38. Procedure Change - Updated London <-> France agreements to reflect the new LoA - thanks to @hazzas-99
 39. Procedure Change - Added new London position - Daventry Standalone (LON_M_CTR) - thanks to @aeroniemi (Alex Beavil)
@@ -1524,7 +1527,7 @@
 25. Bug - Fix PC STAFA ownerships for MAN_S_CTR - thanks to @cpawley (Chris Pawley)
 26. Enhancement - Improved London City (EGLC) SMR style - thanks to @PLM1995 (Peter Mooney)
 27. AIRAC (2014) - Added Bournemouth (EGHH) 8.33kHz frequencies to doc file - thanks to @PLM1995 (Peter Mooney)
-28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @lennycolton (Lenny Colton)
+28. Bug - Removed references to SEW (Montrose/Tay Bandbox) position - thanks to @vatglasses-dev
 29. AIRAC (2006) - Updated and improved Manchester (EGCC) SMR - thanks to @PLM1995 (Peter Mooney)
 30. Enhancement - Newquay (EGHQ) Standard Routings Added - thanks to @danielbutton (Daniel Button)
 31. Bug - Fixed location of Southend (EGMC) CTA-1 Airspace base label - thanks to @PLM1995 (Peter Mooney)
@@ -1786,7 +1789,7 @@
 10. Procedure Change - Removed S12 -> S10 - EGLL/WU outbounds agreement - thanks to @itsbenny99 (Benjamin Matthews)
 11. Bug - Fixed missing waypoint on ROGAG2A SID from EGCN - thanks to @robbo599 (Lee Roberts)
 12. Procedure Change (2007) - Added PB <-> Moray agreements - thanks to @robbo599 (Lee Roberts)
-13. Enhancement - Added EGKB SDRs - thanks to @lennycolton (Lenny Colton)
+13. Enhancement - Added EGKB SDRs - thanks to @vatglasses-dev
 14. Enhancement - Updated agreements from S28 -> Trent - thanks to @luketp (Luke Peters)
 15. Bug - Corrected Stavanger positions and updated ownership orders - thanks to @luketp (Luke Peters)
 16. Enhancement - Remove unnecessary agreements into EGNV/EGNT - thanks to @kye-taylor (Kye Taylor)
