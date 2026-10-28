@@ -1,5 +1,11 @@
 # Changes from release 2026/10 to 2026/11
-x. AIRAC (2611) - Added new Jersey (EGJJ) STARs - thanks to @lucak1011 (Luca Kulaga)
+1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
+2. Bug - Amended standing agreement altitude at CONKO leaving EGVA/EGVN - thanks to @rhys1573 (Rhys Worlock)
+3. Bug - Corrected position of the Topcliffe ATZ (EGXZ) - thanks to @rhys1573
+4. Enhancement - Amended EuroScope SID preference at Stansted (EGSS) - thanks to @Liaely (Lily Unitt)
+5. AIRAC (2611) - Removed Boscombe Down (EGDM) hanger 8010 - thanks to @rhys1573 (Rhys Worlock)
+6. AIRAC (2611) - Added new Jersey (EGJJ) STARs - thanks to @lucak1011 (Luca Kulaga)
+
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
 2. AIRAC (2609) - Added new holding points and helimed FATO at Southampton (EGHI)
