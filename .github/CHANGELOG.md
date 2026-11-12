@@ -1,3 +1,5 @@
+x. Bug - Fixed incorrectly archived Jersey (EGJJ) SIDs/STARs - thanks to @Liaely (Lily Unitt)
+
 # Changes from release 2026/10 to 2026/11
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
 2. Bug - Amended standing agreement altitude at CONKO leaving EGVA/EGVN - thanks to @rhys1573 (Rhys Worlock)
