@@ -4,6 +4,12 @@ COPX:EGSS:*:*:SAM:*:London S25:London S20:26000:*:^PEPIS
 COPX:EGSC:*:*:SAM:*:London S25:London S20:26000:*:^PEPIS
 COPX:EGMC:*:*:SAM:*:London S25:London S20:26000:*:^PEPIS
 
+COPX:EGBB:*:*:EXARO:*:London S25:London S20:26000:*:^PEPIS
+COPX:EGNX:*:*:EXARO:*:London S25:London S20:26000:*:^PEPIS
+COPX:EGSS:*:*:EXARO:*:London S25:London S20:26000:*:^PEPIS
+COPX:EGSC:*:*:EXARO:*:London S25:London S20:26000:*:^PEPIS
+COPX:EGMC:*:*:EXARO:*:London S25:London S20:26000:*:^PEPIS
+
 COPX:EGBB:*:*:*:*:London S25:London S20:26000:*:^
 COPX:EGNX:*:*:*:*:London S25:London S20:26000:*:^
 COPX:EGSS:*:*:*:*:London S25:London S20:26000:*:^
