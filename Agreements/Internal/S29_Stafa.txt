@@ -1,5 +1,3 @@
-COPX:*:*:NUGRA:EGNX:*:Sector 29:Stafa:*:20000:NUGRA20 ;Not SRD-compliant
-
 COPX:*:*:NOKIN:EGBB:*:Sector 29:Stafa:*:20000:NOKIN
 COPX:*:*:NOKIN:EGNX:*:Sector 29:Stafa:*:20000:NOKIN
 
@@ -8,3 +6,5 @@ COPX:*:*:MCT:EGNX:*:Sector 29:Stafa:*:20000:MCT
 
 ;Not SRD-compliant
 COPX:WAL:*:*:EGBB:*:Sector 29:Stafa:*:20000:CREWE25
+
+COPX:*:*:NUGRA:EGNX:*:Sector 29:Stafa:*:20000:NUGRA20
