@@ -14,7 +14,7 @@ jobs:
 
       - name: Download Compiler
         run: |
-          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64
+          curl -L --output compiler https://github.com/VATSIM-UK/sector-file-compiler/releases/download/1.17.1/cli-linux-x64
           chmod +x ./compiler
 
       - name: Validate
