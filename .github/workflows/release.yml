@@ -29,7 +29,7 @@ jobs:
     - name: Download Compiler
       run: |
         echo "⬇️ Downloading compiler"
-        curl -L --output compiler "https://github.com/VATSIM-UK/sector-file-compiler/releases/latest/download/cli-linux-x64" || {
+        curl -L --output compiler "https://github.com/VATSIM-UK/sector-file-compiler/releases/download/1.17.1/cli-linux-x64" || {
           echo "❌ Compiler download failed"; exit 1;
         }
         chmod +x ./compiler || { echo "❌ Failed to make compiler executable"; exit 1; }
