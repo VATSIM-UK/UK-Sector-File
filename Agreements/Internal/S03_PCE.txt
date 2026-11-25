@@ -1,0 +1,2 @@
+COPX:MAMUL:*:*:EGNT:*:London S03:East:*:29000:|
+COPX:MAMUL:*:*:EGNV:*:London S03:East:*:29000:|
