@@ -2,6 +2,7 @@
 1. AIRAC (2612) - Split Aberdeen (EGPD) CTA 3 - thanks to @PLM1995
 2. AIRAC (2612) - Added Aberdeen (EGPD) RNP fixes'
 3. AIRAC (2612) - Revised Luton (EGGW) SIDs - MATCH/DET RWY 25 conventional SIDs deprecated; 5LNCs added to RODNI & OLNEY SIDs
+4. Bug - Fixed incorrectly archived Jersey (EGJJ) SIDs/STARs - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2026/10 to 2026/11
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
