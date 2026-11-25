@@ -5,7 +5,7 @@ COPX:EGGW:*:BRAIN:*:*:London TC NE:London TC DAGGA:15000:*:^BRAIN
 COPX:EGLL:*:MATCH:DIGSU:*:London TC NE:London TC DAGGA:15000:*:^DIGSU
 COPX:EGWU:*:MATCH:DIGSU:*:London TC NE:London TC DAGGA:15000:*:^DIGSU
 
-;Pre AIRAC 1813 Routings/Agreements
+;Fallback via CLN
 COPX:EGLL:*:*:CLN:*:London TC NE:London TC DAGGA:15000:*:^CLN
 COPX:EGWU:*:*:CLN:*:London TC NE:London TC DAGGA:15000:*:^CLN
 COPX:EGGW:*:*:CLN:*:London TC NE:London TC DAGGA:15000:*:^CLN
