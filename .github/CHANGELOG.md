@@ -6,6 +6,7 @@
 5. AIRAC (2612) - Defined Culdrose (EGDR) RNP approaches - thanks to @Liaely (Lily Unitt)
 6. Enhancement - Significant tidy up of Standing Agreement display (COPX lines) to reflect vMATS/ALDs
 7. Enhancement - Added additional alternative ownership positions on LTC and SCL - @rhys1573 (Rhys Worlock)
+8. Bug - Fixed French APP position recognition, ownership and agreement (COPX) display, particularly Rennes LFRN
 
 # Changes from release 2026/10 to 2026/11
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995

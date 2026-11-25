@@ -94,14 +94,14 @@ LFRR_WU_CTR:Brest Control:133.615:BRWU:C:LFRR:CTR:-:-:5640:5657
 
 ;France - Lower APP Units
 
-LFRB_I_APP:Iroise Approach:119.575:RBIR:C:LFRB:APP::::
-LFRB_APP:Iroise Approach:125.860:RBR:C:LFRB:APP::::
+LFRB_APP:Iroise Approach:125.860:RBA:C:LFRB:APP::::
 
-LFRN_C_APP:Rennes Approach:134.200:RNCR:C:LFRN:APP::::
-LFRN_N_APP:Rennes Approach:126.950:RNNR:C:LFRN:APP::::
-LFRN_APP:Rennes Approach:134.000:RNR:C:LFRN:APP::::
+LFRN_JC_APP:Rennes Approach:134.200:RNJC:C:LFRN:APP::::
+LFRN_JD_APP:Rennes Approach:120.350:RNJD:C:LFRN:APP::::
+LFRN_DD_APP:Rennes Approach:126.950:RNDD:C:LFRN:APP::::
+LFRN_APP:Rennes Approach:134.000:RNA:C:LFRN:APP::::
 
-LFQQ_APP:Lille Approach:126.480:QQR:C:LFQQ:APP::::
+LFQQ_QE_APP:Lille Approach:126.480:QQA:C:LFQQ:APP::::
 
 ;Shannon
 EISN_CTR:Shannon Control:134.260:SNE:E:EISN:CTR:-:-:6600:6677
