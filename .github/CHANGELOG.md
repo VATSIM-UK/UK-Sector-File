@@ -5,6 +5,7 @@
 4. Bug - Fixed incorrectly archived Jersey (EGJJ) SIDs/STARs - thanks to @Liaely (Lily Unitt)
 5. AIRAC (2612) - Defined Culdrose (EGDR) RNP approaches - thanks to @Liaely (Lily Unitt)
 6. Enhancement - Significant tidy up of Standing Agreement display (COPX lines) to reflect vMATS/ALDs
+7. Enhancement - Added additional alternative ownership positions on LTC and SCL - @rhys1573 (Rhys Worlock)
 
 # Changes from release 2026/10 to 2026/11
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
