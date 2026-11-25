@@ -1,3 +1,6 @@
+# Changes from release 2026/11 to 2026/12
+1. AIRAC (2611) - Revised Luton (EGGW) SIDs - MATCH/DET RWY 25 conventional SIDs deprecated; 5LNCs added to RODNI & OLNEY SIDs
+
 # Changes from release 2026/10 to 2026/11
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
 2. Bug - Amended standing agreement altitude at CONKO leaving EGVA/EGVN - thanks to @rhys1573 (Rhys Worlock)
