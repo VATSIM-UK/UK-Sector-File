@@ -1,17 +1,17 @@
-COPX:*:*:BEL:EIDW:*:Rathlin:Antrim:*:26000:BEL
-COPX:*:*:BEL:EIWT:*:Rathlin:Antrim:*:26000:BEL
-COPX:*:*:BEL:EIME:*:Rathlin:Antrim:*:26000:BEL
+COPX:*:*:BELZU:EIDW:*:Rathlin:Antrim:*:26000:BELZU
+COPX:*:*:BELZU:EIWT:*:Rathlin:Antrim:*:26000:BELZU
+COPX:*:*:BELZU:EIME:*:Rathlin:Antrim:*:26000:BELZU
 
-COPX:TRN:*:*:EIDW:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EIWT:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EIME:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EIDW:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EIWT:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EIME:*:Rathlin:Antrim:*:26000:|
 
-COPX:TRN:*:*:EGPH:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EGPF:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EGPK:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EGPN:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EGPG:*:Rathlin:Antrim:*:26000:|TRN
-COPX:TRN:*:*:EGQL:*:Rathlin:Antrim:*:26000:|TRN
+COPX:TRN:*:*:EGPH:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EGPF:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EGPK:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EGPN:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EGPG:*:Rathlin:Antrim:*:26000:|
+COPX:TRN:*:*:EGQL:*:Rathlin:Antrim:*:26000:|
 
 COPX:*:*:*:EGAA:*:Rathlin:Antrim:*:26000:|
 COPX:*:*:*:EGAC:*:Rathlin:Antrim:*:26000:|

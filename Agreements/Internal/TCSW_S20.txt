@@ -1,0 +1,33 @@
+COPX:EGLL:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGWU:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGKK:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGGW:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTK:*:SAM:*:*:London TC SW:London S20:15000:*:^SAM
+
+COPX:EGLL:*:EXARO:*:*:London TC SW:London S20:15000:*:^EXARO
+
+;EGWU and EGGW outbounds are also permitted to route via EXARO so need a standing agreement from TC S in case held down
+COPX:EGWU:*:EXARO:*:*:London TC SW:London S20:15000:*:^EXARO
+COPX:EGGW:*:EXARO:*:*:London TC SW:London S20:15000:*:^EXARO
+
+;EGLF and Wessex Group outbounds need a FIXAFTER specified as northbounds to TC North also route via SAM
+COPX:EGLF:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGLK:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTF:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGVO:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGHL:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTD:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+
+COPX:EGLF:*:SAM:LELNA:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGLK:*:SAM:LORKU:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTF:*:SAM:LORKU:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGVO:*:SAM:LORKU:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGHL:*:SAM:LORKU:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTD:*:SAM:LORKU:*:London TC SW:London S20:15000:*:^SAM
+
+COPX:EGLF:*:SAM:ADKIK:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGLK:*:SAM:ADKIK:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTF:*:SAM:ADKIK:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGVO:*:SAM:ADKIK:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGHL:*:SAM:ADKIK:*:London TC SW:London S20:15000:*:^SAM
+COPX:EGTD:*:SAM:ADKIK:*:London TC SW:London S20:15000:*:^SAM
