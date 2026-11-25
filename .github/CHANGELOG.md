@@ -4,6 +4,7 @@
 3. AIRAC (2612) - Revised Luton (EGGW) SIDs - MATCH/DET RWY 25 conventional SIDs deprecated; 5LNCs added to RODNI & OLNEY SIDs
 4. Bug - Fixed incorrectly archived Jersey (EGJJ) SIDs/STARs - thanks to @Liaely (Lily Unitt)
 5. AIRAC (2612) - Defined Culdrose (EGDR) RNP approaches - thanks to @Liaely (Lily Unitt)
+6. Enhancement - Significant tidy up of Standing Agreement display (COPX lines) to reflect vMATS/ALDs
 
 # Changes from release 2026/10 to 2026/11
 1. Enhancement - Standardise Shoreham (EGKA) Approach callsign - thanks to @PLM1995
@@ -13,7 +14,6 @@
 5. AIRAC (2611) - Removed Boscombe Down (EGDM) hanger 8010 - thanks to @rhys1573 (Rhys Worlock)
 6. AIRAC (2611) - Added new Jersey (EGJJ) STARs - thanks to @lucak1011 (Luca Kulaga)
 7. AIRAC (2611) - Added new Jersey (EGJJ) SIDs - thanks to @lucak1011 (Luca Kulaga)
-8. Enhancement - Significant tidy up of Standing Agreement display (COPX lines) to reflect vMATS/ALDs
 
 # Changes from release 2026/09 to 2026/10
 1. AIRAC (2609) - Added new Cumbernauld (EGPG) RNP fixes - thanks to @lyraongithub
